@@ -178,7 +178,8 @@ Contact the Government-wide IT Accessibility Program team for more information a
 
 ## Downloads
 * <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" download="Accessibility Risk Input Template.xlsx" target="_blank" class="usa-link--external">Accessibility risk input template (XLSX)</a>
-* <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" download="Example Accessibility Risk Factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLS)</a>
+* <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" download="Example Accessibility Risk Factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLSX)</a>
 * <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
+
