@@ -16,9 +16,19 @@ audience:
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 created: 2018-05-22
-updated: 2025-12-08
+updated: 2026-02-24
 ---
 The information on this page includes available resources and captioned text files 
+
+## 2026
+### IT Accessibility Community Meetings
+#### February 24, 2026
+The Government-wide IT Accessibility Program presents new guidance to help agencies bridge the gap between “finding bugs” and managing compliance risks. Instead of viewing accessibility as an endless checklist, participants learn to apply a Risk Management Framework to Information and Communication Technology (ICT). The focus moves beyond simply identifying conformance issues to supporting teams in strategically assessing the risks of inaccessible ICT and identifying ways to mitigate those risks.
+
+Attendees gain practical takeaways on how to translate clear test results and known conformance issues into a remediation roadmap with defined ownership and timelines, understand and apply available Accessibility Risk Management Framework tools and templates to analyze ICT accessibility risk within their organization, and use a risk-scoring matrix to assess severity and prioritize actions to address those risks.
+
+Downloads:
+* <a href="{{ site.baseurl }}/assets/files/ICT-Accessibility-Risk-Asessment-Framework-(ITACM).pptx" download="ICT Accessibility Risk Asessment Framework (ITACM).pptx" target="_blank" class="usa-link--external">ICT Accessibility Risk Asessment Framework (ITACM) (PPTX)</a>
 
 ## 2025
 ### IT Accessibility Community Meetings
@@ -155,4 +165,4 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/assets/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: December 2025
+**Reviewed/Updated**: February 2026
