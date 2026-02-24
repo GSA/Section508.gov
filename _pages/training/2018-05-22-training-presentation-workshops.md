@@ -28,7 +28,7 @@ The Government-wide IT Accessibility Program presents new guidance to help agenc
 Attendees gain practical takeaways on how to translate clear test results and known conformance issues into a remediation roadmap with defined ownership and timelines, understand and apply available Accessibility Risk Management Framework tools and templates to analyze ICT accessibility risk within their organization, and use a risk-scoring matrix to assess severity and prioritize actions to address those risks.
 
 Downloads:
-* <a href="{{ site.baseurl }}/assets/files/ICT-Accessibility-Risk-Asessment-Framework-(ITACM).pptx.pptx" download="ICT Accessibility Risk Asessment Framework (ITACM).pptx" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
+* <a href="{{ site.baseurl }}/assets/files/ICT-Accessibility-Risk-Asessment-Framework-(ITACM).pptx" download="ICT Accessibility Risk Asessment Framework (ITACM).pptx" target="_blank" class="usa-link--external">ICT Accessibility Risk Asessment Framework (ITACM) (PPTX)</a>
 
 ## 2025
 ### IT Accessibility Community Meetings
