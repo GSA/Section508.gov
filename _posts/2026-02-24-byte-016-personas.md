@@ -16,7 +16,7 @@ created: 2026-02-24
 
 These semi-fictional characters, called personas, are primarily used in the research and design phase of a project to ensure that the user experience — including equivalent access to information for people with disabilities — is considered for a service, product, or website. 
 
-<div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-016-figure-1.jpg" alt="UX Persona template with attributes for personality, motivations, needs and technology." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1"></div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1: </strong>Generic UX Persona template with attributes for personality, motivations, needs and technology.</span>
    </div>
@@ -39,12 +39,12 @@ These semi-fictional characters, called personas, are primarily used in the rese
           <strong>Frustrations</strong>: Unable to determine what information is being asked by a form, difficulty reading charts due to missing labels, images that do not have description, things are out of order when navigating with a screen reader.  <br>
           <strong>Quote</strong>: “If it's not properly labeled, I can only make a best guess as to what's on the screen.”  <br>
           <strong>Design Considerations</strong>:
-          <ul>
-            <li>Ensure semantic HTML and ARIA labels for form fields.</li> 
-            <li>Provide Section 508 conformant data visualizations with text equivalents.</li> 
-            <li>Support keyboard and screen reader navigation.</li>
-          </ul>
         </p>
+        <ul>
+           <li>Ensure semantic HTML and ARIA labels for form fields.</li> 
+           <li>Provide Section 508 conformant data visualizations with text equivalents.</li> 
+           <li>Support keyboard and screen reader navigation.</li>
+        </ul>  
       </div>
     </div>
   </li>
