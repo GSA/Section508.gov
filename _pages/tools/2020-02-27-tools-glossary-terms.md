@@ -934,7 +934,7 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="persona">Persona</th>
     <td>A semi‑fictional character representing a group of users, built from real research data. In the context of Section 508 and digital accessibility, a persona captures not just demographics but how a user interacts with technology — including any assistive tools, their goals, frustrations, and needs. Personas are used during the research and design phases to help teams understand various user needs (including users with disabilities) and to guide development so that services, products, or websites are accessible and inclusive.</td>
-  </tr>tr>
+  </tr>
   <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>
     <td>Services provided by a platform that enables interoperability with assistive technology. Examples include Application Programming Interfaces (API) and the Document Object Model (DOM).</td>
