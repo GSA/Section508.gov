@@ -14,7 +14,7 @@ created: 2026-02-24
 ---
 <h2 style="line-height:1.2;">Did you know that you can use semi-fictional characters that portray an individual or group of users to improve the design, development and accessibility of your agency’s electronic information or digital service?</h2>
 
-These semi-fictional characters, called personas, are primarily used in the research and design phase of a project to ensure that the user experience — including equivalent access to information for people with disabilities — is considered for a service, product, or website. 
+These semi-fictional characters, called [_personas_]({{ site.baseurl }}/tools/glossary/#personas), are primarily used in the research and design phase of a project to ensure that the user experience — including equivalent access to information for people with disabilities — is considered for a service, product, or website. 
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-016-figure-1.jpg" alt="UX Persona template with attributes for personality, motivations, needs and technology." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1"></div>
