@@ -10,7 +10,7 @@ start-date: 2026-05-21 #only fill in start date if the events spans multiple day
 end-date: 2026-05-22 #otherwise use end-date
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 created: 2014-01-01
-updated: 2026-02-18
+updated: 2026-02-25
 exclude-changelog: true
 --- 
 <p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
@@ -19,7 +19,7 @@ exclude-changelog: true
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §§ 794d and 794d-1).
 
 ## 2026 IAAF
-The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Future-Ready Accessibility: Preparing Government for What's Next**, will be held on Thursday, May 20 and Friday, May 21, 2026. The event will be a hybrid event, offering limited in-person attendance at the GSA Headquarters building, along with virtual attendance for those unable to join us in-person. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies. 
+The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Future-Ready Accessibility: Preparing Government for What's Next**, and will be held on Thursday, May 20 and Friday, May 21, 2026. The event will be a hybrid event, offering limited in-person attendance at the GSA Headquarters building, along with virtual attendance for those unable to join us in-person. IAAF is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies. 
 
 <img src="https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/iaaf-20226/assets/images/iaaf-date-card-2026.png" alt="Event dates: May 21 and 22" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
