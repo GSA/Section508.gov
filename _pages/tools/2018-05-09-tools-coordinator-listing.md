@@ -200,13 +200,11 @@ Fariba Beg - <fariba.beg.civ@mail.mil>
 Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
-Add Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
+Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
-DLA Helpdesk - <508compliance@dla.mil>
-### Defense Media Activity (DMA)
-Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
+DLA Helpdesk - <508compliance@dla.mil>      
 ### Defense Microelectronics Activity (DMEA)  
 David Elliot - <david.s.elliott24.civ@mail.mil>  
 Kevin Butters - <kevin.f.butters.civ@mail.mil>  
@@ -219,7 +217,9 @@ Joshua Myerson - <joshua.b.myerson.civ@mail.mil>
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Paul St. John - <paul.m.stjohn.civ@mail.mil>  
+Paul St. John - <paul.m.stjohn.civ@mail.mil> 
+### Department of War Information Activity (DWIA)
+La Toya Rose - <latoya.v.rose.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
 Tom Hicks – <thomas.hicks@mda.mil>
 ### National Defense University (NDU)
@@ -235,7 +235,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** <br>Christopher Julka - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** <br>Bruce Shea - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command (NAVAIR)** <br>Andrea Simonelli - <andrea.l.simonelli.civ@us.navy.mil><br>Ashley Lynch (Deputy)- <ashley.n.lynch9.civ@us.navy.mil>  
+  * **Naval Air Systems Command (NAVAIR)** <br>Andrea Simonelli - <andrea.l.simonelli.civ@us.navy.mil><br>Danny Snydeman -  <daniel.p.snydeman.civ@us.navy.mil>    
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
