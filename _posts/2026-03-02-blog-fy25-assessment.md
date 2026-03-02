@@ -19,7 +19,7 @@ format: "HTML (html)"
 created: 2026-03-02
 ---
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px" style="float:right;">
-   <div class="margin-top-1"><a href="{{site.baseurl}}/2025-congressional-report/"><img src="{{site.baseurl}}/assets/images/assessment/fy25/fy25-cover.jpg" alt="FY 2025 Governmentwide Section 508 Assessment cover and link to report" class="border-2px border-base-light shadow-2 padding-1 margin-top-2 margin-left-2" style="width:12rem;"></a>
+   <div class="margin-top-1"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/message-from-gsa-administrator/"><img src="{{site.baseurl}}/assets/images/assessment/fy25/fy25-cover.jpg" alt="FY 2025 Governmentwide Section 508 Assessment cover and link to report" class="border-2px border-base-light shadow-2 padding-1 margin-top-2 margin-left-2" style="width:12rem;"></a>
    </div>
 </div>
 
