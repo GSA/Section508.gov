@@ -131,6 +131,8 @@ manage:
             url: manage/roles/attain-section-508-testing-expertise/
           - name: Section 508 Position Descriptions
             url: manage/roles/section-508-position-descriptions/
+          - name: Section 508 PM Competency Guide
+            url: manage/roles/section-508-pm-compentency-guide/
           - name: Section 508 Program Team Roles and Responsibilities
             url: manage/section-508-program-team-roles-and-responsibilities/
       - name: Practical Reasons for Digital Accessibility
@@ -192,10 +194,10 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook/12/
       - name: Executive Guide to Federal IT Accessibility
         url: manage/playbooks/exec-guide-accessibility/
-  - name: Annual Section 508 Assessment
-    url: manage/section-508-assessment/
   - name: Agency Section 508 Reporting Requirements
     url: manage/agency-508-reporting-requirements/
+  - name: Annual Section 508 Assessment
+    url: manage/section-508-assessment/
   - name: ICT Accessibility Frequently Asked Questions
     url: manage/accessibility-faq/
 training:
@@ -809,3 +811,58 @@ report2024:
     url: 'manage/section-508-assessment/2024/appendix-d-doj-addendum/'
   - name: 'Assessment Data & Downloads'
     url:  'manage/section-508-assessment/2024/assessment-data-downloads/'
+# Custom SideNav for Each Accessibility Report to Congress
+report2025:
+  - name: 'Message from the GSA Administrator'
+    url: 'manage/section-508-assessment/2025/message-from-gsa-administrator/'
+  - name: 'Executive Summary'
+    url: 'manage/section-508-assessment/2025/executive-summary/'
+  - name: 'Introduction and Background'
+    url: 'manage/section-508-assessment/2025/introduction/'
+  - name: 'GSA Efforts to Improve Section 508 Compliance'
+    url: '#'            
+    children:
+      - name: 'Recent Efforts'
+        url: 'manage/section-508-assessment/2025/gsa-efforts-recent/'
+      - name: 'Upcoming Efforts'
+        url: 'manage/section-508-assessment/2025/gsa-efforts-upcoming/'
+  - name: Governmentwide Findings
+    url: '#'
+    children:
+      - name: 'Findings Summary'
+        url: 'manage/section-508-assessment/2025/findings/'
+      - name: 'Accessibility Conformance Outcomes'
+        url: '#'
+        grandchildren:
+          - name: 'Conformance'
+            url: 'manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/'
+          - name: Tested ICT
+            url: 'manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/tested-ict/' 
+          - name: Top Viewed ICT
+            url: 'manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/top-viewed-ict/'
+      - name: 'Accessibility Implementation Outcomes'
+        url: '#'    
+        grandchildren:
+          - name: 'Implementation'
+            url: 'manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/'
+          - name: 'Acquisition and Procurement'
+            url: 'manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/acquisition-and-procurement/'          
+          - name: 'Testing and Remediation'
+            url: 'manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/testing-and-remediation/'
+      - name: 'Section 508 Management'
+        url: 'manage/section-508-assessment/2025/findings/section-508-management/'
+  - name: Recommendations
+    url: 'manage/section-508-assessment/2025/recommendations/'
+  - name: 'Agency Summary Reports'
+    url: 'manage/section-508-assessment/2025/agency-summary-reports/'
+  - name: 'Appendix A: Methods'
+    url: 'manage/section-508-assessment/2025/appendix-a/'
+  - name: 'Assessment Data & Downloads'
+    url:  'manage/section-508-assessment/2025/assessment-data-downloads/'
+  - name: 'Terms, Definitions, and Acronyms'
+    url: '#'            
+    children:
+      - name: 'Terms and Definitions'
+        url: 'tools/glossary/'
+      - name: 'Acronyms List'
+        url: 'tools/acronyms-abbreviations/'

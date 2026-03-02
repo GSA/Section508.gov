@@ -1,0 +1,2377 @@
+---
+layout: page
+sidenav: false
+type: report2025
+title: "Agency-Specific Summary Report"
+permalink: manage/section-508-assessment/2025/summary-reports-by-agency/
+description: The FY 2025 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents self-reported data by agencies and components, with no independent validation applied.
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
+created: 2026-02-24
+updated: 2026-03-02
+exclude-changelog: true
+---
+<div class="grid-row padding-x-auto margin-top-neg-1 margin-bottom-2 margin-right-neg-1px" id="agency-banner">
+  <div class="tablet:grid-col-auto display-flex flex-align-center padding-x-2 margin-y-1">
+    <img id="agency-seal" src="" height="100" alt="">
+  </div>
+  <div class="tablet:grid-col-fill display-flex flex-align-center padding-x-2 margin-y-1">
+    <h2 id="agency-name" class="margin-y-0 text-primary-dark"></h2>
+  </div>
+</div>
+
+
+<!-- BEGIN NO AGENCY DATA SUBMITTED -->
+<div id="agency-data-not-submitted" style="display: none;">
+  <div class="border-right-1 padding-2 margin-y-5" style="background-color:#fef2ff; border-color:#481441;">
+    <div class="callout-box-img font-sans-3xl">
+      <svg class="usa-icon violet-warm-70v" aria-hidden="true" focusable="false" role="img">
+        <use href="/assets/img/sprite.svg#assessment"></use>
+      </svg>
+    </div>
+    <div class="callout-box-text"><h3>Did Not Submit</h3> Agencies listed in 
+      <a href="https://www.whitehouse.gov/wp-content/uploads/2025/08/a11.pdf#page=715" target="_blank" class="usa-link--external">OMB Circular A-11 Appendix C</a> 
+      were provided the opportunity to submit their FY 2025 Section 508 Assessment. No submission was received from this agency.
+    </div>
+  </div>
+</div>
+<!-- END DATA NOT SUBMITTED -->
+
+<!-- BEGIN DATA SUBMITTED --> 
+<div id="agency-data-submitted">
+  <div class="grid-row grid-gap margin-bottom-3">
+    <!-- BEGIN LEFT -->
+    <div class="grid-col-12 tablet:grid-col-7">    
+      <!-- ROW 1 -->
+      <div class="grid-col-12 margin-bottom-2">
+        <ul class="usa-icon-list width-full">
+          <li id="agency-program-type-container" class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
+            <div class="usa-icon-list__content"><strong>Department or Agency size:</strong> <span id="agency-size"></span></div>
+          </li>
+          <li class="usa-icon-list__item no-components">
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
+            <div class="usa-icon-list__content"><strong>Total number of reporting components:</strong> <span id="reporting-components"></span></div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
+            </div>
+            <div class="usa-icon-list__content"><strong>Type of Section 508 program:</strong> <span id="program-type"></span>
+              <table id="table-1" class="usa-table usa-table--striped usa-table--borderless width-full">
+                <caption>Table 1: Centralized activities at the Department or Agency</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Activity</th>
+                    <th class="text-center" scope="col">Centralized at the Department or Agency?</th>
+                    <th class="text-center no-components" scope="col">Number of Components That Perform the Activity</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Acquisition and Procurement</th>
+                    <td class="text-center" id="acq-central"></td>
+                    <td class="text-center no-components" id="acq-comps-central"></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">ICT Remediation</th>
+                    <td class="text-center" id="rem-central"></td>
+                    <td class="text-center no-components" id="rem-comps-central"></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Section 508 Complaint Process</th>
+                    <td class="text-center" id="complaint-central"></td>
+                    <td class="text-center no-components" id="complaint-comps-central"></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Testing</th>
+                    <td class="text-center" id="testing-central"></td>
+                    <td class="text-center no-components" id="testing-comps-central"></td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Training</th>
+                    <td class="text-center" id="training-central"></td>
+                    <td class="text-center no-components" id="training-comps-central"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- END LEFT -->
+    <!-- BEGIN RIGHT: grid-col-4 spanning all rows -->
+    <div class="grid-col-12 tablet:grid-col-5">
+      <div class="display-flex" style="min-height: 547px;">
+        <div id="spotlight" class="border-left-1 padding-2 margin-bottom-2 text-white flex-1" style="background-color:#481441; border-color:#f4b2ff; border-bottom-right-radius: 25px;">
+          <!-- GRID -->
+          <h3 id="accessibility-outcomes" class="margin-top-0 margin-bottom-1">Accessibility Outcomes</h3>
+          <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
+            <div class="margin-top-1"><img src="" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+            </div>
+            <div class="font-mono-3xs margin-x-auto auto" style="max-width: 98%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Agency outcomes grid</span>
+            </div>
+          </div>
+          <!-- OUTCOMES -->
+            <div class="margin-top-3">
+              <ul class="usa-icon-list width-full">
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-white"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
+                  <div class="usa-icon-list__content"><strong>Accessibility Implementation:</strong> <span id="outcome-implementation"></span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-white"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
+                  <div class="usa-icon-list__content"><strong>Accessibility Conformance:</strong> <span id="outcome-conformance"></span></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+    <!-- END RIGHT -->
+
+
+  <table id="table-2" class="usa-table usa-table--striped usa-table--borderless margin-top-6 margin-bottom-6 width-full page-break-before">
+    <caption>Table 2: Federal Accessibility Focus Areas</caption>
+    <thead>
+      <tr>
+        <th scope="col">Factor</th>
+        <th scope="col" class="text-center">Agency Level of Performance</th>
+        <th scope="col" class="no-components text-center"># of Components Performing Above Department</th>
+        <th scope="col" class="no-components text-center"># of Components Performing Below Department</th>
+        <th scope="col">Recommendations</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Policy Integration</th>
+        <td id="policy-agency" class="text-center"></td>
+        <td id="policy-comps-above" class="no-components text-center"></td>
+        <td id="policy-comps-below" class="no-components text-center"></td>
+        <td id="policy-recs"></td>
+      </tr>
+      <tr>
+        <th scope="row">Acquisition &amp; Procurement</th>
+        <td id="acq-agency" class="text-center"></td>
+        <td id="acq-comps-above" class="no-components text-center"></td>
+        <td id="acq-comps-below" class="no-components text-center"></td>
+        <td id="acq-recs"></td>
+      </tr>
+      <tr>
+        <th scope="row">Testing and Remediation</th>
+        <td id="test-agency" class="text-center"></td>
+        <td id="test-comps-above" class="no-components text-center"></td>
+        <td id="test-comps-below" class="no-components text-center"></td>
+        <td id="test-recs"></td>
+      </tr>
+      <tr>
+        <th scope="row">Accessibility Conformance</th>
+        <td id="conf-agency" class="text-center"></td>
+        <td class="no-components text-center">N/A</td>
+        <td class="no-components text-center">N/A</td>
+        <td id="conf-recs"></td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- KEY BUSINESS FUNCTIONS - AGENCY -->
+  <div id="integration-agency" class="callout-box-bottom-left-violet-light padding-1 margin-y-4" style="width: auto;">
+    <div class="callout-box-img font-sans-3xl">
+      <svg class="usa-icon violet-warm-70v" aria-hidden="true" focusable="false" role="img">
+        <use href="/assets/img/sprite.svg#settings"></use>
+      </svg>
+    </div>
+    <div class="callout-box-text">
+      <h2 id="level-of-integration-agency">Level of ICT Accessibility Integration in Key Business Functions</h2>
+      <ul class="usa-icon-list margin-bottom-6">
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#local_offer"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Acquisition and Procurement:</span> 
+            <span id="func-acq" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#account_box"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Administrative Services:</span> 
+            <span id="func-admin" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#attach_money"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Budget and Finance:</span> 
+            <span id="func-budget" class="radius-md padding-05  print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#campaign"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Communications:</span> 
+            <span id="func-communications" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#hospital"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Emergency Response:</span> 
+            <span id="func-emergency-response" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#people"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Human Resources Management:</span> 
+            <span id="func-hr" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#cloud"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Information Technology Services:</span> 
+            <span id="func-it" class="radius-md padding-05"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#account_balance"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Legal:</span> 
+            <span id="func-legal" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>
+        <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue">
+            <svg class="usa-icon" aria-hidden="true" role="img">
+              <use href="{{site.baseurl}}/assets/img/sprite.svg#home"></use>
+            </svg>
+          </div>
+          <div class="usa-icon-list__content">
+            <span class="text-bold">Real Property Management:</span> 
+            <span id="func-real-property" class="radius-md padding-05 print-border"></span>
+          </div>
+        </li>  
+      </ul>
+    </div>
+  </div>
+  <!-- DEPARTMENT DATA -->
+  <h2 id="department-section-508-program-data">Department Section 508 Program Data</h2>
+  <table id="table-3" class="usa-table usa-table--borderless usa-table--striped margin-bottom-6 width-full">
+    <caption>Table 3: Department Section 508 Program Data</caption>
+    <tbody>
+      <tr>
+        <th scope="row" style="width:66%">Located in the CIO Office</th>
+        <td id="dept-data-ocio">Yes</td>
+      </tr>
+      <tr id="agency-budget-row">
+        <th scope="row">FY24 Agency Section 508 Budget</th>
+        <td id="dept-data-budget">$1,000,000</td>
+      </tr>
+      <tr id="agency-fte-row">
+        <th scope="row">Total FTEs for Agency</th>
+        <td id="dept-data-fte">10 (Federal: 6 + Contractor: 4)</td>
+      </tr>
+      <tr id="agency-pm-hours-row">
+        <th scope="row">Average hours per week spent by Section 508 PM</th>
+        <td id="dept-data-avg-hours">40 hours</td>
+      </tr>
+      <tr>
+        <th scope="row">Agency-wide Mandatory Section 508 Training</th>
+        <td id="dept-data-mandatory-training">Yes, one-time requirement</td>
+      </tr>
+      <tr>
+        <th scope="row">Agency-wide Section 508 or ICT accessibility policy</th>
+        <td id="dept-data-policy">Yes</td>
+      </tr>
+      <tr>
+        <th scope="row">Process to consult with people with disabilities (PWD) on digital services</th>
+        <td id="dept-data-pwd-consultation">Does not have digital services</td>
+      </tr>
+      <tr>
+        <th scope="row">Uses a GRC tool to manage accessibility compliance and risks</th>
+        <td id="dept-data-grc-tool">No</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- EXCEPTIONS -->
+  <h2 id="exceptions-agency">Exceptions</h2>
+  <section class="usa-section margin-top-neg-4 margin-bottom-neg-4">
+    <ul class="usa-card-group">
+      <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+        <div class="usa-card__container">
+          <div class="usa-card__header">
+            <h3 class="usa-card__heading font-family-sans">Fundamental Alteration</h3>
+            <div class="center-middle margin-top-2">
+              <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                <div class="text-bold" style="color:#93348c;">
+                <!-- Build THIS -->
+                  <span id="alt-auth"></span> 
+                  <span class="text-uppercase"> Total Authorized</span>
+                </div>
+              </div>
+            </div>
+            <p id="tracks-intro-p" class="text-bold">Tracks:</p>
+          </div>
+          <div class="usa-card__media">
+            <div class="usa-card__img bg-violet-5 print-bg">
+              <img src="{{site.baseurl}}/assets/images/thumbnails/icon-fundamental-alteration-white.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <ul class="usa-icon-list">
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <strong>Exceptions?</strong>
+                  <span id="alt-track-except" class="radius-md padding-05 print-border tag-yes"></span>
+                </div>
+              </li>
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg></div>
+                <div class="usa-icon-list__content">
+                  <strong>Alternative Means?</strong>
+                  <span id="alt-track-alt" class="radius-md padding-05 print-border tag-no"></span>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+        <div class="usa-card__container">
+          <div class="usa-card__header">
+            <h3 class="usa-card__heading font-family-sans">Undue Burden</h3>
+            <div class="center-middle margin-top-2">
+              <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                <div class="text-bold" style="color:#93348c;">
+                  <span id="undue-auth"></span>
+                  <span class="text-uppercase"> Total Authorized</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-bold">Tracks:</p>
+          </div>
+          <div class="usa-card__media">
+            <div class="usa-card__img bg-violet-4 print-bg">
+              <img src="{{site.baseurl}}/assets/images/thumbnails/icon-undue-burden-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <ul class="usa-icon-list">
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <strong>Exceptions?</strong> 
+                  <span id="undue-track-except" class="radius-md padding-05 print-border tag-yes"></span>
+                </div>
+              </li>
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <strong>Alternative Means?</strong> 
+                  <span id="undue-track-alt" class="radius-md padding-05 print-border tag-no"></span>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+        <div class="usa-card__container">
+          <div class="usa-card__header">
+            <h3 class="usa-card__heading font-family-sans">Best Meets</h3>
+            <div class="center-middle margin-top-2">
+              <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                <div class="text-bold" style="color:#93348c;">
+                  <span id="best-auth"></span> 
+                  <span class="text-uppercase"> Total Authorized</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-bold">Tracks:</p>
+          </div>
+          <div class="usa-card__media">
+            <div class="usa-card__img bg-violet-3 print-bg">
+              <img src="{{site.baseurl}}/assets/images/thumbnails/icon-best-meets-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <ul class="usa-icon-list">
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <strong>Exceptions?</strong> 
+                  <span id="best-track-except" class="radius-md padding-05 print-border tag-yes"></span>
+                </div>
+              </li>
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-violet">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <strong>Alternative Means?</strong>
+                   <span id="best-track-alt" class="radius-md padding-05 print-border tag-no"></span>
+                  </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <!-- COMPLAINT PROCESS -->
+  <ul id="complaints" class="usa-card-group">
+    <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-12">
+      <div class="usa-card__container" style="border-top: .75rem solid #93348c; border-bottom: .75rem solid #93348c; background-color: #fef2ff;">
+        <div class="usa-card__header">
+          <h2 class="usa-card__heading">Complaints Process</h2>
+        </div>
+        <div class="usa-card__body margin-bottom-1">Section 508-related complaints in the past 365 days:</div>
+        <div class="usa-card__footer">
+          <div class="grid-row">
+            <div id="comp-recd-cont" class="grid-col-6 center-middle">
+              <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #f4b2ff;">
+                <div class="text-bold" style="color:#93348c;">
+                  <span id="comp-recd"></span> 
+                  <span class="text-uppercase">Received</span>
+                </div>
+              </div>
+            </div>
+            <div id="comp-adjudicated-cont" class="grid-col-6 center-middle">
+              <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #f4b2ff;">
+                <div class="text-bold" style="color:#93348c;">
+                  <span id="comp-adjudicated"></span> 
+                  <span class="text-uppercase">Adjudicated</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+
+  <!-- ICT CONFORMANCE-->
+  <h2 id="ict-conformance" class="page-break-before">ICT Conformance</h2>
+  <table id="table-4" class="usa-table usa-table--striped usa-table--borderless margin-bottom-7 width-full">
+    <caption>Table 4: Section 508 Testing Coverage by ICT Type</caption>
+    <thead>
+      <tr>
+        <th scope="col">ICT Type</th>
+        <th class="text-center" scope="col">Mechanism for Tracking Testing and Results?</th>
+        <th class="text-right" scope="col">Total Owned or Operated</th>
+        <th class="text-right" scope="col">Total Tested for Section 508 in the Past Year</th>
+        <th class="text-right" scope="col">Total Tested That Fully Conform to Section 508</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Hardware</th>
+        <td class="text-center" id="hw-tracked"></td>
+        <td class="text-right" class="text-right" id="hw-owned"></td>
+        <td class="text-right" class="text-right" id="hw-tested"></td>
+        <td class="text-right" class="text-right" id="hw-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Software</th>
+        <td class="text-center" id="sw-tracked"></td>
+        <td class="text-right" id="sw-owned"></td>
+        <td class="text-right" id="sw-tested"></td>
+        <td class="text-right" id="sw-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Public-facing Electronic Documents</th>
+        <td class="text-center" id="docs-tracked"></td>
+        <td class="text-right" id="docs-owned"></td>
+        <td class="text-right" id="docs-tested"></td>
+        <td class="text-right" id="docs-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Public-facing Web Pages</th>
+        <td class="text-center" id="pub-web-tracked"></td>
+        <td class="text-right" id="pub-web-owned"></td>
+        <td class="text-right" id="pub-web-tested"></td>
+        <td class="text-right" id="pub-web-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Internal Web Pages</th>
+        <td class="text-center" id="int-web-tracked">/td>
+        <td class="text-right" id="int-web-owned">/td>
+        <td class="text-right" id="int-web-tested">/td>
+        <td class="text-right" id="int-web-conform">/td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr class="breaker-bar-green margin-top-3 margin-bottom-7" style="color: #481441">
+
+  <table id="table-5" class="usa-table usa-table--striped usa-table--borderless margin-top-3 margin-bottom-6 width-full">
+    <caption>Table 5: Top Viewed Agency-wide Tested ICT</caption>
+    <thead>
+      <tr>
+        <th scope="col">ICT Type</th>
+        <th class="text-right" scope="col">Number of Items Tested</th>
+        <th class="text-right" scope="col">Percentage That Fully Conforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Top ten viewed public web pages</th>
+        <td class="text-right" id="10-pub-web-tested"></td>
+        <td class="text-right" id="10-pub-web-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Top ten viewed internal web pages</th>
+        <td class="text-right" id="10-int-web-tested"></td>
+        <td class="text-right" id="10-int-web-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Top ten viewed electronic documents on public websites</th>
+        <td class="text-right" id="10-docs-tested"></td>
+        <td class="text-right" id="10-docs-conform"></td>
+      </tr>
+      <tr>
+        <th scope="row">Top five most-viewed videos</th>
+        <td class="text-right" id="5-video-tested"></td>
+        <td class="text-right" id="5-video-conform"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- ACQUISITION AND PROCUREMENT {% comment %} bg colors of the six categories are fixed {% endcomment %}-->
+  <h2 id="acquisition-and-procurement" class="page-break-before">Acquisition and Procurement</h2>
+  <section class="usa-section margin-top-neg-4 margin-bottom-neg-10">
+  <ul id="acq-proc-cards" class="usa-card-group">
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div id="card-market-research" class="text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-6 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-market-research-white.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Includes Section 508 compliance considered in market research</p>
+        </div>
+      </div>
+    </li>
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div id="card-solicitations" class="text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-5 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-requirements-white.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Includes all applicable ICT accessibility requirements in ICT solicitations</p>
+        </div>
+      </div>
+    </li>
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media ">
+          <div id="card-tech-evaluation" class="text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-4 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-technical-evaluation-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Considers Section 508 compliance in the technical evaluation of proposals related to ICT</p>
+        </div>
+      </div>
+    </li>
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div id="card-contract-clauses" class="text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-3 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-vendor-clause-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Includes compliance or performance clauses in contracts to ensure vendor accountability</p>
+        </div>
+      </div>
+    </li>
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div id="card-escalation" class="text-black text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-2 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-warning-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Escalates nonconformance issues to vendors or contractors when found</p>
+        </div>
+      </div>
+    </li>
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__media">
+          <div id="card-verifies" class="text-black text-bold text-center padding-1"></div>
+          <div class="usa-card__img radius-0 bg-violet-1 print-bg">
+            <img src="{{site.baseurl}}/assets/images/thumbnails/icon-verify-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+          </div>
+        </div>
+        <div class="usa-card__body">
+          <p>Verifies ICT deliverables from a contract for Section 508 conformance</p>
+        </div>
+      </div>
+    </li>
+  </ul>
+  </section>
+
+  <!-- TESTING AND REMEDIATION -->
+  <h2 id="testing-and-remediation" class=" page-break-before">Testing and Remediation</h2>
+  <table id="table-6" class="usa-table usa-table--striped usa-table--borderless width-full margin-bottom-6">
+    <caption>Table 6: Section 508 Testing and Remediation Practices by ICT Type</caption>
+    <thead>
+      <tr>
+        <th scope="col">Criteria</th>
+        <th scope="col" class="center">Hardware</th>
+        <th scope="col" class="center">Software</th>
+        <th scope="col" class="center">Public-facing Electronic Documents</th>
+        <th scope="col" class="center">Public-facing Web Pages</th>
+        <th scope="col" class="center">Internal Web Pages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Conducts usability testing with people with disabilities prior to publication or deployment</th>
+        <td id="pwd-usability-hw" class="center"></td>
+        <td id="pwd-usability-sw" class="center"></td>
+        <td id="pwd-usability-docs" class="center"></td>
+        <td id="pwd-usability-pub-web" class="center"></td>
+        <td id="pwd-usability-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">Uses a standardized test process to determine Section 508 conformance</th>
+        <td id="std-test-hw" class="center"></td>
+        <td id="std-test-sw" class="center"></td>
+        <td id="std-test-docs" class="center"></td>
+        <td id="std-test-pub-web" class="center"></td>
+        <td id="std-test-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">Uses a risk-based framework or approach to prioritize Section 508 remediation</th>
+        <td id="risk-framework-hw" class="center"></td>
+        <td id="risk-framework-sw" class="center"></td>
+        <td id="risk-framework-docs" class="center"></td>
+        <td id="risk-framework-pub-web" class="center"></td>
+        <td id="risk-framework-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">Require specific timelines for defect remediation</th>
+        <td id="defect-remedy-req-hw" class="center"></td>
+        <td id="defect-remedy-req-sw" class="center"></td>
+        <td id="defect-remedy-req-docs" class="center"></td>
+        <td id="defect-remedy-req-pub-web" class="center"></td>
+        <td id="defect-remedy-req-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">How often are all defects remediated within the specific timelines?</th>
+        <td id="defect-remedy-oft-hw" class="center"></td>
+        <td id="defect-remedy-oft-sw" class="center"></td>
+        <td id="defect-remedy-oft-docs" class="center"></td>
+        <td id="defect-remedy-oft-pub-web" class="center"></td>
+        <td id="defect-remedy-oft-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">How often is manual Section 508 testing performed prior to publication or deployment?</th>
+        <td id="man-test-oft-hw" class="center"></td>
+        <td id="man-test-oft-sw" class="center"></td>
+        <td id="man-test-oft-docs" class="center"></td>
+        <td id="man-test-oft-pub-web" class="center"></td>
+        <td id="man-test-oft-int-web" class="center"></td>
+      </tr>
+      <tr>
+        <th scope="row">How often is automated Section 508 testing performed prior to publication or deployment?</th>
+        <td id="auto-test-oft-hw" class="center"></td>
+        <td id="auto-test-oft-sw" class="center"></td>
+        <td id="auto-test-oft-docs" class="center"></td>
+        <td id="auto-test-oft-pub-web" class="center"></td>
+        <td id="auto-test-oft-int-web" class="center"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- SUMMARY OF COMPONENTS-->
+  <div id="summary-of-components-section" class="no-components">
+    <h2 id="summary-of-component-outcomes" class="page-break-before">Summary of Component Outcomes</h2>
+    <img src="{{site.baseurl}}/assets/images/thumbnails/management.png" class="padding-x-2 no-print" aria-hidden style="width:180px; float:right;" alt="">
+    The parent agency and components should use this data to assess accessibility implementation at both the department and component levels, compare performance across key focus areas, and identify gaps between policy and execution. By utilizing the component-level summary data, along with comparisons to parent agencies and highlighted response tables, organizations can identify both challenges and areas of strength. This enables agencies to prioritize corrective actions, target technical assistance, and allocate resources more efficiently to maximize accessibility outcomes.
+    <table id="table-7" class="usa-table usa-table--striped usa-table--borderless margin-bottom-7 width-full">
+      <caption>Table 7: Section 508 Program and Focus Area Outcomes by Component</caption>
+      <thead>
+        <tr class="font-sans-xs">
+          <th scope="col">Component Name</th>
+          <th scope="col" class="text-center">Policy Integration Focus Area Outcome</th>
+          <th scope="col" class="text-center">Acquisition and Procurement Focus Area Outcome</th>
+          <th scope="col" class="text-center">Testing and Remediation Focus Area Outcome</th>
+          <th scope="col" class="text-center">Has a Section 508 Program</th>
+          <th scope="col" class="text-right">FY24 Section 508 Budget</th>
+          <th scope="col" class="text-right">Avg PM Hours per Week</th>
+          <th scope="col" class="text-right">Total FTEs</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th id="component-name-1" scope="row">Component 1</th>
+          <td id="focus-integration-1"></td>
+          <td id="focus-acquisition-1"></td>
+          <td id="focus-testing-1"></td>
+          <td id="508-program-1">Yes</td>
+          <td id="508-budget-1">$150,000</td>
+          <td id="pm-hours-1">40</td>
+          <td id="total-fte-1">1</td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- SUMMARY OF RESOURCES-->
+    <h3 id="summary-of-resoruces" class="page-break-before">Summary of How Components Use Resources for Section 508 Activities</h3>
+    <div class="grid-col-12">
+      <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
+        <div class="margin-top-1"><img id="img-comp-resources" src="{{site.baseurl}}/assets/images/assessment/fy25/dhs-resources.png" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+        </div>
+        <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> How Components Use Resources for Section 508 Activities.</span>
+        </div>
+        <p class="text-left">
+          <strong>Text Description of Figure 2 Graphic: </strong>
+          <span id="text-descr-figure-2"></span>
+        </p>
+      </div>
+    </div>
+    <h3 id="average-policy-integration-outcomes">Average Policy Integration Outcomes: Parent Agency vs. Components</h3>
+    <div class="grid-col-12 margin-bottom-6">
+      <div class="tablet:grid-col" style="margin: auto; max-width: 75%; text-align: center; padding: 10px 0px">
+        <div class="margin-top-1"><img id="img-comp-integration" src="{{site.baseurl}}/assets/images/assessment/fy25/dhs-integration.png" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
+        </div>
+        <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Parent Agency vs. Component Average Policy Integration Outcomes</span>
+        </div>
+        <p class="text-left">
+          <strong>Text Description of Figure 3 Graphic: </strong>
+          <span id="text-descr-figure-3"></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- END AGENCY -->
+  
+
+
+
+
+
+
+  
+  
+  
+  <!-- BEGIN COMPONENTS -->
+
+  <div id="component-data-section" class="no-components">
+    <!-- COMPONENT DATA -->
+    <div id="component-data" class="callout-box-dual-violet margin-bottom-6 page-break-before">
+      <h2 id="component-entiry-data">Component Data</h2>
+      <p>Components that submitted FY 2025 assessment data are listed below.</p>
+    </div>
+    <!-- BEGIN COMPONENTS ACCORDION -->
+    <!--
+    {% comment %} format notes:
+      - append agency initials to id values for usnique ids
+      - insert agency figures (agency and component seals, and figures 1 & 2 by file initialism e.g., [initial]-integration.jpg , and [initial]-resources.jpg
+      - add counter to accordion IDs in <H3> and <DIV> for them to toggle
+      - if/else table D if applicable for each component
+      - added accordion-manage.js to manage open accordions. uses ID on button.
+    {% endcomment %}
+    -->
+    <div class="margin-bottom-3 no-print">
+      <button class="usa-button" data-action="expand" data-target="accordion-group-components">Expand all</button>
+      <button class="usa-button usa-button" data-action="collapse" data-target="accordion-group-components">Collapse all</button>
+    </div>
+    
+    <div id="accordion-group-components" class="usa-accordion usa-accordion--multiselectable margin-bottom-6" data-allow-multiple>
+    <!-- BEGIN COMPONENT -->
+      <h3 class="usa-accordion__heading page-break-before no-print" >
+        <button id="cisa" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="component-panel-cisa">Cybersecurity and Infrastructure Security Agency (CISA)</button>
+      </h3>
+      <div id="component-panel-cisa" class="usa-accordion__content usa-prose">
+        <div  id="component-banner-cisa" class="grid-row padding-x-auto margin-top-neg-1 margin-bottom-2 margin-right-neg-1px">
+          <div class="tablet:grid-col-auto display-flex flex-align-center padding-x-2 margin-y-1">
+            <img id="component-seal-cisa" src="{{ site.baseurl }}/assets/images/seals-logos/cisa.jpg" height="75" alt="">
+          </div>
+          <div class="tablet:grid-col-fill display-flex flex-align-center padding-x-2 margin-y-1">
+            <h3 id="component-name-cisa" class="margin-y-0 text-primary-dark">Cybersecurity and Infrastructure Security Agency (CISA)</h3>
+          </div>
+        </div>
+        <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
+            <div class="usa-icon-list__content"><strong>Department or Agency size:</strong> <span id="component-size-cisa">Very Large (75,000+)</span></div>
+          </li>
+        </ul>
+        <!-- BEGIN NO COMPONENT DATA SUBMITTED -->
+        <div id="component-data-not-submitted-cisa" style="display: none;">
+          <div class="border-right-1 padding-2 margin-y-5" style="background-color:#fef2ff; border-color:#481441;">
+            <div class="callout-box-img font-sans-3xl"><svg class="usa-icon violet-warm-70v" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#assessment"></use></svg>
+            </div>
+            <div class="callout-box-text"><h3>Section 508 Program activities are centralized.</h3> Refer to the parent agency data.</div>
+          </div>
+        </div>
+
+        <!-- BEGIN COMPONENT DATA SUBMITTED -->
+        <!-- COMPONENT FOCUS AREAS -->
+        <div id="component-data-submitted-cisa">
+          <h4 class="text-uppercase">Federal Accessibility Focus Area</h4>
+          <table id="table-a-cisa" class="usa-table usa-table--striped usa-table--borderless width-full">
+            <caption>Table A: Focus Area Performance Comparison by Component</caption>
+            <thead>
+              <tr>
+                <th scope="col">Focus Area</th>
+                <th scope="col">Component Performs Function Independently or in Addition to the Department</th>
+                <th scope="col">Level of Performance at Component</th>
+                <th scope="col">Department Performance</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1. ICT Accessibility Integration</th>
+                <td id="focus-int-performs-cisa">Not Applicable</td>
+                <td id="focus-int-component-cisa">Low</td>
+                <td id="focus-int-agency-cisa">Moderate</td>
+              </tr>
+              <tr>
+                <th scope="row">2. Acquisition and Procurement</th>
+                <td id="focus-acq-performs-cisa">Yes</td>
+                <td id="focus-acq-component-cisa">Moderate</td>
+                <td id="focus-acq-agency-cisa">Low</td>
+              </tr>
+              <tr>
+                <th scope="row">3. Testing and Remediation</th>
+                <td id="focus-test-performs-cisa">No</td>
+                <td id="focus-test-component-cisa">Component does not perform function; refer to Department performance</td>
+                <td id="focus-test-agency-cisa">Very High</td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- COMPONENT LEVEL OF ICT INTEGRATION -->
+          <div id="integration-cisa" class="callout-box-bottom-left-violet-light padding-1 margin-y-4" style="width: auto;">
+            <div class="callout-box-img font-sans-3xl"><svg class="usa-icon violet-warm-70v" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#settings"></use></svg></div>
+            <div class="callout-box-text">
+              <h4 id="level-of-integration-cisa" class="text-uppercase">Level of ICT Accessibility Integration In Key Business Functions</h4>
+              <ul class="usa-icon-list margin-bottom-6 padding-bottom-4">
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#local_offer"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Acquisition and Procurement:</span> <span id="func-acq-cisa" class="radius-md padding-05 pring-border tag-likert-1 ">Not Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#account_box"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Administrative Services:</span> <span id="func-admin-cisa" class="radius-md padding-05 print-border tag-likert-1">Not Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#attach_money"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Budget and Finance:</span> <span id="func-budget-cisa" class="radius-md padding-05  print-border tag-likert-2">Somewhat Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#campaign"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Communications:</span> <span id="func-communications-cisa" class="radius-md padding-05 print-border tag-likert-3">Moderately Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#hospital"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Emergency Response:</span> <span id="func-emergency-response-cisa" class="radius-md padding-05 print-border tag-likert-4">Mostly Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#people"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Human Resources Management:</span> <span id="func-hr-cisa" class="radius-md padding-05 print-border tag-likert-5">Fully Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#cloud"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Information Technology Services:</span> <span id="func-it-cisa" class="radius-md padding-05 tag-likert-0">Not Applicable</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#account_balance"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Legal:</span> <span id="func-legal-cisa" class="radius-md padding-05 print-border tag-likert-2">Somewhat Integrated</span></div>
+                </li>
+                <li class="usa-icon-list__item">
+                  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#home"></use></svg></div>
+                  <div class="usa-icon-list__content"><span class="text-bold">Real Property Management:</span> <span id="func-real-property-cisa" class="radius-md padding-05 tag-likert-0">Not Integrated</span></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- COMPONENT SECTION 508 PROGRAM DATA-->
+          <h4 id="program-data-cisa" class="text-uppercase">Component Section 508 Program Data</h4>
+          <table id="table-b-cisa" class="usa-table usa-table--borderless usa-table--striped width-full">
+            <caption>Table B: Component Section 508 Program Data</caption>
+            <tbody>
+              <tr>
+                <th scope="row">Located in the CIO Office</th>
+                <td id="comp-data-ocio-cisa">Yes</td>
+              </tr>
+              <tr id="component-budget-row-cisa">
+                <th scope="row">FY24 Agency Section 508 Budget</th>
+                <td id="comp-data-budget-cisa">$10,000</td>
+              </tr>
+              <tr id="component-fte-row-cisa">
+                <th scope="row">Total FTEs for Agency</th>
+                <td id="comp-data-fte-cisa">5 (Federal: 2.5 + Contractor: 2.5)
+                </td>
+              </tr>
+              <tr id="component-pm-hours-row-cisa">
+                <th scope="row">Average hours per week spent by Section 508 PM</th>
+                <td id="comp-data-avg-hours-cisa">15 hours</td>
+              </tr>
+              <tr>
+                <th scope="row">Agency-wide Mandatory Section 508 Training</th>
+                <td id="comp-data-mandatory-training-cisa">Yes,</td>
+              </tr>
+              <tr>
+                <th scope="row">Agency-wide Section 508 or ICT accessibility policy</th>
+                <td id="comp-data-policy-cisa">Yes</td>
+              </tr>
+              <tr>
+                <th scope="row">Process to consult with people with disabilities (PWD) on digital services</th>
+                <td id="comp-data-pwd-consultation-cisa">Yes</td>
+              </tr>
+              <tr>
+                <th scope="row">Uses a GRC tool to manage accessibility compliance and risks</th>
+                <td id="comp-data-grc-tool-cisa">No</td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- COMPONENT EXCEPTIONS -->
+          <h4 id="exceptions-cisa" class="text-uppercase margin-top-6 margin-bottom-0">Exceptions</h4>
+          <section class="usa-section margin-top-neg-2 padding-bottom-0">
+            <ul class="usa-card-group">
+              <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <h5 id="fundamental-alteration-cisa" class="usa-card__heading font-family-sans">Fundamental Alteration</h5>
+                    <div class="center-middle margin-top-2">
+                      <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                        <div class="text-bold" style="color:#93348c;">
+                          <span id="alt-auth-cisa">20</span>
+                          <span class="text-uppercase"> Total Authorized</span>
+                        </div>
+                      </div>
+                    </div>
+                    <p class="text-bold">Tracks:</p>
+                  </div>
+                  <div class="usa-card__media">
+                    <div class="usa-card__img bg-violet-5 print-bg">
+                      <img src="{{site.baseurl}}/assets/images/thumbnails/icon-fundamental-alteration-white.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+                    </div>
+                  </div>
+                  <div class="usa-card__body">
+                    <ul class="usa-icon-list">
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Exceptions?</strong>
+                          <span id="alt-track-except-cisa" class="radius-md padding-05 print-border tag-yes"></span>
+                        </div>
+                      </li>
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Alternative Means?</strong>
+                          <span id="alt-track-alt-cisa" class="radius-md padding-05 print-border tag-no"></span>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <h5 id="undue-burden-cisa" class="usa-card__heading font-family-sans">Undue Burden</h5>
+                    <div class="center-middle margin-top-2">
+                      <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                        <div class="text-bold" style="color:#93348c;">
+                          <span id="undue-auth-cisa">1</span>
+                          <span class="text-uppercase"> Total Authorized</span>
+                        </div>
+                      </div>
+                    </div>
+                    <p class="text-bold">Tracks:</p>
+                  </div>
+                  <div class="usa-card__media">
+                    <div class="usa-card__img bg-violet-4 print-bg">
+                      <img src="{{site.baseurl}}/assets/images/thumbnails/icon-undue-burden-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+                    </div>
+                  </div>
+                  <div class="usa-card__body">
+                    <ul class="usa-icon-list">
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Exceptions?</strong>
+                          <span id="undue-track-except-cisa" class="radius-md padding-05 print-border tag-yes">No</span>
+                        </div>
+                      </li>
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Alternative Means?</strong>
+                          <span id="undue-track-alt-cisa" class="radius-md padding-05 print-border tag-no">Yes</span>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li class="usa-card mobile:grid-col-12 tablet:grid-col-4 desktop:grid-col-4">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <h5 id="best-meets-cisa" class="usa-card__heading font-family-sans">Best Meets</h5>
+                    <div class="center-middle margin-top-2">
+                      <div class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+                        <div class="text-bold" style="color:#93348c;">
+                          <span id="best-auth-cisa">43</span>
+                          <span class="text-uppercase"> Total Authorized</span>
+                        </div>
+                      </div>
+                    </div>
+                    <p class="text-bold">Tracks:</p>
+                  </div>
+                  <div class="usa-card__media">
+                    <div class="usa-card__img bg-violet-3 print-bg">
+                      <img src="{{site.baseurl}}/assets/images/thumbnails/icon-best-meets-black.png" class="display-block margin-x-auto print-bg" style="width:4.5rem;" alt="" aria-hidden="true"/>
+                    </div>
+                  </div>
+                  <div class="usa-card__body">
+                    <ul class="usa-icon-list">
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Exceptions?</strong>
+                          <span id="best-track-except-cisa" class="radius-md padding-05 print-border tag-yes">Yes</span>
+                        </div>
+                      </li>
+                      <li class="usa-icon-list__item">
+                        <div class="usa-icon-list__icon text-violet">
+                          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                            <use href="{{site.baseurl}}/assets/img/sprite.svg#help"></use>
+                          </svg>
+                        </div>
+                        <div class="usa-icon-list__content">
+                          <strong>Alternative Means?</strong>
+                          <span id="best-track-alt-cisa" class="radius-md padding-05 print-border tag-no">No</span>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </section>
+          <!-- COMPONENT ACQUISITION AND PROCUREMENT -- IF APPLICABLE -->
+          <div id="comp-acq-proc-container-cisa margin-top">
+            <h4 id="acquisition-and-procurement-cisa" class="text-uppercase">Acquisition and Procurement</h4>
+            <section class="margin-bottom-6">
+              <table id="table-c-cisa" class="usa-table usa-table--borderless usa-table--striped width-full">
+                <caption>Table C: Section 508 Integration into Acquisition and Procurement</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">How often does the following occur</th>
+                    <th scope="col">Agency Response</th>
+                    <th scope="col">Department Response</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Includes Section 508 compliance considered in market research</th>
+                    <td id="comp-acq-market-research-cisa">Always</td>
+                    <td id="agency-acq-market-research-cisa">Always</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Includes all applicable ICT accessibility requirements in ICT solicitations</th>
+                    <td id="comp-acq-solicitations-cisa">Sometimes</td>
+                    <td id="agency-acq-solicitations-cisa">Often</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Considers Section 508 compliance in the technical evaluation of proposals related to ICT</th>
+                    <td id="comp-acq-tech-evaluation-cisa">Rarely</td>
+                    <td id="agency-acq-tech-evaluation-cisa">Often</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Includes compliance or performance clauses in contracts to hold vendors accountable for providing accessible ICT</th>
+                    <td id="comp-acq-contract-clauses-cisa">Often</td>
+                    <td id="agency-acq-contract-clauses-cisa">Often</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Escalates nonconformance issues to vendors or contractors when accessibility defects are found</th>
+                    <td id="comp-acq-escalation-cisa">Almost Always</td>
+                    <td id="agency-acq-escalation-cisa">Almost Always</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Verifies ICT deliverables from a contract for Section 508 conformance</th>
+                    <td id="comp-acq-verifies-cisa">Sometimes</td>
+                    <td id="agency-acq-verifies-cisa">Often</td>
+                  </tr>
+                </tbody>
+              </table>
+            </section>
+          </div>
+          
+          <!-- BEGIN COMPONENT TESTING AND REMEDIATION -- IF APPLICABLE -->
+          <div id="comp-test-rem-container-cisa">
+            <hr class="breaker-bar-green margin-top-3 margin-y-6" style="color: #481441">
+            <h4 id="testing-remediation-cisa" class="text-uppercase">Testing and Remediation</h4>
+            <section>
+              <table id="table-d-cisa" class="usa-table usa-table--striped usa-table--borderless width-full">
+                <caption>Table D: Section 508 Testing and Remediation Practices by ICT Type</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Criteria</th>
+                    <th scope="col" class="center">Hardware</th>
+                    <th scope="col" class="center">Software</th>
+                    <th scope="col" class="center">Public-facing Electronic Documents</th>
+                    <th scope="col" class="center">Public-facing Web Pages</th>
+                    <th scope="col" class="center">Internal Web Pages</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Conducts usability testing with people with disabilities prior to publication or deployment</th>
+                    <td id="pwd-usability-hw-cisa" class="center">No</td>
+                    <td id="pwd-usability-sw-cisa" class="center">Yes</td>
+                    <td id="pwd-usability-docs-cisa" class="center">No</td>
+                    <td id="pwd-usability-pub-web-cisa" class="center">No</td>
+                    <td id="pwd-usability-int-web-cisa" class="center">No</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Uses a standardized test process to determine Section 508 conformance</th>
+                    <td id="std-test-hw-cisa" class="center">No</td>
+                    <td id="std-test-sw-cisa" class="center">Dept: Yes</td>
+                    <td id="std-test-docs-cisa" class="center">Yes</td>
+                    <td id="std-test-pub-web-cisa" class="center">Yes</td>
+                    <td id="std-test-int-web-cisa" class="center">Yes</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Uses a risk-based framework or approach to prioritize Section 508 remediation</th>
+                    <td id="risk-framework-hw-cisa" class="center">Yes</td>
+                    <td id="risk-framework-sw-cisa" class="center">Yes</td>
+                    <td id="risk-framework-docs-cisa" class="center">No</td>
+                    <td id="risk-framework-pub-web-cisa" class="center">Yes</td>
+                    <td id="risk-framework-int-web-cisa" class="center">Yes</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Require specific timelines for defect remediation</th>
+                    <td id="defect-remedy-req-hw-cisa" class="center">-</td>
+                    <td id="defect-remedy-req-sw-cisa" class="center">No</td>
+                    <td id="defect-remedy-req-docs-cisa" class="center">Yes</td>
+                    <td id="defect-remedy-req-pub-web-cisa" class="center">No</td>
+                    <td id="defect-remedy-req-int-web-cisa" class="center">Yes</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">How often are all defects remediated within the specific timelines?</th>
+                    <td id="defect-remedy-oft-hw-cisa" class="center">N/A</td>
+                    <td id="defect-remedy-oft-sw-cisa" class="center">Sometimes</td>
+                    <td id="defect-remedy-oft-docs-cisa" class="center">N/A</td>
+                    <td id="defect-remedy-oft-pub-web-cisa" class="center">Almost always</td>
+                    <td id="defect-remedy-oft-int-web-cisa" class="center">Often</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">How often is manual Section 508 conformance testing performed prior to publication or deployment?</th>
+                    <td id="man-test-oft-hw-cisa" class="center">Rarely</td>
+                    <td id="man-test-oft-sw-cisa" class="center">Sometimes</td>
+                    <td id="man-test-oft-docs-cisa" class="center">Often</td>
+                    <td id="man-test-oft-pub-web-cisa" class="center">Often</td>
+                    <td id="man-test-oft-int-web-cisa" class="center">Often</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">How often is automated Section 508 conformance testing performed prior to publication or deployment?</th>
+                    <td id="auto-test-oft-hw-cisa" class="center">N/A</td>
+                    <td id="auto-test-oft-sw-cisa" class="center">N/A</td>
+                    <td id="auto-test-oft-docs-cisa" class="center">Almost</td>
+                    <td id="auto-test-oft-pub-web-cisa" class="center">Almost always</td>
+                    <td id="auto-test-oft-int-web-cisa" class="center">Almost always</td>
+                  </tr>
+                </tbody>
+              </table>
+            </section>
+          </div>
+        </div>
+      </div>
+    <!-- END COMPONENT -->
+    </div>
+  </div>
+  <!-- END DATA SUBMITTED -->
+</div>
+
+<strong>Reviewed/Updated:</strong> March 2026
+
+<!-- Load Reporting Entity Data -->
+<script>
+  const whichEntity = window.location.search;
+  const urlParams = new URLSearchParams(whichEntity);
+  const rawIdParam = (urlParams.get("id") ?? "").trim();
+  const rawHashParam = (window.location.hash ?? "").replace(/^#/, "").trim();
+  let id = rawIdParam.toUpperCase();
+  const baseURL = "{{ site.baseurl }}";
+  const summaryReportsIndexUrl = "../../2025/agency-summary-reports/";
+  const redirectToSummaryReports = () => {
+    alert("The selected reporting entity does not exist. You will be directed to the index of reporting entities. Use one of the links on that page to select a specific entity's report");
+    window.location.replace(summaryReportsIndexUrl);
+  };
+
+  //Get entity data from JSON file then add/show page components, data and text based on data
+  fetch('{{ site.baseurl }}/assets/2025-entity-data.json')
+  .then((response) => response.json())
+  .then((entity_data) => {
+    if (!id) {
+      redirectToSummaryReports();
+      return;
+    }
+
+    const parentAgencyRows = entity_data.filter((row) => (row["Component Name"] ?? "").toString().trim() === "");
+    const parentAgencyByName = new Map();
+    parentAgencyRows.forEach((row) => {
+      parentAgencyByName.set((row["Agency name"] ?? "").toString().trim(), row);
+    });
+
+    const parentByInitial = new Map();
+    parentAgencyRows.forEach((row) => {
+      const initial = (row["Agency-Component Initials"] ?? "").toString().trim().toUpperCase();
+      if (initial) {
+        parentByInitial.set(initial, row);
+      }
+    });
+
+    const componentByInitial = new Map();
+    entity_data.forEach((row) => {
+      const componentName = (row["Component Name"] ?? "").toString().trim();
+      if (!componentName) {
+        return;
+      }
+      const initial = (row["Agency-Component Initials"] ?? "").toString().trim().toUpperCase();
+      if (!initial) {
+        return;
+      }
+      if (!componentByInitial.has(initial)) {
+        componentByInitial.set(initial, []);
+      }
+      componentByInitial.get(initial).push(row);
+    });
+
+    const normalizeHashToken = (token) => {
+      return (token ?? "")
+        .toString()
+        .trim()
+        .toUpperCase()
+        .replace(/^COMPONENT-TOGGLE-/, "")
+        .replace(/^COMPONENT-PANEL-/, "")
+        .replace(/-\d+$/, "");
+    };
+
+    const hashTokens = rawHashParam
+      .split(",")
+      .map((token) => decodeURIComponent(token).trim())
+      .filter(Boolean);
+
+    let normalizedHashTokens = [...hashTokens];
+    let normalizedId = id;
+
+    if (parentByInitial.has(normalizedId)) {
+      if (normalizedHashTokens.length > 0) {
+        const validatedTokens = [];
+        normalizedHashTokens.forEach((token) => {
+          const normalizedToken = normalizeHashToken(token);
+          if (!normalizedToken) {
+            validatedTokens.length = 0;
+            return;
+          }
+
+          const matchingComponent = entity_data.filter((row) => {
+            const componentName = (row["Component Name"] ?? "").toString().trim();
+            if (!componentName) {
+              return false;
+            }
+            const componentInitial = (row["Agency-Component Initials"] ?? "").toString().trim().toUpperCase();
+            if (componentInitial !== normalizedToken) {
+              return false;
+            }
+            const parentRow = parentAgencyByName.get((row["Agency name"] ?? "").toString().trim());
+            const parentInitial = (parentRow?.["Agency-Component Initials"] ?? "").toString().trim().toUpperCase();
+            return parentInitial === normalizedId;
+          });
+
+          if (matchingComponent.length !== 1) {
+            validatedTokens.length = 0;
+            return;
+          }
+
+          validatedTokens.push(
+            (matchingComponent[0]["Agency-Component Initials"] ?? "").toString().trim().toUpperCase()
+          );
+        });
+
+        if (validatedTokens.length !== normalizedHashTokens.length) {
+          redirectToSummaryReports();
+          return;
+        }
+
+        normalizedHashTokens = [...new Set(validatedTokens)];
+      }
+
+      // Keep shared URLs tidy: normalize hash tokens to clean component initials.
+      const canonicalHash = normalizedHashTokens.length > 0
+        ? `#${normalizedHashTokens.join(",")}`
+        : "";
+      if (window.location.hash !== canonicalHash) {
+        history.replaceState(
+          null,
+          "",
+          `${window.location.pathname}${window.location.search}${canonicalHash}`
+        );
+      }
+    } else if (componentByInitial.has(normalizedId)) {
+      const componentMatches = componentByInitial.get(normalizedId);
+      const parentInitials = new Set();
+
+      componentMatches.forEach((componentRow) => {
+        const parentRow = parentAgencyByName.get((componentRow["Agency name"] ?? "").toString().trim());
+        const parentInitial = (parentRow?.["Agency-Component Initials"] ?? "").toString().trim().toUpperCase();
+        if (parentInitial) {
+          parentInitials.add(parentInitial);
+        }
+      });
+
+      if (componentMatches.length !== 1 || parentInitials.size !== 1) {
+        redirectToSummaryReports();
+        return;
+      }
+
+      normalizedId = [...parentInitials][0];
+      normalizedHashTokens = [
+        (componentMatches[0]["Agency-Component Initials"] ?? "").toString().trim().toUpperCase()
+      ];
+
+      const expectedUrl = `${window.location.pathname}?id=${normalizedId}#${normalizedHashTokens.join(",")}`;
+      if (`${window.location.search}${window.location.hash}` !== `?id=${normalizedId}#${normalizedHashTokens.join(",")}`) {
+        window.location.replace(expectedUrl);
+        return;
+      }
+    } else {
+      redirectToSummaryReports();
+      return;
+    }
+
+    id = normalizedId;
+
+    if (parentByInitial.has(id)) {
+      for (var i=0; i < entity_data.length; i++) {
+        //Match "Agency-Component Initials" URL parameter id value to load data for correct entity
+        if (
+          (entity_data[i]["Agency-Component Initials"] ?? "").toString().trim().toUpperCase() === id
+          && (entity_data[i]["Component Name"] ?? "").toString().trim() === ""
+        ) {
+          //Agency name in heading
+          document.getElementById("agency-name").innerText = entity_data[i]["Agency name"];
+          //Agency logo/seal and alt text
+          if (entity_data[i]["Seal Image Source"] == "") {
+            document.getElementById("agency-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
+            } else {
+              const altTextSeal = `Logo of ${entity_data[i]["Agency name"]}`;
+              document.getElementById("agency-seal").setAttribute("src", entity_data[i]["Seal Image Source"]);
+              document.getElementById("agency-seal").setAttribute("alt", altTextSeal);
+            }
+
+          const noAgencyDataSubmitted =
+            (entity_data[i]["No submitted data"] ?? "").toString().trim() === "No data submitted for FY25";
+          const agencyDataNotSubmitted = document.getElementById("agency-data-not-submitted");
+          const agencyDataSubmitted = document.getElementById("agency-data-submitted");
+          if (agencyDataNotSubmitted) {
+            agencyDataNotSubmitted.style.display = noAgencyDataSubmitted ? "" : "none";
+          }
+          if (agencyDataSubmitted) {
+            agencyDataSubmitted.style.display = noAgencyDataSubmitted ? "none" : "";
+          }
+
+          //Centralized activities
+          //Hide number of components columns from Table 1 and Table 2 and Component Summary section if no reporting components
+          if (entity_data[i]["Total number of reporting Components"] == "" || entity_data[i]["Total number of reporting Components"] == "0") {
+            const numComponents = document.querySelectorAll(".no-components");
+            numComponents.forEach(col => {
+              col.style.display = "none";
+            });
+          }
+
+          //Hide Component Summary for DOL - while DOL reported 10 reporting components, they did not provide data for these components for the FY25 assessment, so the Component Summary section would be blank.
+          if (id === "DOL") {
+            const componentSummarySection = document.getElementById("summary-of-components-section");
+            componentSummarySection.style.display = "none";
+          }
+
+          //Agency Summary Highlights
+          document.getElementById("agency-size").innerText = entity_data[i]["Department or Agency Size"];
+          document.getElementById("reporting-components").innerText = entity_data[i]["Total number of reporting Components"];
+          document.getElementById("program-type").innerText = entity_data[i]["Type of Section 508 program"];
+          document.getElementById("acq-central").innerHTML = entity_data[i]["Centralized at the Agency? (Acq)"];
+          document.getElementById("acq-comps-central").innerText = entity_data[i]["Number of components who perform the activity (acq)"];
+          document.getElementById("rem-central").innerHTML = entity_data[i]["Centralized at the Agency? (remediation)"];
+          document.getElementById("rem-comps-central").innerText = entity_data[i]["Number of components who perform the activity (remediation)"];
+          document.getElementById("complaint-central").innerHTML = entity_data[i]["Centralized at the Agency? (Complaint)"];
+          document.getElementById("complaint-comps-central").innerText = entity_data[i]["Number of components who perform the activity (complaint)"];
+          document.getElementById("testing-central").innerHTML = entity_data[i]["Centralized at the Agency? (test)"];
+          document.getElementById("testing-comps-central").innerText = entity_data[i]["Number of components who perform the activity (test)"];
+          document.getElementById("training-central").innerHTML = entity_data[i]["Centralized at the Agency? (train)"];
+          document.getElementById("training-comps-central").innerText = entity_data[i]["Number of components who perform the activity (train)"];
+          
+          //Accessibility Outcomes
+          //Grid Generation
+          const implementationRaw = Number(entity_data[i]["Agency implementation score"]);
+          const conformanceRaw = Number(entity_data[i]["Agency conformance score"]);
+          const implementationValue = Number.isFinite(implementationRaw) ? Math.max(0, Math.min(5, implementationRaw)) : 0;
+          const conformanceValue = Number.isFinite(conformanceRaw) ? Math.max(0, Math.min(5, conformanceRaw)) : 0;
+          const outcomesGridContainer = document.querySelector("#spotlight .margin-top-1");
+
+          if (outcomesGridContainer) {
+            const svgWidth = 360;
+            const svgHeight = 320;
+            const margin = { top: 20, right: 20, bottom: 70, left: 70 };
+            const chartWidth = svgWidth - margin.left - margin.right;
+            const chartHeight = svgHeight - margin.top - margin.bottom;
+            const stepX = chartWidth / 5;
+            const stepY = chartHeight / 5;
+            const xFor = (v) => margin.left + (v / 5) * chartWidth;
+            const yFor = (v) => margin.top + chartHeight - (v / 5) * chartHeight;
+
+            let gridLines = "";
+            let xTicks = "";
+            let yTicks = "";
+            for (let tick = 0; tick <= 5; tick++) {
+              const x = margin.left + tick * stepX;
+              const y = margin.top + chartHeight - tick * stepY;
+              gridLines += `<line x1="${x}" y1="${margin.top}" x2="${x}" y2="${margin.top + chartHeight}" stroke="#8b8b8b" stroke-width="${tick === 0 || tick === 5 ? 1.5 : 1}" />`;
+              gridLines += `<line x1="${margin.left}" y1="${y}" x2="${margin.left + chartWidth}" y2="${y}" stroke="#8b8b8b" stroke-width="${tick === 0 || tick === 5 ? 1.5 : 1}" />`;
+              xTicks += `<text x="${x}" y="${margin.top + chartHeight + 20}" font-size="12" text-anchor="middle" fill="#ffffff">${tick}</text>`;
+              yTicks += `<text x="${margin.left - 14}" y="${y + 4}" font-size="12" text-anchor="end" fill="#ffffff">${tick}</text>`;
+            }
+
+            outcomesGridContainer.innerHTML = `
+              <svg width="100%" viewBox="0 0 ${svgWidth} ${svgHeight}" role="img" aria-labelledby="outcomes-grid-title outcomes-grid-desc" class="border-2px border-base-light shadow-2 padding-1">
+                <title id="outcomes-grid-title">Agency outcomes grid</title>
+                <desc id="outcomes-grid-desc">Accessibility Conformance on the y-axis and Accessibility Implementation on the x-axis, each from 0 to 5. Agency Accessibility Implementation score: ${implementationValue.toFixed(2)}. Agency Accessibility Conformance score: ${conformanceValue.toFixed(2)}.</desc>
+                ${gridLines}
+                ${xTicks}
+                ${yTicks}
+                <text x="${margin.left + chartWidth / 2}" y="${svgHeight - 18}" font-size="15" text-anchor="middle" fill="#ffffff">Accessibility Implementation</text>
+                <text x="18" y="${margin.top + chartHeight / 2}" font-size="15" text-anchor="middle" fill="#ffffff" transform="rotate(-90 18 ${margin.top + chartHeight / 2})">Accessibility Conformance</text>
+                <circle cx="${xFor(implementationValue)}" cy="${yFor(conformanceValue)}" r="10" fill="#f4b2ff" stroke="#ffffff" stroke-width="2" />
+              </svg>
+            `;
+          }
+
+          //Implementation and Conformance levels
+          document.getElementById("outcome-implementation").innerText = entity_data[i]["Accessibility Implementation"];
+          document.getElementById("outcome-conformance").innerText = entity_data[i]["Accessibility Conformance"];
+
+          //Accessibility Focus Areas
+          document.getElementById("policy-agency").innerText = entity_data[i]["Agency Level of Performance (policy)"];
+          document.getElementById("policy-comps-above").innerText = entity_data[i]["# of components performing above Agency (policy)"];
+          document.getElementById("policy-comps-below").innerText = entity_data[i]["# of components performing below Agency (policy)"];
+          document.getElementById("policy-recs").innerText = entity_data[i]["Recommendations (policy)"];
+          document.getElementById("acq-agency").innerText = entity_data[i]["Agency Level of Performance (acq)"];
+          document.getElementById("acq-comps-above").innerText = entity_data[i]["# of components performing above Agency (acq)"];
+          document.getElementById("acq-comps-below").innerText = entity_data[i]["# of components performing below Agency (acq)"];
+          document.getElementById("acq-recs").innerText = entity_data[i]["Recommendations (acq)"];
+          document.getElementById("test-agency").innerText = entity_data[i]["Agency Level of Performance (test)"];
+          document.getElementById("test-comps-above").innerText = entity_data[i]["# of components performing above Agency (test)"];
+          document.getElementById("test-comps-below").innerText = entity_data[i]["# of components performing below Agency (test)"];
+          document.getElementById("test-recs").innerText = entity_data[i]["Recommendations (test)"];
+          document.getElementById("conf-agency").innerText = entity_data[i]["Level of Performance (Conformance)"];
+          document.getElementById("conf-recs").innerText = entity_data[i]["Recommendations (conformance)"];
+
+          //Key Business Functions
+          const keyBusinessFunctionMap = {
+            "func-acq": "Acquisition and Procurement policy integration outcomes",
+            "func-admin": "Administration Services",
+            "func-budget": "Budget and Finance",
+            "func-communications": "Communications",
+            "func-emergency-response": "Emergency Response",
+            "func-hr": "HR Management",
+            "func-it": "IT Services",
+            "func-legal": "Legal",
+            "func-real-property": "Real Property Management"
+          };
+
+          const integrationClassMap = {
+            "Not Integrated": "tag-likert-1",
+            "Somewhat Integrated": "tag-likert-2",
+            "Moderately Integrated": "tag-likert-3",
+            "Mostly Integrated": "tag-likert-4",
+            "Fully Integrated": "tag-likert-5",
+            "Not Applicable": "tag-likert-0"
+          };
+
+          Object.entries(keyBusinessFunctionMap).forEach(([spanId, dataKey]) => {
+            const span = document.getElementById(spanId);
+            const dataValue = entity_data[i][dataKey];
+            if (span && dataValue !== undefined && dataValue !== null) {
+              const normalizedText = dataValue
+                .toString()
+                .trim()
+                .toLowerCase()
+                .replace(/\b\w/g, (char) => char.toUpperCase());
+
+              span.innerText = normalizedText;
+
+              const likertClasses = ["tag-likert-0", "tag-likert-1", "tag-likert-2", "tag-likert-3", "tag-likert-4", "tag-likert-5"];
+              span.classList.remove(...likertClasses);
+              if (integrationClassMap[normalizedText]) {
+                span.classList.add(integrationClassMap[normalizedText]);
+              }
+            }
+          });
+
+          //Department Program Data
+          const deptDataFieldMap = {
+            "dept-data-ocio": "Located in CIO Office",
+            "dept-data-budget": "FY24 Section 508 Budget",
+            "dept-data-policy": "Agency has 508 policy?",
+            "dept-data-pwd-consultation": "Process to consult with PWDs",
+            "dept-data-grc-tool": "Uses GRC tool"
+          };
+
+          Object.entries(deptDataFieldMap).forEach(([cellId, dataKey]) => {
+            const cell = document.getElementById(cellId);
+            if (!cell) {
+              return;
+            }
+            cell.innerText = entity_data[i][dataKey] ?? "";
+          });
+
+          const agencyLocatedInCioOffice = (entity_data[i]["Located in CIO Office"] ?? "").toString().trim();
+          const agencyNoSection508Program = agencyLocatedInCioOffice.toLowerCase() === "no section 508 program";
+          const agencyProgramTypeContainer = document.getElementById("agency-program-type-container");
+          const agencyBudgetRow = document.getElementById("agency-budget-row");
+          const agencyFteRow = document.getElementById("agency-fte-row");
+          const agencyPmHoursRow = document.getElementById("agency-pm-hours-row");
+
+          if (agencyProgramTypeContainer) {
+            agencyProgramTypeContainer.style.display = agencyNoSection508Program ? "none" : "";
+          }
+          if (agencyBudgetRow) {
+            agencyBudgetRow.style.display = agencyNoSection508Program ? "none" : "";
+          }
+          if (agencyFteRow) {
+            agencyFteRow.style.display = agencyNoSection508Program ? "none" : "";
+          }
+          if (agencyPmHoursRow) {
+            agencyPmHoursRow.style.display = agencyNoSection508Program ? "none" : "";
+          }
+
+          const avgHoursCell = document.getElementById("dept-data-avg-hours");
+          if (avgHoursCell) {
+            const avgHours = entity_data[i]["508 PM hours"] ?? "";
+            avgHoursCell.innerText = avgHours !== "" ? `${avgHours} hours` : "";
+          }
+
+          const fteCell = document.getElementById("dept-data-fte");
+          if (fteCell) {
+            const totalFte = entity_data[i]["Total FTE"] ?? "";
+            const federalFte = entity_data[i]["Federal FTE"] ?? "";
+            const contractorFte = entity_data[i]["Contractor FTE"] ?? "";
+            fteCell.innerText = `${totalFte} (Federal: ${federalFte} + Contractor: ${contractorFte})`;
+          }
+
+          const mandatoryTrainingCell = document.getElementById("dept-data-mandatory-training");
+          if (mandatoryTrainingCell) {
+            const mandatoryTraining = entity_data[i]["Agency Mandatory Section 508 training (yes or no)"] ?? "";
+            const mandatoryTrainingType = entity_data[i]["Agency Type of mandatory training"]?.toLowerCase() ?? "";
+            if (mandatoryTraining === "Yes" && mandatoryTrainingType !== "") {
+              mandatoryTrainingCell.innerText = `${mandatoryTraining}, ${mandatoryTrainingType}`;
+            } else {
+              mandatoryTrainingCell.innerText = mandatoryTraining;
+            }
+          }
+
+          //Exceptions
+          document.getElementById("alt-auth").innerText = entity_data[i]["Total authorized fundamental alt"];
+          document.getElementById("undue-auth").innerText = entity_data[i]["Total authorized undue burden"];
+          document.getElementById("best-auth").innerText = entity_data[i]["Total authorized best meets"];
+
+          const setYesNoTagClass = (element, value) => {
+            if (!element) {
+              return;
+            }
+            const normalized = (value ?? "").toString().trim().toLowerCase();
+            element.classList.remove("tag-yes", "tag-no");
+            if (normalized === "yes") {
+              element.classList.add("tag-yes");
+            } else if (normalized === "no") {
+              element.classList.add("tag-no");
+            }
+          };
+
+          const altTrackExcept = document.getElementById("alt-track-except");
+          const altTrackAlt = document.getElementById("alt-track-alt");
+          const undueTrackExcept = document.getElementById("undue-track-except");
+          const undueTrackAlt = document.getElementById("undue-track-alt");
+          const bestTrackExcept = document.getElementById("best-track-except");
+          const bestTrackAlt = document.getElementById("best-track-alt");
+
+          if (altTrackExcept) {
+            const value = entity_data[i]["Track fundamental exceptions"] ?? "";
+            altTrackExcept.innerText = value;
+            setYesNoTagClass(altTrackExcept, value);
+          }
+
+          if (altTrackAlt) {
+            const value = entity_data[i]["track fundamental alt means"] ?? "";
+            altTrackAlt.innerText = value;
+            setYesNoTagClass(altTrackAlt, value);
+          }
+
+          if (undueTrackExcept) {
+            const value = entity_data[i]["Track undue burden exceptions"] ?? "";
+            undueTrackExcept.innerText = value;
+            setYesNoTagClass(undueTrackExcept, value);
+          }
+
+          if (undueTrackAlt) {
+            const value = entity_data[i]["track undue burden alt means"] ?? "";
+            undueTrackAlt.innerText = value;
+            setYesNoTagClass(undueTrackAlt, value);
+          }
+
+          if (bestTrackExcept) {
+            const value = entity_data[i]["track best meets exceptions"] ?? "";
+            bestTrackExcept.innerText = value;
+            setYesNoTagClass(bestTrackExcept, value);
+          }
+
+          if (bestTrackAlt) {
+            const value = entity_data[i]["track best meets alt means"] ?? "";
+            bestTrackAlt.innerText = value;
+            setYesNoTagClass(bestTrackAlt, value);
+          }
+          
+          //Complaints
+          document.getElementById("comp-recd").innerText = entity_data[i]["508 complaints received"];
+          const compRecd = entity_data[i]["508 complaints received"];
+          if (compRecd == "0") {
+            document.getElementById("comp-adjudicated-cont").style.display = "none";
+            document.getElementById("comp-recd-cont").classList.remove("grid-col-6");
+            document.getElementById("comp-recd-cont").classList.add("grid-col-12");
+            } else {
+            document.getElementById("comp-adjudicated").innerText = entity_data[i]["508 complaints adjudicated"];
+          }
+
+          //ICT Conformance
+          //Testing by ICT Type
+          const conformanceRows = [
+            {
+              mechanismProp: "Mechanism for Tracking Testing and Results HW",
+              ownedProp: "Total owned or operated HW",
+              testedProp: "Total tested for Section 508 in the past year HW",
+              conformProp: "Total tested that fully conform to Section 508 HW",
+              mechanismId: "hw-tracked",
+              ownedId: "hw-owned",
+              testedId: "hw-tested",
+              conformId: "hw-conform"
+            },
+            {
+              mechanismProp: "Mechanism for Tracking Testing and Results SW",
+              ownedProp: "Total owned or operated SW",
+              testedProp: "Total tested for Section 508 SW",
+              conformProp: "Total tested that fully conform to Section 508 SW",
+              mechanismId: "sw-tracked",
+              ownedId: "sw-owned",
+              testedId: "sw-tested",
+              conformId: "sw-conform"
+            },
+            {
+              mechanismProp: "Mechanism for Tracking Testing and Results doc",
+              ownedProp: "Total owned or operated Docs",
+              testedProp: "Total tested for Section 508 in the past year Docs",
+              conformProp: "Total tested that fully conform to Section 508 Doc",
+              mechanismId: "docs-tracked",
+              ownedId: "docs-owned",
+              testedId: "docs-tested",
+              conformId: "docs-conform"
+            },
+            {
+              mechanismProp: "Mechanism for Tracking Testing and Results public web",
+              ownedProp: "Total owned or operated  public web",
+              testedProp: "Total tested for Section 508 in the past year Public web",
+              conformProp: "Total tested that fully conform to Section 508 Public Web",
+              mechanismId: "pub-web-tracked",
+              ownedId: "pub-web-owned",
+              testedId: "pub-web-tested",
+              conformId: "pub-web-conform"
+            },
+            {
+              mechanismProp: "Mechanism for Tracking Testing and Results intranet",
+              ownedProp: "Total owned or operated intranet",
+              testedProp: "Total tested for Section 508 in the past year Intranet",
+              conformProp: "Total tested that fully conform intranet",
+              mechanismId: "int-web-tracked",
+              ownedId: "int-web-owned",
+              testedId: "int-web-tested",
+              conformId: "int-web-conform"
+            }
+          ];
+
+          const formatConformanceValue = (value) => {
+            if (value === null || value === undefined) {
+              return "";
+            }
+            const text = value.toString().trim();
+            if (text === "") {
+              return "";
+            }
+            const numeric = text.replace(/,/g, "");
+            if (/^-?\d+(\.\d+)?$/.test(numeric)) {
+              return Number(numeric).toLocaleString("en-US");
+            }
+            return text;
+          };
+
+          conformanceRows.forEach((row) => {
+
+            const mechanismValue = (entity_data[i][row.mechanismProp] ?? "").toString();
+
+            const mechanismCell = document.getElementById(row.mechanismId);
+            const ownedCell = document.getElementById(row.ownedId);
+            const testedCell = document.getElementById(row.testedId);
+            const conformCell = document.getElementById(row.conformId);
+
+            if (mechanismCell) {
+              mechanismCell.innerText = mechanismValue;
+            }
+
+            if (ownedCell) {
+              ownedCell.innerText = formatConformanceValue(entity_data[i][row.ownedProp]);
+            }
+
+            if (testedCell) {
+              testedCell.innerText = formatConformanceValue(entity_data[i][row.testedProp]);
+            }
+
+            if (conformCell) {
+              conformCell.innerText = formatConformanceValue(entity_data[i][row.conformProp]);
+            }
+          });
+
+          //Top Viewed ICT
+          const topViewedRows = [
+            {
+              testedProp: "Top ten viewed public web pages # of items tested",
+              conformProp: "Top ten viewed public web pages  % fully conforms",
+              testedId: "10-pub-web-tested",
+              conformId: "10-pub-web-conform"
+            },
+            {
+              testedProp: "Top ten viewed INTRANET web pages # of items tested",
+              conformProp: "Top ten viewed INTRANET web pages  % fully conforms",
+              testedId: "10-int-web-tested",
+              conformId: "10-int-web-conform"
+            },
+            {
+              testedProp: "Top ten viewed Docs # of items tested",
+              conformProp: "Top ten viewed Docs  % fully conforms",
+              testedId: "10-docs-tested",
+              conformId: "10-docs-conform"
+            },
+            {
+              testedProp: "Top ten viewed videos # of items tested",
+              conformProp: "Top ten viewed videos  % fully conforms",
+              testedId: "5-video-tested",
+              conformId: "5-video-conform"
+            }
+          ];
+
+          topViewedRows.forEach((row) => {
+            const testedCell = document.getElementById(row.testedId);
+            const conformCell = document.getElementById(row.conformId);
+
+            if (testedCell) {
+              testedCell.innerText = formatConformanceValue(entity_data[i][row.testedProp]);
+            }
+            if (conformCell) {
+              conformCell.innerText = (entity_data[i][row.conformProp] ?? "").toString().trim();
+            }
+          });
+
+          //Acquisition and Procurement
+          const acqProcCards = [
+            {
+              prop: "Includes Section 508 compliance considered in market research",
+              id: "card-market-research"
+            },
+            {
+              prop: "Includes all applicable ICT accessibility requirements in ICT solicitations",
+              id: "card-solicitations"
+            },
+            {
+              prop: "Considers Section 508 compliance in the technical evaluation",
+              id: "card-tech-evaluation"
+            },
+            {
+              prop: "Includes compliance or performance clauses in contracts",
+              id: "card-contract-clauses"
+            },
+            {
+              prop: "Escalates non-conformance issues",
+              id: "card-escalation"
+            },
+            {
+              prop: "Verifies ICT deliverables from a contract for Section 508 conformance",
+              id: "card-verifies"
+            }
+          ];
+
+          acqProcCards.forEach((card) => {
+            const cardElement = document.getElementById(card.id);
+            if (cardElement) {
+              cardElement.innerText = (entity_data[i][card.prop] ?? "").toString().trim();
+            }
+          });
+
+          //Testing and Remediation
+          const testingColumns = [
+            { idSuffix: "hw", propSuffix: "HW" },
+            { idSuffix: "sw", propSuffix: "SW" },
+            { idSuffix: "docs", propSuffix: "Doc" },
+            { idSuffix: "pub-web", propSuffix: "Web" },
+            { idSuffix: "int-web", propSuffix: "INTRANET" }
+          ];
+
+          const testingCriteria = [
+            {
+              idPrefix: "pwd-usability",
+              propPrefix: "Uses a standardized test process to determine Section 508 conformance"
+            },
+            {
+              idPrefix: "std-test",
+              propPrefix: "Uses a standardized test process to determine Section 508 conformance"
+            },
+            {
+              idPrefix: "risk-framework",
+              propPrefix: "Uses a risk-based framework or approach to prioritize Section 508 remediation"
+            },
+            {
+              idPrefix: "defect-remedy-req",
+              propPrefix: "Require specific timelines for defect remediation"
+            },
+            {
+              idPrefix: "defect-remedy-oft",
+              propPrefix: "How often are all defects remediated within the specific timelines?"
+            },
+            {
+              idPrefix: "man-test-oft",
+              propPrefix: "How often is manual Section 508 testing performed prior to publication or deployment?"
+            },
+            {
+              idPrefix: "auto-test-oft",
+              // FY25 data uses no space before "HW" for this one specific property.
+              propPrefix: "How often is automated Section 508 testing performed prior to publication or deployment?"
+            }
+          ];
+
+          testingCriteria.forEach((criterion) => {
+            testingColumns.forEach((column) => {
+              const cell = document.getElementById(`${criterion.idPrefix}-${column.idSuffix}`);
+              if (!cell) {
+                return;
+              }
+
+              let propName = `${criterion.propPrefix} ${column.propSuffix}`;
+              if (criterion.idPrefix === "auto-test-oft" && column.propSuffix === "HW") {
+                propName = `${criterion.propPrefix}${column.propSuffix}`;
+              }
+
+              cell.innerText = (entity_data[i][propName] ?? "").toString().trim();
+            });
+          });
+
+          //Summary of Component Outcomes
+          //Table 7 - Outcomes by Component
+          const currentAgencyName = (entity_data[i]["Agency name"] ?? "").toString().trim();
+          const componentRows = entity_data.filter((record) => {
+            const agencyName = (record["Agency name"] ?? "").toString().trim();
+            const componentName = (record["Component Name"] ?? "").toString().trim();
+            return agencyName === currentAgencyName && componentName !== "";
+          });
+
+          const table7Body = document.querySelector("#table-7 tbody");
+          if (table7Body) {
+            table7Body.innerHTML = "";
+
+            componentRows.forEach((component, index) => {
+              const rowNumber = index + 1;
+              const row = document.createElement("tr");
+              row.innerHTML = `
+                <th id="component-name-${rowNumber}" scope="row"></th>
+                <td id="focus-integration-${rowNumber}" class="text-center"></td>
+                <td id="focus-acquisition-${rowNumber}" class="text-center"></td>
+                <td id="focus-testing-${rowNumber}" class="text-center"></td>
+                <td id="508-program-${rowNumber}" class="text-center"></td>
+                <td id="508-budget-${rowNumber}" class="text-right"></td>
+                <td id="pm-hours-${rowNumber}" class="text-right"></td>
+                <td id="total-fte-${rowNumber}" class="text-right"></td>
+              `;
+              table7Body.appendChild(row);
+
+              const setCellText = (id, value) => {
+                const cell = document.getElementById(id);
+                if (cell) {
+                  cell.innerText = (value ?? "").toString().trim();
+                }
+              };
+
+              setCellText(`component-name-${rowNumber}`, component["Component Name"]);
+              setCellText(`focus-integration-${rowNumber}`, component["Component level of performance (policy)"]);
+              setCellText(`focus-acquisition-${rowNumber}`, component["Component level of performance (Acq)"]);
+              setCellText(`focus-testing-${rowNumber}`, component["Component level of performance (test)"]);
+              setCellText(`508-program-${rowNumber}`, component["Component has 508 policy"]);
+              setCellText(`508-budget-${rowNumber}`, component["FY24 Section 508 Budget"]);
+              setCellText(`pm-hours-${rowNumber}`, component["508 PM hours"]);
+              setCellText(`total-fte-${rowNumber}`, component["Total FTE"]);
+            });
+          }
+
+          //Parent Agency Summary Graphics
+          const figure2Description = document.getElementById("text-descr-figure-2");
+          if (figure2Description) {
+            figure2Description.innerText = (entity_data[i]["Alt for resources"] ?? "").toString().trim();
+          }
+
+          const figure3Description = document.getElementById("text-descr-figure-3");
+          if (figure3Description) {
+            figure3Description.innerText = (entity_data[i]["Alt for policy outcomes"] ?? "").toString().trim();
+          }
+
+
+          //Component Accordions
+          const agencyRecordForComponents = entity_data.find((record) => {
+            return (record["Agency name"] ?? "").toString().trim() === currentAgencyName
+              && (record["Component Name"] ?? "").toString().trim() === "";
+          }) || entity_data[i];
+
+          const componentDataSection = document.getElementById("component-data-section");
+          const componentAccordionGroup = document.getElementById("accordion-group-components");
+          if (componentAccordionGroup) {
+            const templateHeading = componentAccordionGroup.querySelector(".usa-accordion__heading");
+            const templateButton = templateHeading?.querySelector(".usa-accordion__button");
+            const templatePanelId = templateButton?.getAttribute("aria-controls");
+            const templatePanel = templatePanelId ? document.getElementById(templatePanelId) : null;
+
+            if (templateHeading && templatePanel) {
+              const headingTemplate = templateHeading.cloneNode(true);
+              const panelTemplate = templatePanel.cloneNode(true);
+
+              componentAccordionGroup.innerHTML = "";
+
+              if (componentRows.length === 0) {
+                if (componentDataSection) {
+                  componentDataSection.style.display = "none";
+                }
+              } else {
+                if (componentDataSection) {
+                  componentDataSection.style.display = "";
+                }
+
+                const usedSuffixes = new Set();
+                const getUniqueSuffix = (component, index) => {
+                  const initials = (component["Agency-Component Initials"] ?? "").toString().trim().toLowerCase();
+                  const fallback = `component-${index + 1}`;
+                  const base = (initials || fallback).replace(/[^a-z0-9-]/g, "-");
+                  let suffix = base;
+                  let counter = 2;
+                  while (usedSuffixes.has(suffix)) {
+                    suffix = `${base}-${counter}`;
+                    counter += 1;
+                  }
+                  usedSuffixes.add(suffix);
+                  return suffix;
+                };
+
+                const replaceCisaIds = (root, suffix) => {
+                  if (root.id && root.id.endsWith("-cisa")) {
+                    root.id = `${root.id.slice(0, -5)}-${suffix}`;
+                  }
+                  root.querySelectorAll("[id]").forEach((el) => {
+                    if (el.id.endsWith("-cisa")) {
+                      el.id = `${el.id.slice(0, -5)}-${suffix}`;
+                    }
+                  });
+                };
+
+                const setComponentText = (suffix, idPrefix, value) => {
+                  const cell = document.getElementById(`${idPrefix}-${suffix}`);
+                  if (cell) {
+                    cell.innerText = (value ?? "").toString().trim();
+                  }
+                };
+
+                const setIntegrationTag = (suffix, idPrefix, value) => {
+                  const el = document.getElementById(`${idPrefix}-${suffix}`);
+                  if (!el) {
+                    return;
+                  }
+                  const text = (value ?? "").toString().trim();
+                  const normalizedText = text
+                    .toLowerCase()
+                    .replace(/\b\w/g, (char) => char.toUpperCase());
+                  el.innerText = normalizedText;
+                  el.classList.remove("tag-likert-0", "tag-likert-1", "tag-likert-2", "tag-likert-3", "tag-likert-4", "tag-likert-5");
+                  if (integrationClassMap[normalizedText]) {
+                    el.classList.add(integrationClassMap[normalizedText]);
+                  }
+                };
+
+                const componentTestingColumns = [
+                  { idSuffix: "hw", propSuffix: "HW" },
+                  { idSuffix: "sw", propSuffix: "SW" },
+                  { idSuffix: "docs", propSuffix: "Doc" },
+                  { idSuffix: "pub-web", propSuffix: "Web" },
+                  { idSuffix: "int-web", propSuffix: "INTRANET" }
+                ];
+
+                const componentTestingCriteria = [
+                  {
+                    idPrefix: "pwd-usability",
+                    propPrefix: "Conducts usability testing with people with disabilities prior to publication or deployment"
+                  },
+                  {
+                    idPrefix: "std-test",
+                    propPrefix: "Uses a standardized test process to determine Section 508 conformance"
+                  },
+                  {
+                    idPrefix: "risk-framework",
+                    propPrefix: "Uses a risk-based framework or approach to prioritize Section 508 remediation"
+                  },
+                  {
+                    idPrefix: "defect-remedy-req",
+                    propPrefix: "Require specific timelines for defect remediation"
+                  },
+                  {
+                    idPrefix: "defect-remedy-oft",
+                    propPrefix: "How often are all defects remediated within the specific timelines?"
+                  },
+                  {
+                    idPrefix: "man-test-oft",
+                    propPrefix: "How often is manual Section 508 testing performed prior to publication or deployment?"
+                  },
+                  {
+                    idPrefix: "auto-test-oft",
+                    propPrefix: "How often is automated Section 508 testing performed prior to publication or deployment?"
+                  }
+                ];
+
+                componentRows.forEach((component, index) => {
+                  const suffix = getUniqueSuffix(component, index);
+                  const heading = headingTemplate.cloneNode(true);
+                  const panel = panelTemplate.cloneNode(true);
+                  replaceCisaIds(heading, suffix);
+                  replaceCisaIds(panel, suffix);
+
+                  const button = heading.querySelector(".usa-accordion__button");
+                  if (button) {
+                    button.id = `${suffix}`;
+                    button.setAttribute("aria-controls", `component-panel-${suffix}`);
+                    button.setAttribute("aria-expanded", "false");
+                    button.innerText = (component["Component Name"] ?? "").toString().trim();
+                  }
+                  panel.id = `component-panel-${suffix}`;
+                  componentAccordionGroup.appendChild(heading);
+                  componentAccordionGroup.appendChild(panel);
+
+                  setComponentText(suffix, "component-name", component["Component Name"]);
+                  setComponentText(suffix, "component-size", component["Component Size"]);
+                  setComponentText(suffix, "component-program-type", component["Type of Section 508 program"]);
+
+                  const componentNoDataSubmitted =
+                    (component["No submitted data"] ?? "").toString().trim() ===
+                    "Section 508 is centralized; refer to parent agency performance";
+                  const componentDataNotSubmitted = document.getElementById(`component-data-not-submitted-${suffix}`);
+                  const componentDataSubmitted = document.getElementById(`component-data-submitted-${suffix}`);
+                  if (componentDataNotSubmitted) {
+                    componentDataNotSubmitted.style.display = componentNoDataSubmitted ? "" : "none";
+                  }
+                  if (componentDataSubmitted) {
+                    componentDataSubmitted.style.display = componentNoDataSubmitted ? "none" : "";
+                  }
+
+                  const componentSeal = document.getElementById(`component-seal-${suffix}`);
+                  if (componentSeal) {
+                    const sealSrc = (component["Seal Image Source"] ?? "").toString().trim();
+                    const fallbackSrc = `${baseURL}/assets/images/assessment/fy23/image-placeholder.png`;
+                    componentSeal.setAttribute("src", sealSrc || fallbackSrc);
+                    componentSeal.setAttribute("alt", `Logo of ${(component["Component Name"] ?? "").toString().trim()}`);
+                  }
+
+                  setComponentText(suffix, "focus-int-performs", "Not Applicable");
+                  setComponentText(suffix, "focus-int-component", component["Component level of performance (policy)"]);
+                  setComponentText(suffix, "focus-int-agency", agencyRecordForComponents["Agency Level of Performance (policy)"]);
+                  setComponentText(suffix, "focus-acq-performs", component["Component performs Acquisition"]);
+                  setComponentText(suffix, "focus-acq-component", component["Component level of performance (Acq)"]);
+                  setComponentText(suffix, "focus-acq-agency", agencyRecordForComponents["Agency Level of Performance (acq)"]);
+                  setComponentText(suffix, "focus-test-performs", component["Component performs testing"]);
+                  setComponentText(suffix, "focus-test-component", component["Component level of performance (test)"]);
+                  setComponentText(suffix, "focus-test-agency", agencyRecordForComponents["Agency Level of Performance (test)"]);
+
+                  const performsAcquisition = (component["Component performs Acquisition"] ?? "").toString().trim().toLowerCase();
+                  const performsTesting = (component["Component performs testing"] ?? "").toString().trim().toLowerCase();
+                  const componentAcqProcContainer = document.getElementById(`comp-acq-proc-container-${suffix}`);
+                  const componentTestRemContainer = document.getElementById(`comp-test-rem-container-${suffix}`);
+                  if (componentAcqProcContainer) {
+                    componentAcqProcContainer.style.display = performsAcquisition === "no" ? "none" : "";
+                  }
+                  if (componentTestRemContainer) {
+                    componentTestRemContainer.style.display = performsTesting === "no" ? "none" : "";
+                  }
+
+                  setIntegrationTag(suffix, "func-acq", component["Acquisition and Procurement policy integration outcomes"]);
+                  setIntegrationTag(suffix, "func-admin", component["Administration Services"]);
+                  setIntegrationTag(suffix, "func-budget", component["Budget and Finance"]);
+                  setIntegrationTag(suffix, "func-communications", component["Communications"]);
+                  setIntegrationTag(suffix, "func-emergency-response", component["Emergency Response"]);
+                  setIntegrationTag(suffix, "func-hr", component["HR Management"]);
+                  setIntegrationTag(suffix, "func-it", component["IT Services"]);
+                  setIntegrationTag(suffix, "func-legal", component["Legal"]);
+                  setIntegrationTag(suffix, "func-real-property", component["Real Property Management"]);
+
+                  setComponentText(suffix, "comp-data-ocio", component["Located in CIO Office"]);
+                  setComponentText(suffix, "comp-data-budget", component["FY24 Section 508 Budget"]);
+                  setComponentText(suffix, "comp-data-avg-hours", (component["508 PM hours"] ?? "") !== "" ? `${component["508 PM hours"]} hours` : "");
+                  setComponentText(suffix, "comp-data-policy", component["Component has 508 policy"]);
+                  setComponentText(suffix, "comp-data-pwd-consultation", component["Process to consult with PWDs"]);
+                  setComponentText(suffix, "comp-data-grc-tool", component["Uses GRC tool"]);
+                  setComponentText(suffix, "comp-data-grc-tool-duplicate", component["Uses GRC tool"]);
+
+                  const locatedInCioOffice = (component["Located in CIO Office"] ?? "").toString().trim();
+                  const noSection508Program = locatedInCioOffice.toLowerCase() === "no section 508 program";
+                  const componentProgramTypeContainer = document.getElementById(`component-program-type-container-${suffix}`);
+                  const componentBudgetRow = document.getElementById(`component-budget-row-${suffix}`);
+                  const componentFteRow = document.getElementById(`component-fte-row-${suffix}`);
+                  const componentPmHoursRow = document.getElementById(`component-pm-hours-row-${suffix}`);
+
+                  if (componentProgramTypeContainer) {
+                    componentProgramTypeContainer.style.display = noSection508Program ? "none" : "";
+                  }
+                  if (componentBudgetRow) {
+                    componentBudgetRow.style.display = noSection508Program ? "none" : "";
+                  }
+                  if (componentFteRow) {
+                    componentFteRow.style.display = noSection508Program ? "none" : "";
+                  }
+                  if (componentPmHoursRow) {
+                    componentPmHoursRow.style.display = noSection508Program ? "none" : "";
+                  }
+
+                  const compFte = (component["Total FTE"] ?? "").toString().trim();
+                  const compFederalFte = (component["Federal FTE"] ?? "").toString().trim();
+                  const compContractorFte = (component["Contractor FTE"] ?? "").toString().trim();
+                  setComponentText(suffix, "comp-data-fte", compFte !== "" ? `${compFte} (Federal: ${compFederalFte} + Contractor: ${compContractorFte})` : "");
+
+                  const compMandatory = (component["Comp. Mandatory Section 508 training (yes or no)"] ?? "").toString().trim();
+                  const compMandatoryType = (component["Comp. Type of mandatory training"] ?? "").toString().trim().toLowerCase();
+                  setComponentText(
+                    suffix,
+                    "comp-data-mandatory-training",
+                    compMandatory === "Yes" && compMandatoryType !== "" ? `${compMandatory}, ${compMandatoryType}` : compMandatory
+                  );
+
+                  setComponentText(suffix, "alt-auth", component["Total authorized fundamental alt"]);
+                  setComponentText(suffix, "undue-auth", component["Total authorized undue burden"]);
+                  setComponentText(suffix, "best-auth", component["Total authorized best meets"]);
+
+                  const altTrackExcept = document.getElementById(`alt-track-except-${suffix}`);
+                  const altTrackAlt = document.getElementById(`alt-track-alt-${suffix}`);
+                  const undueTrackExcept = document.getElementById(`undue-track-except-${suffix}`);
+                  const undueTrackAlt = document.getElementById(`undue-track-alt-${suffix}`);
+                  const bestTrackExcept = document.getElementById(`best-track-except-${suffix}`);
+                  const bestTrackAlt = document.getElementById(`best-track-alt-${suffix}`);
+
+                  const setTrackItem = (element, value) => {
+                    if (!element) {
+                      return;
+                    }
+                    element.innerText = value;
+                    setYesNoTagClass(element, value);
+                    const item = element.closest(".usa-icon-list__item");
+                    if (item) {
+                      item.style.display = value === "" ? "none" : "";
+                    }
+                  };
+
+                  const setTracksIntroVisibility = (referenceElement, showTracksIntro) => {
+                    if (!referenceElement) {
+                      return;
+                    }
+                    const cardContainer = referenceElement.closest(".usa-card__container");
+                    const tracksIntro = cardContainer?.querySelector(".usa-card__header p.text-bold");
+                    if (tracksIntro) {
+                      tracksIntro.style.display = showTracksIntro ? "" : "none";
+                    }
+                  };
+
+                  const altTrackExceptValue = (component["Track fundamental exceptions"] ?? "").toString().trim();
+                  const altTrackAltValue = (component["track fundamental alt means"] ?? "").toString().trim();
+                  const undueTrackExceptValue = (component["Track undue burden exceptions"] ?? "").toString().trim();
+                  const undueTrackAltValue = (component["track undue burden alt means"] ?? "").toString().trim();
+                  const bestTrackExceptValue = (component["track best meets exceptions"] ?? "").toString().trim();
+                  const bestTrackAltValue = (component["track best meets alt means"] ?? "").toString().trim();
+
+                  setTrackItem(altTrackExcept, altTrackExceptValue);
+                  setTrackItem(altTrackAlt, altTrackAltValue);
+                  setTrackItem(undueTrackExcept, undueTrackExceptValue);
+                  setTrackItem(undueTrackAlt, undueTrackAltValue);
+                  setTrackItem(bestTrackExcept, bestTrackExceptValue);
+                  setTrackItem(bestTrackAlt, bestTrackAltValue);
+
+                  setTracksIntroVisibility(altTrackExcept || altTrackAlt, altTrackExceptValue !== "" || altTrackAltValue !== "");
+                  setTracksIntroVisibility(undueTrackExcept || undueTrackAlt, undueTrackExceptValue !== "" || undueTrackAltValue !== "");
+                  setTracksIntroVisibility(bestTrackExcept || bestTrackAlt, bestTrackExceptValue !== "" || bestTrackAltValue !== "");
+
+                  const acqPropMap = [
+                    { key: "Includes Section 508 compliance considered in market research", compPrefix: "comp-acq-market-research", agencyPrefix: "agency-acq-market-research" },
+                    { key: "Includes all applicable ICT accessibility requirements in ICT solicitations", compPrefix: "comp-acq-solicitations", agencyPrefix: "agency-acq-solicitations" },
+                    { key: "Considers Section 508 compliance in the technical evaluation", compPrefix: "comp-acq-tech-evaluation", agencyPrefix: "agency-acq-tech-evaluation" },
+                    { key: "Includes compliance or performance clauses in contracts", compPrefix: "comp-acq-contract-clauses", agencyPrefix: "agency-acq-contract-clauses" },
+                    { key: "Escalates non-conformance issues", compPrefix: "comp-acq-escalation", agencyPrefix: "agency-acq-escalation" },
+                    { key: "Verifies ICT deliverables from a contract for Section 508 conformance", compPrefix: "comp-acq-verifies", agencyPrefix: "agency-acq-verifies" }
+                  ];
+
+                  acqPropMap.forEach((item) => {
+                    setComponentText(suffix, item.compPrefix, component[item.key]);
+                    setComponentText(suffix, item.agencyPrefix, agencyRecordForComponents[item.key]);
+                  });
+
+                  componentTestingCriteria.forEach((criterion) => {
+                    componentTestingColumns.forEach((column) => {
+                      const cell = document.getElementById(`${criterion.idPrefix}-${column.idSuffix}-${suffix}`);
+                      if (!cell) {
+                        return;
+                      }
+
+                      let propName = `${criterion.propPrefix} ${column.propSuffix}`;
+                      if (criterion.idPrefix === "auto-test-oft" && column.propSuffix === "HW") {
+                        propName = `${criterion.propPrefix}${column.propSuffix}`;
+                      }
+
+                      cell.innerText = (component[propName] ?? "").toString().trim();
+                    });
+                  });
+                });
+              }
+            }
+          }
+
+          //Component Summary Figures
+          if (componentRows.length > 0) {
+            const imgSrcPrefix = `${baseURL}/assets/images/assessment/fy25/`;
+            const compResourcesImgSrc = `${imgSrcPrefix}${id.toLowerCase()}-resources.png`;
+            const compIntegrationImgSrc = `${imgSrcPrefix}${id.toLowerCase()}-integration.png`;
+
+            const compResourcesImg = document.getElementById("img-comp-resources");
+            if (compResourcesImg) {
+              compResourcesImg.src = compResourcesImgSrc;
+            }
+
+            const compIntegrationImg = document.getElementById("img-comp-integration");
+            if (compIntegrationImg) {
+              compIntegrationImg.src = compIntegrationImgSrc;
+            }
+          }
+
+          break;
+        }
+      }
+    } else {
+      redirectToSummaryReports();
+    }
+  });
+</script>
