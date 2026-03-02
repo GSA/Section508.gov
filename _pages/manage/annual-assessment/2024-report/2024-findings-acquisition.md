@@ -17,12 +17,12 @@ format: "HTML (html)"
 ---
 Incorporating digital accessibility requirements into procurement processes and holding vendors accountable for meeting these requirements helps the government comply with Section 508 for all ICT it buys, builds, maintains or uses. **In general, while entities have made YOY improvements, they have not fully integrated Section 508 considerations in the acquisition phase, which may limit the positive downstream impacts on the accessibility of the ICT they procure and use.**
 
-Of the 239 entities who release solicitations, 171 entities or 71.5% reported ICT accessibility requirements are regularly, frequently, or almost always included in solicitations, compared to 73% in FY23. While we see a small decline in percentage including sufficient accessibility requirements, there were more entities in FY24 who released solicitations and more solicitations that included ICT accessibility requirements. The YOY difference indicates a small, meaningful increase (WRST: extremely statistically significant) with now half of the reporting entities indicating they almost always -- 90% or more of the time -- include sufficient ICT accessibility requirements in solicitations. 
+Of the 239 entities who release solicitations, 171 entities or 71.5% reported ICT accessibility requirements are regularly, frequently, or almost always included in solicitations, compared to 73% in FY 2023. While we see a small decline in percentage including sufficient accessibility requirements, there were more entities in FY 2024 who released solicitations and more solicitations that included ICT accessibility requirements. The YOY difference indicates a small, meaningful increase (WRST: extremely statistically significant) with now half of the reporting entities indicating they almost always -- 90% or more of the time -- include sufficient ICT accessibility requirements in solicitations. 
 
-Similar to last year, we still see a varied approach to verifying contract deliverables that are required to be Section 508 conformant. There was a reported increase this year in the number of entities who almost always verify digital accessibility requirements prior to acceptance, with 58 entities or 23.7% compared to 39 entities or 16% in FY23 selecting this response. However, 109 entities, or 46.6%, sometimes or never verify the accessibility of contract deliverables. **While this is a slight decrease compared to FY23** when 53% of entities reported an inconsistent verification approach, **this is still a very high percentage of entities who are accepting contract deliverables without knowing if they meet the contractual requirements for digital accessibility**. Figure 19 depicts the full breakdown of responses and comparison with FY23.
+Similar to last year, we still see a varied approach to verifying contract deliverables that are required to be Section 508 conformant. There was a reported increase this year in the number of entities who almost always verify digital accessibility requirements prior to acceptance, with 58 entities or 23.7% compared to 39 entities or 16% in FY 2023 selecting this response. However, 109 entities, or 46.6%, sometimes or never verify the accessibility of contract deliverables. **While this is a slight decrease compared to FY 2023** when 53% of entities reported an inconsistent verification approach, **this is still a very high percentage of entities who are accepting contract deliverables without knowing if they meet the contractual requirements for digital accessibility**. Figure 19 depicts the full breakdown of responses and comparison with FY 2023.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-19.jpg" alt="Bar chart showing YOY comparison of response count of approaches to verifying contract deliverables that are required to be Section 508 conformant (Q60), showing: 23 entities never verify down from 28 in FY23, 86 entities sometimes verify, down from 99 in FY23, 33 entities regularly verify down from 54 in FY23, 34 entities frequently verify up from 21 in FY23, 58 entities almost always verify up from 39 in FY23, and 11 did not know in FY24 compared to 8 in FY23." aria-describedby="figure-19" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-19.jpg" alt="Bar chart showing YOY comparison of response count of approaches to verifying contract deliverables that are required to be Section 508 conformant (Q60), showing: 23 entities never verify down from 28 in FY 2023, 86 entities sometimes verify, down from 99 in FY 2023, 33 entities regularly verify down from 54 in FY 2023, 34 entities frequently verify up from 21 in FY 2023, 58 entities almost always verify up from 39 in FY 2023, and 11 did not know in FY 2024 compared to 8 in FY 2023." aria-describedby="figure-19" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-19"><strong>Figure 19:</strong> YOY comparison of response count of approaches to verifying contract deliverables (Q60).</span>
    </div>
@@ -32,7 +32,7 @@ Of the 205 reporting entities that release solicitations, 127 entities (62%) kne
 
 * 12 entities (8%) reported none of their ICT solicitations included all applicable Section 508 requirements. There is increased risk that entities are procuring products and services that may be inaccessible and may remain inaccessible due to contractual omissions. This also risks noncompliance with Federal Acquisition Regulation (FAR) section 11.002(f) and subpart 39.2, which ensures Section 508 standards are considered in acquisition planning documents and procurement requirements for ICT and that deliverables meet accessibility standards.
 
-* 90 reporting entities reported between 81%-100% of their solicitations included all applicable Section 508 requirements (compared to 72 entities in FY23), with an overwhelming majority (80 entities or 63%) reporting 100% conformance (compared to 66 entities in FY23).
+* 90 reporting entities reported between 81%-100% of their solicitations included all applicable Section 508 requirements (compared to 72 entities in FY 2023), with an overwhelming majority (80 entities or 63%) reporting 100% conformance (compared to 66 entities in FY 2023).
 
 **Despite the improvement, over a quarter of reporting entities continue to report they do not know if their ICT solicitations include all applicable requirements**. With readily available tools, such as the <a href="{{site.baseurl}}/art/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a>, to ensure adequate digital accessibility language is included in all relevant solicitations, there is no justification for the ongoing release of solicitations without accountability for digital accessibility.
 
@@ -52,10 +52,10 @@ The Assessment asked a new question this year to better understand how reporting
 
 * 41 entities selected "other" for actions such as reviewing Accessibility Conformance Reports (ACRs), testing ICT, and ensuring inclusion of Section 508 in the technical evaluation.
 
-Following a FY23 Assessment recommendation for entities to increase inclusion of users with disabilities throughout the technology lifecycle, criteria continued to survey how the needs of individuals with disabilities are included during assessment of ICT-related business needs or equivalent acquisition planning process. The responses indicate a moderate, meaningful YOY increase (WRST: extremely statistically significant) and showed improvement with 75% fewer entities reporting that needs are not considered and almost 22% fewer entities noted that needs are sometimes considered but generally on an ad hoc basis. In addition, **56% more entities noted that needs are frequently considered and 72% more entities reported that needs are integrated into the business process and are almost always included**.
+Following a FY 2023 Assessment recommendation for entities to increase inclusion of users with disabilities throughout the technology lifecycle, criteria continued to survey how the needs of individuals with disabilities are included during assessment of ICT-related business needs or equivalent acquisition planning process. The responses indicate a moderate, meaningful YOY increase (WRST: extremely statistically significant) and showed improvement with 75% fewer entities reporting that needs are not considered and almost 22% fewer entities noted that needs are sometimes considered but generally on an ad hoc basis. In addition, **56% more entities noted that needs are frequently considered and 72% more entities reported that needs are integrated into the business process and are almost always included**.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-20.jpg" alt="Bar chart showing YOY comparison of percentage of responses for inclusion of people with disabilities during the assessment of ICT-related business needs or equivalent acquisition planning process (Q61) showing that 29 entities in FY24 did not known, 8 entities do not include down from 32 in FY23, 76 entities sometimes include down from 110 in FY23, 42 entities regularly include for both years, 39 entities frequently include up from 25 in FY23, 43 entities almost always include up from 25 in FY23, and 8 selected N/A in FY24 compared to 15 in FY23." aria-describedby="figure-20" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-20.jpg" alt="Bar chart showing YOY comparison of percentage of responses for inclusion of people with disabilities during the assessment of ICT-related business needs or equivalent acquisition planning process (Q61) showing that 29 entities in FY 2024 did not known, 8 entities do not include down from 32 in FY23, 76 entities sometimes include down from 110 in FY23, 42 entities regularly include for both years, 39 entities frequently include up from 25 in FY23, 43 entities almost always include up from 25 in FY23, and 8 selected N/A in FY24 compared to 15 in FY23." aria-describedby="figure-20" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-20"><strong>Figure 20.</strong> YOY comparison of percentage of responses for inclusion of PWD during the assessment of ICT-related business needs or equivalent acquisition planning process (Q61).</span>
    </div>
@@ -65,7 +65,7 @@ Additional Acquisitions and Procurement highlights include:
 
 * 50% of respondents regularly, frequently, or almost always obtain ACRs for all products and consideration for Section 508 conformance is a formal part of review during the market research phase for ICT products.
 
-* 46% of respondents regularly, frequently, or almost always include Section 508 in the technical evaluation of proposals related to ICT services and products. Comparatively, 43% never or only sometimes include Section 508 in the technical evaluation. The YOY difference indicates a small, meaningful increase (WRST: extremely statistically significant), with half of the reporting entities in FY24 now indicating they regularly include Section 508 in the technical evaluation of proposals, which is approximately 25%-59% of the time.
+* 46% of respondents regularly, frequently, or almost always include Section 508 in the technical evaluation of proposals related to ICT services and products. Comparatively, 43% never or only sometimes include Section 508 in the technical evaluation. The YOY difference indicates a small, meaningful increase (WRST: extremely statistically significant), with half of the reporting entities in FY 2024 now indicating they regularly include Section 508 in the technical evaluation of proposals, which is approximately 25%-59% of the time.
 
 <div class="callout-box-left=green">
   <p>Many reporting entities highlighted advancements in acquisitions and procurement over the past year, including:</p>
@@ -92,7 +92,7 @@ Additional Acquisitions and Procurement highlights include:
   </ul>
 </div>
 
-While entities made notable progress in integrating Section 508 considerations into ICT acquisitions, they still face challenges. In FY24, respondents increased verification of Section 508 conformance in contract deliverables prior to acceptance, and showed greater awareness of Section 508 requirements in their ICT solicitations. However, over a quarter of reporting entities still do not know whether their solicitations meet applicable Section 508 requirements. They also struggle with knowledge gaps among acquisition officials, inconsistent validation practices, and challenges in monitoring conformance throughout the procurement lifecycle. Entities should tackle these issues more effectively, as Section 508 compliance begins in the acquisition phase.
+While entities made notable progress in integrating Section 508 considerations into ICT acquisitions, they still face challenges. In FY 2024, respondents increased verification of Section 508 conformance in contract deliverables prior to acceptance, and showed greater awareness of Section 508 requirements in their ICT solicitations. However, over a quarter of reporting entities still do not know whether their solicitations meet applicable Section 508 requirements. They also struggle with knowledge gaps among acquisition officials, inconsistent validation practices, and challenges in monitoring conformance throughout the procurement lifecycle. Entities should tackle these issues more effectively, as Section 508 compliance begins in the acquisition phase.
 
 ## Exceptions
 
@@ -162,11 +162,11 @@ Further analysis on the three types of exceptions covered in the Assessment show
 
 * 79 entities (32%) did not know how many exceptions they had that fell into this category compared to 41% last year. 
 
-* A total of 122 fundamental alteration exceptions were issued this year compared to 2,734 reported in FY23, leading to a 96% decrease YOY.<sup><a href="#fn33" id="fr33">33</a></sup>
+* A total of 122 fundamental alteration exceptions were issued this year compared to 2,734 reported in FY 2023, leading to a 96% decrease YOY.<sup><a href="#fn33" id="fr33">33</a></sup>
 
-* The highest number of exceptions issued for a single entity was 27, compared to 2,674 in FY23.<sup><a href="#fn34" id="fr34">34</a></sup>
+* The highest number of exceptions issued for a single entity was 27, compared to 2,674 in FY 2023.<sup><a href="#fn34" id="fr34">34</a></sup>
 
-* Of entities who used this exception, the average was 8 fundamental alteration exceptions approved in FY24.
+* Of entities who used this exception, the average was 8 fundamental alteration exceptions approved in FY 2024.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-21.jpg" alt="A bar chart showing the total number of authorized Fundamental Alteration Exceptions in FY23 was 2734 compared to 122 in FY24." aria-describedby="figure-21" class="border-2px border-base-light shadow-2 padding-1">
@@ -179,14 +179,14 @@ Further analysis on the three types of exceptions covered in the Assessment show
 
 * 76 entities (31%) did not know how many exceptions they had that fell into this category compared to 39% last year.
 
-* A total of 8 exceptions were issued this year compared to 20 in FY23, leading to a 60% decrease YOY, which indicates a small, meaningful decrease (WRST: extremely statistically significant).
+* A total of 8 exceptions were issued this year compared to 20 in FY 2023, leading to a 60% decrease YOY, which indicates a small, meaningful decrease (WRST: extremely statistically significant).
 
-* The highest number of exceptions issued for a single entity was 3 compared to 8 in FY23.
+* The highest number of exceptions issued for a single entity was 3 compared to 8 in FY 2023.
 
-* Of entities who used this exception, the average was 1.6 Undue Burden exceptions approved in FY24.
+* Of entities who used this exception, the average was 1.6 Undue Burden exceptions approved in FY 2024.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-22.jpg" alt="A bar chart showing the total number of authorized Undue Burden Exceptions in FY23 was 20 compared to 8 in FY24." aria-describedby="figure-22" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-22.jpg" alt="A bar chart showing the total number of authorized Undue Burden Exceptions in FY 2023 was 20 compared to 8 in FY 2024." aria-describedby="figure-22" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-22"><strong>Figure 22:</strong> Comparison of total approved Undue Burden Exceptions.</span>
    </div>
@@ -196,11 +196,11 @@ Further analysis on the three types of exceptions covered in the Assessment show
 
 * 79 entities (32%) did not know how many exceptions they had that fell into this category compared to 41% last year.
 
-* A total of 1944 exceptions were issued in FY24 compared to 2774 in FY23, leading to a 30% decrease YOY.
+* A total of 1944 exceptions were issued in FY 2024 compared to 2774 in FY 2023, leading to a 30% decrease YOY.
 
-* The highest number of exceptions issued for a single entity was 679 compared to 1000 in FY23.
+* The highest number of exceptions issued for a single entity was 679 compared to 1000 in FY 2023.
 
-* Of the entities who used this exception, the average was 57 Best Meets exceptions approved in FY24.
+* Of the entities who used this exception, the average was 57 Best Meets exceptions approved in FY 2024.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-23.jpg" alt="A bar chart showing the total number of authorized Best Meets Exceptions in FY23 was 2774 compared to 1944 in FY24." aria-describedby="figure-23" class="border-2px border-base-light shadow-2 padding-1">
@@ -219,12 +219,12 @@ As findings show in [Compliance Key Findings]({{site.baseurl}}/manage/section-50
 <hr class="breaker-bar-green">
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="31">
       <li id="fn31">Q57 and Q99 both ask about the inclusion of sufficient ICT requirements in solicitations. Data validation checks found a discrepancy in the number of entities who reported they don’t release solicitations in Q57 (6 entities) and in Q99 (40 entities). <a href="#fr31" aria-label="Back to content">↩</a></li>
       <li id="fn32">Three Section 508 exceptions require documentation, including a plan to ensure people with disabilities can access and use ICT by an alternative means that meets their needs: Fundamental Alteration [36 CFR 1194 E202.6], Undue Burden [36 CFR 1194 E202.6], and Best Meets [36 CFR 1194 E202.7]. <a href="#fr32" aria-label="Back to content">↩</a></li>
-      <li id="fn33">We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr33" aria-label="Back to content">↩</a></li>
-      <li id="fn34">We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr34" aria-label="Back to content">↩</a></li>
+      <li id="fn33">We do not have enough information to know if the FY 2023 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr33" aria-label="Back to content">↩</a></li>
+      <li id="fn34">We do not have enough information to know if the FY 2023 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr34" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 
