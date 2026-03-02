@@ -30,7 +30,7 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 [Agency for International Development][1]  
 [Department of Agriculture][2]  
 [Department of Commerce][3]  
-[Department of Defense][4]  
+[Department of War][4]  
 [Department of Education][5]  
 [Department of Energy][6]  
 [Department of Health and Human Services][7]  
@@ -158,7 +158,7 @@ Maureen Brown - <maureen.brown@uspto.gov>
 Patricia Kless - <patricia.kless@uspto.gov>  
 
 ---
-## <span id ="usdod" ></span>Department of Defense (DOD)
+## <span id ="usdod" ></span>Department of War (DOW)
 ### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>    
@@ -178,9 +178,7 @@ Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Anita Walker - <anita.walker@darpa.mil>  
-### Defense Acquisition University (DAU)
-Consuala Spencer - <consuala.spencer@dau.edu>  
+Anita Walker - <anita.walker@darpa.mil>    
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -216,6 +214,8 @@ Joshua Myerson - <joshua.b.myerson.civ@mail.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
+### Defense Technology Security Administration (DTSA)
+Matthew R. Sullivan - <matthew.r.sullivan22.civ@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 Paul St. John - <paul.m.stjohn.civ@mail.mil> 
 ### Department of War Information Activity (DWIA)
@@ -233,15 +233,19 @@ John O. Adeika - <adeikajo@nro.mil>
 ### Navy
 Christopher Julka - <christopher.a.julka@navy.mil>
 
-  * **Bureau of Medicine and Surgery** <br>Christopher Julka - <christopher.a.julka@navy.mil>
+  * **Bureau of Medicine and Surgery** <br>Michael Williams - <michael.a.williams1.mil@health.mil><br>Brian Martin - <brian.k.martin4.civ@health.mil><br>Francis Dada - <francis.a.dada.civ@health.mil>  
   * **Bureau of Naval Personnel** <br>Bruce Shea - <bruce.e.shea@navy.mil>
   * **Naval Air Systems Command (NAVAIR)** <br>Andrea Simonelli - <andrea.l.simonelli.civ@us.navy.mil><br>Danny Snydeman -  <daniel.p.snydeman.civ@us.navy.mil>    
+  * **Naval Education and Training Command (NETC)** <br>Naomi Davis - <naomi.davis20.civ@us.navy.mil><br>Robert Maguire (Deputy) - <robert.j.maguire18.ctr@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
+  * **Naval History and Heritage Command (NHHC)** <br>Janee Price - <janee.r.price.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
-  * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
   * **Naval Supply Systems Command (NAVSUP)**<br>Ryan Celesnik - <ryan.s.celesnik.civ@us.navy.mil>  
-  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
+  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>
+  * **Office of Naval Research (HQ)** <br>Curtis Pelzer - <curtis.pelzer.civ@us.navy.mil>
+  * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>   
+  * **U.S. Pacific Fleet** <br>Sean Gano - <sean.k.gano2.civ@us.navy.mil>    
 
 ### Office of the Secretary of Defense (OSD)
 * **Chief Digital and Artificial Intelligence Office (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
@@ -259,6 +263,8 @@ Adam Grasheim - <adam.grasheim.1@usspacecom.mil>
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### United States Transportation Command (USTRANSCOM)
 USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
+### Warfighting Acquisition University (WarU)
+Consuala Spencer - <consuala.spencer@waru.edu>
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
