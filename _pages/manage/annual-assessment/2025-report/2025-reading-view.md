@@ -2367,7 +2367,7 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
 
 <div class="grid-col-12 callout-box-violet"><strong>Note</strong>: Agencies with an asterisk did not provide responses for FY 2025.</div>
 <h3 id="chief-financial-officers-cfo-act-agencies">Chief Financial Officers (CFO) Act Agencies</h3>
-<h id="department-of-agriculture-usda">Department of Agriculture (USDA)</h4>
+<h4 id="department-of-agriculture-usda">Department of Agriculture (USDA)</h4>
 <ol start="1">
   <li><a href="{{site.baseurl}}/manage/section-508-assessment/2025/summary-reports-by-agency/?id=USDA">Department of Agriculture (USDA)</a></li>
   <li><a href="{{site.baseurl}}/manage/section-508-assessment/2025/summary-reports-by-agency/?id=USDA#AMS">Agricultural Marketing Service (AMS)</a></li>
