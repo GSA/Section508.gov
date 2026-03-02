@@ -176,7 +176,7 @@ Those in the High-Very High overall performance category should consider a conti
 <hr class="breaker-bar-green">
 
 <div>
- <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+ <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
  <ol start="36">
    <li id="fn36">One at 70% conformance, one at 90% conformance, three at 100% conformance. <a href="#fr36" aria-label="Back to content">↩</a></li>
  </ol>
