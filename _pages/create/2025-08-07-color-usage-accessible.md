@@ -29,8 +29,8 @@ redirect_from:
 - /training/create/making-color-usage-accessible/
 format: html
 created: 2025-08-07
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
+updated: 2026-03-03
+exclude-changelog: true
 ---
 In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.
 
@@ -39,85 +39,48 @@ Color accessibility means making sure that someone does not need to perceive col
 
 Using color in an accessible way helps in the following ways:
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Purpose:</strong> Describes the purpose of the document, which is to establish the agency's policy for ensuring access to ICT and compliance with Section 508 of the Rehabilitation Act. It should include links to relevant rules that support the mandate.
+      A colorblind person may be unable to perceive certain colors, and will need information to be conveyed in a different way.
     </div>
   </li>
-
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Scope:</strong> Outlines to whom this policy should apply, including the agency's employees and contractors who develop, procure, maintain, or use ICT. It should reference the various forms of ICT and integrate with other relevant agency directives, including IT governance, records management, cybersecurity, privacy, and employee training policies to ensure consistency and compliance.
+      A person with low vision may be unable to read text that is too similar in color to the background, or distinguish between similar colors.
     </div>
   </li>
-
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Authority:</strong> Includes a list of the relevant laws and regulations. Refer to <a href="https://www.section508.gov/manage/laws-and-policies/" target="_blank" class="usa-link--external">IT Accessibility Laws and Policies</a> as well as your own agency policies.
+      A person with no vision may use a screen reader that will only relay words, not the colors used to display them.
     </div>
   </li>
-
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Policy:</strong> Includes the actions required to uphold the directive regarding accessible information and communication technologies, including development, maintenance, procurement, acquisition, etc. (See <a href="https://www.section508.gov/manage/policy-framework/introduction/" target="_blank" class="usa-link--external">Policy Framework</a> for examples). Also includes exceptions, documentation, remediation, reporting, and conformance with standards.
+      An individual from another country may have different cultural connotations for different colors, and may interpret your color usage differently than you intended unless you convey your meaning in other ways.
     </div>
   </li>
-
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Roles and Responsibilities:</strong> Contains a list of your agency's <a href="https://www.section508.gov/manage/roles/" target="_blank" class="usa-link--external">stakeholders who are responsible</a> for upholding Section 508 compliance. Describes the roles they play, collaboration, oversight, reporting, and guidance delivery.
-    </div>
-  </li>
-
-  <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">
-      <strong>Definitions:</strong> Provides definitions of core terms used throughout your policy, including agency-specific and Section 508 implementation terms and acronyms.
-    </div>
-  </li>
-
-  <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">
-      <strong>Resources:</strong> Includes relevant offices and contacts for further support.
+      A search engine or artificial intelligence tool may misunderstand how colors are intended to be interpreted (or may not perceive them at all), but will more easily understand direct terms like “urgent” or “overdue.”
     </div>
   </li>
 </ul>
-
 
 ## Disabilities Impacted by Color Usage
 Approximately 1 in 12 men and approximately 1 in 200 women experience color blindness (“Color Blindness,” National Eye Institute). When you are color blind, you are unable to perceive or distinguish between certain colors. You may have difficulty distinguishing between shades of red and green, or perceiving the difference between other colors, and may even be unable to distinguish any colors at all.
@@ -627,4 +590,4 @@ Use the following table as you check your ICT for color accessibility.
 * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
 
-**Reviewed/Updated:** November 2025
+**Reviewed/Updated:** March 2026
