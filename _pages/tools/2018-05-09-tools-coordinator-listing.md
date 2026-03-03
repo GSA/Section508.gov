@@ -21,7 +21,7 @@ created: 2018-05-08
 updated: 2026-02-06
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
-The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
+The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
 At the discretion of the agency CIO (or designee), components may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
 
@@ -30,7 +30,6 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 [Agency for International Development][1]  
 [Department of Agriculture][2]  
 [Department of Commerce][3]  
-[Department of Defense][4]  
 [Department of Education][5]  
 [Department of Energy][6]  
 [Department of Health and Human Services][7]  
@@ -43,6 +42,7 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 [Department of Transportation][14]  
 [Department of the Treasury][15]  
 [Department of Veterans Affairs][16]  
+[Department of War][4]  
 [Environmental Protection Agency][17]  
 [General Services Administration][18]  
 [National Aeronautics and Space Administration][19]  
@@ -158,7 +158,7 @@ Maureen Brown - <maureen.brown@uspto.gov>
 Patricia Kless - <patricia.kless@uspto.gov>  
 
 ---
-## <span id ="usdod" ></span>Department of Defense (DOD)
+## <span id ="usdod" ></span>Department of War (DOW)
 ### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>    
@@ -178,9 +178,7 @@ Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Anita Walker - <anita.walker@darpa.mil>  
-### Defense Acquisition University (DAU)
-Consuala Spencer - <consuala.spencer@dau.edu>  
+Anita Walker - <anita.walker@darpa.mil>    
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -200,13 +198,11 @@ Fariba Beg - <fariba.beg.civ@mail.mil>
 Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
-Add Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
+Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
-DLA Helpdesk - <508compliance@dla.mil>
-### Defense Media Activity (DMA)
-Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
+DLA Helpdesk - <508compliance@dla.mil>      
 ### Defense Microelectronics Activity (DMEA)  
 David Elliot - <david.s.elliott24.civ@mail.mil>  
 Kevin Butters - <kevin.f.butters.civ@mail.mil>  
@@ -218,8 +214,12 @@ Joshua Myerson - <joshua.b.myerson.civ@mail.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
+### Defense Technology Security Administration (DTSA)
+Matthew R. Sullivan - <matthew.r.sullivan22.civ@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Paul St. John - <paul.m.stjohn.civ@mail.mil>  
+Paul St. John - <paul.m.stjohn.civ@mail.mil> 
+### Department of War Information Activity (DWIA)
+La Toya Rose - <latoya.v.rose.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
 Tom Hicks – <thomas.hicks@mda.mil>
 ### National Defense University (NDU)
@@ -233,17 +233,21 @@ John O. Adeika - <adeikajo@nro.mil>
 ### Navy
 Christopher Julka - <christopher.a.julka@navy.mil>
 
-  * **Bureau of Medicine and Surgery** <br>Christopher Julka - <christopher.a.julka@navy.mil>
+  * **Bureau of Medicine and Surgery** <br>Michael Williams - <michael.a.williams1.mil@health.mil><br>Brian Martin - <brian.k.martin4.civ@health.mil><br>Francis Dada - <francis.a.dada.civ@health.mil>  
   * **Bureau of Naval Personnel** <br>Bruce Shea - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command (NAVAIR)** <br>Andrea Simonelli - <andrea.l.simonelli.civ@us.navy.mil><br>Ashley Lynch (Deputy)- <ashley.n.lynch9.civ@us.navy.mil>  
+  * **Naval Air Systems Command (NAVAIR)** <br>Andrea Simonelli - <andrea.l.simonelli.civ@us.navy.mil><br>Danny Snydeman -  <daniel.p.snydeman.civ@us.navy.mil>    
+  * **Naval Education and Training Command (NETC)** <br>Naomi Davis - <naomi.davis20.civ@us.navy.mil><br>Robert Maguire (Deputy) - <robert.j.maguire18.ctr@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
+  * **Naval History and Heritage Command (NHHC)** <br>Janee Price - <janee.r.price.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
-  * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
   * **Naval Supply Systems Command (NAVSUP)**<br>Ryan Celesnik - <ryan.s.celesnik.civ@us.navy.mil>  
-  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
+  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>
+  * **Office of Naval Research (HQ)** <br>Curtis Pelzer - <curtis.pelzer.civ@us.navy.mil>
+  * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>   
+  * **U.S. Pacific Fleet** <br>Sean Gano - <sean.k.gano2.civ@us.navy.mil>    
 
-### Office of the Secretary of Defense (OSD)
+### Office of the Secretary of War (OSW)
 * **Chief Digital and Artificial Intelligence Office (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
 * **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
 
@@ -259,6 +263,8 @@ Adam Grasheim - <adam.grasheim.1@usspacecom.mil>
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### United States Transportation Command (USTRANSCOM)
 USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
+### Warfighting Acquisition University (WarU)
+Consuala Spencer - <consuala.spencer@waru.edu>
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -943,7 +949,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: February 2026
+**Reviewed/Updated**: March 2026
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
