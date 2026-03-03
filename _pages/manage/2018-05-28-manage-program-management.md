@@ -27,7 +27,7 @@ Learn how to manage a federal IT Accessibility Program, help your agency comply 
 To be successful, you’ll need to clearly define roles and responsibilities.
 
 - [Roles & Responsibilities][3] - Covers responsibilities for program management, implementation and OMB reporting.
-- [IT Accessibility/508 Program Manager Responsibilities][4] - Recommend knowledge, skills and abilities.
+- [Section 508 Program Manager Responsibilities][4] - Recommend knowledge, skills and abilities.
 
 ## Assessing User Needs
 
@@ -81,7 +81,7 @@ Federal agencies are required to follow Section 508 and related laws and policie
 [3]: {{site.baseurl}}/manage/roles
 [4]: {{site.baseurl}}/manage/program-manager-responsibilities
 [5]: {{site.baseurl}}/manage/identify-user-needs
-[6]: {{site.baseurl}}/create/universal-design
+[6]: {{site.baseurl}}/develop/universal-design
 [7]: {{site.baseurl}}/manage/support-accessible-content
 [8]: {{site.baseurl}}/manage/laws-and-policies
 [9]: {{site.baseurl}}/manage/reporting

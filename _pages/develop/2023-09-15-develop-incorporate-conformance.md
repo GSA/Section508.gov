@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: develop
 title: "Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes"
+description: Learn methods and tools to integrate accessibility conformance validation into development. Improve ICT products with inclusive, efficient practices.
 permalink: develop/incorporating-accessibility-conformance/
 topic: "Development (dev)"
 sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"

@@ -7,9 +7,10 @@ import { LandingPageService, NextPage } from 'src/app/shared/services/landing-pa
 import { environment } from 'src/environments/environment'
 
 @Component({
-  selector: 'art-landing-page',
-  templateUrl: './landing-page.component.html',
-  styleUrls: ['./landing-page.component.scss']
+    selector: 'art-landing-page',
+    templateUrl: './landing-page.component.html',
+    styleUrls: ['./landing-page.component.scss'],
+    standalone: false
 })
 export class LandingPageComponent implements OnInit {
 

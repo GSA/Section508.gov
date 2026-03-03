@@ -24,7 +24,7 @@ To set the record straight, we've defined what both words mean, in terms of IT a
 
 ## Compliance
 
-Under [Section 508 of the Rehabilitation Act (29 U.S.C. &sect; 794 d)][1], all federal agencies must ensure that any Information and Communication Technology (ICT) they &ldquo;develop, procure, maintain or use&rdquo; is accessible. Agencies need to provide disabled employees and members of the public access to information comparable to the access available to others.
+Under [Section 508 of the Rehabilitation Act (29 U.S.C. &sect; 794 d)][1], all federal agencies must ensure that any information and communication technology (ICT) they &ldquo;develop, procure, maintain or use&rdquo; is accessible. Agencies need to provide disabled employees and members of the public access to information comparable to the access available to others.
 
 ## Conformance
 

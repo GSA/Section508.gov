@@ -2,85 +2,96 @@
 <!-- Bordered section-->
 <div art-generic-text-layout="top-border">
 
-    <div class="margin-3">
+  <div class="margin-3">
 
-         <!-- Input field section for the name. WIll be visible for the upload page and Ict page-->
-         <art-generic-text *ngIf="artIctLpService.getUserQuestion()">
-            <div class ="font-serif-lg margin-bottom-1">
-                <b>{{artIctLpService.getUserQuestion()}}</b>
-            </div>
-            <div class="margin-left-2">
-                <p class="margin-bottom-0">
-                    {{artIctLpService.getUserInputLabel()}}
-                </p>
-                <!-- Input field -->
-                <art-form-template 
-                    [formConfig]="nameFormConfig" 
-                    [scanChange]="scanChange"
-                    [formList]="formList"
-                ></art-form-template>
-            </div>         
-         </art-generic-text>
-
-        <!-- Upload ICT section-->
-        <div *ngIf="nextPage.uploadICT === landingPageService.getNextPage()" >
-            <!-- Get Upload button container section-->
-            <div class="margin-bottom-neg-1">
-                <div class ="font-serif-lg">
-                    <b>{{artIctLpService.getUploadBtn().description}}</b>
-                </div>
-            </div>
-
-            <!-- File upload section-->
-            <div id="art-upload-button-container" class="margin-left-2 margin-bottom-3">
-                <art-file-upload 
-                    (getFileData)="onFileReceive($event)" 
-                    [maxFilesNbr]="maxItems - ictItems.length"
-                    [maxFile]="maxItems"
-                    [maxLength] = "artIctLpService.getMaxLength()"
-                >
-                </art-file-upload>
-            </div>
+    <!-- Input field section for the name. WIll be visible for the upload page and Ict page-->
+    @if (artIctLpService.getUserQuestion()) {
+      <art-generic-text>
+        <div class ="font-serif-lg margin-bottom-1">
+          <b>{{artIctLpService.getUserQuestion()}}</b>
         </div>
-
-        <!-- Input field section-->
-        <art-generic-text *ngIf="artIctLpService.getSectionTitle() && nextPage.getStarted === landingPageService.getNextPage()">
-                <div class ="font-serif-lg margin-bottom-1">
-                    <b>{{artIctLpService.getSectionTitle()}}</b>
-                </div>
-                <div class="margin-left-2">
-                    <p class="margin-bottom-0">
-                        {{artIctLpService.getInputLabel()}}
-                    </p>
-                    <!-- Input field -->
-                    <art-form-template 
-                        [formConfig]="formConfig" 
-                        [scanChange]="scanChange"
-                        (formData)="onFormSubmitted($event)"
-                    ></art-form-template>
-                    <i class="usa-error-message font-sans-2xs" *ngIf="ictItems.length >= maxItems">{{artIctLpService.getErrorMsg()}}</i>
-                </div>         
-        </art-generic-text>
-         <!-- Listing ICT Items -->
-         <div class="margin-left-2 margin-top-1">
-            <span *ngFor= "let eachIctItem of ictItems; let index = index">
-                <art-ict-item 
-                    [index] = "index + 1"
-                    [ictItem]="eachIctItem"
-                    (delete)="onItemDelete($event)"
-                >
-                </art-ict-item>
-            </span>
-        </div>  
-        <!-- Continue button-->
-        <div class="margin-top-5" *ngIf="ictItems">
-            <art-button  
-                [buttonData] = "artIctLpService.getContBtl()" 
-                [disabled]="ictItems.length <= 0"
-                >
-            </art-button>
+        <div class="margin-left-2">
+          <p class="margin-bottom-0">
+            {{artIctLpService.getUserInputLabel()}}
+          </p>
+          <!-- Input field -->
+          <art-form-template
+            [formConfig]="nameFormConfig"
+            [scanChange]="scanChange"
+            [formList]="formList"
+          ></art-form-template>
         </div>
+      </art-generic-text>
+    }
+
+    <!-- Upload ICT section-->
+    @if (nextPage.uploadICT === landingPageService.getNextPage()) {
+      <div >
+        <!-- Get Upload button container section-->
+        <div class="margin-bottom-neg-1">
+          <div class ="font-serif-lg">
+            <b>{{artIctLpService.getUploadBtn().description}}</b>
+          </div>
+        </div>
+        <!-- File upload section-->
+        <div id="art-upload-button-container" class="margin-left-2 margin-bottom-3">
+          <art-file-upload
+            (getFileData)="onFileReceive($event)"
+            [maxFilesNbr]="maxItems - ictItems.length"
+            [maxFile]="maxItems"
+            [maxLength] = "artIctLpService.getMaxLength()"
+            >
+          </art-file-upload>
+        </div>
+      </div>
+    }
+
+    <!-- Input field section-->
+    @if (artIctLpService.getSectionTitle() && nextPage.getStarted === landingPageService.getNextPage()) {
+      <art-generic-text>
+        <div class ="font-serif-lg margin-bottom-1">
+          <b>{{artIctLpService.getSectionTitle()}}</b>
+        </div>
+        <div class="margin-left-2">
+          <p class="margin-bottom-0">
+            {{artIctLpService.getInputLabel()}}
+          </p>
+          <!-- Input field -->
+          <art-form-template
+            [formConfig]="formConfig"
+            [scanChange]="scanChange"
+            (formData)="onFormSubmitted($event)"
+          ></art-form-template>
+          @if (ictItems.length >= maxItems) {
+            <i class="usa-error-message font-sans-2xs">{{artIctLpService.getErrorMsg()}}</i>
+          }
+        </div>
+      </art-generic-text>
+    }
+    <!-- Listing ICT Items -->
+    <div class="margin-left-2 margin-top-1">
+      @for (eachIctItem of ictItems; track eachIctItem; let index = $index) {
+        <span>
+          <art-ict-item
+            [index] = "index + 1"
+            [ictItem]="eachIctItem"
+            (delete)="onItemDelete($event)"
+            >
+          </art-ict-item>
+        </span>
+      }
     </div>
+    <!-- Continue button-->
+    @if (ictItems) {
+      <div class="margin-top-5">
+        <art-button
+          [buttonData] = "artIctLpService.getContBtl()"
+          [disabled]="ictItems.length <= 0"
+          >
+        </art-button>
+      </div>
+    }
+  </div>
 </div>
 
 

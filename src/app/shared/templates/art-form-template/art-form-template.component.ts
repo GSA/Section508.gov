@@ -41,9 +41,10 @@ interface ErrorMessage {
   required?: string;
 }
 @Component({
-  selector: "art-form-template",
-  templateUrl: "./art-form-template.component.html",
-  styleUrls: ["./art-form-template.component.scss"],
+    selector: "art-form-template",
+    templateUrl: "./art-form-template.component.html",
+    styleUrls: ["./art-form-template.component.scss"],
+    standalone: false
 })
 export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
   sectionLabelMapping: any = {
@@ -804,9 +805,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         switch (parentForm.value["sol-type"]) {
           case "red":
             additionalNext =
-              this.formConfig[outerIndex].formElements[0].options?.at(
-                0
-              )?.additionalNext;
+            this.formConfig[outerIndex].formElements[0].options && this.formConfig[outerIndex].formElements[0].options[0]?.additionalNext;
             break;
           case "green":
             formElements = formElements.filter(
@@ -814,7 +813,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             );
             additionalNext = [];
             additionalNext.push(
-              this.formConfig[outerIndex].formElements[0].options?.at(1)?.next
+              this.formConfig[outerIndex].formElements[0].options && this.formConfig[outerIndex].formElements[0].options[1]?.next
             );
             let element = formElements[0];
             let optionIndex = 2;
@@ -846,9 +845,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             break;
           case "blue":
             additionalNext =
-              this.formConfig[outerIndex].formElements[0].options?.at(
-                2
-              )?.additionalNext;
+            this.formConfig[outerIndex].formElements[0].options && this.formConfig[outerIndex].formElements[0].options[2]?.additionalNext;
             break;
         }
         formElements = formElements.filter(

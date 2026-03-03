@@ -1,0 +1,167 @@
+---
+layout: page
+sidenav: true
+type: test
+title: 'Test for Accessibility'
+permalink: test/
+redirect_from:
+- refresh-toolkit/test/
+- Refresh-toolkit/test/
+description: Learn Section 508 accessibility testing lifecycle, methods, and tools for electronic documents, hardware, software, and websites.
+topic: Testing (test)
+sub-topic: Various Electronic Content (i.e. Multiple)
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
+created: 2018-05-22
+updated: 2025-08-13
+redirect_from: test/testing-for-developers/
+exclude-changelog: true
+---
+An overview of testing methods and the tools to test websites, software, and electronic documents for conformance with the <a href="https://www.access-board.gov/ict/">Section 508 Standards</a>. You can also review guidance on the Interagency Trusted Tester Program.
+
+<section class="usa-section">
+<ul class="usa-card-group">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/testing-lifecycle-overview/">Testing Lifecycle</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-primary">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-lifecycle.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Learn  about the testing lifecycle: planning, scoping, testing, remediating issues and ongoing monitoring.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/testing-overview/">Testing Methods</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-accent-warm">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-methods.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Learn about the several ways to validate Section 508 conformance: automated, manual, and hybrid.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-green">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-tools-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Find out more about testing tools, software, and guidance for running tests.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/documents/">Test Documents</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-gold">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-documents.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Overall guidance for Federal agencies to evaluate digital content, including electronic documents, for conformance to the Revised 508 Standards.</p>
+      </div>
+    </div>
+  </li> 
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/ict-hardware-overview/">Test Hardware</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-magenta">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-hardware.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Learn about Federal ICT hardware under Section 508, including accessibility requirements for computers, kiosks, printers, telecom equipment, and more</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/software/">Test Software</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-orange">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-software-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Explore Section 508 software accessibility requirements for federal ICT, including desktop, mobile, and cloud apps that must work with assistive technologies.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/websites/">Test Websites</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-cyan">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-websites.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Learn about Section 508 accessibility standards for federal websites and web pages, ensuring compliance for public and internal web content.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/ict-testing-baseline-portfolio/">ICT Testing Baseline Portfolio</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-violet">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-baseline.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Baseline tests of information and communication technology (ICT) attempt to reduce ambiguity, increase consistency of results, and emphasize methods and techniques to reliably meet federal accessibility requirements.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/">Trusted Tester Process & Certification Program</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-primary-light">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Trusted Tester for Web Certification courses version 5.1.3 is now available.<br>
+        <a href="https://training.section508testing.net/" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
+      </div>
+    </div>
+  </li>
+</ul>
+</section>

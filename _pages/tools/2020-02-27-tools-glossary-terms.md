@@ -22,7 +22,7 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 - glossary/
 created: 2020-02-27
-updated: 2025-06-23
+updated: 2026-02-24
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -52,11 +52,19 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
+  </tr>
+  <tr>
+    <th scope="row" id="acr-repository">Acceptance Criteria</th>
     <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
+    <th scope="row" id="accessibility-implementation">Accessibility Implementation</th>
+    <td>This measures an agency’s Section 508 implementation across policy, acquisition and procurement, and testing and remediation. This outcome range consists of an index using a scale from 0 to 5, with 0 representing very low implementation and 5 representing very high implementation.</td>
+  </tr>
+  <tr>
     <th scope="row" id="accessibility-policy">Accessibility Policy</th>
-    <td>Policy for implementing Section 508 or Information and Communication Technology (ICT) accessibility requirements.</td>
+    <td>Policy for implementing Section 508 or information and communication technology (ICT) accessibility requirements.</td>
   </tr>
   <tr>
     <th scope="row" id="accessibility-statement">Accessibility Statement</th>
@@ -138,6 +146,14 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="assistive-technology">Assistive Technology (AT)</th>
     <td>Any item, piece of equipment, or system (whether acquired commercially, modified, or customized), that is commonly used to increase, maintain, or improve functional capabilities of individuals with disabilities.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="assistive-technology-compatibility">Assistive Technology (AT) compatibility</th>
+    <td>The ability of the ICT to work with AT without blocking access. Compatibility ensures AT can connect, recognize, and use the ICT, but may not mean consistent or seamless interaction.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="assistive-technology-interoperability">Assistive Technology (AT) interoperability</th>
+    <td>The ICT reliably communicates programmatic elements with AT and ensures AT can interact with, interpret, and control ICT features in a consistent and usable way.</td>
   </tr>
   <tr>
     <th scope="row" id="audio-descriptions">Audio Descriptions (AD)</th>
@@ -340,6 +356,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="criteria">Criteria</th>
     <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
+  <tr>
+    <th scope="row" id="cure-notice">Cure Notice</th>
+    <td>A formal written notification, used within the Federal Acquisition Regulation (FAR), to inform a contractor that their failure to perform or lack of progress, is jeopardizing contract performance and gives the contractor an opportunity to correct the issue before the government proceeds with termination for default.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -358,6 +378,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="data-table">Data table</th>
     <td>A table with information organized into categories.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="data-table">Design Considerations</th>
+    <td>Needs and preferences of different user types, represented through personas, that guide development and ensure accessibility for people with varied abilities.</td>
   </tr>
   <tr>
     <th scope="row" id="deploying">Deploying</th>
@@ -418,6 +442,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="electronic-content">Electronic Content</th>
     <td>All forms of digital data and its encoding, covering both public and internal information as defined by <a href="https://www.access-board.gov/ict/#E205-content" target="_blank" class="usa-link--external">E205 of the Section 508 Standards</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="enterprise-architecture-review-board">Enterprise Architecture Review Board (EARB)</th>
+    <td> A team that reviews proposed IT projects to make sure they fit with the organization’s overall technology plans and standards. They help ensure systems work well together, stay secure, and support organizational goals.</td>
   </tr>
   <tr>
     <th scope="row" id="exceptions">Exceptions</th>
@@ -536,7 +564,8 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="hardware">Hardware</th>
-    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.</td>
+    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.<br> <br>
+    This also includes but is not limited to: monitors, kiosks, ATMs, and ticketing machines.</td>
   </tr>
   <tr>
     <th scope="row" id="header-attribute">Header attribute</th>
@@ -557,6 +586,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="hypertext">Hypertext</th>
     <td>The clickable text on a webpage that links to another document or webpage.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="http">Hypertext Transfer Protocol (HTTP)</th>
+    <td>HTTP is the set of rules that web browsers and servers use to communicate and transfer information. It defines how requests (such as loading a webpage) and responses (such as sending back the page content) are handled over the internet.</td>
   </tr>
   <tr>
     <th scope="row" id="html">Hypertext Markup Language (HTML)</th>
@@ -603,6 +636,16 @@ These terms appear throughout our website, communications, and reports, includin
     <td>See <a href="#universal-design">universal design</a></td>
   </tr>
   <tr>
+  <th scope="row" id="individual-disability">Individual with a disability</th>
+  <td> Under federal disability nondiscrimination laws, this is an individual, applicant, employee or participant who:
+    <ul>
+    <li>has a physical or mental impairment that substantially limits one or more of the major life activities of such individual;</li>
+    <li>has a record of such an impairment; or</li>
+    <li>is regarded as having such an impairment.</li>
+    </ul>
+  </td>
+  </tr>
+  <tr>
     <th scope="row" id="ict">Information and Communication Technology (ICT)</th>
     <td><p>Information and Communication Technology, which is defined by the <a href="https://www.access-board.gov/ict/#E103.4" target="_blank" class="usa-link--external">Access Board in Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements in E103.4 Defined Terms Access Board</a> in E103.4 Defined Terms Access Board as “[i]nformation technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and, electronic documents.</p>
     <p>"ICT accessibility" and "digital accessibility" may be used interchangeably.</p></td>
@@ -622,6 +665,10 @@ These terms appear throughout our website, communications, and reports, includin
       </ol>
     </td>
   </tr>
+  <tr>
+    <th scope="row" id="institutional-review-board">Institutional Review Board (IRB)</th>
+    <td>A group that reviews research involving people to make sure it’s safe, ethical, and follows the rules. They check that participants’ rights are protected before the research starts.</td>
+    </tr>
   <tr>
     <th scope="row" id="interactive-element">Interactive element</th>
     <td>Application content that a user may modify, activate, or use to input data.</td>
@@ -885,6 +932,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Guidelines that set clear, measurable job performance expectations.</td>
   </tr>
   <tr>
+    <th scope="row" id="persona">Persona</th>
+    <td>A semi‑fictional character representing a group of users, built from real research data. In the context of Section 508 and digital accessibility, a persona captures not just demographics but how a user interacts with technology — including any assistive tools, their goals, frustrations, and needs. Personas are used during the research and design phases to help teams understand various user needs (including users with disabilities) and to guide development so that services, products, or websites are accessible and inclusive.</td>
+  </tr>
+  <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>
     <td>Services provided by a platform that enables interoperability with assistive technology. Examples include Application Programming Interfaces (API) and the Document Object Model (DOM).</td>
   </tr>
@@ -939,6 +990,9 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+  <th scope="row" id="qualified-individual">Qualified individual with a disability</th> <td>For purposes of receiving services, education or training, qualified <a href="{{site.baseurl}}/tools/glossary/#individual-disability">individuals with disabilities</a> meet essential eligibility requirements or qualifications for the job.</td>
+  </tr> 
+  <tr>
     <th scope="row" id="quality-assurance">Quality Assurance (QA)</th>
     <td>An activity to ensure an organization provides the best possible product or service to customers, often based on standardized testing methods.</td>
   </tr>
@@ -967,6 +1021,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="rtt">Real-Time Text (RTT)</th>
     <td>Communication by which characters are transmitted by a terminal as they are typed. Real-time text is used for conversational purposes, and may also be used in voicemail, interactive voice response systems, and other similar applications.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="ra">Reasonable Accommodation (RA)</th>
+    <td>In Section 504, this is a workplace modification that allows a <a href="{{site.baseurl}}/tools/glossary/#qualified-individual">qualified individual with a disability</a> to apply for a job, perform essential job functions, or enjoy employment benefits. This is provided unless it creates an undue hardship for the agency. Examples of RAs include physical workplace modifications, assistive technology, a reader, sign language interpreter, or adjustments to the work schedule.</td>
   </tr>
   <tr>
     <th scope="row" id="reimbursable-service">Reimbursable service</th>
@@ -1130,6 +1188,11 @@ These terms appear throughout our website, communications, and reports, includin
     <td>The name of a category of data in a <a href="#data-table">data table</a> row or column. In a<a href="#simple-data-table"> simple data table</a>, column headers are provided in the first row and apply to the data cells in their respective columns. Similarly, row headers are provided in the first column and apply to the data cells in their respective rows. In a<a href="#complex-data-table"> complex data table</a>, a column header may be defined in any row, and may apply to multiple columns or to a few cells in a column, and a row header may be defined in any column, and may apply to multiple rows or to a few cells in a row.</td>
   </tr>
   <tr>
+    <th scope="row" id="tep">Technical Evaluation Panel (TEP)</th>
+    <td>A group of subject matter experts assembled during the federal acquisition process to review, assess, and score proposals submitted in response to a solicitation. In the context of Section 508, the TEP evaluates whether proposed Information and Communication Technology (ICT) solutions meet applicable accessibility standards and requirements, ensuring that vendors’ products or services comply with Section 508 accessibility regulations before contract award.
+    </td>
+  </tr>
+  <tr>
     <th scope="row" id="trs">Telecommunications Relay Services (TRS)</th>
     <td><a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities.</td>
   </tr>
@@ -1200,6 +1263,14 @@ These terms appear throughout our website, communications, and reports, includin
     <td>An action that requires significant difficulty or expense. In determining whether an action would result in an undue burden, an agency shall consider all agency resources available to the program or component for which the product is being developed, procured, maintained, or used.</td>
   </tr>
   <tr>
+    <th scope="row" id="uri">Universal Resource Identifier (URI)</th>
+    <td>A URI is a standardized way to identify and locate a resource on the internet. It can point to a webpage, file, image, or other resource, and may include information about how to access it. Web addresses (URLs) are a common type of URI.</td>
+  </tr>
+    <tr>
+    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
+    <td>A form of Universal Resource Identifier (URI), a URL is what a user types into a browser to find the location of a resource on the web.</td>
+  </tr>
+  <tr>
     <th scope="row" id= "user-agent">User Agent </th>
     <td>&nbsp;As per&nbsp;<a href="https://www.w3.org/WAI/UA/work/wiki/Definition_of_User_Agent" target="_blank" class="usa-link--external">W3.org definition</a>, "[a] user agent is any software that retrieves and presents Web content for end users or is implemented using Web technologies. User agents include Web browsers, media players, and plug-ins that help in retrieving, rendering and interacting with Web content. The family of user agents also includes operating system shells, consumer electronics with Web-widgets, and stand-alone applications or embedded applications whose user interface is implemented as a combination of Web technologies."</td>
   </tr>
@@ -1212,12 +1283,8 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Elements of an application that convey information.</td>
   </tr>
   <tr>
-    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
-    <td>What a user types into a browser to find the location of a resource on the web.</td>
-  </tr>
-  <tr>
     <th scope="row" id="universal-design">Universal design</th>
-    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/create/universal-design">Universal design</a> is also referred to as inclusive design.</td>
+    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/develop/universal-design">Universal design</a> is also referred to as inclusive design.</td>
   </tr>
 </tbody>
 </table>
@@ -1277,7 +1344,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="webpage">Webpage (web page)</th>
-    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
+    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single <a href="#uri">Universal Resource Identifier (URI)</a> using <a href="http">Hypertext Transfer Protocol (HTTP)</a> plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
     <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, a document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one page.</p></td>
   </tr>
   <tr>
@@ -1287,4 +1354,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** June 2025
+**Reviewed/Updated:** February 2026

@@ -2,7 +2,7 @@
 title: "Demystifying the Procurement Process | Webinar"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Mar 26 2024 14:30 #otherwise use end-date
+end-date: 2024-03-26 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-mar2024/

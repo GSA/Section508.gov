@@ -1,13 +1,14 @@
 ---
 sidenav: true
 layout: page
-permalink: training/art/introducing-art-03/
 type: training
 title: 'How Do I Use the Section 508 Requirements Created by ART?'
+description: This video provides instruction on how to use ART to help you conduct market research, write documentation, and determine technical requirements that apply to the information and communication technology (ICT) that you wish to procure.
+permalink: training/art/introducing-art-03/
 created: 2024-07-25
 updated: 2025-01-09
 ---
-This episode provides instruction on how to use ART to help you conduct market research, write documentation, and determine technical requirements that apply to the [Information and Communication Technology (ICT)][6] that you want to procure. 
+This episode provides instruction on how to use ART to help you conduct market research, write documentation, and determine technical requirements that apply to the [information and communication technology (ICT)][6] that you want to procure. 
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-art-poster-03.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/assets/videos/art-introduction-03-oc.mp4" type="video/mp4" /></video>
 

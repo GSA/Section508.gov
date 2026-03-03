@@ -4,6 +4,10 @@ sidenav: true
 type: training
 title: Accessibility Conformance Report (ACR) Library
 permalink: accessibility-conformance-reports/
+redirect_from: 
+- acr/
+- acr-library/
+- conformance-reports/
 description: Explore our ACR Library for accessibility compliance reports on our ICT tools and online training. Ensure Section 508 compliance for informed procurement and development.
 disclaimer: 
 hide-date: 
@@ -30,10 +34,6 @@ resource_type:
 format: html
 created: 2025-04-28
 updated: 2024-05-12
-redirect_from: 
-- acr/
-- acr-library/
-- conformance-reports/
 ---
 The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov, and provides Accessibility Conformance Reports (ACRs) for external products and tools to help users make informed procurement decisions.
 

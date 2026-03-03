@@ -2,9 +2,10 @@ import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 import { ArtSideMenuInterface } from '../../models/art-side-menu.interface';
 
 @Component({
-  selector: 'art-side-navigation',
-  templateUrl: './art-side-navigation.component.html',
-  styleUrls: ['./art-side-navigation.component.scss']
+    selector: 'art-side-navigation',
+    templateUrl: './art-side-navigation.component.html',
+    styleUrls: ['./art-side-navigation.component.scss'],
+    standalone: false
 })
 export class ArtSideNavigationComponent implements OnInit {
 

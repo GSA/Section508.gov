@@ -4,9 +4,10 @@ import { FormElement } from "../../models/form-element.interface";
 import { FormPageService } from "../../services/form-page/form-page.service";
 
 @Component({
-    selector:'art-radiobutton-group',
+    selector: 'art-radiobutton-group',
     templateUrl: './art-radiobutton-group.component.html',
-    styleUrls:['./art-radiobutton-group.component.scss']
+    styleUrls: ['./art-radiobutton-group.component.scss'],
+    standalone: false
 })
 
 export class RadiobuttonGroupComponent implements OnInit{

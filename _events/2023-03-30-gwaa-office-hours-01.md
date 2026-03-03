@@ -1,8 +1,8 @@
 ---
 title: "Section 508 Assessment Office Hours #1 | April 11, 2023"
 layout: wide_events
-start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Apr 11 2023 10:00 #otherwise use end-date
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2023-04-11 #otherwise use end-date (YYYY-MM-DD)
 image:
 image-alt: 
 permalink: /event/gwaa-office-hours-11apr2023/

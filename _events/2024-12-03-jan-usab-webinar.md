@@ -3,12 +3,10 @@ layout: wide_events
 title: "Highlights from the Fiscal Year 2024 Government-wide Section 508 Assessment | Webinar"
 permalink: /event/best-practices-webinar-jan2025/
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Jan 21 2025 13:00 #otherwise use end-date
+end-date: 2025-01-21 #otherwise use end-date
 description: Presenters from the General Services Administration will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations.
 created: 2024-12-03
 updated: 2025-01-07
-image: seals-logos/usab.jpg
-image-alt: Seal of the U.S. Access Board
 ---
 In late 2022, Congress enacted the Consolidated Appropriations Act, Section 752, requiring the General Services Administration (GSA), in consultation with the Office of Management and Budget (OMB), to report annually on the Section 508 compliance of the federal government and each federal agency. The presenters will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations.
 

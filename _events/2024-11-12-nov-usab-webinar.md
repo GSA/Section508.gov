@@ -2,7 +2,7 @@
 title: "Essential Strategies for Creating Accessible Social Media Content | Webinar"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, November 26 2024 13:00 #otherwise use end-date
+end-date: 2024-11-26 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-nov2024/

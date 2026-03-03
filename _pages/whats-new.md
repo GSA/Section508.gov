@@ -1,0 +1,129 @@
+---
+layout: post
+sidenav: true
+type: article
+title: What's New on Section508.gov? 
+permalink: whats-new/
+description: "Stay up to date with the latest additions and changes to Section508.gov. This page lists updated content from the past 30 days—making it easy to find new accessibility training, tools, guidance, and policy updates."
+created: 2025-07-01
+updated: 2026-03-02
+exclude-changelog: true
+---
+
+Stay up to date with the latest additions and changes to Section508.gov. This page displays the most recent content updates—making it easy to find new accessibility training, tools, guidance, and policy updates.
+
+{% comment %} Version 4: Alternate Title - Added title-featured flag for alternate title in whats new. {% endcomment %}
+{% assign recent_pages = "" | split: "" %}
+{% assign fallback_pages = "" | split: "" %}
+{% assign featured_items = "" | split: "" %}
+{% assign today = "now" | date: "%s" %}
+{% assign thirty_days_ago = today | minus: 2592000 %}
+
+{%- assign all_entries = site.pages | concat: site.posts -%}
+
+{%- comment -%} Precompute post URLs for fast lookup {%- endcomment -%}
+{% assign post_urls = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign post_urls = post_urls | push: post.url %}
+{% endfor %}
+
+{% for page in all_entries %}
+  {% unless page.exclude-changelog %}
+
+    {% assign created_epoch = page.created | date: "%s" | plus: 0 %}
+    {% if page.updated %}
+      {% assign updated_epoch = page.updated | date: "%s" | plus: 0 %}
+    {% else %}
+      {% assign updated_epoch = created_epoch %}
+    {% endif %}
+
+    {% assign most_recent_epoch = updated_epoch %}
+    {% assign display_date = page.updated | default: page.created %}
+    {% assign description = page.description | strip | replace: "|", "&#124;" %}
+
+    {%- comment -%} Determine which title to display {%- endcomment -%}
+    {% assign display_title = page.title %}
+    {% if page.title-alt %}
+      {% assign display_title = page.title-alt %}
+    {% endif %}
+
+    {%- comment -%}
+    Packed format for sorting:
+    epoch|title|url|date|description
+    {%- endcomment -%}
+    {% assign packed = most_recent_epoch
+      | append: "|" | append: display_title
+      | append: "|" | append: page.url
+      | append: "|" | append: display_date
+      | append: "|" | append: description %}
+
+    {% if page.featured and most_recent_epoch >= thirty_days_ago %}
+      {% assign featured_items = featured_items | push: packed %}
+    {% endif %}
+
+    {% if most_recent_epoch >= thirty_days_ago %}
+      {% assign recent_pages = recent_pages | push: packed %}
+    {% endif %}
+
+    {% assign fallback_pages = fallback_pages | push: packed %}
+
+  {% endunless %}
+{% endfor %}
+
+{%- assign sorted_featured = featured_items | sort_natural | reverse -%}
+{%- assign sorted_recent = recent_pages | sort_natural | reverse -%}
+{%- assign sorted_fallback = fallback_pages | sort_natural | reverse -%}
+
+{% assign combined = sorted_featured
+  | concat: sorted_recent
+  | concat: sorted_fallback
+  | uniq %}
+
+{% assign source_items = combined | slice: 0, 5 %}
+{% assign display_items = "" | split: "" %}
+
+{%- comment -%}
+Restore display order and append "(Blog)" to posts
+{%- endcomment -%}
+{% for item in source_items limit:display_limit %}
+  {% assign parts = item | split: "|" %}
+  {% assign title = parts[1] %}
+  {% assign url = parts[2] %}
+  {% assign display_date = parts[3] %}
+  {% assign description = parts[4] %}
+  {% assign epoch = parts[0] %}
+
+  {% if post_urls contains url %}
+    {% assign title = title | append: " (Blog)" %}
+  {% endif %}
+
+  {% assign restored = title
+    | append: "|" | append: url
+    | append: "|" | append: display_date
+    | append: "|" | append: description
+    | append: "|" | append: epoch %}
+
+  {% assign display_items = display_items | push: restored %}
+{% endfor %}
+
+<ul class="list-item-spacer">
+  {% for item in display_items %}
+    {% assign parts = item | split: "|" %}
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-blue">
+        <svg class="usa-icon" aria-hidden="true" role="img">
+          <use href="{{ site.baseurl }}/assets/img/sprite.svg#thumb_up_alt"></use>
+        </svg>
+      </div>
+      <div class="usa-icon-list__content">
+        <a href="{{ site.baseurl }}{{ parts[1] }}">{{ parts[0] }}</a>
+        {% if parts[3] %}
+          &mdash; {{ parts[3] }}
+        {% endif %}
+        ({{ parts[4] | date: "%B %Y" }})
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+**Reviewed/Updated:** {{ today | date: "%B %Y" }}

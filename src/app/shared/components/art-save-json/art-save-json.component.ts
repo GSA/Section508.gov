@@ -3,9 +3,10 @@ import { SafeUrl } from '@angular/platform-browser';
 import { ICTInterface } from '../../models/ict.interface';
 
 @Component({
-  selector: 'art-save-json',
-  templateUrl: './art-save-json.component.html',
-  styleUrls: ['./art-save-json.component.scss']
+    selector: 'art-save-json',
+    templateUrl: './art-save-json.component.html',
+    styleUrls: ['./art-save-json.component.scss'],
+    standalone: false
 })
 
 /**

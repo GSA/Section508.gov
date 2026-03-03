@@ -2,9 +2,10 @@ import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {ICTInterface} from "../../models/ict.interface";
 
 @Component({
-  selector: 'art-ict-item',
-  templateUrl: './art-ict-item.component.html',
-  styleUrls: ['./art-ict-item.component.scss']
+    selector: 'art-ict-item',
+    templateUrl: './art-ict-item.component.html',
+    styleUrls: ['./art-ict-item.component.scss'],
+    standalone: false
 })
 export class ICTItemComponent {
   /**

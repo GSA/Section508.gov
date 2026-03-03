@@ -6,7 +6,8 @@ import { Router } from '@angular/router';
 @Component({
     selector: 'art-button',
     templateUrl: './art-button.component.html',
-    styleUrls: ['./art-button.component.scss']
+    styleUrls: ['./art-button.component.scss'],
+    standalone: false
 })
 export class ArtButtonComponent implements OnInit {
     constructor(private router: Router) { }

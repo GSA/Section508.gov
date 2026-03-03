@@ -60,7 +60,7 @@ Navigate through the sections below to learn more:
  [5]: {{site.baseurl}}/create/developer-training
  [6]: {{site.baseurl}}/create/web-content
  [7]: {{site.baseurl}}/content/guide-accessible-web-design-development
- [8]: {{site.baseurl}}/create/universal-design
+ [8]: {{site.baseurl}}/develop/universal-design
  [9]: https://digital.gov/guides/accessibility-for-teams/
  [10]: https://designsystem.digital.gov/
  [11]: {{site.baseurl}}/contact-us

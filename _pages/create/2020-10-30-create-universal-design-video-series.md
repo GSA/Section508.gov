@@ -1,10 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/universal-design-video-series/
-type: develop
+type: training
 title: "An Introduction to Universal Design"
-created: 1604066026
+permalink: develop/universal-design-video-series/
 redirect_from:
 - create/universal-design-video-series/
 topic: Development (dev)
@@ -17,9 +16,10 @@ audience:
 - Content Creators (creator)
 resource-type: Long form article
 format: HTML (html)
+created: 2020-10-30
 ---
 
-This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
+This four-part video series provides an introduction to [Universal Design]({{site.baseurl}}/develop/universal-design/) for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
 
 ---
 
@@ -97,15 +97,6 @@ This four-part video series provides an introduction to Universal Design for con
     </p>
 <p>
       Duration: 5m 17s
-    </p>
-  </div>
-</div>
-
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <span class="text-large"><strong>Before You Go</strong></span> <br /> 
-<p>
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>
 </div>

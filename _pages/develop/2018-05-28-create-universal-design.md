@@ -1,12 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
-created: 1527530633
+permalink: develop/universal-design/
 redirect_from:
 - create/universal-design/
+description: Learn how federal agencies can adopt Universal Design and Accessibility principles—from strategy and procurement to implementation—to create ICT products usable by all, not just for compliance.
 topic: Development (dev)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
@@ -17,6 +17,9 @@ audience:
 - Content Creators (creator)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-22
+updated: 2025-08-12
+exclude-changelog: true
 ---
 
  <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
@@ -41,12 +44,12 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
-    <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
+    <a href="{{site.baseurl}}/develop/universal-design-video-series/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
     <p>
-      <a href="{{site.baseurl}}/create/universal-design-video-series"><strong>An Introduction to Universal Design for Content Creators</strong></a>
+      <a href="{{site.baseurl}}/develop/universal-design-video-series/"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
 <p>
       This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
@@ -65,6 +68,12 @@ User testing and design personas should include people with disabilities and com
 
 See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/) for more information on including accessibility considerations in your designs. 
 
+### World Wide Web Consortium (W3C) Guidance
+
+  * <a href="https://www.w3.org/WAI/intro/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Use the Web: Overview</a> - Explains how people with disabilities, including age-related impairments, use the Web
+  * <a href="https://www.w3.org/WAI/perspectives/" target="_blank" class="usa-link--external">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> - Short videos showing the impact of accessible design in a variety of situations
+  * <a href="https://www.w3.org/WAI/mobile/overlap.html" target="_blank" class="usa-link--external">Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices</a>- Explains the overlap between accessibility and mobile web design and development
+
 ## Learn More About Universal Design
 
   * [Universal Design - What is it?][1]
@@ -76,23 +85,7 @@ See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/
   * [Watch this Introduction to Universal Design for Developers][7] 
   * [The Benefit of Designing for Everyone][8]
 
-## Questions?
-
-If you have questions or want to share your experiences using universal design, contact GSA's Government-wide IT Accessibility Program:
-
-  * [Section 508 Program Contact Us page][9]
-  * Email: <section.508@gsa.gov>
-
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <span class="text-large"><strong>Before You Go</strong></span> <br /> 
-<p>
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
-**Reviewed/Updated:** January 2025
+**Reviewed/Updated:** August 2025
 
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me

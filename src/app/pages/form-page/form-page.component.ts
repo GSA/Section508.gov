@@ -13,7 +13,8 @@ import { ArtMessageService } from '../../shared/services/art-message/art-message
 @Component({
     selector: 'app-form-page',
     templateUrl: './form-page.component.html',
-    styleUrls: ['./form-page.component.scss']
+    styleUrls: ['./form-page.component.scss'],
+    standalone: false
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {
     scanChange: any = "";

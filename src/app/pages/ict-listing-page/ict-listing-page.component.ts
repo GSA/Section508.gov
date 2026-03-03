@@ -9,9 +9,10 @@ import { Router } from '@angular/router';
 import { FormGroup } from '@angular/forms';
 
 @Component({
-  selector: 'app-ict-listing-page',
-  templateUrl: './ict-listing-page.component.html',
-  styleUrls: ['./ict-listing-page.component.scss']
+    selector: 'app-ict-listing-page',
+    templateUrl: './ict-listing-page.component.html',
+    styleUrls: ['./ict-listing-page.component.scss'],
+    standalone: false
 })
 export class IctListingPageComponent implements OnInit, OnDestroy {
 

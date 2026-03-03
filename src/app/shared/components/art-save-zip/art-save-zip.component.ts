@@ -5,9 +5,10 @@ import * as JSZip from 'jszip';
 
 
 @Component({
-  selector: 'art-save-zip',
-  templateUrl: './art-save-zip.component.html',
-  styleUrls: ['./art-save-zip.component.scss']
+    selector: 'art-save-zip',
+    templateUrl: './art-save-zip.component.html',
+    styleUrls: ['./art-save-zip.component.scss'],
+    standalone: false
 })
 export class ArtSaveZipComponent implements OnInit {
 

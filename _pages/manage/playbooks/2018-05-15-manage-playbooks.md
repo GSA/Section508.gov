@@ -3,6 +3,7 @@ sidenav: true
 layout: page
 type: manage
 title: 'Playbooks'
+description: Explore Section 508 accessibility playbooks&mdash;including the Technology Accessibility Playbook. Find guidance, strategies, and tools to help agencies build effective, inclusive ICT programs and services.
 permalink: manage/playbooks/
 topic: Manage (program)
 sub-topic: Manage a 508 Program
@@ -26,7 +27,7 @@ Guidance to help federal agencies improve management and delivery of accessible 
   <h2>Technology Accessibility Playbook</h2>
   <p>The Technology Accessibility Playbook helps Section 508 Program Managers build an effective IT accessibility program and provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities.</p>
   <ul>
-    <li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook-intro/"><strong>Technology Accessibility Playbook</strong></a> (<a href="https://assets.section508.gov/assets/files/Technology-Accessibility-Playbook-2018-Update.docx" target="_blank">DOCX, 2018</a>)</li>
+    <li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook/"><strong>Technology Accessibility Playbook</strong></a></li>
     <li><a href="{{ site.baseurl }}/manage/playbooks/accessibility-playbook-quick-guide">Quick Guide to IT Accessibility for Program Managers</a>.</li>
   </ul>
 </div>

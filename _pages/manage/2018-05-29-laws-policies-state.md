@@ -21,7 +21,7 @@ resource-type: Long form article
 format: HTML (html)
 ---
 <p name="top"> </p> 
-Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Information and Communication Technology (ICT) accessibility in addition to <a href="https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people" target="_blank" class="usa-link--external">rules introduced in 2024 by the Department of Justice under Title II of the Americans with Disabilities Act (ADA)</a> to strengthen web and mobile app access for people with disabilities. 
+Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring information and communication technology (ICT) accessibility in addition to <a href="https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people" target="_blank" class="usa-link--external">rules introduced in 2024 by the Department of Justice under Title II of the Americans with Disabilities Act (ADA)</a> to strengthen web and mobile app access for people with disabilities. 
 
 The information on this page offers a number of resources that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. 
 

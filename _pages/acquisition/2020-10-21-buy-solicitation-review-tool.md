@@ -36,7 +36,7 @@ updated: 2025-04-21
 
 The <a href="https://srt.app.cloud.gov/" target="_blank" class="usa-link--external">Solicitation Review Tool (SRT)</a> was developed to help agencies assess and improve the accessibility compliance of solicitations—and in the future, it will also support reviews for cybersecurity and other regulatory requirements.
 
-The SRT is built with open-source technology and uses artificial intelligence (AI), natural language processing, text mining, and machine learning to automatically detect whether new solicitations posted on federal acquisition platforms are for Information and Communication Technology (ICT). If a solicitation is identified as ICT-related, the SRT then checks whether it includes adequate Section 508 compliance requirements to support accessibility in federal IT.
+The SRT is built with open-source technology and uses artificial intelligence (AI), natural language processing, text mining, and machine learning to automatically detect whether new solicitations posted on federal acquisition platforms are for information and communication technology (ICT). If a solicitation is identified as ICT-related, the SRT then checks whether it includes adequate Section 508 compliance requirements to support accessibility in federal IT.
 
 The SRT scans the <a href="https://www.sam.gov" target="_blank" class="usa-link--external"><strong>SAM.gov</strong></a> and <a href="https://www.ebuy.gov" target="_blank" class="usa-link--external"><strong>eBuy.gov</strong></a> every 24 hours, across all solicitations and delivers:
 

@@ -17,7 +17,7 @@ audience:
 resource-type: "Long form article"
 format: "HTML (html)"
 ---
-Nearly half of the most popular federal websites (48%) failed a standard accessibility test on at least one of their three most frequently visited pages, according to a recent Information Technology and Innovation Foundation study.<sup>1</sup> While Section 508 of the Rehabilitation Act requires federal Information and Communication Technology (ICT) be accessible, inaccessible ICT continues to prevent federal employees from doing their jobs and customers with disabilities from accessing government services.<sup>2</sup>
+Nearly half of the most popular federal websites (48%) failed a standard accessibility test on at least one of their three most frequently visited pages, according to a recent Information Technology and Innovation Foundation study.<sup>1</sup> While Section 508 of the Rehabilitation Act requires federal information and communication technology (ICT) be accessible, inaccessible ICT continues to prevent federal employees from doing their jobs and customers with disabilities from accessing government services.<sup>2</sup>
 
 The benefits of accessible ICT for organizations have been widely documented.<sup>3</sup> Implementing the federal ICT accessibility standards, called Revised Section 508 Standards, improves technology usability for all users, legal compliance, cost effectiveness, productivity, and public credibility, and higher revenue.<sup>4,5</sup>
 
