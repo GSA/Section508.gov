@@ -65,7 +65,7 @@ Another way to look at this data is to break down each index identified above in
   </tbody>
 </table>
 
-Given the above outcomes, reporting entities can therefore be put into five groups according to maturity and conformance; for instance, there will likely be those that are determined to have Very Low Maturity or Very High maturity, and the same is true for conformance. With the five groups in maturity and conformance, there are 25 total bracket categories that a reporting entity may fall into, ranging from Very Low Maturity-Very Low Conformance on the lower end of outcomes to Very High Maturity-Very High Conformance on the high end of outcomes. Not all categories may have reporting entities falling within them, in fact there were two such categories for the FY23 Assessment, this year there are actually four.<sup><a href="#fn19" id="fr19">19</a></sup>
+Given the above outcomes, reporting entities can therefore be put into five groups according to maturity and conformance; for instance, there will likely be those that are determined to have Very Low Maturity or Very High maturity, and the same is true for conformance. With the five groups in maturity and conformance, there are 25 total bracket categories that a reporting entity may fall into, ranging from Very Low Maturity-Very Low Conformance on the lower end of outcomes to Very High Maturity-Very High Conformance on the high end of outcomes. Not all categories may have reporting entities falling within them, in fact there were two such categories for the FY 2023 Assessment, this year there are actually four.<sup><a href="#fn19" id="fr19">19</a></sup>
 
 <table id="table-6" class="usa-table usa-table--borderless">
 <caption>Table 6. "Heat map" for where reporting entities fall within maturity and conformance brackets.</caption>
@@ -123,9 +123,9 @@ Given the above outcomes, reporting entities can therefore be put into five grou
 </tbody>
 </table>
 
-Similar to the FY23 Assessment, a majority of reporting entities fall in the bottom 9 categories. However, about 61% of reporting entities (or 151) fell in these categories, whereas roughly 76% of reporting entities fell in these nine lower categories in FY23.
+Similar to the FY 2023 Assessment, a majority of reporting entities fall in the bottom 9 categories. However, about 61% of reporting entities (or 151) fell in these categories, whereas roughly 76% of reporting entities fell in these nine lower categories in FY 2023.
 
-This upward shift is due to the number of reporting entities in the High bracket for both maturity and conformance in FY24 compared to FY23, particularly those with high maturity. For maturity, approximately 27% fell into a high maturity category (High-Very Low, High-Low, etc.) versus only about 14% in FY23 (65 entities vs. 34). Conformance included 11% in FY24 versus only 9% in FY23 (28 entities vs. 22). Additionally, 14 entities fell into a very high maturity category (about 6%) vs. 9 in FY23 (or about 4%). Interestingly, the opposite is true for conformance with 13 entities falling in a Very High conformance category in FY24 versus 17 in FY23 (or approximately 5% vs. 7%).
+This upward shift is due to the number of reporting entities in the High bracket for both maturity and conformance in FY 2024 compared to FY 2023, particularly those with high maturity. For maturity, approximately 27% fell into a high maturity category (High-Very Low, High-Low, etc.) versus only about 14% in FY 2023 (65 entities vs. 34). Conformance included 11% in FY 2024 versus only 9% in FY 2023 (28 entities vs. 22). Additionally, 14 entities fell into a very high maturity category (about 6%) vs. 9 in FY 2023 (or about 4%). Interestingly, the opposite is true for conformance with 13 entities falling in a Very High conformance category in FY 2024 versus 17 in FY 2023 (or approximately 5% vs. 7%).
 
 Of the 230 reporting entities that reported both years, data shows:
 
@@ -167,7 +167,7 @@ This increase in maturity, particularly in some areas such as training, as shown
 
 ## Maturity Dimension Outcomes
 <hr class="breaker-bar-green">
-The average of all respondent maturity scores (all dimensions, all reporting entities) improved in FY24 but stayed Moderate at 2.37 out of 5, up from 2.17 in FY23.
+The average of all respondent maturity scores (all dimensions, all reporting entities) improved in FY 2024 but stayed Moderate at 2.37 out of 5, up from 2.17 in FY 2023.
 <hr class="breaker-bar-green">
 
 The Assessment measures accessibility maturity within an organization through 38 questions. These questions are broken down into nine key dimensions listed below:
@@ -190,7 +190,7 @@ The Assessment measures accessibility maturity within an organization through 38
 
 * Training
 
-In FY23, the two lowest performing dimensions, governmentwide, were the Human Capital, Culture, and Leadership dimension and the Training dimension. For this year, they are the same but switched. Last year Training was the lowest Dimension at 1.57 with Human Capital, Culture, and Leadership at 1.63. In 2024, these scores are 2.06 and 1.93, respectively. This represents a 31% improvement in the average Training maturity outcomes across government. Human Capital also saw an improvement of about 18% across the government.
+In FY 2023, the two lowest performing dimensions, governmentwide, were the Human Capital, Culture, and Leadership dimension and the Training dimension. For this year, they are the same but switched. Last year Training was the lowest Dimension at 1.57 with Human Capital, Culture, and Leadership at 1.63. In 2024, these scores are 2.06 and 1.93, respectively. This represents a 31% improvement in the average Training maturity outcomes across government. Human Capital also saw an improvement of about 18% across the government.
 
 Overall, approximately 28% of entities (68) had Human Capital, Culture, and Leadership as their worst dimension (or one of their worst), and 63 (or approximately 26%) had Training as their worst dimension. So, while these dimensions saw an improvement year over year, they are still the areas of most needed development or investment going forward to improve average reporting entity maturity outcomes.
 
@@ -201,8 +201,8 @@ The highest performing maturity outcome was Content Creation at 2.69, followed b
   <thead>
     <tr>
       <th scope="col">Dimension</th>
-      <th scope="col" class="center-important">Average FY24 Federal Outcome</th>
-      <th scope="col" class="center-important">Average FY23 Federal Outcome</th>
+      <th scope="col" class="center-important">Average FY 2024 Federal Outcome</th>
+      <th scope="col" class="center-important">Average FY 2023 Federal Outcome</th>
     </tr>
   </thead>
   <tbody>
@@ -259,7 +259,7 @@ Below, the FY 24 outcomes are depicted in the chart:
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-8.jpg" alt="Comparison bar chart showing average dimension outcomes YOY. Please see Table 8 for a table view of this data." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
    </div>
-   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Average FY24 Maturity Dimension Outcomes with FY23 for Comparison</span>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Average FY 2024 Maturity Dimension Outcomes with FY 2023 for Comparison</span>
    </div>
 </div>
 
@@ -425,7 +425,7 @@ The figure below demonstrates year over year (YOY) change:
 <hr class="breaker-bar-green">
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="18">
         <li id="fn18">The contrapositive is also true. That is, less conforming entities also tended to be less mature. <a href="#fr18" aria-label="Back to content">↩</a></li>
         <li id="fn19">The maturity-conformance categories Very Low-Very High, Low-Very High, Very High-Very Low, and Very High-Low; all do not have any reporting entities that fall in them for this assessment cycle. <a href="#fr19" aria-label="Back to content">↩</a></li>
