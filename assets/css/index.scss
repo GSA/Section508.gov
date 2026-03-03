@@ -446,6 +446,22 @@ div[role=rowheader] {
   .usa-nav__secondary-item + .usa-nav__secondary-item {
     border-left: none !important; 
   }
+  /* Add campaign icon to What's New! link above search */
+  .usa-nav__secondary-links li:first-child > a::before {
+    content: "";
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.5rem;
+
+    background-color: currentColor;
+    -webkit-mask: url("/assets/img/usa-icons/campaign.svg") no-repeat center;
+    mask: url("/assets/img/usa-icons/campaign.svg") no-repeat center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+
+    vertical-align: middle;
+  }
 
   .topics {
     ul {
@@ -2084,6 +2100,9 @@ details ul li a:hover {
   text-decoration: underline;
 }
 
+
+
+
 /* PRINT STYLES - PRINT STYLES */
 /* PRINT STYLES - PRINT STYLES */
 @media print {
@@ -2200,4 +2219,4 @@ details ul li a:hover {
     word-break: break-word;
   }
 }
-/* END MANAGE*/
+/* END MANAGE PRINTED URLS */

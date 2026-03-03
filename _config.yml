@@ -91,8 +91,8 @@ primary_navigation:
 
 
 secondary_navigation:
-  - name: Blogs & Updates
-    url: /blog/
+  - name: What's New!
+    url: /whats-new/
   - name: My Agency’s 508 PM
     url: /tools/program-manager-listing/
   - name: About Us
