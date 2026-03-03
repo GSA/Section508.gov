@@ -247,7 +247,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>   
   * **U.S. Pacific Fleet** <br>Sean Gano - <sean.k.gano2.civ@us.navy.mil>    
 
-### Office of the Secretary of Defense (OSD)
+### Office of the Secretary of War (OSW)
 * **Chief Digital and Artificial Intelligence Office (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
 * **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
 
