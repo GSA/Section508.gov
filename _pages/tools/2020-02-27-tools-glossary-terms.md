@@ -22,7 +22,7 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 - glossary/
 created: 2020-02-27
-updated: 2025-09-09
+updated: 2026-02-24
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -52,6 +52,10 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
+  </tr>
+  <tr>
+    <th scope="row" id="acr-repository">Acceptance Criteria</th>
     <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
@@ -374,6 +378,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="data-table">Data table</th>
     <td>A table with information organized into categories.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="data-table">Design Considerations</th>
+    <td>Needs and preferences of different user types, represented through personas, that guide development and ensure accessibility for people with varied abilities.</td>
   </tr>
   <tr>
     <th scope="row" id="deploying">Deploying</th>
@@ -924,6 +932,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Guidelines that set clear, measurable job performance expectations.</td>
   </tr>
   <tr>
+    <th scope="row" id="persona">Persona</th>
+    <td>A semi‑fictional character representing a group of users, built from real research data. In the context of Section 508 and digital accessibility, a persona captures not just demographics but how a user interacts with technology — including any assistive tools, their goals, frustrations, and needs. Personas are used during the research and design phases to help teams understand various user needs (including users with disabilities) and to guide development so that services, products, or websites are accessible and inclusive.</td>
+  </tr>
+  <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>
     <td>Services provided by a platform that enables interoperability with assistive technology. Examples include Application Programming Interfaces (API) and the Document Object Model (DOM).</td>
   </tr>
@@ -1342,4 +1354,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** September 2025
+**Reviewed/Updated:** February 2026

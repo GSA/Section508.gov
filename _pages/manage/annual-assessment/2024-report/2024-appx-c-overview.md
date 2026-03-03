@@ -112,7 +112,7 @@ Comprehensive submission data by reporting entity can be found at Section508.gov
 
   * Recommendations specific to the reporting entity overall performance bracket
 
-  * Visual of where the reporting entity falls on the 5 x 5 matrix for maturity and conformance, with very low in the bottom left corner and very high in the top right corner. For entities with two years of data, there is a depiction of FY23 and FY24 results in the matrix.
+  * Visual of where the reporting entity falls on the 5 x 5 matrix for maturity and conformance, with very low in the bottom left corner and very high in the top right corner. For entities with two years of data, there is a depiction of FY 2023 and FY 2024 results in the matrix.
 1 Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 programs may be organized or function outside of these
 traditional definitions.
 
@@ -126,9 +126,9 @@ traditional definitions.
 
 * Hours per week spent by the reporting entity Section 508 Program Manager (PM) compared to average Section 508 PM hours among reporting entity maturity dimension.
 
-* Table comparing maturity outcomes for FY23 and FY24, averaged by dimension with five possible brackets:
+* Table comparing maturity outcomes for FY 2023 and FY 2024, averaged by dimension with five possible brackets:
 
-  * Lowest and highest FY24 maturity dimensions are showcased with a double asterisk and a highlight in red denoting the lowest, and a single asterisk and a highlight in green denoting highest. Behind each bracket category is a numerical average of reporting entity responses. The lowest dimension highlighted does not imply this must be the first line of business the reporting entity should invest in; it only depicts the lowest ranking. Entities should determine the best course of action for their investment in Section 508 compliance.
+  * Lowest and highest FY 2024 maturity dimensions are showcased with a double asterisk and a highlight in red denoting the lowest, and a single asterisk and a highlight in green denoting highest. Behind each bracket category is a numerical average of reporting entity responses. The lowest dimension highlighted does not imply this must be the first line of business the reporting entity should invest in; it only depicts the lowest ranking. Entities should determine the best course of action for their investment in Section 508 compliance.
 
 * If a reporting entity did not perform dimension functions, a “^” is next to the dimension.
 
@@ -146,7 +146,7 @@ traditional definitions.
 
   * < 50% = Conforms to less than 50% of applicable Section 508 requirements
 
-* ICT Testing Outcomes compare FY23 and FY24 results of:
+* ICT Testing Outcomes compare FY 2023 and FY 2024 results of:
 
   * All internal and public internet web pages tested as part of standard business operation. Data shown represents the percentage of ICT tested that fully conforms to Section 508 standards, i.e., did not have any defects reported, Not Tested, or Not Applicable.
 
@@ -155,7 +155,7 @@ traditional definitions.
 <hr class="breaker-bar-green">
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="38">
         <li id="fn38">Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 programs may be organized or function outside of these traditional definitions. <a href="#fr38" aria-label="Back to content">↩</a></li>
     </ol>

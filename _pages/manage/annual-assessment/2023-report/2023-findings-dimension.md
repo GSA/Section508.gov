@@ -17,7 +17,7 @@ format: "HTML (html)"
 ---
 ### Dimensional Highlights
 
-Maturity  questions ranged from Q22 to Q61 (excepting Q27B) (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>). These questions are grouped into the following nine maturity  dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities, Testing and Validation; Acquisition and Procurement; and Training. Below are the overall outcomes for governmentwide maturity:
+Maturity  questions ranged from Q22 to Q61 (excepting Q27B) (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY 2023 Data Dictionary (XLSX)</a>). These questions are grouped into the following nine maturity  dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities, Testing and Validation; Acquisition and Procurement; and Training. Below are the overall outcomes for governmentwide maturity:
 
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
@@ -112,7 +112,7 @@ On average, even the highest and second highest maturity dimensions (Technology 
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="12">
         <li id="fn12">Or tied for lowest. This and the next three graphs are presented separately as there is some overlap where the dimensional scores were equivalent, creating duplicates of lowest and highest maturity dimensions, which if combined together would be misleading. <a href="#fr12" aria-label="Back to content">↩</a></li>
     </ol>

@@ -30,6 +30,12 @@ This banner is located under menu navigation bar, to display the title of each l
 {%- assign altBgColor = 'style="background-color:#14671B;"'' -%}
 {%- assign altHeaderColor = 'style="color:#FFF;"'' -%}
 {%- endif -%}
+{%- if page.type == 'report2025' -%}
+{%- assign header = 'FY 2025 Governmentwide Section 508 Assessment' -%}
+{%- assign subtitle = 'True' -%}
+{%- assign altBgColor = 'style="background-color:#481441;"'' -%}
+{%- assign altHeaderColor = 'style="color:#FFF;"'' -%}
+{%- endif -%}
 
 <section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner" {{altBgColor}}>
     <div class="grid-container">

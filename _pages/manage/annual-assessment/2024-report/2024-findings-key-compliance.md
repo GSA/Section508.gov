@@ -15,7 +15,7 @@ audience:
 resource-type: "White paper"
 format: "HTML (html)"
 ---
-Overall, reporting entities experienced a decline in Section 508 conformance, with the governmentwide average score dropping from 1.79 in FY23 to 1.74. Amid this broader decline, testing coverage also decreased, with only 70% (down from 78%) of respondents assessing public web pages covering 41% (down from 52%) of total pages. Intranet testing dropped further, with only 41% of entities evaluating 8% of total intranet web pages, a precipitous reduction from 26.1% of total in FY23. While conformance rates for public web pages held steady around 62%, intranet conformance declined from 59% to 52%. Additionally, nearly half of respondents lacked resources for testing high-traffic ICT assets, including top-viewed web pages, documents, and videos. These findings underscore the need for improved testing resource allocation, including testing tools and testing personnel, and prioritization of testing and remediation efforts to drive meaningful improvements in conformance.
+Overall, reporting entities experienced a decline in Section 508 conformance, with the governmentwide average score dropping from 1.79 in FY 2023 to 1.74. Amid this broader decline, testing coverage also decreased, with only 70% (down from 78%) of respondents assessing public web pages covering 41% (down from 52%) of total pages. Intranet testing dropped further, with only 41% of entities evaluating 8% of total intranet web pages, a precipitous reduction from 26.1% of total in FY 2023. While conformance rates for public web pages held steady around 62%, intranet conformance declined from 59% to 52%. Additionally, nearly half of respondents lacked resources for testing high-traffic ICT assets, including top-viewed web pages, documents, and videos. These findings underscore the need for improved testing resource allocation, including testing tools and testing personnel, and prioritization of testing and remediation efforts to drive meaningful improvements in conformance.
 
 To determine the level of Section 508 conformance of ICT, the Assessment asked about conformance of internal and public-facing web pages, top-viewed electronic documents and videos. The Assessment also asked about levels of Section 508 conformance of common digital products, including:
 
@@ -33,31 +33,31 @@ To determine the level of Section 508 conformance of ICT, the Assessment asked a
 
 * Widely used public-facing fillable forms
 
-* FY25 Congressional Justifications (CJ)
+* FY 2025 Congressional Justifications (CJ)
 
 * Employee performance portals or equivalent.
 
 <hr class="breaker-bar-green">
-The Assessment combined these measures to create a conformance index referred to as "conformance" or "c-index." **On average, governmentwide conformance did not improve and remains low** at 1.74 on a 5-point scale compared to 1.79 in FY23. 
+The Assessment combined these measures to create a conformance index referred to as "conformance" or "c-index." **On average, governmentwide conformance did not improve and remains low** at 1.74 on a 5-point scale compared to 1.79 in FY 2023. 
 <hr class="breaker-bar-green">
 
-The Assessment continued to ask entities to report on the outcomes of accessibility testing of web pages evaluated as part of standard business functions throughout the reporting period for both public internet web pages and internal intranet web pages. Questions covered how many of each the respondent owned and operated, how many were tested for Section 508 conformance, how many web pages fully conformed, average number of defects found, and details on testing methodologies used. While there is much variance in entities who reported both years and the scope of this testing, FY24 data showed:
+The Assessment continued to ask entities to report on the outcomes of accessibility testing of web pages evaluated as part of standard business functions throughout the reporting period for both public internet web pages and internal intranet web pages. Questions covered how many of each the respondent owned and operated, how many were tested for Section 508 conformance, how many web pages fully conformed, average number of defects found, and details on testing methodologies used. While there is much variance in entities who reported both years and the scope of this testing, FY 2024 data showed:
 
-* Only 70% or 172 respondents reported they performed testing for Section 508 conformance on public internet websites they owned or operated compared to 78% of entities who performed testing last year. Reportedly, 6,964,802 internet web pages were tested, totalling 41% of all internet pages owned or operated by reporting entities, which is down from 52% of all internet pages owned or operated by reporting entities in FY23.<sup><a href="#fn3" id="fr3">3</a></sup>
+* Only 70% or 172 respondents reported they performed testing for Section 508 conformance on public internet websites they owned or operated compared to 78% of entities who performed testing last year. Reportedly, 6,964,802 internet web pages were tested, totalling 41% of all internet pages owned or operated by reporting entities, which is down from 52% of all internet pages owned or operated by reporting entities in FY 2023.<sup><a href="#fn3" id="fr3">3</a></sup>
 
-* On average, 62% of tested internet pages were reported as fully conformant, which is almost the same as FY23 at 61%.<sup><a href="#fn4" id="fr4">4</a></sup>
+* On average, 62% of tested internet pages were reported as fully conformant, which is almost the same as FY 2023 at 61%.<sup><a href="#fn4" id="fr4">4</a></sup>
 
-* Even fewer entities reported testing internal intranet pages. Approximately 41% or 100 respondents reported they performed testing for Section 508 conformance on internal intranet websites they owned or operated, down from 60% in FY23. Reportedly, 218,663 intranet web pages were tested, totaling just 8% of all intranet pages owned and operated by reporting entities, a substantial decrease from FY23's 26.1% of pages tested.<sup><a href="#fn5" id="fr5">5</a></sup> 
+* Even fewer entities reported testing internal intranet pages. Approximately 41% or 100 respondents reported they performed testing for Section 508 conformance on internal intranet websites they owned or operated, down from 60% in FY 2023. Reportedly, 218,663 intranet web pages were tested, totaling just 8% of all intranet pages owned and operated by reporting entities, a substantial decrease from FY 2023's 26.1% of pages tested.<sup><a href="#fn5" id="fr5">5</a></sup> 
 
-* On average, 52% of tested intranet pages were reported as fully Section 508 conformant, a decrease from 59% in FY23.<sup><a href="#fn6" id="fr6">6</a></sup> 
+* On average, 52% of tested intranet pages were reported as fully Section 508 conformant, a decrease from 59% in FY 2023.<sup><a href="#fn6" id="fr6">6</a></sup> 
 
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
     While current data does not provide reasons why the total number of web pages tested decreased YOY, some speculative reasons include:
     <ul class="list-item-spacer">
-      <li>An overreporting in FY23.</li>
-      <li>A more accurate reporting in FY24.</li>
-      <li>An underreporting in FY24.</li>
+      <li>An overreporting in FY 2023.</li>
+      <li>A more accurate reporting in FY 2024.</li>
+      <li>An underreporting in FY 2024.</li>
       <li>A misunderstanding of questions leading to inaccurate reporting of data.</li>
       <li>A change in testing methodology.</li>
       <li>Testing less ICT.</li>
@@ -83,7 +83,7 @@ The Assessment continued to ask entities to report on the outcomes of accessibil
     </div>
 </div>
 
-The low numbers reported do not align with M-24-08 guidance nor FY23 Assessment recommendations to increase conformance validation and testing. Future assessment criteria and respondent follow-up will help shed light on changes in testing depth and breadth YOY to better understand swings in reported data.
+The low numbers reported do not align with M-24-08 guidance nor FY 2023 Assessment recommendations to increase conformance validation and testing. Future assessment criteria and respondent follow-up will help shed light on changes in testing depth and breadth YOY to better understand swings in reported data.
 
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
@@ -134,15 +134,15 @@ The Assessment continued to ask entities to test their top 10 viewed internet we
    </div>
 </div>
 
-Analysis of YOY change shows a continued variation of responses. 4% more entities submitted test results for the top viewed internet pages but 14% fewer entities provided results for top viewed intranet web pages. Additionally, in FY24 both electronic documents and videos saw a small percentage increase in entities who submitted results. Data shows the largest swing in entities who selected Not Applicable in FY24, with:
+Analysis of YOY change shows a continued variation of responses. 4% more entities submitted test results for the top viewed internet pages but 14% fewer entities provided results for top viewed intranet web pages. Additionally, in FY 2024 both electronic documents and videos saw a small percentage increase in entities who submitted results. Data shows the largest swing in entities who selected Not Applicable in FY 2024, with:
 
-* 7 entities reporting no public facing internet web pages compared to 3 in FY23.<sup><a href="#fn9" id="fr9">9</a></sup>
+* 7 entities reporting no public facing internet web pages compared to 3 in FY 2023.<sup><a href="#fn9" id="fr9">9</a></sup>
 
-* 25 entities reporting no intranet pages compared to 22 in FY23.
+* 25 entities reporting no intranet pages compared to 22 in FY 2023.
 
-* 11 entities reporting no public facing electronic documents compared to 5 in FY23.
+* 11 entities reporting no public facing electronic documents compared to 5 in FY 2023.
 
-* 39 entities reporting no videos compared to 24 in FY23. 
+* 39 entities reporting no videos compared to 24 in FY 2023. 
 
 <table id="table-1" tabindex="0" class="usa-table usa-table--borderless striped margin-bottom-3">
   <caption>Table 1: YOY change between the percentages of responses for entities who submitted any results, who noted they had no resources to test, or did not have the ICT in question.</caption>
@@ -157,21 +157,21 @@ Analysis of YOY change shows a continued variation of responses. 4% more entitie
   </thead>
   <tbody>
     <tr>
-      <th scope="row">FY24 % Change of Entities Submitting Any Results</th>
+      <th scope="row">FY 2024 % Change of Entities Submitting Any Results</th>
       <td>3.4% <strong>more</strong> entities submitted responses</td>
       <td>14.3% <strong>fewer</strong> entities submitted responses</td>
       <td>2% <strong>more</strong> entities submitted responses</td>
       <td>11.3% <strong>more</strong> entities submitted responses</td>
     </tr>
     <tr>
-      <th scope="row">FY24 % Change of Entities With No Resources To Test</th>
+      <th scope="row">FY 2024 % Change of Entities With No Resources To Test</th>
       <td>9.4% <strong>fewer</strong> entities reported no resources to test</td>
       <td>4.4% <strong>more</strong> entities reported no resources to test</td>
       <td>8.4% <strong>fewer</strong> entities reported no resources to test</td>
       <td>16.8% <strong>fewer</strong> entities reported no resources to test</td>
     </tr>
     <tr>
-      <th scope="row">FY24 % Change of Entities who selected N/A</th>
+      <th scope="row">FY 2024 % Change of Entities who selected N/A</th>
       <td>133% <strong>more</strong> entities selected N/A<sup><a href="#fn10" id="fr10">10</a></sup></td>
       <td>13.6% <strong>more</strong> entities selected N/A</td>
       <td>120% <strong>more</strong> entities selected N/A<sup><a href="#fn11" id="fr11">11</a></sup></td>
@@ -206,7 +206,7 @@ Data for the top viewed ICT across reporting entities points to a trend of stagn
 230 reporting entities provided two years of data to analyze. More than half of the entities (61% or 141) reported no change YOY in their compliance of top viewed public internet pages and even more entities (72% or 165) reported no change in compliance of their intranet pages. A full breakdown of the entity counts with YOY top viewed web page changes can be found in Table 2. 
 
 <hr class="breaker-bar-green">
-22% of entities reported more conformant top viewed internet pages in FY24 but only 12% of entities reported more conformant top viewed intranet web pages in FY24. 
+22% of entities reported more conformant top viewed internet pages in FY 2024 but only 12% of entities reported more conformant top viewed intranet web pages in FY 2024. 
 <hr class="breaker-bar-green">
 
 Several factors contribute to the types of changes:
@@ -217,7 +217,7 @@ Several factors contribute to the types of changes:
 
 * Some of the top viewed pages are not the same as last year. 
 
-* Some entities fixed part or all of the content that was not fully conformant last year and that web page remained in the top viewed in FY24.
+* Some entities fixed part or all of the content that was not fully conformant last year and that web page remained in the top viewed in FY 2024.
 
 * Lack of change YOY may be due to either a lack of resources to test content both years or conformance level was the same both years. It may not be an overall indication of ICT conformance.
 
@@ -243,8 +243,8 @@ Several factors contribute to the types of changes:
   <thead>
     <tr>
       <th scope="col">Type of Change</th>
-      <th scope="col" class="center-important">FY23 to FY24 Public Internet Entity Count</th>
-      <th scope="col" class="center-important">FY23 to FY24 Internal Intranet Entity Count</th>
+      <th scope="col" class="center-important">FY 2023 to FY 2024 Public Internet Entity Count</th>
+      <th scope="col" class="center-important">FY 2023 to FY 2024 Internal Intranet Entity Count</th>
     </tr>
   </thead>
   <tbody>
@@ -266,9 +266,9 @@ Several factors contribute to the types of changes:
   </tbody>
 </table>
 
-Of all reporting entities, only 123 (or 50%) of respondents provided results for the top 10 viewed public internet web pages. 115 entities (or 47%) reported not having resources to test and 7 entities reported Not Applicable because they do not have public internet web pages.<sup><a href="#fn15" id="fr15">15</a></sup> **Overall, entities reported on conformance of 1,161 top viewed public internet web pages in FY24 compared to 1,129 in FY23.**
+Of all reporting entities, only 123 (or 50%) of respondents provided results for the top 10 viewed public internet web pages. 115 entities (or 47%) reported not having resources to test and 7 entities reported Not Applicable because they do not have public internet web pages.<sup><a href="#fn15" id="fr15">15</a></sup> **Overall, entities reported on conformance of 1,161 top viewed public internet web pages in FY 2024 compared to 1,129 in FY 2023.**
 
-Fewer reporting entities provided results for top 10 viewed internal intranet web pages, with only 78 entities, or 32% of respondents providing data. Many more entities, 142 or 58%, reported no resources to test their most viewed intranet pages, with 25 entities reporting not having an intranet. **Overall, in FY24, 712 intranet web pages were tested compared to 824 in FY23.**
+Fewer reporting entities provided results for top 10 viewed internal intranet web pages, with only 78 entities, or 32% of respondents providing data. Many more entities, 142 or 58%, reported no resources to test their most viewed intranet pages, with 25 entities reporting not having an intranet. **Overall, in FY 2024, 712 intranet web pages were tested compared to 824 in FY 2023.**
 
 Several possible reasons for a decrease in the number of entities who tested intranet web pages include:
 
@@ -283,8 +283,8 @@ Several possible reasons for a decrease in the number of entities who tested int
 ## Top Viewed Electronic Documents and Videos
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
-    Less than half of all reporting entities (42%) provided results for the top viewed electronic documents. Over half of all reporting entities (53% or 131 respondents) reported no resources to test the top viewed electronic document, while 11 entities selected that they do not post any electronic documents. <strong>In total, 945 top viewed electronic documents were tested in FY24, compared to 905 in FY23.</strong>
-    <p>Ninety-two entities (38%) provided data for their top viewed videos. 114 entities (47%) noted they did not have resources to test and 39 entities reported that they do not produce or host videos. <strong>In total, 435 top viewed videos were tested in FY24, compared to 407 in FY23.</strong></p>
+    Less than half of all reporting entities (42%) provided results for the top viewed electronic documents. Over half of all reporting entities (53% or 131 respondents) reported no resources to test the top viewed electronic document, while 11 entities selected that they do not post any electronic documents. <strong>In total, 945 top viewed electronic documents were tested in FY 2024, compared to 905 in FY 2023.</strong>
+    <p>Ninety-two entities (38%) provided data for their top viewed videos. 114 entities (47%) noted they did not have resources to test and 39 entities reported that they do not produce or host videos. <strong>In total, 435 top viewed videos were tested in FY 2024, compared to 407 in FY 2023.</strong></p>
     </div>
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12 padding-left-2">
         <!-- BEGIN CALLOUT -->      
@@ -295,7 +295,7 @@ Several possible reasons for a decrease in the number of entities who tested int
                 <li class="usa-icon-list__item">
                   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
-                    <strong>Top five defects found in internet and intranet web page in FY24 (same as last year):</strong> 
+                    <strong>Top five defects found in internet and intranet web page in FY 2024 (same as last year):</strong> 
                     <ul class="list-item-spacer" style="padding:15px">
                       <li>1.1.1 Non-text Content.</li>
                       <li>1.3.1 Info and Relationships.</li>
@@ -326,7 +326,7 @@ Several possible reasons for a decrease in the number of entities who tested int
                 <li class="usa-icon-list__item">
                   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
-                    <strong>For the top electronic documents tested, the top five defects found were the same as FY23:</strong>
+                    <strong>For the top electronic documents tested, the top five defects found were the same as FY 2023:</strong>
                     <ul style="padding:15px">
                       <li>1.1.1 Non-text Content.</li>
                       <li>1.3.1 Info and Relationships.</li>
@@ -345,9 +345,9 @@ Several possible reasons for a decrease in the number of entities who tested int
     </div>
 </div>
 
-Less than half of all reporting entities (42%) provided results for the top viewed electronic documents. Over half of all reporting entities (53% or 131 respondents) reported no resources to test the top viewed electronic document, while 11 entities selected that they do not post any electronic documents. **In total, 945 top viewed electronic documents were tested in FY24, compared to 905 in FY23.**
+Less than half of all reporting entities (42%) provided results for the top viewed electronic documents. Over half of all reporting entities (53% or 131 respondents) reported no resources to test the top viewed electronic document, while 11 entities selected that they do not post any electronic documents. **In total, 945 top viewed electronic documents were tested in FY 2024, compared to 905 in FY 2023.**
 
-Ninety-two entities (38%) provided data for their top viewed videos. 114 entities (47%) noted they did not have resources to test and 39 entities reported that they do not produce or host videos. **In total, 435 top viewed videos were tested in FY24, compared to 407 in FY23.**
+Ninety-two entities (38%) provided data for their top viewed videos. 114 entities (47%) noted they did not have resources to test and 39 entities reported that they do not produce or host videos. **In total, 435 top viewed videos were tested in FY 2024, compared to 407 in FY 2023.**
 
 **For entities with no YOY change for electronic documents:**
 
@@ -372,8 +372,8 @@ Ninety-two entities (38%) provided data for their top viewed videos. 114 entitie
   <thead>
     <tr>
       <th scope="col">Type of Change</th>
-      <th scope="col" class="center-important">FY23 to FY24 Electronic Document Entity Count</th>
-      <th scope="col" class="center-important">FY23 to FY24 Video Entity Count</th>
+      <th scope="col" class="center-important">FY 2023 to FY 2024 Electronic Document Entity Count</th>
+      <th scope="col" class="center-important">FY 2023 to FY 2024 Video Entity Count</th>
     </tr>
   </thead>
   <tbody>
@@ -395,11 +395,11 @@ Ninety-two entities (38%) provided data for their top viewed videos. 114 entitie
   </tbody>
 </table>
 
-The data for top viewed ICT indicate that reporting entities are essentially treading water in their accessibility efforts. Furthermore, the counts for increased and decreased conformance between FY23 and FY24 are relatively balanced, which suggests that respondents that did make changes largely offset respondents that declined. This balance shows that improvements in some areas are being offset by declines in others, reinforcing an overall pattern of stagnation. 
+The data for top viewed ICT indicate that reporting entities are essentially treading water in their accessibility efforts. Furthermore, the counts for increased and decreased conformance between FY 2023 and FY 2024 are relatively balanced, which suggests that respondents that did make changes largely offset respondents that declined. This balance shows that improvements in some areas are being offset by declines in others, reinforcing an overall pattern of stagnation. 
 
 ## Compliance of Widely Used ICT
 
-To expand the scope and breadth of ICT products, the Assessment asked about ten specific ICT products used internally by employees and the public. The list of products asked about in FY24 differs from FY23.<sup><a href="#fn16" id="fr16">16</a></sup> These new questions asked entities to estimate conformance levels of the following enterprise-wide products:
+To expand the scope and breadth of ICT products, the Assessment asked about ten specific ICT products used internally by employees and the public. The list of products asked about in FY 2024 differs from FY 2023.<sup><a href="#fn16" id="fr16">16</a></sup> These new questions asked entities to estimate conformance levels of the following enterprise-wide products:
 
 * Conference or workstation reservation systems
 
@@ -426,10 +426,10 @@ In addition to new ICT, the response options also offered more granularity in ho
 While 100% conformance is the Section 508 standard, few entities reported full conformance of their ICT products. As Figure 5 depicts, the ICT product with the highest percentage of full conformance to applicable standards was the entity's publicly posted Section 508 policy at 42.4% followed by enterprise-wide chat or real-time messaging system at 32.7%. **The ICT product with the lowest percentage of full conformance to applicable standards was the employee performance portal with only 6.9% of entities reporting 100% conformance.** This may deeply impact federal employee's abilities to independently access and use their performance portal to complete required job performance documentation.
 
 <div class="border-left-1 padding-2" style="background-color:#F2F8F1; border-color:#14671B;">
-  <p>The introduction of ten new questions, replacing those from FY23, has provided valuable insights into how different components of the c-index influence the overall assessment of accessibility performance.<sup><a href="#fn17" id="fr17">17</a></sup> In both FY23 and FY24, the full c-index, which includes these ICT types, presents a more favorable view of entity Section 508 conformance compared to the truncated indices from their respective years. A comparison with the truncated c-index, which excludes these ICT types, reveals the severity of specific accessibility challenges -- particularly in the Low and Very Low conformance brackets -- on ICT important to both public users and federal employees. These challenges hinder service delivery and employee productivity and underscore the need for consistent application of Section 508 standards.</p>
-  <p>For instance, in FY24, the truncated index places 67 more respondents in the Very Low conformance bracket compared to the full c-index, suggesting that these ICT types boost overall c-index outcomes. A similar trend is observed in FY23, where 54 additional reporting entities are classified as Very Low in the truncated index. This pattern highlights that, while the full c-index provides a broader, more comprehensive perspective, it is designed in a way that may not reveal some of the specific accessibility challenges reporting entities face.
+  <p>The introduction of ten new questions, replacing those from FY 2023, has provided valuable insights into how different components of the c-index influence the overall assessment of accessibility performance.<sup><a href="#fn17" id="fr17">17</a></sup> In both FY 2023 and FY 2024, the full c-index, which includes these ICT types, presents a more favorable view of entity Section 508 conformance compared to the truncated indices from their respective years. A comparison with the truncated c-index, which excludes these ICT types, reveals the severity of specific accessibility challenges -- particularly in the Low and Very Low conformance brackets -- on ICT important to both public users and federal employees. These challenges hinder service delivery and employee productivity and underscore the need for consistent application of Section 508 standards.</p>
+  <p>For instance, in FY 2024, the truncated index places 67 more respondents in the Very Low conformance bracket compared to the full c-index, suggesting that these ICT types boost overall c-index outcomes. A similar trend is observed in FY 2023, where 54 additional reporting entities are classified as Very Low in the truncated index. This pattern highlights that, while the full c-index provides a broader, more comprehensive perspective, it is designed in a way that may not reveal some of the specific accessibility challenges reporting entities face.
   </p>
-  <p>Upon closer examination of the impact of replacing the 10 ICT types, the selection of ICT types in each year influenced conformance differently. In FY24, we saw a larger shift in conformance when comparing the full and truncated indices, suggesting that the ICT types introduced this year had a more pronounced effect on the overall c-index. In contrast, the ICT types used in FY23 had a smaller impact on the conformance brackets.</p>
+  <p>Upon closer examination of the impact of replacing the 10 ICT types, the selection of ICT types in each year influenced conformance differently. In FY 2024, we saw a larger shift in conformance when comparing the full and truncated indices, suggesting that the ICT types introduced this year had a more pronounced effect on the overall c-index. In contrast, the ICT types used in FY 2023 had a smaller impact on the conformance brackets.</p>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
@@ -535,7 +535,7 @@ The number of reporting entities with 90% or more conformance for ICT products i
       <td class="center-important">35</td>
     </tr>
     <tr>
-      <th scope="row">FY25 CJ</th>
+      <th scope="row">FY 2025 CJ</th>
       <td class="center-important">48</td>
       <td class="center-important">31</td>
       <td class="center-important">25</td>
@@ -564,7 +564,7 @@ This year, the Assessment asked several questions regarding the accessibility an
 <hr class="breaker-bar-green">
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="3">
         <li id="fn3">A total of 16,840,036 public internet pages were reported as owned or operated by reporting entities. <a href="#fr3" aria-label="Back to content">↩</a></li>
         <li id="fn4">One hundred thirty-three (133) entities reported data for Q69a related to specific percentages of fully conformant pages, which is less than the overall number of entities who reported testing public internet pages in Q68a. It is unclear why. <a href="#fr4" aria-label="Back to content">↩</a></li>
@@ -573,14 +573,14 @@ This year, the Assessment asked several questions regarding the accessibility an
         <li id="fn7">There were 40 data validation failures for incorrect numbers for the sum of Q68b, Q68c, and Q68d and 23 for the sum of Q73b, Q73c, and Q73d. A number of entities submitted sums of responses b-d that exceeded 100%. <a href="#fr7" aria-label="Back to content">↩</a></li>
         <li id="fn8">One entity reported an average of 25,950 defects per web page, leading to an average of 195 defects per page. Due to a significant data skew, we excluded this number from the analysis above. <a href="#fr8" aria-label="Back to content">↩</a></li>
         <li id="fn9">Upon review, all seven respondents have a home page, at minimum, for their reporting entity. Follow up with entities who selected they have no public facing web pages, documents, or videos is needed to better understand the increase of responses. <a href="#fr9" aria-label="Back to content">↩</a></li>
-        <li id="fn10">Seven entities selected this in FY24 compared to three in FY23. <a href="#fr10" aria-label="Back to content">↩</a></li>
-        <li id="fn11">11 entities selected this in FY24 compared to five in FY23. <a href="#fr11" aria-label="Back to content">↩</a></li>
+        <li id="fn10">Seven entities selected this in FY 2024 compared to three in FY 2023. <a href="#fr10" aria-label="Back to content">↩</a></li>
+        <li id="fn11">11 entities selected this in FY 2024 compared to five in FY 2023. <a href="#fr11" aria-label="Back to content">↩</a></li>
         <li id="fn12">For an explanation of “(WRST)”, please see <a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-b-methods/">Pre/Post Analysis in Methods</a>. <a href="#fr12" aria-label="Back to content">↩</a></li>
         <li id="fn13">Inconsistent data, including missing URLs, incomplete URLs, and mismatches between page names and descriptions, prevented a one-to-one comparison of web pages from last year to this year. For future assessments, we aim to evaluate YOY conformance trends at the level of specific URLs. <a href="#fr13" aria-label="Back to content">↩</a></li>
         <li id="fn14">Both entities have a public-facing website; it is unclear why they selected Not Applicable. <a href="#fr14" aria-label="Back to content">↩</a></li>
         <li id="fn15">As mentioned above, all seven respondents have a home page, at minimum, for their reporting entity. <a href="#fr15" aria-label="Back to content">↩</a></li>
-        <li id="fn16">Ten new criteria were introduced in FY24 (Q80 to Q89) to increase the types of ICT asked about on a rotating basis, meaning that every two years, these criteria will be included in the Assessment. Thus, the 10 ICT questions from FY23 will not be comparable to these new ICT in FY24. <a href="#fr16" aria-label="Back to content">↩</a></li>
-        <li id="fn17">The 10 ICT questions from FY23 asked about Time and Attendance system, most widely viewed required digital training course, enterprise email application, enterprise virtual meeting platform, custom developed desktop software/native mobile app, kiosks used by the public, telework agreement, enterprise Single Sign-On (SSO), W-2, and Section 508 feedback/complaint process. <a href="#fr17" aria-label="Back to content">↩</a></li>
+        <li id="fn16">Ten new criteria were introduced in FY 2024 (Q80 to Q89) to increase the types of ICT asked about on a rotating basis, meaning that every two years, these criteria will be included in the Assessment. Thus, the 10 ICT questions from FY 2023 will not be comparable to these new ICT in FY 2024. <a href="#fr16" aria-label="Back to content">↩</a></li>
+        <li id="fn17">The 10 ICT questions from FY 2023 asked about Time and Attendance system, most widely viewed required digital training course, enterprise email application, enterprise virtual meeting platform, custom developed desktop software/native mobile app, kiosks used by the public, telework agreement, enterprise Single Sign-On (SSO), W-2, and Section 508 feedback/complaint process. <a href="#fr17" aria-label="Back to content">↩</a></li>
     </ol>
     <ol>
       <li type="a" id="fnA">It is not possible to know if the same web pages were tested YOY due to different naming conventions, changing URLs, and lack of sufficient data in some cases. Some variance in the conformance could be due to testing different pages. <a href="#frA" aria-label="Back to content">↩</a></li>
