@@ -775,7 +775,7 @@ exclude-changelog: true
           <th scope="col" class="text-center">Policy Integration Focus Area Outcome</th>
           <th scope="col" class="text-center">Acquisition and Procurement Focus Area Outcome</th>
           <th scope="col" class="text-center">Testing and Remediation Focus Area Outcome</th>
-          <th scope="col" class="text-center">Has a Section 508 Program</th>
+          <th scope="col" class="text-center">Has a Section 508 Policy</th>
           <th scope="col" class="text-right">FY24 Section 508 Budget</th>
           <th scope="col" class="text-right">Avg PM Hours per Week</th>
           <th scope="col" class="text-right">Total FTEs</th>
@@ -787,7 +787,7 @@ exclude-changelog: true
           <td id="focus-integration-1"></td>
           <td id="focus-acquisition-1"></td>
           <td id="focus-testing-1"></td>
-          <td id="508-program-1">Yes</td>
+          <td id="508-policy-1">Yes</td>
           <td id="508-budget-1">$150,000</td>
           <td id="pm-hours-1">40</td>
           <td id="total-fte-1">1</td>
@@ -1988,7 +1988,7 @@ exclude-changelog: true
                 <td id="focus-integration-${rowNumber}" class="text-center"></td>
                 <td id="focus-acquisition-${rowNumber}" class="text-center"></td>
                 <td id="focus-testing-${rowNumber}" class="text-center"></td>
-                <td id="508-program-${rowNumber}" class="text-center"></td>
+                <td id="508-policy-${rowNumber}" class="text-center"></td>
                 <td id="508-budget-${rowNumber}" class="text-right"></td>
                 <td id="pm-hours-${rowNumber}" class="text-right"></td>
                 <td id="total-fte-${rowNumber}" class="text-right"></td>
@@ -2006,7 +2006,7 @@ exclude-changelog: true
               setCellText(`focus-integration-${rowNumber}`, component["Component level of performance (policy)"]);
               setCellText(`focus-acquisition-${rowNumber}`, component["Component level of performance (Acq)"]);
               setCellText(`focus-testing-${rowNumber}`, component["Component level of performance (test)"]);
-              setCellText(`508-program-${rowNumber}`, component["Component has 508 policy"]);
+              setCellText(`508-policy-${rowNumber}`, component["Component has 508 policy"]);
               setCellText(`508-budget-${rowNumber}`, component["FY24 Section 508 Budget"]);
               setCellText(`pm-hours-${rowNumber}`, component["508 PM hours"]);
               setCellText(`total-fte-${rowNumber}`, component["Total FTE"]);
