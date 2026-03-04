@@ -1,27 +1,42 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/andi-page-title/
+sidenav: true
 type: ANDI training
 title: 'Module 10: Page Title'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/andi-page-title/
 redirect_from:
 - test/web-software/andi-training-videos/andi-page-title/
-topic: "Training (train)"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+description: 
+disclaimer: 
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
-resource-type: "Training"
+topic: "Training (train)"
+subtopic: "Design, Develop, Testing for Accessibility Training or Tools"
+resource_type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 10 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-10-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-10-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the ANDI page title module. The purpose of this module is to ensure that every web page contains a title element that will identify the purpose of the page and distinguish it from other web pages. To start open a web page and launch ANDI. Next choose the select module drop-down menu and navigate to the structures module. Once selected open the more details drop-down menu and select page titles. ANDI will display a page title if one exists. The page title passes when the page contains a unique title that identifies the purpose of the page. The page title fails if the page does not contain a unique title or does not identify the purpose of the page. Does not apply is not an acceptable answer when testing page title. This concludes the ANDI page titles module.</p>
+    <p>VO: Users are encouraged to view the other videos for more information on how to utilize ANDI.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -96,4 +111,4 @@ In Module: 10 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
