@@ -9,6 +9,6 @@ url=$baseurl${BRANCH}"/art/";
 echo 'Base href -> ' $url; 
 #if the code is push on the main branch
 [ ${BRANCH} = 'main' ] && ng build --configuration production --base-href=https://www.section508.gov/art/;  
-#if the code is pushed on any pther brnach, they will be using federalist cloud from url
+#if the code is pushed on any other brnach, they will be using federalist cloud from url
 [ ${BRANCH} != 'main' ] && ng build --configuration dev --base-href=$url;
 echo 'Angular build completed!'; 
