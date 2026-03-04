@@ -4,7 +4,7 @@ sidenav: true
 permalink: develop/guide-accessible-web-design-development/
 type: develop
 title: 'Guide to Accessible Web Design & Development'
-created: 1551819388
+created: 2019-03-05
 contributors: usab
 description: "Guide to Accessible Web Design & Development"
 topic: "Development (dev)"

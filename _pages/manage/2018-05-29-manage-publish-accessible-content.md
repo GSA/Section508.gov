@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/publish-accessible-content/
 type: manage
 title: 'Publish Accessible Content'
-created: 1527566954
+created: 2018-05-29
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:

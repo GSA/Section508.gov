@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/tool/glossary/).
 

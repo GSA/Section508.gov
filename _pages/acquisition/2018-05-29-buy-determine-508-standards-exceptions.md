@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/determine-508-standards-exceptions/
 type: acquisition
 title: 'Determine Section 508 Standards and Exceptions'
-created: 1527568791
+created: 2018-05-29
 topic: "Acquisition/Buy (buy)"
 sub-topic: "Acquisition Tools"
 audience:

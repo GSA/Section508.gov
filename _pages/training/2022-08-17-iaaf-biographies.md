@@ -4,7 +4,7 @@ sidenav: false
 permalink: iaaf/archives/biographies-2022/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
-created: 1601325079
+created: 2020-09-28
 topic: "Events (events)"
 sub-topic: "N/A"
 audience:

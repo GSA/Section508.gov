@@ -1,11 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/pmr/
 type: manage
 title: 'Section 508 Program Maturity Report (PMR)'
-created: 2018-05-25
-updated: 2025-01-16
+permalink: manage/pmr/
 redirect_from:
 - manage/reporting/ #renamed THIS page's permalink to better distingish between Annual Section 508 Assessment
 - content/manage/reporting/ #retaining redirects from legacy pages
@@ -20,6 +18,7 @@ redirect_from:
 - manage/reporting/questions/
 - content/reporting/questions/
 - manage/reporting/section-508-program-maturity-reports/ #only one redirect for this page, as there is no legacy page
+description: Explore the Section 508 Program Maturity Report (PMR) page with archived reports showing how federal agencies have measured and reported Section 508 program performance.
 topic: Manage (program)
 sub-topic: Reporting
 audience:
@@ -30,6 +29,8 @@ audience:
 - Lawmakers and Policy Officials (law-policy)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-25
+updated: 2025-01-16
 ---
 
 **NOTICE: The [Government-wide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/) replaces the previously required semi-annual Section 508 Program Maturity Report archived on this page for reference.**

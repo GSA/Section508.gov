@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/request-accessibility-information/
 type: acquisition
 title: 'Request Accessibility Information from Vendors & Contractors'
-created: 1527567946
+created: 2018-05-29
 topic: Acquisition/Buy (buy)
 sub-topic: Accessible Acquisition Info, Guidance & Best Practices
 audience:

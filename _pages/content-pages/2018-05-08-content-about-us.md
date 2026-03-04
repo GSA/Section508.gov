@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: false
-permalink: about-us/
 type: page
 title: 'About Us'
-created: 2018-05-08
-updated: 2025-02-06
+permalink: about-us/
+description: Learn about the Section 508 program, its mission, partners, and how it supports federal agencies in delivering accessible information and communication technology.
 redirect_from:
 - content/about-us/
 topic: "About the program/site (about)"
@@ -15,6 +14,8 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
+created: 2018-05-08
+updated: 2025-02-06
 ---
 The U.S. General Services Administration (GSA) is tasked under [Section 508 of the Rehabilitation Act][3] to provide technical assistance to help federal agencies comply with Section 508 requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities. 
 

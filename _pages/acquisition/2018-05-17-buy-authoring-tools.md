@@ -1,13 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/authoring-tools/
 type: acquisition
 title: 'Authoring Tool Requirements'
-created: 2018-05-17
-updated: 2024-05-30
+permalink: buy/authoring-tools/
 redirect_from:
 - create/authoring-tools/
+description: 
 topic: "Acquisition/Buy (buy)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -18,6 +17,8 @@ audience:
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"
+created: 2018-05-17
+updated: 2024-05-30
 ---
 
 The [Revised 508 Standards][1] include new requirements for authoring tools. From the definitions section (E103.4) of the Revised 508 Standards:

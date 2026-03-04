@@ -18,7 +18,7 @@ topic: Training (train)
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
 resource_type: Training
 format: Video & Synchronized Media (video)
-created: 1601870389
+created: 2020-10-04
 updated: 2026-03-03
 exclude-changelog: true
 ---

@@ -14,6 +14,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 * GSA intends to provide OMB with targeted recommendations for developing a governmentwide digital accessibility blanket purchase agreement (BPA) that would make it easier for agencies to procure accessibility related tools and services.A digital accessibility- specific contract vehicle will allow users to:
 

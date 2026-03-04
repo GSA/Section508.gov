@@ -4,7 +4,7 @@ sidenav: false
 permalink: iaaf/archives/agenda-2022/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
-created: 1600981839
+created: 2020-09-24
 topic: "Events (events)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:

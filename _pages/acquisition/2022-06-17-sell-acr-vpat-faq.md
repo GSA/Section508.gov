@@ -1,11 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: sell/acr-vpat-faq/
 type: acquisition
 title: 'Accessibility Conformance Report/Voluntary Product Accessibility Template (VPAT&reg;) Frequently Asked Questions (FAQ)'
-contributors: haileselassie, sirk, nasa
+permalink: sell/acr-vpat-faq/
 description: Frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;) 
+contributors: haileselassie, sirk, nasa
 topic: "Acquisition/Sell (sell)"
 sub-topic: "VPAT/ACR Production & Eval"
 audience:
@@ -16,6 +16,7 @@ audience:
 - "Agency Senior Procurement Executive (spe)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2022-06-17
 ---
 
 Below is a list of frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][5].

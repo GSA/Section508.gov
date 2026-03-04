@@ -4,7 +4,7 @@ layout: page
 permalink: create/pdfs/training-videos/
 type: create
 title: 'PDF Training Videos'
-created: 1579721731
+created: 2020-01-22
 topic: Content creation (create)
 sub-topic: PDFs
 audience:

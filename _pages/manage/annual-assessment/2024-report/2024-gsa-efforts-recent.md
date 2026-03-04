@@ -14,6 +14,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2024-12-20
 ---
 The following describes GSA's efforts to help entities collect and submit their Assessment data and related efforts to improve federal digital accessibility from December 29, 2023, to December 29, 2024.
 

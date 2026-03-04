@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/laws-and-policies/international/
 type: manage
 title: 'International Harmonization'
-created: 1527606769
+created: 2018-05-29
 topic: "Law (law)"
 sub-topic: "Accessibility Law & Policy"
 audience:

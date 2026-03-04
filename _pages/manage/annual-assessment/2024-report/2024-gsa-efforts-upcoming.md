@@ -14,6 +14,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2024-12-20
 ---
 ## Governmentwide Accessibility Assessment Related Actions
 GSA intends to continue the core efforts as noted above, but also intends to focus on the additional items below in the next year. 

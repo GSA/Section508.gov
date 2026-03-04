@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/track-report-conformance/
 type: manage
 title: 'Track and Report Conformance'
-created: 1527568792
+created: 2018-05-29
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
