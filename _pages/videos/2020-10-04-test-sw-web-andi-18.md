@@ -1,27 +1,48 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/live-regions/
+sidenav: true
 type: ANDI training
 title: 'Module 18: Live Regions'
-created: 1601870389
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/live-regions/
 redirect_from:
 - test/web-software/andi-training-videos/live-regions/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 1601870389
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-18-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-18-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Live Regions module. The purpose of this module is to locate and inspect newly revealed content changes such as alerts and messages that display on the page.</p>
+    <p>VO: To start, open a web page and launch Andy. Next, choose the Select Module drop-down menu and navigate to the Structures module.</p>
+    <p>VO: If Live Regions are present, the number of Live Regions will display at the top of the page. To evaluate Live Regions, select the Live Regions button.</p>
+    <p>VO: Next, choose the Next Element or Previous Element button to move focus between Live Regions. Alternatively, use the Tab key to navigate between Live Regions.</p>
+    <p>VO: Once a Live Region receives focus, it is highlighted with a solid pink outline. The Andy output displays the content contained within the Live Region.</p>
+    <p>VO: Note, select the Refresh Andy button to evaluate updated content changes on the page. Live Region passes if Change Content appears within the Live Region and displays in the Andy output.</p>
+    <p>VO: Live Region fails if Change Content does not appear within the Live Region and does not display in the Andy output. The test does not apply if there are no Live Regions.</p>
+    <p>VO: This concludes the Andy Live Regions module. Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -96,6 +117,6 @@ In Module: 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#user-agent

@@ -1,25 +1,40 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/structure-headings/
+sidenav: true
 type: ANDI training
 title: 'Module 5: Structure Headings'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/structure-headings/
 redirect_from:
 - test/web-software/andi-training-videos/structure-headings/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - Federal employee (fedemp)
 - Website Managers/Content Managers (wcm)
 - Content Creators (creator)
 - Developers and Testers (dev-test)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 5 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-05-oc.mp4" type="video/mp4"></video>
+
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-05-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Andy Structure Headings module. The purpose of this module is to inspect each visual heading on the page and validate it is programmatically defined. To start, open a web page and launch Andy. Next, choose the Select Module drop-down menu and navigate to the Structures module. Once selected, the number of programmatically defined headings will be displayed at the top of the page. To evaluate programmatically defined headings, select the Headings button. All programmatically defined headings will be highlighted with a dotted purple outline. Next, select the previous element or next element button to navigate between headings on the page. Once a heading receives focus, it is highlighted with a solid pink outline. Review the Andy output to verify that only visual headings are programmatically determinable. A visually apparent heading passes if it is programmatically defined. A visually apparent heading fails if it is not programmatically defined or if text is incorrectly defined as a heading. The test does not apply when there are no visual or programmatically defined headings. This concludes the Andy Structure Headings module. Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -94,6 +109,6 @@ In Module: 5 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
