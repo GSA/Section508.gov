@@ -4,7 +4,8 @@ This sidenav has tags from all the posts. Will be displayed on Blog landing page
 
 <nav aria-label="Secondary Navigation">
   <ul class="usa-sidenav usa-layout-docs__sidenav">
-  	<li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/index.html' %} usa-current{% endif %}">Blogs & Updates</a></li>
+  	<li class="usa-sidenav__item"><a href="{{ site.baseurl }}/whats-new/" class="usa-nav__link {% if page.url == '/whats-new/' %} usa-current{% endif %}">What's New on Section508.gov?</a></li>
+	<li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/index.html' %} usa-current{% endif %}">Blogs & Updates</a></li>
   	<li class="usa-sidenav__item"><span class="usa-sidenav__item_nolink">IT Accessibility Topics</span>
 	  <ul class="usa-sidenav__sublist">
 	  	{% assign tags = site.tags | sort %}
@@ -14,6 +15,5 @@ This sidenav has tags from all the posts. Will be displayed on Blog landing page
 	    {% endfor %}
 	  </ul>
 	</li>
-	<li class="usa-sidenav__item"><a href="{{ site.baseurl }}/whats-new/" class="usa-nav__link {% if page.url == '/whats-new/' %} usa-current{% endif %}">What's New on Section508.gov?</a></li>
   </ul>
 </nav>
