@@ -1,27 +1,51 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/color-contrast/
+sidenav: true
 type: ANDI training
 title: 'Module 13: Color Contrast'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/color-contrast/
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 <p>In Module 13 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <em>Color Contrast</em> module to <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> whether text in a webpage has enough contrast with its background to be readable by people with moderately low vision—especially those who do not typically use contrast-enhancing assistive technology.</p>
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-13-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-13-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Andy Color Contrast Module. The purpose of this module is to ensure text has sufficient color contrast with its background.</p>
+    <p>VO: To start, open a web page and launch Andy. Next, choose the Select Module dropdown menu and navigate to the Color Contrast Module.</p>
+    <p>VO: Once selected, Andy displays the number of elements containing text and each element is outlined with a gray dotted line.</p>
+    <p>VO: To evaluate color contrast text, select the previous element or next element button to navigate to the text elements on the page.</p>
+    <p>VO: Once the element receives focus, it is highlighted with a solid pink outline. The contrast ratio output displays the programmatic markup.</p>
+    <p>VO: Review each element to determine if the contrast ratio output meets the minimum contrast requirement.</p>
+    <p>VO: Note, elements detected as manual tests needed require testing using the Color Contrast Analyzer CCA Tool to identify minimum contrast requirements.</p>
+    <p>VO: The use of the CCA Tool is not included in this video. An element passes when the color contrast ratio meets the minimum contrast requirement.</p>
+    <p>VO: An element fails when the color contrast ratio does not meet the minimum contrast requirement.</p>
+    <p>VO: This test does not apply when there is no text on the page. This concludes the Andy Color Contrast Module.</p>
+    <p>VO: Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -96,4 +120,4 @@ format: Video & Synchronized Media (video)
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026

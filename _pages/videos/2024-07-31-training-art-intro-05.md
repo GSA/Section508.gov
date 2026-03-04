@@ -14,7 +14,7 @@ This episode explains how to upload a report file to resume using ART or modify 
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
     <p>[low, steady music throughout]</p>

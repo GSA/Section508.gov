@@ -1,27 +1,42 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/images/
+sidenav: true
 type: ANDI training
 title: 'Module 4: Images'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/images/
 redirect_from:
 - test/web-software/andi-training-videos/images/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-04-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-04-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Andy Images module. The purpose of this module is to test meaningful, decorative, and background images for accessibility. To start, open a web page and launch Andy. Next, choose the Select Module drop-down menu and navigate to the Graphics Images module. Once selected, it will display the number of images found at the top of the page. To evaluate meaningful and decorative images, select the previous element or next element button to navigate between images. When an image receives focus, it is highlighted with a solid pink outline.</p>
+    <p>VO: Review the Andy output to ensure it adequately describes the highlighted element. Note, a decorative image will contain blank output and a meaningful image will contain an equivalent description that describes the purpose of the image. To evaluate background images, select the Find Background button to outline all background images. When a background image receives focus, it is highlighted with a solid green outline. Identify if the background image is conveying meaningful information. Next, select the Hide Background button to hide the background image. Use the Andy output to verify that meaningful content is still available when the background image is removed. An image passes when the Andy output contains an equivalent description of a meaningful image, blank output for a decorative image, and/or when a background image that contains meaningful information is removed, an equivalent description is available on the page. An image fails when the Andy output does not contain an equivalent description of a meaningful image, a blank output for a decorative image. And or when a background image that contains meaningful information is removed, an equivalent description is not available on the page. This test does not apply when there are no images. Andy will display no graphics and images were found on the page. This concludes the Andy Images module. Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -92,4 +107,4 @@ In Module: 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
