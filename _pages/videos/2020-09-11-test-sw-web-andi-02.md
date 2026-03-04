@@ -1,28 +1,46 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/focus-element/
+sidenav: true
 type: ANDI training
 title: 'Module 2: Focus Element'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/focus-element/
 redirect_from:
  - test/web-software/andi-training-videos/focus-element/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 2 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Focusable Elements modules to analyze all focusable [interactive elements][1] with keyboard access and visual focus.<br />
 Note: This ANDI module is not used to test visual focus.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-02-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-02-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the ANDI Focussable Elements module. The purpose of this module is to analyze all focusable interactive elements with keyboard access and visual focus.</p>
+    <p>VO: Note, the focusable elements module is not used to test visible focus. To start, open a web page and launch ANDI.</p>
+    <p>VO: Focusable elements is the default module. It displays the number of focusable elements found at the top of the page. To evaluate focusable elements, select the previous element or next element button to navigate the focusable elements on the page.</p>
+    <p>VO: When an interactive element receives focus, it is highlighted with a solid pink outline. ANDI identifies the element attribute. Evaluate the ANDI output to validate if it adequately describes the highlighted element.</p>
+    <p>VO: An interactive element passes if it receives focus, properly indicates the element attribute, and the ANDI output displays adequate programmatic markup. An interactive element fails if it does not receive focus, does not associate the proper element attribute, and the ANDI output does not display adequate programmatic markup.</p>
+    <p>VO: The test results does not apply when there are no focusable elements found on the page. This concludes the ANDI focusable elements module. Users are encouraged to view the other videos for more information on how to utilize ANDI.</p>
+  </div>
+</div>
 
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
@@ -94,6 +112,6 @@ Note: This ANDI module is not used to test visual focus.
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
 [1]: {{site.baseurl}}/tools/glossary/#interactive-element

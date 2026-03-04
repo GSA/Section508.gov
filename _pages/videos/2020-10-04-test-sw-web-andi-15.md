@@ -1,26 +1,41 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/data-tables/
+sidenav: true
 type: ANDI training
 title: 'Module 15: Data Tables'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/data-tables/
 redirect_from:
 - test/web-software/anditraining-videos/data-tables/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 15 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Tables_ module to inspect [data tables][1] for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-15-oc.mp4" type="video/mp4"></video>
+
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-15-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the ANDI Data Tables module. The purpose of this module is to inspect data tables for accessibility. To start, open a web page and launch ANDI. Next, choose the Select Module drop-down menu and navigate to the Tables module. Once selected, the number of data tables displays. If there are no programmatic tables on the page or if the tables are contained within iframes, the ANDI tables module will not appear. Review the iframes video for more information on inspecting content within iframes. To evaluate data tables, select the Analyze Next Table or Analyze Previous Table button to navigate between tables. Once the table receives focus, it is highlighted with a pink outline. Then, select the Next Element or Previous Element button to navigate between each data cell. When a data cell receives focus, it is highlighted with a solid pink outline. Light pink background shading shows the relationship between the cell and its associated headers. The ANDI output will display the text from any associated headers in purple and the data cell in light green. A data table passes if the ANDI element attribute table role is defined as table and the ANDI output accurately displays the header and data cell associations. A data table fails if the ANDI element attribute table role is defined as presentation or the ANDI output does not accurately display the header and data cell associations. The test does not apply if data tables do not exist. This concludes the ANDI data tables module. Users are encouraged to view the other videos for more information on how to utilize ANDI.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -95,6 +110,6 @@ In Module: 15 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#data-table

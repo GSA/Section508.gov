@@ -51,7 +51,8 @@
   "overrides": {
     "docx": {
       "nanoid": "^5.0.9"
-    }
+    },
+    "serialize-javascript": "7.0.3"
   },
   "engines": {
     "node": "^22.16.0",

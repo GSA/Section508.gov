@@ -1,27 +1,42 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/layout-tables/
+sidenav: true
 type: ANDI training
 title: 'Module 16: Layout Tables'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/layout-tables/
 redirect_from:
 - test/web-software/andi-training-videos/layout-tables/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Andy Layout Tables module. The purpose of this module is to inspect layout tables for accessibility. To start, open a web page and launch Andy. Next, choose the Select Module drop-down menu and navigate to the Tables module. Once selected, the number of presentation tables displays. If tables are visually apparent and the Andy Tables module does not appear, the tables might be contained within iframes. Review the iframe video for more information on inspecting content within iframes. To evaluate layout tables, select the next element or previous element button to navigate between layout tables on the page. Once a layout table receives focus, it is highlighted with a pink outline. Andy will identify the layout table role as presentation in the element attribute.</p>
+    <p>VO: Note, Andy provides other methods to identify layout tables. The Andy output will display a blank description of the element to indicate it is defined as a layout table. A layout table passes if the Andy element attribute table role is defined as presentation and the Andy output displays no table structure elements reserved for data tables. A layout table fails if the Andy element attribute table role is defined as table or the Andy output displays table structure elements reserved for data tables. The test does not apply if layout tables do not exist. This concludes the Andy layout tables module. Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -96,6 +111,6 @@ In Module: 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#layout-table
