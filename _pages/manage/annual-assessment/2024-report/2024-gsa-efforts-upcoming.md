@@ -43,7 +43,7 @@ GSA intends to continue the core efforts as noted above, but also intends to foc
 
 ## Strategic Engagement
 
-* GSA, along with its hosting partners, will conduct a hybrid in-person and virtual event for FY25 Interagency Accessibility Forum (IAAF) targeted at training foundational accessibility concepts, improving the shared accessibility knowledge across government, and providing a forum for accessibility professionals to engage with each other. The FY25 IAAF will move to May.
+* GSA, along with its hosting partners, will conduct a hybrid in-person and virtual event for FY 2025 Interagency Accessibility Forum (IAAF) targeted at training foundational accessibility concepts, improving the shared accessibility knowledge across government, and providing a forum for accessibility professionals to engage with each other. The FY 2025 IAAF will move to May.
 
 * GSA plans to outline and develop supporting artifacts for an expanded, targeted effort to engage entities one-by-one and assist agencies in assessing certain business functions, develop policies and processes, or conduct one-off analyses in specific areas. The Minimum Viable Product (MVP) of this effort as well as the primary business areas where GSA will assist are yet to be determined.
 

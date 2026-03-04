@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-other/
 type: report2023
-title: "Other Activities Under Consideration Beyond FY24"
+title: "Other Activities Under Consideration Beyond FY 2024"
 topic: Law (law)
 sub-topic: Reporting
 audience:

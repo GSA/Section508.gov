@@ -17,11 +17,11 @@ format: "HTML (html)"
 created: 2024-12-20
 ---
 <hr class="breaker-bar-green">
-Please refer to <a href="{{site.baseurl}}/manage/laws-and-policies/">Section508.gov's IT Accessibility Laws and Policy</a> for review of key legislative and executive actions that have advanced digital equity across the federal government over the past 50 years. Please refer to the <a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/">FY23 Assessment</a> for a review of federal initiatives and resources on ICT accessibility.
+Please refer to <a href="{{site.baseurl}}/manage/laws-and-policies/">Section508.gov's IT Accessibility Laws and Policy</a> for review of key legislative and executive actions that have advanced digital equity across the federal government over the past 50 years. Please refer to the <a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/">FY 2023 Assessment</a> for a review of federal initiatives and resources on ICT accessibility.
 <hr class="breaker-bar-green">
 
 ## Recent Federal Law and Policy on ICT Accessibility
-Since the publication of the FY23 Assessment in December 2023, the federal government continues to issue important law and policy to improve digital accessibility, most notably:
+Since the publication of the FY 2023 Assessment in December 2023, the federal government continues to issue important law and policy to improve digital accessibility, most notably:
 
 <div class="display-none tablet:display-block border-base padding-1 callout-box-top-left" style="float:right; margin-left:10px; width:50%; border-bottom-color: #14671B;">
     <div class="grid-row grid-gap">

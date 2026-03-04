@@ -23,6 +23,12 @@
 
 <script src="{{ site.baseurl }}/assets/js/uswds.min.js?{{ site.time | date: '%s%N' }}"></script>
 <script src="{{ site.baseurl }}/assets/js/app.js?{{ site.time | date: '%s%N' }}"></script>
+<script src="{{ site.baseurl }}/assets/js/append-urls.js?{{ site.time | date: '%s%N' }}"></script>
+{% comment %} Custom Page Scripts {% endcomment %}
+{% if page.custom-script %}
+  {% for script in page.custom-script %}
+<script src="{{site.baseurl}}/assets/js/{{script}}"></script>{% endfor %}
+{% endif %}
 
 {% comment %}
 - The script below hides the alert banner for time-sensitive alerts.

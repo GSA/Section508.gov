@@ -1,26 +1,41 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/language-parts/
+sidenav: true
 type: ANDI training
 title: 'Module 9: Language of Parts'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/language-parts/
 redirect_from:
 - test/web-software/andi-training-videos/language-parts/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - Website Managers/Content Managers (wcm)
 - Content Creators (creator)
 - Developers and Testers (dev-test)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-09-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-09-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the Andy Language of Parts module. The purpose of this module is to ensure that all written content in multiple human languages is programmatically identified correctly. To start, open a web page and launch Andy.</p>
+    <p>VO: Next, choose the select module drop-down menu and navigate to the structures module. To evaluate language of parts, select the more details drop-down menu, then select the language attributes button to add markup to the page. Tab to the markup to reveal the language attribute highlighted with a solid green outline. Verify the language attribute is accurate for the content within the green outline. The language of parts passes when all written content in multiple human languages is programmatically identified correctly. The language of parts fails when all written content in multiple human languages is not programmatically identified correctly. The test does not apply if only one human language is found on the page or if the content is gibberish, is a proper name, technical term, or is commonly understood. This concludes the Andy Language of Parts module. Users are encouraged to view the other videos for more information on how to utilize Andy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -95,7 +110,7 @@ In Module: 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
  [2]: {{site.baseurl}}/tools/glossary/#user-agent

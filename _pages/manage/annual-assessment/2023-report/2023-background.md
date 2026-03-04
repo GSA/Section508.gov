@@ -34,7 +34,7 @@ Over the past 50 years, the federal government has passed a variety of statutes,
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="4">
         <li id="fn4">Throughout this document, conformant ICT refers to ICT that meets the technical specifications required in the ICT Standards and Guidelines. <a href="#fr4" aria-label="Back to content">↩</a></li>
         <li id="fn5">While only the 24 Chief Financial Officers (CFO) Act agencies were required to submit Section 508 compliance data pursuant the “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act,” they are responsible for the majority of federal ICT. Some federal agencies not subject to the CFO Act voluntarily submitted data. <a href="#fr5" aria-label="Back to content">↩</a></li>

@@ -1,26 +1,51 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/css-content-positioning/
+sidenav: true
 type: ANDI training
 title: 'Module 17: CSS Content and Positioning'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/css-content-positioning/
 redirect_from:
 - test/web-software/andi-training-videos/css-content-positioning/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+description: 
+disclaimer: 
 audience:
 - federal employee (fedemp)
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Public (public)
-resource-type: Training
+topic: Training (train)
+subtopic: Design, Develop, Testing for Accessibility Training or Tools
+resource_type: Training
 format: Video & Synchronized Media (video)
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 17 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-17-oc.mp4" type="video/mp4"></video>
+
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-17-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the ANDI CSS Content and Positioning Module. The purpose of this module is to test meaningful content inserted in a page using Cascading Style Sheets CSS.</p>
+    <p>VO: Note, for this module, no ANDI output is available. To start, open a web page and launch ANDI. Next, choose the Select Module drop-down menu and navigate to the Hidden Content Module.</p>
+    <p>VO: The Content before/after menu displays the number of elements inserted using CSS. To evaluate meaningful content inserted using CSS, the Content before/after menu displays the number of elements inserted using CSS.</p>
+    <p>VO: Select the Content before/after menu. ANDI highlights inserted content with a solid red outline.</p>
+    <p>VO: Next, identify if the hidden content contains meaningful information. If so, confirm the same information is presented in another way on the page.</p>
+    <p>VO: To evaluate content order and meaning CSS position, select the Advanced Settings button to expand the menu options. This button appears as a gear icon.</p>
+    <p>VO: Then select the Linerize Page checkbox. Linerize content is highlighted with a solid blue outline.</p>
+    <p>VO: A CSS element passes when hidden meaningful content is presented in another way, and Linerize content has a logical reading order.</p>
+    <p>VO: A CSS element fails when hidden meaningful content is not presented in another way, and Linerize content does not display in a logical reading order.</p>
+    <p>VO: The test does not apply when there is no hidden content, no meaningful content inserted using before or after, and/or there is no Linerize content.</p>
+    <p>VO: This concludes the ANDI CSS Content and Positioning module. Users are encouraged to view the other videos for more information on how to utilize ANDI.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -95,6 +120,6 @@ In Module: 17 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#css

@@ -18,7 +18,7 @@ created: 2024-12-20
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and components followed by independent reporting entities.
 
-<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;"><strong>Note</strong>: Entities marked with an asterisk (*) only reported data in FY24.</div>
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;"><strong>Note</strong>: Entities marked with an asterisk (*) only reported data in FY 2024.</div>
 
 ## Chief Financial Officers (CFO) Act Agencies
 
@@ -51,12 +51,12 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 <ol start="22">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOC">Department of Commerce (DOC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BEA">Bureau of Economic Analysis (BEA)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BIS" title="Entity only reported data in FY24">Bureau of Industry and Security (BIS)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BIS" title="Entity only reported data in FY 2024">Bureau of Industry and Security (BIS)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CEN">Bureau of the Census (CEN)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EDA">Economic Development Administration (EDA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FNA">FirstNet Authority (FNA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ITA">International Trade Administration (ITA)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MBDA" title="Entity only reported data in FY24">Minority Business Development Agency (MBDA)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MBDA" title="Entity only reported data in FY 2024">Minority Business Development Agency (MBDA)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NIST">National Institute of Standards and Technology (NIST)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NOAA">National Oceanic and Atmospheric Administration (NOAA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NTIS">National Technical Information Service (NTIS)</a></li>
@@ -65,7 +65,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 </ol>
 
 ### Department of Defense (CFO Act Agency)
-**Note**: National Defense University (NDU) reported in FY23 but not FY24. Office of Local Defense Community Cooperation (OLDCC) and Test Resource Management Center (TRMC) reported in FY23 but were not considered reporting entities per DOD for FY24.
+**Note**: National Defense University (NDU) reported in FY 2023 but not FY 2024. Office of Local Defense Community Cooperation (OLDCC) and Test Resource Management Center (TRMC) reported in FY 2023 but were not considered reporting entities per DOD for FY 2024.
 <ol start="35">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOD">Department of Defense (DOD)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DAU">Defense Acquisition University (DAU)</a></li>
@@ -84,7 +84,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DPOW">Defense POW/MIA Accounting Agency (DPOW)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DSCA">Defense Security Cooperation Agency (DSCA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTIC">Defense Technical Information Center (DTIC)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTSA" title="Entity only reported data in FY24">Defense Technology Security Administration (DTSA)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTSA" title="Entity only reported data in FY 2024">Defense Technology Security Administration (DTSA)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTRA">Defense Threat Reduction Agency (DTRA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USAF">Department of the Air Force (USAF)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ARMY">Department of the Army (ARMY)</a></li>
@@ -106,19 +106,19 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 </ol>
 
 ### Department of Energy (CFO Act Agency)
-**Note**: Loan Programs Office (LPO), Office of Acquisition Management (OAM), Office of Electricity Delivery and Energy Reliability (OEDE), Office of Energy Efficiency and Renewable Energy (OEERE), and Office of Nuclear Safety Enforcement (ONSE) reported in FY23 but were not considered reporting entities per DOE for FY24.
+**Note**: Loan Programs Office (LPO), Office of Acquisition Management (OAM), Office of Electricity Delivery and Energy Reliability (OEDE), Office of Energy Efficiency and Renewable Energy (OEERE), and Office of Nuclear Safety Enforcement (ONSE) reported in FY 2023 but were not considered reporting entities per DOE for FY 2024.
 <ol start="67">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOE">Department of Energy (DOE)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BPA">Bonneville Power Administration (BPA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NNSA">National Nuclear Security Administration (NNSA)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EHSS" title="Entity only reported data in FY24">Office of Environment, Health, Safety and Security (EHSS)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EHSS" title="Entity only reported data in FY 2024">Office of Environment, Health, Safety and Security (EHSS)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SEPA">Southeastern Power Administration (SEPA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SWPA">Southwestern Power Administration (SWPA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=WAPA">Western Area Power Administration (WAPA)</a></li>
 </ol>
 
 ### Department of Health and Human Services (CFO Act Agency)
-**Note**: Office of the Secretary (HHSOS) reported in FY23 but was combined into HHS’s report for FY24.
+**Note**: Office of the Secretary (HHSOS) reported in FY 2023 but was combined into HHS’s report for FY 2024.
 <ol start="74">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=HHS">Department of Health and Human Services (HHS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ACF">Administration for Children and Families (ACF)</a></li>
@@ -137,7 +137,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 <ol start="85">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DHS">Department of Homeland Security (DHS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CBP">Customs and Border Protection (CBP)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CWMD" title="Entity only reported data in FY24">Countering Weapons of Mass Destruction Office (CWMD)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CWMD" title="Entity only reported data in FY 2024">Countering Weapons of Mass Destruction Office (CWMD)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CISA">Cybersecurity and Infrastructure Security Agency (CISA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FEMA">Federal Emergency Management Agency (FEMA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FLETC">Federal Law Enforcement Training Center (FLETC)</a></li>
@@ -220,7 +220,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 </ol>
 
 ### Department of the Treasury (CFO Act Agency)
-**Note**: Special Inspector General for the Troubled Asset Relief Program (SIGTARP) reported in FY23 but was closed due to expired statute.
+**Note**: Special Inspector General for the Troubled Asset Relief Program (SIGTARP) reported in FY 2023 but was closed due to expired statute.
 <ol start="147">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=TREAS">Department of the Treasury (TREAS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ATTTB">Alcohol and Tobacco Tax and Trade Bureau (ATTTB)</a></li>
@@ -228,10 +228,10 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BFS">Bureau of the Fiscal Service (BFS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FINCEN">Financial Crimes Enforcement Network (FINCEN)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=IRS">Internal Revenue Service (IRS)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=OFR" title="Entity only reported data in FY24">Office of Financial Research (OFR)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=OFR" title="Entity only reported data in FY 2024">Office of Financial Research (OFR)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=TREASOIG">Office of Inspector General (TREASOIG)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=OCC">Office of the Comptroller of the Currency (OCC)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SIGPR" title="Entity only reported data in FY24">Special Inspector General for Pandemic Recovery (SIGPR)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SIGPR" title="Entity only reported data in FY 2024">Special Inspector General for Pandemic Recovery (SIGPR)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=TIGTA">Treasury Inspector General for Tax Administration (TIGTA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MINT">United States Mint (MINT)</a></li>
 </ol>
@@ -239,14 +239,14 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 ### Department of Transportation (CFO Act Agency)
 <ol start="159">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOT">Department of Transportation (DOT)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BTS" title="Entity only reported data in FY24">Bureau of Transportation Statistics (BTS)*</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOTOIG" title="Entity only reported data in FY24">Office of Inspector General (DOTOIG)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=BTS" title="Entity only reported data in FY 2024">Bureau of Transportation Statistics (BTS)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOTOIG" title="Entity only reported data in FY 2024">Office of Inspector General (DOTOIG)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FAA">Federal Aviation Administration (FAA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FHWA">Federal Highway Administration (FHWA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FMCSA">Federal Motor Carrier Safety Administration (FMCSA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FRA">Federal Railroad Administration (FRA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FTA">Federal Transit Administration (FTA)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=VOLPE" title="Entity only reported data in FY24">John A. Volpe National Transportation Systems Center (VOLPE)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=VOLPE" title="Entity only reported data in FY 2024">John A. Volpe National Transportation Systems Center (VOLPE)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MARAD">Maritime Administration (MARAD)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NHTSA">National Highway Traffic Safety Administration (NHTSA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PHMSA">Pipeline and Hazardous Materials Safety Administration (PHMSA)</a></li>
@@ -254,7 +254,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
 </ol>
 
 ### Department of Veterans Affairs (CFO Act Agency)
-Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), Veterans Benefits Administration (VBA), and Veterans Health Administration (VHA) reported in FY23 but were combined into one VA submission for FY24.
+Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), Veterans Benefits Administration (VBA), and Veterans Health Administration (VHA) reported in FY 2023 but were combined into one VA submission for FY 2024.
 <ol start="172">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=VA">Department of Veterans Affairs (VA)</a></li>
 </ol>
@@ -307,7 +307,7 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
 <hr class="breaker-bar-green margin-top-3">
 
 ## Small and Independent Agencies and Reporting Entities
-**Note**: Commission for the Preservation of America's Heritage Abroad (CPAHA), Commission of Fine Arts (CFA), Denali Commission (DC), Harry S Truman Scholarship Foundation (HSTSF), and Surface Transportation Board (STB) reported in FY23 but not FY24.
+**Note**: Commission for the Preservation of America's Heritage Abroad (CPAHA), Commission of Fine Arts (CFA), Denali Commission (DC), Harry S Truman Scholarship Foundation (HSTSF), and Surface Transportation Board (STB) reported in FY 2023 but not FY 2024.
 <ol start="182">
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ACUS">Administrative Conference of the United States (ACUS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=ABMC">American Battle Monuments Commission (ABMC)</a></li>
@@ -316,8 +316,8 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CFPB">Consumer Financial Protection Bureau (CFPB)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CPSC">Consumer Product Safety Commission (CPSC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CNCS">Corporation for National and Community Service (CNCS)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CSOSA" title="Entity only reported data in FY24">Court Services and Offender Supervision Agency (CSOSA)</a>*</li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DNFSB" title="Entity only reported data in FY24">Defense Nuclear Facilities Safety Board (DNFSB)</a>*</li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CSOSA" title="Entity only reported data in FY 2024">Court Services and Offender Supervision Agency (CSOSA)</a>*</li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DNFSB" title="Entity only reported data in FY 2024">Defense Nuclear Facilities Safety Board (DNFSB)</a>*</li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DRA">Delta Regional Authority (DRA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EAC">Election Assistance Commission (EAC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EEOC">Equal Employment Opportunity Commission (EEOC)</a></li>
@@ -360,7 +360,7 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PC">Peace Corps (PC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PBGC">Pension Benefit Guaranty Corporation (PBGC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PRC">Postal Regulatory Commission (PRC)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PT" title="Entity only reported data in FY24">Presidio Trust (PT)</a>*</li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PT" title="Entity only reported data in FY 2024">Presidio Trust (PT)</a>*</li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PCLOB">Privacy and Civil Liberties Oversight Board (PCLOB)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=RRB">Railroad Retirement Board (RRB)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SEC">Securities and Exchange Commission (SEC)</a></li>
@@ -371,7 +371,7 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USCCR">U.S. Commission on Civil Rights (USCCR)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DFC">U.S. International Development Finance Corporation (DFC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USPS">U.S. Postal Service (USPS)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USTDA" title="Entity only reported data in FY24">U.S. Trade and Development Agency (USTDA)</a>*</li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USTDA" title="Entity only reported data in FY 2024">U.S. Trade and Development Agency (USTDA)</a>*</li>
 </ol>
 
 **Reviewed/Updated**: December 2024

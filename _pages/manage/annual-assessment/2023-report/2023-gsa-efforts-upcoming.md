@@ -18,7 +18,7 @@ created: 2023-03-28
 ---
 ## Governmentwide Accessibility Assessment Related Actions
 
-GSA plans to do the following before and during the FY24 Assessment to hone criteria and address specific areas of improvement noted in feedback from reporting entities:
+GSA plans to do the following before and during the FY 2024 Assessment to hone criteria and address specific areas of improvement noted in feedback from reporting entities:
 
 * <strong>Submission Tool Training:</strong> Given feedback the assessment team has received, observed issues with data validity and consistency, and the fact that the same tool will likely be used next year for submission, GSA will create and conduct submission tool training that all POCs can take and reference prior to responding. This will hopefully lead to better and more consistent data, less need for office hours and technical assistance, and an improved customer experience.<sup><a href="#fn34" id="fr34">34</a></sup>
 
@@ -54,7 +54,7 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 ### Strategic Engagement
 
-* GSA will continue to lead the Interagency Accessibility Forum (IAAF) in FY24 and bimonthly Accessibility Community meetings.
+* GSA will continue to lead the Interagency Accessibility Forum (IAAF) in FY 2024 and bimonthly Accessibility Community meetings.
 
 * GSA will explore other opportunities to bring respondents of the Governmentwide Accessibility Assessment together for knowledge sharing, and to facilitate beneficial conversations to help agencies increase compliance.
 
@@ -64,26 +64,26 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 ### Technical Assistance, Tools, and Training
 
-*  In conjunction with promotion of the OpenACR Editor, GSA is developing the OpenACR Index – a central index of completed, vendor-provided machine readable ACRs. This tool will allow product vendors to list their product ACRs with other product-identifying information. Product buyers and users will be able to search, share, and compare product ACRs across government for repeatability, cost effectiveness, efficiency and ease of use, among other benefits. The OpenACR Index will also provide an API to make it easier for digital marketplaces – both within government and in the commercial marketplace – to obtain product accessibility information and display it alongside product descriptions and specifications. GSA expects to release the minimum viable product version within FY24.
+*  In conjunction with promotion of the OpenACR Editor, GSA is developing the OpenACR Index – a central index of completed, vendor-provided machine readable ACRs. This tool will allow product vendors to list their product ACRs with other product-identifying information. Product buyers and users will be able to search, share, and compare product ACRs across government for repeatability, cost effectiveness, efficiency and ease of use, among other benefits. The OpenACR Index will also provide an API to make it easier for digital marketplaces – both within government and in the commercial marketplace – to obtain product accessibility information and display it alongside product descriptions and specifications. GSA expects to release the minimum viable product version within FY 2024.
 
 *  GSA will continue to lead the development of two primary accessibility requirements acquisition tools: the [Solicitations Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/) and the [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/). This also includes software and usability updates as well as continuing the current plan of integration of the two tools. ART and SRT will allow users to determine which accessibility requirements should be included in solicitation documents (ART) and use a machine learning AI tool to review solicitations to ensure all applicable accessibility requirements are included (SRT).<sup><a href="#fn36" id="fr36">36</a></sup>
   
 * The <a href="https://ictbaseline.access-board.gov/" target="_blank">ICT Testing Baseline for Web</a> provides an approach to standardize and improve web accessibility conformance tests throughout the federal government. Agencies may use the web baseline as the foundation of their test methodology to evaluate relevant products for Section 508 conformance.
   
-  The Access Board, in coordination with GSA and strategic partners, including DHS, SSA, and OPM, will continue to develop the ICT Baseline Portfolio – a collection of individual Baselines to cover specific ICT, current plans include electronic documents, software, hardware. Key revisions to the ICT Baseline for Web are expected to be published in FY24. Additionally, the ICT Baseline for Electronic Documents will allow agencies and users to ensure their review processes provide standard, accurate and trustworthy outputs. It is currently in final review and is expected to be published in FY24.
+  The Access Board, in coordination with GSA and strategic partners, including DHS, SSA, and OPM, will continue to develop the ICT Baseline Portfolio – a collection of individual Baselines to cover specific ICT, current plans include electronic documents, software, hardware. Key revisions to the ICT Baseline for Web are expected to be published in FY 2024. Additionally, the ICT Baseline for Electronic Documents will allow agencies and users to ensure their review processes provide standard, accurate and trustworthy outputs. It is currently in final review and is expected to be published in FY 2024.
 
-  GSA is leading the effort on the <a href="https://section508coordinators.github.io/baselinealignment/" target="_blank">ICT Baseline Alignment Framework</a>, which are test cases and instructions for aligning agency test processes to the <a href="https://ictbaseline.access-board.gov/" target="_blank">ICT Baseline for Web</a>. Expanded test cases for the ICT Baseline for Web will deploy throughout FY24.
+  GSA is leading the effort on the <a href="https://section508coordinators.github.io/baselinealignment/" target="_blank">ICT Baseline Alignment Framework</a>, which are test cases and instructions for aligning agency test processes to the <a href="https://ictbaseline.access-board.gov/" target="_blank">ICT Baseline for Web</a>. Expanded test cases for the ICT Baseline for Web will deploy throughout FY 2024.
 
 * GSA intends to socialize the current draft of the Section 508 Program Manager Certification and gather feedback. The certification will provide development and training for agency Section 508 PMs as they transition into their role. If given the directive, GSA will also assist OPM in developing a process to identify qualified 508 PMs. This process could include several artifacts such as a skills list and assessment, pre-qualifications, and a targeted position description.
 
-* In FY24, GSA intends to create new training courses while updating and modernizing several existing training courses. Depending on resource availability, GSA will also consider providing targeted live-training sessions for agencies and employees to help agencies bridge training gaps. These events would be in addition to the ongoing bimonthly Accessibility Community meetings that GSA facilitates. The needs and requests of the agencies, as well as feedback and outputs of the FY23 Assessment, would determine the training focus.
+* In FY 2024, GSA intends to create new training courses while updating and modernizing several existing training courses. Depending on resource availability, GSA will also consider providing targeted live-training sessions for agencies and employees to help agencies bridge training gaps. These events would be in addition to the ongoing bimonthly Accessibility Community meetings that GSA facilitates. The needs and requests of the agencies, as well as feedback and outputs of the FY 2023 Assessment, would determine the training focus.
 
 * GSA will continue to brief agencies on the Accessibility Policy Framework, revise the framework based on agency and other stakeholder feedback, and recruit potential agencies to help pilot the Assessment at their agency.
 
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="34">
         <li id="fn34">The assessment team held 19 hourlong (or longer) office hours, and still received feedback around difficulty of using the tool. <a href="#fr34" aria-label="Back to content">↩</a></li>
         <li id="fn35">Additional/ad hoc content requests or updates to the body of knowledge can be sent to section.508@gsa.gov. <a href="#fr35" aria-label="Back to content">↩</a></li>
