@@ -12,7 +12,7 @@ exclude-changelog: true
 
 Stay up to date with the latest additions and changes to Section508.gov. This page displays the most recent content updates—making it easy to find new accessibility training, tools, guidance, and policy updates.
 
-{% comment %} Version 4: Alternate Title - Added title-featured flag for alternate title in whats new.  {% endcomment %}
+{% comment %} Version 4: Alternate Title - Added title-featured flag for alternate title in whats new. {% endcomment %}
 {% assign recent_pages = "" | split: "" %}
 {% assign fallback_pages = "" | split: "" %}
 {% assign featured_items = "" | split: "" %}
