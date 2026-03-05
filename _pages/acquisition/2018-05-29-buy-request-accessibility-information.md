@@ -163,7 +163,7 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
  [3]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
  [4]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
  [5]: {{site.baseurl}}/buy/standards-exceptions/
- [6]: {{site.baseurl}}/sell/vpat/
+ [6]: {{site.baseurl}}/sell/acr/
  [7]: {{site.baseurl}}/buy/
  [8]: {{site.baseurl}}/art/
  [9]: {{site.baseurl}}/buy/understand-claims/

@@ -3,8 +3,7 @@ layout: page
 sidenav: true
 permalink: create/electronic-signatures/
 type: create
-title: 'Create Electronic Signatures'
-created: 1576174077
+title: 'Electronic Signatures'
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -13,6 +12,9 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2019-12-12
+updated: 2025-08-21
+exclude-changelog: true
 ---
 
 <p dir="ltr">

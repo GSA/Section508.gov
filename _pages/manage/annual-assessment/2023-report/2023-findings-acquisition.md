@@ -104,7 +104,7 @@ data suggests a lack of consistency in ensuring sufficient Section 508 language 
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="25">
         <li id="fn25">Eighteen (18) reporting entities reported they do not release solicitations. <a href="#fr25" aria-label="Back to content">↩</a></li>
         <li id="fn26">Eight (8) reporting entities reported they do not award contracts. <a href="#fr26" aria-label="Back to content">↩</a></li>

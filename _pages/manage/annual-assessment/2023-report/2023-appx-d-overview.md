@@ -62,9 +62,9 @@ Comprehensive submission data by reporting entity can be found at: [Section508.g
             
 * Identification of parent agency (if applicable)
             
-* Maturity Bracket: This measure of a reporting entity’s Section 508 Program maturity assesses responses to criteria across 9 dimensions, encompassed Questions 22 to 61 except Q27B (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>), and all were multiple choice format, equally weighted, and scored as noted in Methods, Descriptive Analysis. This maturity bracket consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high maturity levels.
+* Maturity Bracket: This measure of a reporting entity’s Section 508 Program maturity assesses responses to criteria across 9 dimensions, encompassed Questions 22 to 61 except Q27B (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY 2023 Data Dictionary (XLSX)</a>), and all were multiple choice format, equally weighted, and scored as noted in Methods, Descriptive Analysis. This maturity bracket consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high maturity levels.
 
-* Conformance Bracket: This measure of a reporting entity’s Conformance Metrics consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance. This index quantified select responses to 16 specific criteria in the Conformance section of criteria which directly relate to quantifiable compliance outcomes and included: Q61, Q79, Q71,Q78, Q80 to Q85, and Q87 to Q92 (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>). They were assigned numerical values and weighted as shown in Table C2. 
+* Conformance Bracket: This measure of a reporting entity’s Conformance Metrics consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance. This index quantified select responses to 16 specific criteria in the Conformance section of criteria which directly relate to quantifiable compliance outcomes and included: Q61, Q79, Q71,Q78, Q80 to Q85, and Q87 to Q92 (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY 2023 Data Dictionary (XLSX)</a>). They were assigned numerical values and weighted as shown in Table C2. 
 
 * Recommendations specific to the reporting entity bracket linked to Maturity-Conformance category (within Findings).
 
@@ -106,7 +106,7 @@ and question 28*
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="39">
         <li id="fn39">Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. <a href="#fr39" aria-label="Back to content">↩</a></li>
     </ol>

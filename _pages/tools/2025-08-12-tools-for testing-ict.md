@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: training
 title: 'Tools for Testing Information and Communications Technology'
+description: Find out more about testing tools, software, and guidance for running tests.
 permalink: tools/tools-for-testing-ict/
 redirect_from: 
 - test/web-software/ 

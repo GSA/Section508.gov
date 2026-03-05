@@ -1,14 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/roles/attain-section-508-testing-expertise/
 type: manage
 title: How to Attain Section 508 Testing Expertise
+permalink: manage/roles/attain-section-508-testing-expertise/
 description: Learn how federal agencies can develop or acquire Section 508 testing expertise, including internal skill-building strategies, vendor selection, and best practices for ensuring ICT accessibility compliance.
-disclaimer: true
-contributors: 
-created: 
-updated: 
 topic: "Manage (program)"
 sub-topic: "Testing for Accessibility Training or Tools"
 audience:
@@ -17,9 +13,10 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-
+disclaimer: true
+created: 2025-07-21
+updated: 2025-09-18
 ---
-
 This guide assists federal agencies in developing, acquiring, and sustaining Section 508 testing expertise through development of internal competencies or a third party vendor. It is crucial for Section 508 programs, acquisition teams, and development and testing teams to have skilled personnel capable of accurately evaluating information and communication technology (ICT) against Section 508 Standards. This guide is for Section 508 program managers, IT leads, acquisition officials, developers, testers, and anyone else responsible for ensuring digital products and services are accessible.
 
 Federal agencies are required to ensure that all ICT they develop, use, maintain, or procure complies with Section 508\. This encompasses a broad range of technologies, including web content, software, electronic documents, multimedia, kiosks, and hardware. While some agencies may have little to no hardware ICT, others might heavily depend on kiosks for public interaction, as an example. Additionally, ICT accessibility testing can be conducted using various tools and at different points throughout the technology lifecycle. Regardless of the specific ICT environment, agencies often require specialized skill to perform Section 508 conformance testing.
@@ -131,7 +128,7 @@ The Section 508 testing policy or supplemental standard operating procedure shou
 * Procurement workflows prior to acquisition,  
 * Enterprise Performance Life Cycle Framework (EPLCF) checkpoints,   
 * Authority to Operate (ATO) reviews,   
-* Federal Information Technology Acquisition Reform Act (FITARA) reviews, and   
+* [Federal Information Technology Acquisition Reform Act (FITARA)]({{site.baseurl}}/manage/governance/including-section-508-in-fitara/) reviews, and
 * Contract deliverables acceptance criteria.
 
 ### Sustaining Section 508 Testing Expertise
@@ -168,7 +165,7 @@ Accurate and consistent testing for ICT accessibility is crucial as federal agen
 ## Related Resources:
 
 * [Overview of Testing Methods for Section 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
-* [Technology Accessibility Playbook—Play 4: Establish a Section 508 Policy]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04/)  
-* [Technology Accessibility Playbook—Play 10: Conduct Section 508 Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10/)
+* [Technology Accessibility Playbook—Play 4: Establish a Section 508 Policy]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/4/)  
+* [Technology Accessibility Playbook—Play 10: Conduct ICT Accessibility Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/)
 
-**Reviewed/Updated:** July 2025
+**Reviewed/Updated:** September 2025

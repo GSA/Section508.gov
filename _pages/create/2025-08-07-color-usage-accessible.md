@@ -29,20 +29,20 @@ redirect_from:
 - /training/create/making-color-usage-accessible/
 format: html
 created: 2025-08-07
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
+updated: 2026-03-03
+exclude-changelog: true
 ---
-In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and Information and Communication Technology (ICT) accessible.
+In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.
 
 ## Why is Color Accessibility Important?
 Color accessibility means making sure that someone does not need to perceive color in order to understand your information and use your technology, and that the colors you use have a level of color contrast that will allow users to easily discern and read all text and other content.
 
 Using color in an accessible way helps in the following ways:
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       A colorblind person may be unable to perceive certain colors, and will need information to be conveyed in a different way.
@@ -50,7 +50,7 @@ Using color in an accessible way helps in the following ways:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       A person with low vision may be unable to read text that is too similar in color to the background, or distinguish between similar colors.
@@ -58,7 +58,7 @@ Using color in an accessible way helps in the following ways:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       A person with no vision may use a screen reader that will only relay words, not the colors used to display them.
@@ -66,7 +66,7 @@ Using color in an accessible way helps in the following ways:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       An individual from another country may have different cultural connotations for different colors, and may interpret your color usage differently than you intended unless you convey your meaning in other ways.
@@ -74,7 +74,7 @@ Using color in an accessible way helps in the following ways:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       A search engine or artificial intelligence tool may misunderstand how colors are intended to be interpreted (or may not perceive them at all), but will more easily understand direct terms like “urgent” or “overdue.”
@@ -119,7 +119,7 @@ A person with color blindness may be unable to distinguish between the colors in
 In addition, many people with color blindness or low vision have difficulty perceiving text, icons, and symbols when the color of the object is too similar in shade to the color of the background. The “shade” of a color is how light or dark a color is. The following example images show a navigation menu when the colors are “low contrast,” where the colors are similar shades, and “high contrast,” where the colors are very different shades, along with how each of these images may look to a person with color blindness or low vision. For all types of vision, it is harder to distinguish the icons and text in the low contrast menu than in the high contrast menu.
 
 <table class="usa-table usa-table--borderless">
-  <caption>Table 1: </caption>
+  <caption>Table 1: Low and High Contrast Images</caption>
   <thead>
     <tr>
       <th scope="col" class="grid-col-3">Condition</th>
@@ -129,17 +129,17 @@ In addition, many people with color blindness or low vision have difficulty perc
   </thead>
   <tbody>
     <tr>
-      <td>Typical Vision</td>
+      <th scope="row">Typical Vision</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-05a.jpg" class="" alt="Light grey menu on a very light grey background. Menu contains four icons with labels for Home, Schedule, Locations, and Search."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-05b.jpg" class="" alt="Dark grey menu on a very light grey background. Menu contains four icons with labels for Home, Schedule, Locations, and Search."></td>
     </tr>
     <tr>
-      <td>Color Blindness</td>
+      <th scope="row">Color Blindness</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-06a.jpg" class="" alt="The same low contrast menu, but it appears to be light pink on a very light pink background."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-06a.jpg" class="" alt="The same high contrast menu, but it appears to be very dark purple on a very light pink background."></td>
     </tr>
     <tr>
-      <td>Low Vision</td>
+      <th scope="row">Low Vision</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-07a.jpg" class="" alt="A blurry version of the original menu with low contrast. Text is entirely indiscernible and icons are difficult to identify."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-07b.jpg" class="" alt="A blurry version of the original menu with high contrast. The text and icons may be discernable and readable for some sighted users."></td>
     </tr>
@@ -258,25 +258,25 @@ Quarterly Spending by Year
   </thead>
   <tbody>
     <tr>
-      <td>Quarter 1</td>
+      <th scope="row">Quarter 1</th>
       <td>43,000</td>
       <td>24,000</td>
       <td>20,000</td>
     </tr>
     <tr>
-      <td>Quarter 2</td>
+      <th scope="row">Quarter 2</th>
       <td>25,000</td>
       <td>44,000</td>
       <td>20,000</td>
     </tr>
     <tr>
-      <td>Quarter 3</td>
+      <th scope="row">Quarter 3</th>
       <td>35,000</td>
       <td>18,000</td>
       <td>30,000</td>
     </tr>
     <tr>
-      <td>Quarter 4</td>
+      <th scope="row">Quarter 4</th>
       <td>45,000</td>
       <td>28,000</td>
       <td>47,000</td>
@@ -374,7 +374,7 @@ Watch the following videos to learn more about how to use each of these commonly
 
 ### Color Contrast for Text and Large Text
 Regular text must have a color contrast ratio of 4.5:1 or higher, while large text must have a ratio of 3:1 or higher.
-Large text is any text that is 18px or larger, or if it is 14px or larger and bolded.
+Large text is any text that is 18pt or larger, or if it is 14pt or larger and bolded.
 
 These contrast thresholds apply even in the following circumstances:
 
@@ -384,7 +384,7 @@ These contrast thresholds apply even in the following circumstances:
 The text in the “Sample Text” column of the following table does not meet color contrast thresholds. 
 
 <table class="usa-table border-0">
-  <caption>Table: </caption>
+  <caption>Table 3: Inaccessible “Sample Text” Color Contrast</caption>
   <thead>
     <tr>
       <th scope="col">Type of text</th>
@@ -396,22 +396,22 @@ The text in the “Sample Text” column of the following table does not meet co
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18px)</td>
-      <td><span style="font-size: 18px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
+      <th scope="row">Large text (non-bold 18pt)</th>
+      <td><span style="font-size: 24px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
       <td>Text: Light grey (#CCCCCC)<br />Background: White (#FFFFFF)</td>
       <td class="center">1.6:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>Large text (bold 14px)</td>
-      <td><span style="font-size: 14px; font-weight: bold; color: #3A76D5; background-color: #073763; padding: 4px 8px; display: inline-block;">This is large text.</span></td>
+      <th scope="row">14pt bold text (bold 14pt)</th>
+      <td><span style="font-size: 19px; font-weight: bold; color: #3A76D5; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
       <td>Text: Medium blue (#3A76D5)<br />Background: Dark blue (#073763)</td>
       <td class="center">2.7:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14px)</td>
-      <td><span style="font-size: 14px; color: #B56109;">This is regular text.</span></td>
+      <th scope="row">Regular text (non-bold 14pt)</th>
+      <td><span style="font-size: 19px; color: #B56109;">This is regular text.</span></td>
       <td>Text: Orange (#B56109)<br />Background: White (#FFFFFF)</td>
       <td class="center">4.4:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 4.5:1</td>
@@ -422,7 +422,7 @@ The text in the “Sample Text” column of the following table does not meet co
 The following table contains the same three examples of sample text, but now they meet the required color contrast thresholds.
 
 <table class="usa-table border-0">
-  <caption>Table: </caption>
+  <caption>Table 4: Accessible “Sample Text” Color Contrast</caption>
   <thead>
     <tr>
       <th scope="col">Type of text</th>
@@ -434,23 +434,23 @@ The following table contains the same three examples of sample text, but now the
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18px)</td>
-      <td><span style="font-size: 18px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
+      <th scope="row">Large text (non-bold 18pt)</th>
+      <td><span style="font-size: 24px; font-weight: normal; color: #919191;">This is large text.</span></td>
       <td>Text: Medium grey (#919191)<br />Background: White (#FFFFFF)</td>
-      <td class="center">3.2:1</td>
+      <td class="center">3.15:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>Large text (bold 14px)</td>
-      <td><span style="font-size: 14px; font-weight: bold; color: #4DA0E6; background-color: #073763; padding: 4px 8px; display: inline-block;">This is large text.</span></td>
-      <td>Text: Medium blue (#3A76D5)<br />Background: Dark blue (#073763)</td>
+      <th scope="row">14pt bold text (bold 14pt)</th>
+      <td><span style="font-size: 19px; font-weight: bold; color: #4DA0E6; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
+      <td>Text: Medium blue (#4DA0E6)<br />Background: Dark blue (#073763)</td>
       <td class="center">4.3:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14px)</td>
-      <td><span style="font-size: 14px; color: #916333;">This is regular text.</span></td>
-      <td>Text: Orange (#B56109)<br />Background: White (#FFFFFF)</td>
+      <th scope="row">Regular text (non-bold 14pt)</th>
+      <td><span style="font-size: 19px; color: #916333;">This is regular text.</span></td>
+      <td>Text: Orange (#916333)<br />Background: White (#FFFFFF)</td>
       <td class="center">5.2:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 4.5:1</td>
     </tr>
@@ -570,7 +570,7 @@ Use the following table as you check your ICT for color accessibility.
       <td><a href="https://www.w3.org/WAI/WCAG22/quickref/#contrast-minimum" target="_blank" class="usa-link--external">WCAG 1.4.3 Contrast (Minimum)</a> (for documents and web content)</td>
       <td>
         Regular text has a contrast ratio of at least 4.5:1.<br>
-        Large-scale text (non-bold 18px or larger, or bold 14px or larger) has a contrast ratio of at least 3:1.
+        Large-scale text (non-bold 18pt or larger, or bold 14pt or larger) has a contrast ratio of at least 3:1.
       </td>
     </tr>
     <tr>
@@ -590,4 +590,4 @@ Use the following table as you check your ICT for color accessibility.
 * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
 
-**Reviewed/Updated:** August 2025
+**Reviewed/Updated:** March 2026

@@ -95,7 +95,7 @@ The [Observations ]({{site.baseurl}}/manage/section-508-assessment/2023/observat
 --- 
 
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="6">
         <li id="fn6">Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/ function outside of these traditional definitions. <a href="#fr6" aria-label="Back to content">↩</a></li>
         <li id="fn7">Additional, detailed findings are included throughout the Findings section. <a href="#fr7" aria-label="Back to content">↩</a></li>

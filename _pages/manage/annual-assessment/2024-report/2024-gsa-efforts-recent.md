@@ -19,7 +19,7 @@ The following describes GSA's efforts to help entities collect and submit their 
 
 ## Governmentwide Assessment-Related Actions
 
-* OMB -- in close coordination with GSA, the Access Board, and OSTP -- refined the assessment criteria from FY23 to reduce technical assistance, improve terminology, question comprehension, data quality, and insights into reporting entity accessibility maturity and overall conformance. GSA actions included:
+* OMB -- in close coordination with GSA, the Access Board, and OSTP -- refined the assessment criteria from FY 2023 to reduce technical assistance, improve terminology, question comprehension, data quality, and insights into reporting entity accessibility maturity and overall conformance. GSA actions included:
 
 * Incorporating feedback on the criteria.
 
@@ -37,13 +37,13 @@ The following describes GSA's efforts to help entities collect and submit their 
 
   * **Office Hours**: In collaboration with the Access Board, GSA hosted 11 office hours meetings between April and August to offer additional guidance to reporting entities preparing reports for this assessment.
 
-  * **Submission Tool Training**: GSA responded to feedback from the assessment team regarding data validity and consistency issues. Recognizing the same submission tool would be used for FY24, GSA conducted three submission tool training sessions for assessment points of contact. This training aimed to improve data quality, reduce the need for office hours and technical assistance, and enhance the overall customer experience.
+  * **Submission Tool Training**: GSA responded to feedback from the assessment team regarding data validity and consistency issues. Recognizing the same submission tool would be used for FY 2024, GSA conducted three submission tool training sessions for assessment points of contact. This training aimed to improve data quality, reduce the need for office hours and technical assistance, and enhance the overall customer experience.
 
-  * **Independent Testing**: GSA developed a framework for conducting limited independent testing of agency public websites and electronic documents. This framework enables the assessment team to validate reported data through "spot checks," ensuring more consistent and reliable data for the Assessment. Independent testing will not replace reporting entity submitted data, but will be used in tandem with submitted data to inform data validation. The scope of independence testing will be dependent on resourcing in FY25.
+  * **Independent Testing**: GSA developed a framework for conducting limited independent testing of agency public websites and electronic documents. This framework enables the assessment team to validate reported data through "spot checks," ensuring more consistent and reliable data for the Assessment. Independent testing will not replace reporting entity submitted data, but will be used in tandem with submitted data to inform data validation. The scope of independence testing will be dependent on resourcing in FY 2025.
 
 ### Key Performance Indicators
 
-In the beginning of FY25, GSA created a list of key performance indicators (KPIs) to help agencies create measurable targets for improving the maturity and conformance outcomes of their Section 508 Programs or equivalents. These indicators, once implemented, will serve as strategic specific, measurable, achievable, relevant and time-bound (SMART) goals for agencies to track progress across the enterprise with respect to accessibility considerations. These KPIs broadly cover business functions with the intent that agencies select which KPI to employ based on their current situation (i.e., overall maturity, testing capability, conformance outcomes, etc.). Not all KPIs will apply to all agencies, but all agencies should be able to take a few KPIs to help measure and track their progress.<sup><a href="#fn37" id="fr37">37</a></sup> See Table 13 below for a sample of these KPIs and visit [Organizational IT Accessibility Key Performance Indicators (KPI)]({{site.baseurl}}/manage/accessibility-kpi/) for the complete list.
+In the beginning of FY 2025, GSA created a list of key performance indicators (KPIs) to help agencies create measurable targets for improving the maturity and conformance outcomes of their Section 508 Programs or equivalents. These indicators, once implemented, will serve as strategic specific, measurable, achievable, relevant and time-bound (SMART) goals for agencies to track progress across the enterprise with respect to accessibility considerations. These KPIs broadly cover business functions with the intent that agencies select which KPI to employ based on their current situation (i.e., overall maturity, testing capability, conformance outcomes, etc.). Not all KPIs will apply to all agencies, but all agencies should be able to take a few KPIs to help measure and track their progress.<sup><a href="#fn37" id="fr37">37</a></sup> See Table 13 below for a sample of these KPIs and visit [Organizational IT Accessibility Key Performance Indicators (KPI)]({{site.baseurl}}/manage/accessibility-kpi/) for the complete list.
 
 <table id="table-13" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption>Table 13: Sample KPIs</caption>
@@ -57,32 +57,32 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
   <tbody>
     <tr>
       <th scope="row">Role-Based Training</th>
-      <td><p>Content Creation: By Q3 FY27, 100% of the web content managers have completed the required, relevant Section 508 training.</p><p>Developers: By Q4 FY26, 50% of agency designers, developers and testers have completed assigned Section 508 training.</p></td>
+      <td><p>Content Creation: By Q3 FY 2027, 100% of the web content managers have completed the required, relevant Section 508 training.</p><p>Developers: By Q4 FY 2026, 50% of agency designers, developers and testers have completed assigned Section 508 training.</p></td>
       <td>General Information</td>
     </tr>
     <tr>
       <th scope="row">PM Role Creation</th>
-      <td>By Q2 FY26, create a formal Section 508 Program Manager role and hire a qualified individual within 6 months of establishment.</td>
+      <td>By Q2 FY 2026, create a formal Section 508 Program Manager role and hire a qualified individual within 6 months of establishment.</td>
       <td>IT Accessibility Program Office</td>
     </tr>
     <tr>
       <th scope="row">Complaints Response Time</th>
-      <td>In FY26, respond to and resolve 75% of complaints within 60 calendar days.</td>
+      <td>In FY 2026, respond to and resolve 75% of complaints within 60 calendar days.</td>
       <td>Policies, Procedures, and Practices</td>
     </tr>
     <tr>
       <th scope="row">Disability Group Engagement</th>
-      <td>In FY26, conduct outreach to at least three of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
+      <td>In FY 2026, conduct outreach to at least three of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>Human Capital, Culture, and Leadership</td>
     </tr>
     <tr>
       <th scope="row">Automated Document testing</th>
-      <td>In FY26, conduct outreach to at least three of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
+      <td>In FY 2026, conduct outreach to at least three of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
       <th scope="row">Automated and Manual Web Page Testing</th>
-      <td>By Q4 FY24, test 15% of internet web pages using automated and manual testing.</td>
+      <td>By Q4 FY 2024, test 15% of internet web pages using automated and manual testing.</td>
       <td>Conformance Metrics</td>
     </tr>
   </tbody>
@@ -94,7 +94,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * In coordination with the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Federal Chief Information Officers Council (CIOC) Accessibility Community of Practice (ACOP)</a> leadership, the Access Board and GSA led the creation of "Basic Accessibility Conformance Report (ACR) Evaluation and User Guidance" to assist federal agencies and improve Section 508 implementation procedures for the procurement of ICT. This guidance presents a framework on how to obtain and evaluate ACRs. Following the completion of the guidance, they conducted multiple briefings to key stakeholder federal councils, including the CIO Council.
 
-* During FY24 and moving forward into FY25, GSA has advised the Federal Acquisition Service (FAS) to help agencies acquire products and services related to the accessibility of ICT. FAS, with the support of GSA, has also explored solutions that enable Digital Accessibility as a Service, such as consulting, testing, training, and remediation. This would allow for smaller agencies to access accessibility tools and services through a newly established accessibility services purchasing schedule.
+* During FY 2024 and moving forward into FY 2025, GSA has advised the Federal Acquisition Service (FAS) to help agencies acquire products and services related to the accessibility of ICT. FAS, with the support of GSA, has also explored solutions that enable Digital Accessibility as a Service, such as consulting, testing, training, and remediation. This would allow for smaller agencies to access accessibility tools and services through a newly established accessibility services purchasing schedule.
 
 * With the Access Board and the Office of Personnel Management (OPM), GSA reviewed existing certifications to determine the potential use as a Section 508 professional certification programs for Section 508 PMs, identified opportunities to establish a professional Section 508 PM certification program with three tiers of trainings, and aligned where commercial certifications may be used to further Section 508 PM training and capabilities as part of the Section 508 PM certification.
 
@@ -124,7 +124,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * [Best practices for establishing and maintaining a public feedback mechanism]({{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/)
 
-  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/)
+  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/section-508-complaints-best-practices/)
 
   * [Common PDF Tags and Their Usage]({{site.baseurl}}/create/pdfs/common-tags-and-usage/)
 
@@ -134,7 +134,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * [Designing Digital Content for Users With Cognitive Disabilities]({{site.baseurl}}/design/digital-content-users-with-cognitive-disabilities)
 
-* GSA conducted a "High Achiever Study'' to enhance the [Technology Accessibility Playbook]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/), which is currently published on Section508.gov. GSA interviewed high-performing agencies on their FY23 Assessment responses to provide insights into how agencies may improve accessibility within their program. GSA is developing an addition to the playbook to create a model program. This addition will also include tools, templates, and other artifacts to assist agencies with implementing the plays from the playbook.
+* GSA conducted a "High Achiever Study'' to enhance the [Technology Accessibility Playbook]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/), which is currently published on Section508.gov. GSA interviewed high-performing agencies on their FY 2023 Assessment responses to provide insights into how agencies may improve accessibility within their program. GSA is developing an addition to the playbook to create a model program. This addition will also include tools, templates, and other artifacts to assist agencies with implementing the plays from the playbook.
 
 ## Strategic Engagement
 
@@ -142,7 +142,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
 * GSA participated in key government and external forums for ICT accessibility, including:
 
-  * Hosting the FY24 Interagency Accessibility Forum (IAAF), a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. GSA did this in partnership with other federal agencies with sponsorship by the CIOC ACOP.
+  * Hosting the FY 2024 Interagency Accessibility Forum (IAAF), a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. GSA did this in partnership with other federal agencies with sponsorship by the CIOC ACOP.
 
   * In collaboration with the Access Board, presenting at the [2024 California State University, Northridge (CSUN) Assistive Technology Conference]({{site.baseurl}}/training/presentations-workshops/#csun-assistive-technology-conference) on the Section 508 ICT Testing Baseline Portfolio, OpenACR and the Future of Accessibility Conformance Reporting, the analytical approach to the Assessment, and an introduction to the ART, from March 19 to 21, 2024.
 
@@ -158,7 +158,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * Participating in the 2024 Defense Contract Management Agency (DCMA) Section 508 Fielding Awareness Conference on procurement tools. 
 
-  * At the 2024 Equal Employment Opportunity Commission (EEOC) EXCEL Training Conference, providing an overview of the FY23 Governmentwide Section 508 Assessment to highlight relevance to employment law and noted resources available to Section508.gov to help organizations improve management and implementation of digital accessibility imperatives.
+  * At the 2024 Equal Employment Opportunity Commission (EEOC) EXCEL Training Conference, providing an overview of the FY 2023 Governmentwide Section 508 Assessment to highlight relevance to employment law and noted resources available to Section508.gov to help organizations improve management and implementation of digital accessibility imperatives.
 
   * At the 2024 M-Enabling Summit, participating in three panel discussions related to the Annual Assessment, Standardizing the Federal Accessibility Conformance Reporting Process, and the New Rule for State and Local Government Web Content and Mobile Application Accessibility
 
@@ -180,11 +180,11 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
 * As GSA developed and conducted the Assessment, it also led the below engagements to improve digital accessibility within the past year:
 
-  * In December 2023, GSA presented the [FY23 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/) to the Federal Chief Information Officers Council and led discussion on strategies to improve digital accessibility.
+  * In December 2023, GSA presented the [FY 2023 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/) to the Federal Chief Information Officers Council and led discussion on strategies to improve digital accessibility.
 
-  * In January 2024, GSA presented twice on the [FY23 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/), once in collaboration with the Access Board for the Section 508 webinar series run by the Accessibility Community of Practice and once at a public Access Board meeting with 474 attendees.
+  * In January 2024, GSA presented twice on the [FY 2023 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/), once in collaboration with the Access Board for the Section 508 webinar series run by the Accessibility Community of Practice and once at a public Access Board meeting with 474 attendees.
 
-* GSA also presented to numerous other departments, agencies, and stakeholder councils on the outcomes of the FY23 Assessment. 
+* GSA also presented to numerous other departments, agencies, and stakeholder councils on the outcomes of the FY 2023 Assessment. 
 
 ## Technical Assistance, Tools, and Training
 
@@ -214,7 +214,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * In September 2024, the <a href="https://ictbaseline.access-board.gov/document-baselines/" target="_blank" class="usa-link--external">Section 508 ICT Testing Baseline for Electronic Documents</a> version 1 was published. This new baseline utilizes the framework of the Baseline for Web with the goal of improving accessibility compliance for electronic documents. The Federal Accessible Electronic Documents Community of Practice (AED COP) and Baseline for Documents Technical Advisory Committee authored this baseline. Like the ICT Testing Baseline for Web, the ICT Testing Baseline for Electronic Documents is agnostic regarding testing tools. Each baseline test identifies the accessibility requirement being tested, the document content subject to evaluation, and step-by-step instructions for determining test outcomes. Agencies can employ any tools that align with this baseline to ensure consistent and reliable testing outcomes.
 
-  * GSA continued to lead the development of the <a href="https://baselinealignment.section508.gov/" target="_blank" class="usa-link--external">ICT Baseline Alignment Framework</a>. Throughout FY24, GSA expanded test cases for the ICT Baseline for Web, further enhancing accessibility evaluation practices.
+  * GSA continued to lead the development of the <a href="https://baselinealignment.section508.gov/" target="_blank" class="usa-link--external">ICT Baseline Alignment Framework</a>. Throughout FY 2024, GSA expanded test cases for the ICT Baseline for Web, further enhancing accessibility evaluation practices.
 
 * GSA continued OpenACR Repository development, which will facilitate easier integration of accessibility conformance considerations in federal ICT acquisitions through a centralized, publicly-facing, and searchable repository of ACRs. GSA began developing the OpenACR Editor, which included determining business and technical requirements, back-end and user interface development, and an application programming interface (API).
 
@@ -224,7 +224,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
 <hr class="breaker-bar-green">
 <div>
-    <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+    <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="37">
         <li id="fn37">For instance, one KPI concerns the purchase of an accessible Learning Management System (LMS). Not all agencies will even require an LMS depending on their size, mission or other factors and thus this KPI would not apply. <a href="#fr37" aria-label="Back to content">↩</a></li>
     </ol>

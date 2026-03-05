@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/fonts-typography/
 type: develop
 title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
-created: 2023-09-23
-updated: 2025-03-05
+description: Learn how fonts and typography impact accessibility. Explore Section 508 guidance on legibility, font size, contrast, and design best practices.
+permalink: develop/fonts-typography/
 contributors: usab
 topic: Design (design)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
@@ -17,6 +16,9 @@ audience:
 - Developers and Testers (dev-test)
 resource-type: Long form article
 format: HTML (html)
+created: 2023-09-23
+updated: 2026-03-04
+exclude-changelog: true
 ---
 In the realm of digital content creation, people often ask, “What does it mean for an accessible font to be accessible?”
 
@@ -76,10 +78,9 @@ Typography is a wide and deep topic.  For more information about accessible font
 <ul>
     <li><a href="https://accessibility.digital.gov/visual-design/typography/" target="_blank" class="usa-link--external text-top">Typography</a> | Digital.gov</li>
     <li><a href="https://github.com/uswds/public-sans#design-principles" target="_blank" class="usa-link--external text-top">Public Sans Design Principles</a> | Digital.gov</li>
-    <li><a href="https://2021-2025.state.gov/secretary-antony-j-blinken-on-nprs-wait-wait-dont-tell-me/" target="_blank" class="usa-link--external text-top">Secretary Antony Blinken on NPR’s Wait Wait...Don’t Tell Me!</a> | State.gov - About the U.S. Department of State moving from Times New Roman to Calibri.</li>
 </ul>
 
 ## In conclusion
 Accessible fonts and typography are indispensable components of Section 508 compliance and digital inclusivity. By considering the guidelines and recommendations outlined here, content creators can ensure their digital content is accessible to all, fostering a more inclusive and equitable online environment.
 
-**Reviewed/Updated:** March 2025
+**Reviewed/Updated:** March 2026

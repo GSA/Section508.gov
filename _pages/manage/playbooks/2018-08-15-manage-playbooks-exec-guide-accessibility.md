@@ -126,7 +126,7 @@ Collaborate within and across agencies to accurately baseline your IT Accessibil
 
 ## Design and Development
 
-Following the lead of innovative technology companies, adopt <a href="{{site.baseurl}}/create/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
+Following the lead of innovative technology companies, adopt <a href="{{site.baseurl}}/develop/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
 
 * Ensure developers and designers understand their responsibilities under Section 508, and know how to incorporate accessibility as a core requirement for all IT projects.
 * Encourage collaboration between developers, usability professionals, and requirements analysts.

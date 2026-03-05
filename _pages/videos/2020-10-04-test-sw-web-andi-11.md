@@ -1,27 +1,46 @@
 ---
-sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/frames/
+sidenav: true
 type: ANDI training
 title: 'Module 11: Frames'
-created: 2020-10-05
-updated: 2025-01-07
+permalink: training/web-software/andi-training-videos/frames/
 redirect_from:
 - test/web-software/andi-training-videos/frames/
-topic: "Training (train)"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+description: 
+disclaimer: 
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
-resource-type: "Training"
+topic: "Training (train)"
+subtopic: "Design, Develop, Testing for Accessibility Training or Tools"
+resource_type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2020-10-05
+updated: 2026-03-03
+exclude-changelog: true
 ---
+
 In Module: 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-11-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-11-oc.mp4" type="video/mp4"></video>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
+    <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
+  </h4>
+  <div id="a1" class="usa-accordion__content">
+    <p>Voice Over (VO): Welcome to the ANDI Frames module. The purpose of this module is to ensure that all frames provide a descriptive title.</p>
+    <p>VO: Note, if a frame is found, the frame content must be tested for all applicable test conditions. To start, open a web page and launch ANDI.</p>
+    <p>VO: If frames exist, ANDI displays a dialog box. Select the Cancel button to display the list of frames and frames titles.</p>
+    <p>VO: A frame passes when the title accurately identifies the frame's content. A frame fails if the title does not accurately identify the frame's content or no title exists for the frame.</p>
+    <p>VO: This test does not apply if there are no frames. This concludes the ANDI Frames module.</p>
+    <p>VO: Users are encouraged to view the other videos for more information on how to utilize ANDI. utilize Zandy.</p>
+  </div>
+</div>
+
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -96,6 +115,6 @@ In Module: 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#frames

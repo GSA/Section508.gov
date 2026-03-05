@@ -4,12 +4,12 @@ title: Be The Change In Accessibility&colon; Acquisition Lifecycle | ITACM
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2022-06-14 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/itacm-jun2022/
-description: The June IT Accessibility Community Meeting (ITACM) will be held on Tuesday, June 14, 2022. Join us to hear about the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
+description: The June IT Accessibility Community Meeting (ITACM) will be held on Tuesday, June 14, 2022. Join us to hear about the federal acquisition processes for procuring information and communication technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 ---
 
 The next IT Accessibility Community Meeting is a virtual event scheduled for **Tuesday, June 14, 2022**. Our overall theme, ***"Be The Change In Accessibility,”*** focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward.
 
-The topic for this session is “Be The Change In Accessibility: Acquisition” where you’ll hear from our speakers.  Join us to hear about the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
+The topic for this session is “Be The Change In Accessibility: Acquisition” where you’ll hear from our speakers.  Join us to hear about the federal acquisition processes for procuring information and communication technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
 Gain a better understanding of accessible acquisitions from a two-part presentation:
 

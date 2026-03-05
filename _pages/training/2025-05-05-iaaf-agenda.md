@@ -15,7 +15,8 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Training"
 format: "HTML (html)"
-social_img: '{{site.baseurl}}/assets/images/social-media-og-image-iaaf.jpg'
+social_img: "assets/images/social-media-og-image-iaaf.jpg"
+social_img_alt: "IAAF: Interagency Accessibility Forum"
 created: 2025-05-05
 ---
 

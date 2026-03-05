@@ -83,5 +83,5 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
 **Reviewed/Updated:** March 2019
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality
- [2]: {{site.baseurl}}/create/universal-design
+ [2]: {{site.baseurl}}/develop/universal-design
  [3]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
