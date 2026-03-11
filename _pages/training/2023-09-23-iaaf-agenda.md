@@ -1,23 +1,23 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/archives/agenda-2023/
-redirect_from: iaaf/agenda-2023/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2023
-created: 2023-09-23
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+permalink: iaaf/archives/agenda-2023/
+social_img: "assets/images/social-media-og-image-iaaf.jpg"
+social_img_alt: "IAAF: Interagency Accessibility Forum"
+redirect_from: iaaf/agenda-2023/
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 resource-type: "Training"
 format: "HTML (html)"
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
+created: 2023-09-23
 updated: 2025-05-06
 ---
 
@@ -209,4 +209,3 @@ updated: 2025-05-06
     <p>To this year's keynote speakers, presenters, panelists and moderators, our many attendees, exhibitors and volunteers, and to the FDIC's friendly and dedicate staff. Thank you!</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>November 2023</p>

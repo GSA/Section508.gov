@@ -7,14 +7,14 @@ permalink: buy/authoring-tools/
 redirect_from:
 - create/authoring-tools/
 description: 
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessibility Law & Policy"
 audience:
 - "508 Program Manager (508pm)"
 - "Acquisition (acq)"
 - "Chief Acquisition Officer (cao)"
 - "508 Program Manager (508pm)"
 - "Lawmakers and Policy Officials (law-policy)"
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessibility Law & Policy"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"
 created: 2018-05-17
@@ -57,8 +57,6 @@ See [Section 504 of the Revised 508 Standards][2] for specifics. Topics include:
 If your software lets you create or edit content, or save content in PDF format, then the software is probably an authoring tool. Determine whether the software meets the above requirements by either asking the vendor, testing the tool, or both. Also request the vendor provide samples (also known as reference outputs) of at least one example of every type of interface element. The sample might be as simple as a PDF report, or as complicated as a complete application or website. Use the samples to test the interface elements, so you’ll know if the software is conformant (or not).
 
 Clear authoring guidelines are usually a good indication that those tools can produce accessible outputs. See these [Accessibility Testing resources][3] for examples.
-
-**Reviewed/Updated:** May 2024
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#504-authoring-tools

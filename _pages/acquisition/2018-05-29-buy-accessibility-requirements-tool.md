@@ -1,24 +1,24 @@
 ---
-permalink: buy/accessibility-requirements-tool/
-type: page
-title: 'Accessibility Requirements Tool (ART)'
-created: 2018-05-29
 layout: wide
 sidenav: false
+type: page
+title: 'Accessibility Requirements Tool (ART)'
+permalink: buy/accessibility-requirements-tool/
 redirect_from:
 - art/home/
 - buy/art/home/
 redirect_to:
 - art/
-topic: Tools (tools)
-sub-topic: Acquisition Tools
 audience:
 - Acquisition (acq)
 - Chief Acquisition Officer (cao)
 - Agency Senior Procurement Executive (spe)
 - 508 Program Manager (508pm)
+topic: Tools (tools)
+sub-topic: Acquisition Tools
 resource-type: Tool (tool)
 format: HTML (html)
+created: 2018-05-29
 ---
 
 <a href="{{site.baseurl}}/art/" class="usa-button usa-button--accent-warm">Start Using ART</a>
@@ -238,7 +238,3 @@ To start a new procurement, you&rsquo;ll need to know:
     </p>
   </div>
 </div>
-
-<span class="bold"><strong>Reviewed/Updated:</strong>&nbsp;December 2020 </span>
-
-

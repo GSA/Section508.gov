@@ -1,21 +1,21 @@
 ---
-sidenav: false
 layout: page
-permalink: training/presentations-workshops/keynote-judy-heumann/
+sidenav: false
 type: training
 title: 'IAAF 2021 Keynote Address—Judy Heumann'
-created: 2022-02-11
-updated: 2025-01-10
-topic: "Events (events)"
-sub-topic: "General Info and Best Practices"
+permalink: training/presentations-workshops/keynote-judy-heumann/
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2022-02-11
+updated: 2025-01-10
 ---
 
 A conversation with <a href="https://www.section508.gov/iaaf/biographies-2021#oneal">Andrea M. O'Neal</a>, Senior Advisor to the Administrator at the General Services Administration, and <a href="https://www.section508.gov/iaaf/biographies-2021#heumann">Judith E. Heumann</a>, International Disability Rights Activist.
@@ -29,5 +29,3 @@ A conversation with <a href="https://www.section508.gov/iaaf/biographies-2021#on
 * [IAAF 2021 - Oct 12 Keynote Address: Whitney Quesenbery]({{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/)
 * [IAAF 2021 - Oct 14 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
 * [iAAF 2019 - Oct 8 - Keynote Address: Tony Coelho]({{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/)
-
-**Reviewed/Updated**: January 2025

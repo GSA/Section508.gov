@@ -57,10 +57,5 @@ Unauthorized attempts to upload information or change information on this servic
 
 To learn more about how we manage this website, view [accessibility, linking, and other website policies][2] for Section508.gov.
 
-  
-**Reviewed/Updated:** May 2018
-
-&nbsp;
-
- [1]: https://www.usa.gov/optout-instructions
- [2]: {{site.baseurl}}/website-policies
+[1]: https://www.usa.gov/optout-instructions
+[2]: {{site.baseurl}}/website-policies

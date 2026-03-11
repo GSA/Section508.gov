@@ -1,12 +1,13 @@
 ---
-title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
 layout: wide_events
+title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-09-22 #otherwise use end-date (YYYY-MM-DD)
-overview: 
+permalink: /event/reporting-accessibility-vpat-2-guide-vendors/
 image:
 image-alt: 
-permalink: /event/reporting-accessibility-vpat-2-guide-vendors/
+overview: 
+created: 2020-09-22
 ---
 
 The new VPAT&reg; 2 format offers multiple templates, allowing vendors to document conformance common with several common standards including the refreshed Section 508, WCAG 2.1, and EN 301 549 for vendors who sell into Europe or Australia. As the demand for accessible technology grows, so does the demand for product manufacturers and vendors to formally document their product's or service's conformance with accessibility standards. A VPAT&reg; is often a procurement requirement, but even when it's not, having a well written VPAT&reg; can be a compelling competitive differentiator for vendors who want to show potential buyers that they're actively evaluating and building accessibility into the products and services they deliver.

@@ -15,6 +15,7 @@ audience:
 resource-type: Long form article
 format: HTML (html)
 created: 2020-11-20
+hide-date: true
 ---
 {% include banner.html %}
 <div id="main-content" class="usa-layout-docs usa-section grid-container">

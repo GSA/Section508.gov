@@ -5,16 +5,17 @@ type: training
 title: 'Accessibility Training, Tools, and Events'
 permalink: training/
 description: Explore free Section 508 training to help federal employees create, buy, and maintain accessible technology that meets legal and usability standards.
-topic: Training (train)
-sub-topic: N/A
 audience:
 - Public (public)
 - Federal employee (fedemp)
 - 508 Program Manager (508pm)
+topic: Training (train)
+sub-topic: N/A
 resource-type: Training
 format: HTML (html)
 created: 2018-05-07
 updated: 2024-10-15
+hide-date: true #dates on landing pages are hidden
 ---
 
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.

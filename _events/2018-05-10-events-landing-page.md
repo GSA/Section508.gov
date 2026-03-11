@@ -13,6 +13,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-10
+hide-date: true
 ---
 <h2 class="margin-top-3">Current and Upcoming Events</h2>
 

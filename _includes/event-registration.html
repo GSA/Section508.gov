@@ -1,0 +1,15 @@
+{% assign now_ts = site.time | date: "%s" %}
+{% assign event_date_ts = page["end-date"] | date: "%s" %}
+
+{% if page.registration_link and page.registration_link != "" %}
+<div>    
+    {% if event_date_ts >= now_ts %}
+        <h2 id="registration">Registration</h2>
+        <a href="{{ page.registration_link }}" target="_blank">Registration</a> is now open.
+        <strong><a href="{{ page.registration_link }}" target="_blank">Sign up today!</a></strong>
+    {% else %}
+        <h2 id="registration">Registration</h2>
+        Registration for this event has closed.
+    {% endif %}
+</div>
+{% endif %}

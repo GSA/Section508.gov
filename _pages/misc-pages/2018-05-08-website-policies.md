@@ -114,20 +114,18 @@ Federal agencies are required to provide the following links/information on our 
 
 Where we manage a presence on social media sites to share government information and engage with our audience, we do not collect any personally identifiable information through those sites. We do not use personal information made available by the third-party sites. If you submit a question or comment to us via a social media tool or platform, we may reply directly to you via that platform, but we don&rsquo;t track or record any information about individuals who use or interact with us via those platforms.
 
-**Reviewed/Updated:** September 2024
-
- [1]: #accessibility-policy
- [2]: #linking-policy
- [3]: #required-links
- [4]: #social-media-sites  
- [5]: {{site.baseurl}}/manage/laws-and-policies
- [6]: mailto:section.508@gsa.gov
- [7]: https://www.gsa.gov/website-information/accessibility-aids
- [8]: https://www.gsa.gov/privacy
- [9]: {{site.baseurl}}/privacy-policy
- [10]: http://www.gsa.gov/portal/category/21546
- [11]: http://www.gsa.gov/portal/directives
- [12]: http://www.gsa.gov/portal/content/105305
- [13]: http://www.gsa.gov/portal/content/101344
- [14]: http://www.gsa.gov/portal/category/21544
- [15]: #reuse-and-copyright
+[1]: #accessibility-policy
+[2]: #linking-policy
+[3]: #required-links
+[4]: #social-media-sites  
+[5]: {{site.baseurl}}/manage/laws-and-policies
+[6]: mailto:section.508@gsa.gov
+[7]: https://www.gsa.gov/website-information/accessibility-aids
+[8]: https://www.gsa.gov/privacy
+[9]: {{site.baseurl}}/privacy-policy
+[10]: http://www.gsa.gov/portal/category/21546
+[11]: http://www.gsa.gov/portal/directives
+[12]: http://www.gsa.gov/portal/content/105305
+[13]: http://www.gsa.gov/portal/content/101344
+[14]: http://www.gsa.gov/portal/category/21544
+[15]: #reuse-and-copyright

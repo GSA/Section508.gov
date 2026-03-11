@@ -15,6 +15,7 @@ resource-type: "Tool (tool)"
 format: "HTML (html)"
 created: 2018-05-16
 updated: 2025-08-22
+hide-date: true #dates on landing pages are hidden
 exclude-changelog: true
 ---
 Learn how to design and develop digital products and services for your agency that meet it's responsibilities under Section 508 of the Rehabilitation Act, which requires conformance with the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> maintained by the U.S. Access Board.

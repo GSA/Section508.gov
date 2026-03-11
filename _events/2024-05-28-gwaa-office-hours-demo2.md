@@ -1,12 +1,13 @@
 ---
-title: "Section 508 Assessment Submission Tool Demo #2 | June 25, 2024"
 layout: wide_events
+title: "Section 508 Assessment Submission Tool Demo #2 | June 25, 2024"
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2024-06-25 #otherwise use end-date (YYYY-MM-DD)
-image:
-image-alt: 
 permalink: /event/gwaa-demo-25june2024/
 description: "General Services Administration (GSA) will be hosting short demo sessions of the Assessment submission tool. This will give your reporting entity point of contact a chance to preview the tool and learn best practices for navigation."
+image:
+image-alt: 
+created: 2024-05-28
 ---
 General Services Administration (GSA) will be hosting short demo sessions of the Assessment submission tool. This will give your reporting entity point of contact a chance to preview the tool and learn best practices for navigation.
 
@@ -29,7 +30,6 @@ This virtual meeting is supported by Zoom for Government (FedRAMP certified). Pl
 
 **Note: You must join the meeting using your first and last name. Agency affiliation is optional. Nicknames and phone numbers will not be given access*
 
-**Reviewed/Updated:** May 2024
 
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      

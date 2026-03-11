@@ -6,14 +6,14 @@ title: 'Accessibility Conformance Report/Voluntary Product Accessibility Templat
 permalink: sell/acr-vpat-faq/
 description: Frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;) 
 contributors: haileselassie, sirk, nasa
-topic: "Acquisition/Sell (sell)"
-sub-topic: "VPAT/ACR Production & Eval"
 audience:
 - "Vendor (vendor)"
 - "Acquisition (acq)"
 - "Contracting Officer (cor)"
 - "Chief Acquisition Officer (cao)"
 - "Agency Senior Procurement Executive (spe)"
+topic: "Acquisition/Sell (sell)"
+sub-topic: "VPAT/ACR Production & Eval"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2022-06-17
@@ -62,11 +62,9 @@ If your product contains software, there are two sets of Section 508 Technical S
 
 For electronic support documentation, complete the Revised Section 508, Chapter 6: Support Documentation and Services section.
 
-**Reviewed/Updated**:  August 2024
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.itic.org/policy/accessibility/vpat
- [3]: {{site.baseurl}}/sell
- [4]: {{site.baseurl}}/buy/request-accessibility-information
- [5]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
+[2]: https://www.itic.org/policy/accessibility/vpat
+[3]: {{site.baseurl}}/sell
+[4]: {{site.baseurl}}/buy/request-accessibility-information
+[5]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
  

@@ -1,23 +1,23 @@
 ---
-sidenav: false
 layout: page
-permalink: training/presentations-workshops/iaaf-2023-digital-federal-workplace/
+sidenav: false
 type: training
 title: 'IAAF 2023: Digital Accessibility in the Federal Workplace'
-created: 2024-08-15
-updated: 2025-01-10
-topic: Training (train)
-sub-topic: 
-- IAAF
-- Presentations
+permalink: training/presentations-workshops/iaaf-2023-digital-federal-workplace/
 audience:
 - Acquisition (acq)
 - 508 Program Manager (508pm)
 - Chief Acquisition Officer (cao)
 - Agency Senior Procurement Executive (spe)
 - Contracting Officer (cor)z
+topic: Training (train)
+sub-topic: 
+- IAAF
+- Presentations
 resource-type: Training
 format: Audio-only (audio)
+created: 2024-08-15
+updated: 2025-01-10
 ---
 
 [Clare Martorana]({{site.baseurl}}/iaaf/archives/biographies-2023#martorana-clare), Federal Chief Information Officer, Office of Management and Budget, moderated a plenary discussion that would explore the role of agency leadership in promoting, prioritizing, and improving digital accessibility in the federal workplace and how investments in measuring accessibility cultivate an accessibility inclusive work environment.
@@ -249,4 +249,3 @@ format: Audio-only (audio)
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: January 2025

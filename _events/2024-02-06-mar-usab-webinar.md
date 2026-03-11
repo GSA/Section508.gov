@@ -1,12 +1,13 @@
 ---
-title: "Demystifying the Procurement Process | Webinar"
 layout: wide_events
+title: "Demystifying the Procurement Process | Webinar"
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-03-26 #otherwise use end-date
-image:
-image-alt: 
 permalink: /event/best-practices-webinar-mar2024/
 description: Join the US Access Board and guest presenters to learn how procurement and accessibility go together like peanut butter and jelly. Procurement is a fancy way of saying “personal shopper.” It may seem like a daunting process but with the right tools and attitude, it can be a fun experience. This webinar will provide an informative and consumable discussion on the acquisition lifecycle.
+image:
+image-alt: 
+created: 2024-02-06
 ---
 Procurement and accessibility go together like peanut butter and jelly. Procurement is a fancy way of saying “personal shopper.” It may seem like a daunting process but with the right tools and attitude, it can be a fun experience. This webinar will provide an informative and consumable discussion on the acquisition lifecycle. In addition, there will be a particular emphasis on how accessibility fits into the lifecycle, stakeholder roles and responsibilities, and useful tools. Finally, the presenters will guide attendees through the process using a “real life scenario”, providing a foundation that can be applied to any information and communication technology (ICT) buy.
 

@@ -1,20 +1,20 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/determine-ict-standards/
 type: acquisition
 title: 'Step 3: Determine Which Standards Apply'
-created: 2018-05-29
-topic: Acquisition/Buy (buy)
-sub-topic: Accessible Acquisition Info, Guidance & Best Practices
+permalink: buy/determine-ict-standards/
 audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)
 - 508 Program Manager (508pm)
 - Federal employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
+topic: Acquisition/Buy (buy)
+sub-topic: Accessible Acquisition Info, Guidance & Best Practices
 resource-type: Process/How-to
 format: HTML (html)
+created: 2018-05-29
 ---
 
 To ensure that any technology your agency buys or builds will be accessible, you must determine which of the [Revised 508 Standards][1] apply to your Federal IT procurement and development project. (Note, this is the third and final step in [determining 508 standards and exceptions][2].)
@@ -200,14 +200,12 @@ See the other steps in this process:
 
 Contact your agency’s [Section 508 Coordinator][9] or email us at <section.508@gsa.gov> with questions.
 
-**Updated/Reviewed**: May 2022
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [3]: https://assets.section508.gov/assets/files/508-standards-applicability-checklist.docx
- [4]: {{site.baseurl}}/buy/determine-ict-exceptions
- [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [6]: {{site.baseurl}}/buy/inventory-your-ict
- [7]: {{site.baseurl}}/buy/determine-ict-exceptions
- [8]: {{site.baseurl}}/art/
- [9]: {{site.baseurl}}/tools/program-manager-listing/
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
+[2]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+[3]: https://assets.section508.gov/assets/files/508-standards-applicability-checklist.docx
+[4]: {{site.baseurl}}/buy/determine-ict-exceptions
+[5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
+[6]: {{site.baseurl}}/buy/inventory-your-ict
+[7]: {{site.baseurl}}/buy/determine-ict-exceptions
+[8]: {{site.baseurl}}/art/
+[9]: {{site.baseurl}}/tools/program-manager-listing/

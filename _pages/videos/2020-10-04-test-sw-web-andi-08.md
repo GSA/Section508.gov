@@ -6,7 +6,7 @@ title: 'Module 8: Page Language'
 permalink: training/web-software/andi-training-videos/page-language/
 redirect_from:
 - test/web-software/andi-training-videos/page-language/
-description: 
+description: In Module 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Structures module to identify the page’s primary human language and ensure it is programmatically identified to ensure that content developers provide information in the web page that user agents (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -22,7 +22,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
+In Module 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-08-oc.mp4" type="video/mp4"></video>
 
@@ -115,7 +115,6 @@ In Module: 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
  [2]: {{site.baseurl}}/tools/glossary/#user-agent

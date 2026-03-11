@@ -1,18 +1,18 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/accessibility-in-procurement-pre-solicitation-2/
 type: acquisition
 title: 'Accessibility In Procurement II: Solicitation & Post-Solicitation'
-contributors: proctor, gsatts
+permalink: buy/accessibility-in-procurement-pre-solicitation-2/
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-soliciation activities. 
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+contributors: proctor, gsatts
 audience:
 - "Acquisition (acq)"
 - "Chief Acquisition Officer (cao)"
 - "Agency Senior Procurement Executive (spe)"
 - "Agency Senior Procurement Executive (spe)"
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2023-09-25 
@@ -83,6 +83,3 @@ The contractor is subject to regulations governing ICT. ICT must be accessible t
 An AQL is completed when testing is successfully completed using the contractor’s ACR.
 
 [^1]: To be developed.
-
-**Reviewed/Updated**:  September 2023
-

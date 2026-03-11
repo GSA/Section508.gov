@@ -6,7 +6,7 @@ title: 'Module 18: Live Regions'
 permalink: training/web-software/andi-training-videos/live-regions/
 redirect_from:
 - test/web-software/andi-training-videos/live-regions/
-description: 
+description: In Module 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI <em>Structures</em> module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to user agents(i.e. browsers, assistive technology, software), including assistive technologies.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
+In Module 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-18-oc.mp4" type="video/mp4"></video>
 
@@ -117,6 +117,5 @@ In Module: 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#user-agent

@@ -1,19 +1,18 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: "Microsoft Word & Accessibility Best Practices"
-description: Learn best practices for creating accessible Microsoft Word documents. This free course covers headings, images, tables, charts, and more for Section 508.
 permalink: training/online-course/ms-word-best-practices/
-redirect_from:
-topic: "Training (train)"
-sub-topic: "Presentations"
+description: Learn best practices for creating accessible Microsoft Word documents. This free course covers headings, images, tables, charts, and more for Section 508.
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
+topic: "Training (train)"
+sub-topic: "Presentations"
 resource-type: "Training"
 format: "HTML"
 created: 2024-10-15
@@ -128,5 +127,3 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </ul>
   </div>
 </div>
-
-**Reviewed/Updated**: March 2025

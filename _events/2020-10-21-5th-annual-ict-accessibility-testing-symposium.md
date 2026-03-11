@@ -1,11 +1,12 @@
 ---
-title: The 5th Annual ICT Accessibility Testing Symposium
 layout: wide_events
+title: The 5th Annual ICT Accessibility Testing Symposium
 start-date: 2020-10-21 #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-10-23 #otherwise use end-date  (YYYY-MM-DD)
+permalink: /event/5th-annual-ict-accessibility-testing-symposium/
 image:
 image-alt: 
-permalink: /event/5th-annual-ict-accessibility-testing-symposium/
+created: 2020-10-21
 ---
 
 Our annual symposium has traditionally been a place for in-person knowledge sharing and for professional face-to-face networking. We’re using this year’s online symposium to continue sharing what works during the current situation and beyond, and we’re continuing to network with our peers—but this time online—the same way that so many of us are getting used to while we go through this together.
