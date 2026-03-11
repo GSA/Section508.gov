@@ -28,7 +28,7 @@ Learn how to use the Microsoft PowerPoint slide master to help others create acc
     <button id="transcript" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h4>
   <div id="a1" class="usa-accordion__content">
-    <p>Introduction Voice: Creating PowerPoint templates brought to you by the General Services Administration and the Office of Government-Wide Policy.</p>
+    <p>Introduction: Creating PowerPoint templates brought to you by the General Services Administration and the Office of Government-Wide Policy.</p>
     <p>Voice Over (VO): A PowerPoint slide master gives you control over how presentations look, allowing you to create a standard style,</p>
     <p>VO: as well as helping others create accessible presentations.</p>
     <p>VO: While the slide master is a powerful set of tools, it's easy for both beginners and experts to use.</p>
