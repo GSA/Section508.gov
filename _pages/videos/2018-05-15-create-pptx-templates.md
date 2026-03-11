@@ -1,21 +1,21 @@
 ---
 layout: video
 sidenav: true
-permalink: training/presentations/creating-powerpoint-templates/
 type: presentation training
 title: 'Creating PowerPoint Templates'
-created: 2018-05-15
-updated: 2025-02-25
+permalink: training/presentations/creating-powerpoint-templates/
 redirect_from:
 - create/presentations/creating-powerpoint-templates/
-topic: "Content creation (create)"
-sub-topic: "Presentations"
 audience:
 - "Federal employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
+topic: "Content creation (create)"
+sub-topic: "Presentations"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-15
+updated: 2025-02-25
 exempt-changelog: true
 ---
 
@@ -28,5 +28,3 @@ Learn how to use the Microsoft PowerPoint slide master to help others create acc
   <li><a href="{{site.baseurl}}/create/presentations">Create Accessible Presentations </a></li>
   <li><a href="{{site.baseurl}}/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a></li>
 </ul>
-
-**Reviewed/Updated:** August 2025

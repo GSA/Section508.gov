@@ -14,6 +14,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 GSA, the Access Board, and OMB provided multiple channels to provide feedback on Assessment criteria and the annual Assessment as a whole. Below are noted observations and commentary based on feedback provided.
 

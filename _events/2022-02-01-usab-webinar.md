@@ -1,12 +1,13 @@
 ---
-title: Section 508 Questions and Answers Webinar
 layout: wide_events
+title: Section 508 Questions and Answers Webinar
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2022-03-29 #otherwise use end-date (YYYY-MM-DD)
-image:
-image-alt: 
 permalink: /event/best-practices-webinar-mar2022/
 description: Technical questions can arise in applying the Section 508 Standards to the various types of information and communication technologies (ICT) that they cover in the federal sector. In this Section 508 Best Practices webinar, Section 508 Specialists at the U.S. Access Board and the General Services Administration (GSA) will provide answers to common questions about the 508 Standards.
+image:
+image-alt: 
+created: 2022-02-01
 ---
 
 Technical questions can arise in applying the Section 508 Standards to the various types of information and communication technologies (ICT) that they cover in the federal sector. In this Section 508 Best Practices webinar, Section 508 Specialists at the U.S. Access Board and the General Services Administration (GSA) will provide answers to common questions about the 508 Standards. They will address use of the 508 Standards in ICT acquisitions, validating conformance with the standards, available Section 508 tools and resources, the 2021 revision of the Federal Acquisition Regulation, development of an ICT Testing Baseline portfolio, and other topics. This session is intended for entry-level to intermediate audiences, but all are welcome to join. This webinar will include video remote interpreting (VRI) and real-time captioning. 

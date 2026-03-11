@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Federal Law and Policy on ICT Accessibility
 Over the past 50 years, the federal government has passed a variety of statutes, regulations, and policies to advance ICT accessibility. In tandem with organizational shifts and initiatives to support PWD and ICT accessibility, key legislative and executive actions have emerged to advance digital equity across the federal government:

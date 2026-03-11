@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Under Section 508 of the Rehabilitation Act (29 U.S.C. § 794d(f)(2)), the agency receiving the complaint shall apply the complaint procedures established to implement section 504 for resolving allegations of discrimination in a federally conducted program or activity. OMB's M-24-08 also required agencies to include instructions for filing a complaint alleging a violation of Section 508 in their website's digital accessibility statement.
 

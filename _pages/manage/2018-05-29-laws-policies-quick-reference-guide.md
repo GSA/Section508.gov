@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/laws-and-policies/quick-reference-guide/
 type: manage
 title: 'Laws and Policy Quick Reference Guide'
-created: 1527608498
+created: 2018-05-29
 topic: "Law (law)"
 sub-topic: "Accessibility Law & Policy"
 audience:

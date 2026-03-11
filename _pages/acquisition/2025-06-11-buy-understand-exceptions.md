@@ -5,7 +5,6 @@ type: acquisition
 title: Understanding Section 508 Exceptions
 permalink: buy/understanding-section-508-exceptions/
 description: Understand when Section 508 exceptions apply to federal IT purchases. This guide explains types of exceptions, documentation tips, and how to ensure accessible alternatives are provided.
-contributors: usab
 audience: 
 - 508-pm
 - buyer
@@ -25,6 +24,7 @@ resource_type:
 - article
 format: html
 created: 2025-06-11
+contributors: usab
 ---
 
 Section 508 Regulation uses the word “exception” for <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions (E202)</a>. Additionally, specific provisions within Section 508 and some Web Content Accessibility Guidelines (WCAG) 2.0 AA Success Criteria also have exceptions. This article only covers General Exceptions (E202).
@@ -138,7 +138,5 @@ The difference between accessibility required by Section 508 and alternative mea
 * [Section 508 Standards and Exceptions Chart & Examples][1]
 * [Determine Section 508 Standards and Exceptions][2]
 
-**Reviewed/Updated**: June 2025
-
- [1]: {{site.baseurl}}/buy/standards-exceptions/
- [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
+[1]: {{site.baseurl}}/buy/standards-exceptions/
+[2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/

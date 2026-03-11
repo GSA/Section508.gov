@@ -1,9 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/section-508-complaints-best-practices/
 type: manage
 title: 'Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process'
+permalink: manage/laws-and-policies/section-508-complaints-best-practices/
 topic: Policy (policy)
 sub-topic: Accessibility Law and Policy
 audience:
@@ -13,6 +13,7 @@ audience:
 - Equal Employment Opportunity Officer (eeo)
 resource-type:
 format: HTML (html)
+created: 2024-08-28
 ---
 
 An agency’s Section 508 complaints process plays an important role in ensuring its information and communication technology (ICT) is accessible to people with disabilities. An effective complaints process addresses reported barriers that prevent people from fully engaging with digital content, such as websites, electronic documents, hardware, and software applications. When creating or updating a Section 508 complaint process, agencies should consider the clarity, accessibility, and responsiveness of their procedures. They should ensure the process is straightforward for users to understand and navigate, addresses complaints promptly, and provides effective channels for feedback and resolution. 

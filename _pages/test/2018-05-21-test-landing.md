@@ -5,6 +5,7 @@ type: test
 title: 'Test for Accessibility'
 permalink: test/
 redirect_from:
+- test/testing-for-developers/
 - refresh-toolkit/test/
 - Refresh-toolkit/test/
 description: Learn Section 508 accessibility testing lifecycle, methods, and tools for electronic documents, hardware, software, and websites.
@@ -20,7 +21,7 @@ resource-type: Process/How-to
 format: HTML (html)
 created: 2018-05-22
 updated: 2025-08-13
-redirect_from: test/testing-for-developers/
+hide-date: true #dates on landing pages are hidden
 exclude-changelog: true
 ---
 An overview of testing methods and the tools to test websites, software, and electronic documents for conformance with the <a href="https://www.access-board.gov/ict/">Section 508 Standards</a>. You can also review guidance on the Interagency Trusted Tester Program.

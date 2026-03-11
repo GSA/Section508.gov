@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Incorporating digital accessibility requirements into procurement processes and holding vendors accountable for meeting these requirements helps the government comply with Section 508 for all ICT it buys, builds, maintains or uses. **In general, while entities have made YOY improvements, they have not fully integrated Section 508 considerations in the acquisition phase, which may limit the positive downstream impacts on the accessibility of the ICT they procure and use.**
 

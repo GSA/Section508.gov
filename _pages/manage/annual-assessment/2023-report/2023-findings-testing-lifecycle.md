@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Accessibility Conformance Testing and Technology Lifecycle
 The Assessment included questions regarding outcome-based results in order to gauge if policies, practices, and procedures – a dimension that received higher maturity governmentwide – translated into Section 508 conformant ICT. <strong>The average conformance index value (for all reporting entities) was 1 .79 (out of 5), or Low, emphasizing that inputs are not translating into conformant ICT.</strong>

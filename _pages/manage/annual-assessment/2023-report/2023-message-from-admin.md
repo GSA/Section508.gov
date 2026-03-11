@@ -17,6 +17,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 The General Services Administration (GSA), in consultation with the Office of Management and Budget (OMB), submits this Governmentwide Section 508 Assessment (referred to hereafter as the “Assessment”) to the Senate Committees on Appropriations and Homeland Security and Governmental Affairs and the House Committees on Appropriations and Oversight and Accountability, pursuant to the reporting requirements in <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>.
 

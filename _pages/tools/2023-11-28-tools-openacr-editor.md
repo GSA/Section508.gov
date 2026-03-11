@@ -1,10 +1,9 @@
 ---
 layout: page
 sidenav: false
-permalink: tools/openacr-editor/
 type: training
 title: 'OpenACR Editor'
-created: 2023-11-28
+permalink: tools/openacr-editor/
 redirect_from:
 - openacr-editor/
 redirect_to: 
@@ -19,4 +18,5 @@ audience:
 - Contracting Officer’s Representative (cor)
 resource-type: Tool (tool)
 format: HTML (html)
+created: 2023-11-28
 ---

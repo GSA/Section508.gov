@@ -4,8 +4,6 @@ sidenav: true
 permalink: tools/
 type: training
 title: 'Section 508 Tools'
-created: 1527014068
-modified: 2023-11-28
 topic: Tools (tools)
 sub-topic: N/A
 audience:
@@ -16,6 +14,9 @@ audience:
 - Federal employee (fedemp)
 resource-type: Tool (tool)
 format: HTML (html)
+created: 2018-05-22
+updated: 2023-11-28
+hide-date: true #dates on landing pages are hidden
 ---
 Find testing tools, view playbooks, or find your agency’s Section 508 Program Manager.
 

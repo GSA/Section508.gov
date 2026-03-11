@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 Procuring and using non-conformant ICT can expose reporting entities to Section 508-related complaints.
 

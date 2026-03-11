@@ -1,23 +1,23 @@
 ---
-sidenav: false
 layout: page
-permalink: training/presentations-workshops/iaaf-2023-keynote-tanya-bradsher/
+sidenav: false
 type: training
 title: 'IAAF 2023: Keynote Address with Tanya Bradsher'
-created: 2024-08-15
-updated: 2025-01-10
-topic: Training (train)
-sub-topic: 
-- IAAF
-- Presentations
+permalink: training/presentations-workshops/iaaf-2023-keynote-tanya-bradsher/
 audience:
 - Acquisition (acq)
 - 508 Program Manager (508pm)
 - Chief Acquisition Officer (cao)
 - Agency Senior Procurement Executive (spe)
 - Contracting Officer (cor)z
+topic: Training (train)
+sub-topic: 
+- IAAF
+- Presentations
 resource-type: Training
 format: Audio-only (audio)
+created: 2024-08-15
+updated: 2025-01-10
 ---
 
 Listen as [Tanya Bradsher]({{site.baseurl}}/http://127.0.0.1:4000/iaaf/archives/biographies-2023#bradsher-tanya), Deputy Secretary, Department of Veterans Affairs, shared thoughts emphasizing the significance of accessibility, particularly through Section 508 of the Rehabilitation Act, which has been vital in improving the lives of people with disabilities, including her daughter with dyslexia. Bradsher highlighted the VA's commitment to making its services accessible, not merely as a legal requirement but as a core value, ensuring that veterans can access their benefits with dignity and ease.
@@ -81,4 +81,3 @@ Listen as [Tanya Bradsher]({{site.baseurl}}/http://127.0.0.1:4000/iaaf/archives/
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: January 2025
