@@ -1,13 +1,12 @@
 ---
 layout: video
 sidenav: true
-permalink: training/presentations/creating-powerpoint-templates/
 type: presentation training
 title: 'Creating PowerPoint Templates'
-created: 2018-05-15
-updated: 2025-02-25
+permalink: training/presentations/creating-powerpoint-templates/
 redirect_from:
 - create/presentations/creating-powerpoint-templates/
+description: Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
 topic: "Content creation (create)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +15,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-15
+updated: 2026-03-11
 exempt-changelog: true
 ---
 
