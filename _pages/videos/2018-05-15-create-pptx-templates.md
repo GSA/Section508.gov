@@ -136,4 +136,4 @@ Learn how to use the Microsoft PowerPoint slide master to help others create acc
   <li><a href="{{site.baseurl}}/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a></li>
 </ul>
 
-**Reviewed/Updated:** August 2025
+**Reviewed/Updated:** March 2026
