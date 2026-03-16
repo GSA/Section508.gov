@@ -5,7 +5,6 @@ permalink: manage/laws-and-policies/quick-reference-guide/
 description: "This guide highlights the changes you need to make to your agency’s 508 Program, to transition to the Revised 508 Standards."
 type: manage
 title: 'Laws and Policy Quick Reference Guide'
-created: 2018-05-29
 topic: "Law (law)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -16,6 +15,8 @@ audience:
 - "Information Technology Program and Project Managers (itpm)"
 resource-type: "Long form article"
 format: "HTML (html)"
+created: 2018-05-29
+updated: 2024-10-01
 ---
 
 This guide highlights the changes you need to make to your agency&rsquo;s 508 Program, to transition to the [Revised 508 Standards][1]. Federal agencies are required to comply with the revised standards as of January 18, 2018.
@@ -156,11 +157,6 @@ Incorporate the standards into agency life-cycle development activities for elec
   * How to Author and Validate Microsoft Word and PDF Documents for Accessibility - AED ACOP Training Video (Updated)
 
 Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 
-
-
-**Page Reviewed/Updated**: October 2024
-
-&nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: #changes

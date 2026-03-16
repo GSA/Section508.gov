@@ -4,6 +4,7 @@ title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-09-22 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/reporting-accessibility-vpat-2-guide-vendors/
+description: 
 image:
 image-alt: 
 overview: 

@@ -2,8 +2,9 @@
 layout: page
 sidenav: true
 type: training
-permalink: events/
 title: Events
+permalink: events/
+description: Explore upcoming digital accessibility events, webinars, and federal community meetings on Section 508, including training, best practices, and governmentwide forums.
 topic: "Training (train)"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:

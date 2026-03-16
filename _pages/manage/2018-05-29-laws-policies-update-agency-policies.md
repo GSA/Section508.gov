@@ -3,10 +3,10 @@ layout: page
 sidenav: true
 type: manage
 title: 'Update and Maintain Agency Policy'
-description: Learn how to update and maintain your agency's accessibility policies to ensure compliance with Section 508 and other requirements of the Rehabilitation Act.
 permalink: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
 redirect_from:
 - manage/laws-and-policies/update-agency-policies/
+description: Learn how to update and maintain your agency's accessibility policies to ensure compliance with Section 508 and other requirements of the Rehabilitation Act.
 topic: Law (law)
 sub-topic: Accessibility Law & Policy
 audience:
@@ -340,10 +340,6 @@ Compliance with one Section does not ensure compliance with the other Sections. 
 Increasingly Section 501 and 504 complaints and lawsuits focus on barriers to technology experienced by members of the public or employees with disabilities. The end result often is that the agency must develop a more robust Section 508 program to address the immediate concern and minimize future risk.
 
 These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
-
-**Reviewed/Updated**: September 2025
-
-&nbsp;
 
  [1]: #user
  [2]: #electronic

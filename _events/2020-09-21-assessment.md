@@ -2,7 +2,7 @@
 layout: wide_events
 title: Governmentwide Section 508 Assessment
 permalink: /event/section-508-program-maturity-report/
-decription: The Governmentwide Section 508 Assessment is an annual accessibility status report submission required by the Congress.
+description: The Governmentwide Section 508 Assessment is an annual accessibility status report submission required by the Congress.
 event-type: recuring-event
 event-frequency: annually (once annually)
 start-date: #only fill in start date if the events spans multiple days
