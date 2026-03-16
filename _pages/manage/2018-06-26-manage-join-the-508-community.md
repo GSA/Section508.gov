@@ -7,7 +7,7 @@ permalink: manage/join-the-508-community/
 redirect_from:
 - join-the-508-community/
 - community/
-created: 2018-06-26
+description: "Learn how to join the Section 508 IT Accessibility Community, subscribe to accessibility newsletters, and connect with government practitioners working to improve accessible ICT."
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -18,6 +18,7 @@ audience:
 - Developers and Testers (dev-test)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-06-26
 ---
 Welcome to the Section 508 IT Accessibility Community (SEC508ITAC). This community consists of U.S. government professionals who work to enhance access to federal information technology (IT). We identify and promote best practices for compliance with Section 508 law and conformance to the Revised 508 Standards, both of which are shown below. We share successful practices and information and engage advocacy groups, industry, and academia around innovative solutions for accessible technology.
 
@@ -44,5 +45,3 @@ This community is managed by the General Services Administration’s (GSA) Gover
 The Communities of Practice are hosted by Digital.gov, a service of the Technology Transformation Services (TTS) within GSA. GSA is a federal agency subject to the Freedom of Information Act (FOIA) and must comply with requests for records made under FOIA. As a result, all communications made on this Communities of Practice LISTSERV are subject to release under FOIA.
 
 When participating in this SEC508ITAC, follow <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank" class="usa-link--external">Digital.gov Community Guidelines</a>.
-
-**Reviewed/Updated:** May 2024

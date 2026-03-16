@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/information-technology-services/
+description: "Review policy guidance for information technology services to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
@@ -91,6 +92,5 @@ The policy type Information Technology Services refers to policies that apply to
     </a>
 </div>
 </div>
-
 
 

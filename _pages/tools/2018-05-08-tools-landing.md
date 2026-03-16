@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: tools/
 type: training
+permalink: tools/
 title: 'Section 508 Tools'
+description: "Find ICT acquisition and testing tools, view management playbooks, or find your agency’s Section 508 Program Manager."
 topic: Tools (tools)
 sub-topic: N/A
 audience:

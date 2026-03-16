@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/resources-and-references/summary-of-summary-criteria/
+description: "Review the summary of evaluation criteria used in the IT Accessibility Policy Framework, including sufficiency, relevance, level of detail, and importance ratings."
 type: manage
 title: "IT Accessibility Policy Framework - Summary of Evaluation Criteria"
 created: December 09, 2023
@@ -135,7 +136,6 @@ format: "HTML (html)"
     </a>
 </div>
 </div>
-
 
 
 

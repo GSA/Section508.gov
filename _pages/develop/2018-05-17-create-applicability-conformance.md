@@ -52,9 +52,6 @@ In some situations, you can comply with the Revised 508 Standards by providing a
 
   * [Understanding WCAG 2.0 Conformance][17] - Guidance from the W3C
 
-
-**Reviewed/Updated:** May 2018
-
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E201-application
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content

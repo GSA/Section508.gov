@@ -4,6 +4,7 @@ sidenav: false
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2025
 permalink: iaaf/archives/agenda-2025/
+description: View the agenda for the 2025 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 redirect_from: iaaf/agenda-2025/
 audience:
 - "federal employee (fedemp)"

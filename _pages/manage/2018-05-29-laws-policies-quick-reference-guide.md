@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/laws-and-policies/quick-reference-guide/
+description: "This guide highlights the changes you need to make to your agency’s 508 Program, to transition to the Revised 508 Standards."
 type: manage
 title: 'Laws and Policy Quick Reference Guide'
 created: 2018-05-29

@@ -4,6 +4,7 @@ sidenav: true
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 permalink: iaaf/archives/
+description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"

@@ -4,6 +4,7 @@ sidenav: false
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
 permalink: iaaf/archives/biographies-2023/
+description: View speaker and presenter biographies for the 2023 Interagency Accessibility Forum.
 redirect_from: iaaf/biographies-2023/
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"

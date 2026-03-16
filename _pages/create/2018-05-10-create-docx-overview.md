@@ -111,5 +111,3 @@ The resources in this section were developed by federal agencies and shared here
   * Review <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM Alternative Text</a> for appropriate use of alternative text.
   * Review <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" target="_blank" class="usa-link--external">W3C's Alt Decision Tree</a> for guidance on how to describe images.
   * <a href="https://www.microsoft.com/en-us/accessibility/" target="_blank" class="usa-link--external">Microsoft Accessibility</a>
-
-**Reviewed/Updated:** August 2025

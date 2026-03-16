@@ -4,6 +4,7 @@ layout: page
 sidenav: true
 title: 'Design and Develop Accessible Products'
 permalink: develop/
+description: "Learn how to design and develop digital products and services for your agency that meet it's responsibilities under Section 508 of the Rehabilitation Act."
 redirect_from:
 - design/
 topic: "Content creation (create)"

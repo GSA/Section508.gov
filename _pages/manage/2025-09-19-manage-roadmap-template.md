@@ -4,7 +4,7 @@ sidenav: true
 type: manage
 title: Section 508 Strategic Roadmap Template
 permalink: manage/strategic-roadmap-template/
-description: 
+description: Learn how to use a Section 508 strategic roadmap template to plan, sequence, and communicate enterprise IT accessibility initiatives over time.
 disclaimer: 
 audience: 
 - 508-pm
@@ -222,8 +222,6 @@ The following process list presents a six-month roadmap template for enterprise 
     </div>
   </li>
 </ol>
-
-**Reviewed/Updated:** September 2025
 
 <style>
     :root {

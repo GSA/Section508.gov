@@ -4,8 +4,7 @@ layout: page
 permalink: create/documents/training-videos/
 type: create
 title: 'Documents Training Videos'
-created: 2020-01-22
-updated: 2025-01-08
+description: This series of videos explain and demonstrate the minimum steps needed to ensure your electronic document is accessible to people with disabilities.
 topic: "Content creation (create)"
 sub-topic: "Documents"
 audience:
@@ -16,6 +15,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "Video & Synchronized Media (video)"
+created: 2020-01-22
+updated: 2025-01-08
 ---
 
 # How to Make an Accessible Document in Microsoft Word
@@ -303,8 +304,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 </a>.</p>
 </div>
 </div>
-
-**Reviewed/Updated**: January, 2025
 
  [1]: {{site.baseurl}}/create/pdfs/training-videos/
  [2]: {{site.baseurl}}/create/presentations/training-videos/

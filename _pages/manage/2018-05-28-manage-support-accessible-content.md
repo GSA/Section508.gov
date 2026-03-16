@@ -27,10 +27,6 @@ The [Revised 508 Standards][1] clarify which electronic content must be accessib
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
-  
-
-**Reviewed/Updated:** May 2018
-
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/manage/understand-scope-technical-requirements
  [3]: {{site.baseurl}}/manage/teach-staff-about-accessibility

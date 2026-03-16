@@ -80,5 +80,3 @@ ICT accessibility considerations throughout each stage of the change control pro
 * [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
 * [Technology Accessibility Playbook \- Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/)  
 * [Testing Lifecycle Overview]({{site.baseurl}}/test/testing-lifecycle-overview/)  
-
-**Reviewed/Updated:** September 2025

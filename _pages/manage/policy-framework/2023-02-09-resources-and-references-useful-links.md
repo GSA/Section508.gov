@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/resources-and-references/useful-links/
+description: "Browse laws, policies, standards, tools, and related resources that support the IT Accessibility Policy Framework and agency policy review efforts."
 type: manage
 title: "IT Accessibility Policy Framework - Useful Links"
 created: December 09, 2023
@@ -67,5 +68,4 @@ format: "HTML (html)"
     </a>
 </div>
 </div>
-
 

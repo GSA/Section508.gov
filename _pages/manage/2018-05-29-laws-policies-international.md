@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/laws-and-policies/international/
+description: "Learn how Section 508 relates to international ICT accessibility standards and harmonization efforts, including GSA’s role in supporting aligned accessibility policies and procurement standards."
 type: manage
 title: 'International Harmonization'
 created: 2018-05-29

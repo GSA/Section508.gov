@@ -59,23 +59,18 @@ More modern resources include:
   * [The Code4Lib Journal][16] – A Practical Guide on Developing Accessible Websites
   * [Making Microsoft Office Documents Accessible][17]
 
-  
-
-
-**Reviewed/Updated:** May 2018
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: {{site.baseurl}}/training/508-training
- [3]: http://www.accessibilityassociation.org/
- [4]: http://www.accessibilityassociation.org/cpacccertification
- [5]: http://www.accessibilityassociation.org/wascertification
- [6]: https://www.accessibilityassociation.org/s/certification-prepare
- [9]: http://www.accessibilityassociation.org/certificationproviders
- [10]: http://teachaccess.org/
- [11]: http://teachaccess.org/initiatives/tutorial/
- [12]: https://www.dhs.gov/publication/trusted-tester-resources
- [13]: https://www.youtube.com/watch?v=A5XzoDT37iM
- [14]: https://www.udacity.com/course/web-accessibility--ud891
- [15]: https://www.udacity.com/course/web-accessibility--ud891
- [16]: http://journal.code4lib.org/articles/12697
- [17]: https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
+[2]: {{site.baseurl}}/training/508-training
+[3]: http://www.accessibilityassociation.org/
+[4]: http://www.accessibilityassociation.org/cpacccertification
+[5]: http://www.accessibilityassociation.org/wascertification
+[6]: https://www.accessibilityassociation.org/s/certification-prepare
+[9]: http://www.accessibilityassociation.org/certificationproviders
+[10]: http://teachaccess.org/
+[11]: http://teachaccess.org/initiatives/tutorial/
+[12]: https://www.dhs.gov/publication/trusted-tester-resources
+[13]: https://www.youtube.com/watch?v=A5XzoDT37iM
+[14]: https://www.udacity.com/course/web-accessibility--ud891
+[15]: https://www.udacity.com/course/web-accessibility--ud891
+[16]: http://journal.code4lib.org/articles/12697
+[17]: https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d

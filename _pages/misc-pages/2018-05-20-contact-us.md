@@ -4,6 +4,9 @@ layout: page
 sidenav: false
 title: 'Contact Us'
 permalink: contact-us/
+redirect_from: 
+- manage/support-information/
+description: "Have a Question or Comment? Review the resources below, which highlight some of the common tasks on this website, or learn how to contact our team for assistance."
 topic: "About the program/site (about)"
 sub-topic: "N/A"
 audience:

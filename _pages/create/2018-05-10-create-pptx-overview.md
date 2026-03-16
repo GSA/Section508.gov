@@ -110,8 +110,6 @@ The resources in this section were developed by federal agencies and shared here
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
   * [Microsoft Accessibility][11] -- Microsoft.com
 
-**Reviewed/Updated**: August 2025
-
  [1]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
  [2]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/electronic-signatures/
+description: "Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently."
 type: create
 title: 'Electronic Signatures'
 topic: "Content creation (create)"
@@ -145,9 +146,5 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
     </p>
   </div>
 </div>
-
-<p dir="ltr">
-  <strong>Page Reviewed/Updated</strong>: December 2019
-</p>
 
  [1]: https://webaim.org/techniques/acrobat/forms

@@ -98,4 +98,3 @@ created: 2018-05-21
     <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E204-functional-performance-criteria">Revised 508 Standards Functional Performance Criteria</a></li>
 </ul>
 <p>These best practices were developed by the U.S. Federal Government Authoring and Developer Transition Working Group, with contributions from the Federal CIO Council Accessibility Community of Practice (ACoP), the U.S. Access Board, and the General Services Administration.</p>
-<p><b>Reviewed/Updated:</b> May 2018</p>

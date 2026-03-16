@@ -1,10 +1,10 @@
 ---
 sidenav: true
 layout: page
-permalink: create/pdfs/training-videos/
 type: create
 title: 'PDF Training Videos'
-created: 2020-01-22
+permalink: create/pdfs/training-videos/
+description: "This series of videos to explains and demonstrates the minimum steps needed to ensure your PDF document is accessible to people with disabilities."
 topic: Content creation (create)
 sub-topic: PDFs
 audience:
@@ -15,6 +15,8 @@ audience:
 - 508 Program Manager (508pm)
 resource-type: Training
 format: Video & Synchronized Media (video)
+created: 2020-01-22
+updated: 2025-01-22
 ---
 
 # How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC
@@ -131,8 +133,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 </a>.</p>
 </div>
 </div>
-
-**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/create/documents/training-videos/
  [2]: {{site.baseurl}}/create/presentations/training-videos/

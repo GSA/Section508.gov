@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/communications/
+description: "Review policy guidance for communications to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Communications"
 created: December 10, 2023
@@ -78,4 +79,3 @@ The Communications policy type refers to policies pertaining to all spoken and w
     </a>
 </div>
 </div>
-

@@ -51,8 +51,6 @@ Navigate through the sections below to learn more:
 [Contact us][11] if you'd like to suggest a new resource for this page.
 
   
-**Reviewed/Updated:** July 2024
-
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/create/applicability-conformance

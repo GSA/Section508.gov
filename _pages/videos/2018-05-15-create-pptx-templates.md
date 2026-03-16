@@ -4,6 +4,7 @@ sidenav: true
 type: presentation training
 title: 'Creating PowerPoint Templates'
 permalink: training/presentations/creating-powerpoint-templates/
+description: Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations.
 redirect_from:
 - create/presentations/creating-powerpoint-templates/
 audience:

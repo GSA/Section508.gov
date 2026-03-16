@@ -71,12 +71,6 @@ Federal agencies are required to follow Section 508 and related laws and policie
 - [508 Program Management Roadmap][12] - High-level roadmap for managing a Federal agency IT Accessibility/508 program.
 - [Revised 508 Standards Transition Guide][13] - Overview of how to update existing programs to comply with the Revised 508 Standards.
 
-&nbsp;
-
-**Reviewed/Updated:** October 2020
-
-&nbsp;
-
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: {{site.baseurl}}/tools/playbooks/
 [3]: {{site.baseurl}}/manage/roles

@@ -4,6 +4,7 @@ sidenav: false
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 permalink: iaaf/archives/agenda-2022/
+description: View the agenda for the 2022 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:

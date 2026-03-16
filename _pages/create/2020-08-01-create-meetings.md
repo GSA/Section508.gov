@@ -37,12 +37,6 @@ Following Section 508 standards in advance also ensures that if and when the sta
 If a federal agency hosts a meeting available to the public, the meeting must meet all applicable Section 508 standards. This includes meetings, seminars, live classes, town halls, or any other type of public meeting.
 
 ### Internal Meetings
-<!-- If a meeting is internal, meaning it is not public-facing, then Section 508 applies if the meeting is [Agency Official Communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). For example, if the purpose of your meeting is to introduce a new policy or train employees on a new procedure, the meeting must meet all accessibility requirements.
-
-For other meetings, you may still be required to provide accessibility accommodations to specific employees according to Section 504 requirements. Meeting invitations should always include a means to request accommodations.
-
-To determine if Section 504 applies, contact your agency's Disability Employment Program Manager. -->
-
 For internal meetings, you are required by Section 508 to use accessible ICT. This includes the meeting software, the documents, and sites you may use to conduct the meeting.
 
 You may also be required to provide accessibility accommodations to specific employees according to Section 504 requirements. Meeting invitations should always include a means to request accommodations.
@@ -112,7 +106,6 @@ In general, you should have meeting software that meets the following requiremen
     <div class="usa-icon-list__content">The software allows users or the host to spotlight or pin sign language interpreters</div>
   </li>
 </ul>
-
 
 No meeting software is perfect, so research what additional plug-ins may be needed, such as an external chat software.
 
@@ -485,4 +478,3 @@ By making your meetings accessible, you are contributing to the ongoing effort t
     </li>
 </ul>
 
-**Reviewed/Updated:** January 2025

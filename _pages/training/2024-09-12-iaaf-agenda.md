@@ -4,6 +4,7 @@ sidenav: false
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2024
 permalink: iaaf/archives/agenda-2024/
+description: View the agenda for the 2024 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 redirect_from: iaaf/agenda-2024/
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"

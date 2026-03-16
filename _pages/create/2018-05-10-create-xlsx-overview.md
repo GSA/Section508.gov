@@ -88,8 +88,6 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Web Accessibility Tutorials and Presentations][10] - Guidance from the World Wide Web Consortium (W3C)
   * [Microsoft Accessibility][11]
 
-**Reviewed/Updated:** August 2025
-
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/assets/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx
  [3]: https://assets.section508.gov/assets/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc

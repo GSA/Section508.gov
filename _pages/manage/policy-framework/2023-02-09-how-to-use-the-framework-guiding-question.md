@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/how-to-use-the-framework/guiding-question/
+description: "Learn how to use guiding questions in the IT Accessibility Policy Framework to review agency policies for Section 508 and ICT accessibility considerations."
 type: manage
 title: "IT Accessibility Policy Framework - Guiding Questions"
 created: December 09, 2023

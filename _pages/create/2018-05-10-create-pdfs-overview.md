@@ -96,8 +96,6 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
-**Reviewed/Updated:** November 2025
-
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
  [3]: https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx

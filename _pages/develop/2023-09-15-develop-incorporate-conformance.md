@@ -126,7 +126,6 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   <li>Create an accommodation plan for each defect to assist users who may encounter accessibility issues. </li>
 </ol>
 
-
 <h2>Operate and Maintain:</h2>
 <ol>
   <li>Once deployed, any updates or changes should follow the steps above (<a href= "#Plan">Plan</a>, <a href= "#Gather">Gather Requirements</a>, <a href= "#Design">Design</a>, <a href= "#Develop">Develop</a>, <a href= "#Test">Test</a>) to ensure accessibility testing is built into the life cycle. </li>
@@ -150,4 +149,3 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   </ol>
 </div>
 
-**Reviewed/Updated:** March 2025

@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/introduction/
+description: "Learn how the IT Accessibility Policy Framework helps agencies review, prioritize, and update internal policies to better integrate Section 508 and ICT accessibility requirements."
 type: manage
 title: "IT Accessibility Policy Framework - Introduction"
 created: December 09, 2023
@@ -72,6 +73,3 @@ The IT Accessibility Policy Framework offers agencies a generalized, standard ap
     </a>
 </div>
 </div>
-
-
-

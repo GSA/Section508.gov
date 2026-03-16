@@ -81,6 +81,4 @@ For all listed conditions, evidence of accessibility conformance such as test re
 * [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
 * [Section 508 Considerations for Change Control Processes]({{site.baseurl}}/manage/governance/section-508-for-change-control-processes/) 
 * [Technology Accessibility Playbook \- Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/)
-* [Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance]({{site.baseurl}}/buy/understand-claims/)   
-
-**Reviewed/Updated:** September 2025
+* [Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance]({{site.baseurl}}/buy/understand-claims/) 

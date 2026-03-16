@@ -4,6 +4,7 @@ sidenav: true
 type: manage
 title: 'Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process'
 permalink: manage/laws-and-policies/section-508-complaints-best-practices/
+description: "Learn best practices for establishing and maintaining a formal Section 508 complaint process that is clear, accessible, and responsive for employees and the public."
 topic: Policy (policy)
 sub-topic: Accessibility Law and Policy
 audience:
@@ -97,6 +98,3 @@ The Department of State is another example of an agency that created a specific 
     <li id="fn1">Section 508 conformance of these have not been verified.<a href="#fr1" aria-label="Back to content"> ↩ </a></li>
     </ol>
     </div>
-
-
-**Reviewed/Updated:** October 2024

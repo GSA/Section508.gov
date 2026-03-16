@@ -68,11 +68,6 @@ Refer to  [Section E205][1] for the specific technical provisions that apply to 
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
-  
-
-
-**Reviewed/Updated:** May 2018
-
  [1]: https://www.access-board.gov/ict/#E205-content
  [2]: https://www.access-board.gov/contact/
  [3]: {{site.baseurl}}/manage/support-accessible-content

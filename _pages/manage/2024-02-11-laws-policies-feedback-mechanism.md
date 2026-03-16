@@ -4,6 +4,7 @@ sidenav: true
 type: manage
 title: 'Implementing a Public Feedback Mechanism'
 permalink: manage/laws-and-policies/implementing-public-feedback-mechanism/
+description: "Learn how to implement a public feedback mechanism that helps your agency collect, track, and resolve digital accessibility issues on websites and digital services."
 topic: "Manage (program)"
 sub-topic: "Manage a 508 Program"
 audience:
@@ -208,5 +209,3 @@ Agencies should have a tracking method for public accessibility feedback receive
 </ol>
 
 [1]: #feedback-tracking-and-reporting
-
-**Reviewed/Updated**: March 2024

@@ -124,5 +124,3 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
   * [Trusted Tester and ICT Testing Baseline]({{ site.baseurl }}/test/trusted-tester/)
 
 For any questions about the government-wide Section 508 reporting, please [contact us]({{site.baseurl}}/contact-us/).
-
-**Reviewed/Updated**: January 2025
