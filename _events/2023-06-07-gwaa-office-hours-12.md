@@ -7,6 +7,7 @@ permalink: /event/gwaa-office-hours-21june2023/
 description: "The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your agency’s point of contact can meet with our teams to discuss the criteria or other questions related to completing the assessment."
 image:
 image-alt: 
+event-registration: https://gsa.zoomgov.com/meeting/register/vJIsdO6hrzkjGKh6k-PdYMVsG_mMeBMKrA8
 created: 2023-06-07
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your agency’s point of contact can meet with the team to discuss questions related to completing the assessment.
@@ -24,7 +25,7 @@ Prior to participating in an office hours event, please ensure that you are fami
 **WHO:** Agency points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Wednesday, June 21 at 3:00 PM ET. [Sign up today!][7]   
+Registration for this event has closed.
 
 This virtual meeting is supported by Zoom for Government. Please feel free to attend via your personal device.  
 

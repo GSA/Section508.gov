@@ -7,6 +7,7 @@ permalink: /event/gwaa-demo-23july2024/
 description: "General Services Administration (GSA) will be hosting short demo sessions of the Assessment submission tool. This will give your reporting entity point of contact a chance to preview the tool and learn best practices for navigation."
 image:
 image-alt: 
+event-registration: https://gsa.zoomgov.com/meeting/register/vJItcOqqqjItHArXYKUpFhP8JpCLkdL8NOc
 created: 2024-06-28
 ---
 General Services Administration (GSA) will be hosting short demo sessions of the Assessment submission tool. This will give your reporting entity point of contact a chance to preview the tool and learn best practices for navigation.
@@ -24,7 +25,7 @@ Prior to participating, please ensure that you are familiar with the guidance re
 **WHO:** Points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Tuesday, July 23 at 2:00 PM ET. [Sign up today!][7]   
+Registration for this event has closed.
 
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.  CART will be provided.
 

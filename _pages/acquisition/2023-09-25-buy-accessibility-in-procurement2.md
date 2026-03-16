@@ -4,7 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Accessibility In Procurement II: Solicitation & Post-Solicitation'
 permalink: buy/accessibility-in-procurement-pre-solicitation-2/
-description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-soliciation activities. 
+description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-solicitation activities. 
 contributors: proctor, gsatts
 audience:
 - "Acquisition (acq)"

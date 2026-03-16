@@ -20,4 +20,4 @@ The new VPAT&reg; 2 format offers multiple templates, allowing vendors to docume
 **This class or event is (select all that apply):** Webinar  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://www.accessibilityassociation.org/s/archived-webinar-details?id=a0A3p000014wdFHEAY" aria-label="Event Registration Link (opens in a new window)" target="_blank">Register</a>
+**Registration Link:** Registration for this event has closed.

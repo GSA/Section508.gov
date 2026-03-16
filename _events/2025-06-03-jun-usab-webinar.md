@@ -5,6 +5,7 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2025-07-29 #otherwise use end-date
 permalink: /event/best-practices-webinar-jul2025/
 description: Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
+event-registration: https://accessibilityonline.org/ADA-Audio/session?id=111171
 created: 2025-06-03
 ---
 Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
@@ -20,5 +21,4 @@ Hear how agencies can design an HTML-first approach for electronic content using
 **WHERE:** Virtual webinar
 
 ### Registration
-Session and registration information is available at: <a href="https://accessibilityonline.org/ADA-Audio/session?id=111171" target="_blank" class="usa-link--external">That Doesn't Need to Be a PDF</a>.
-
+{% include event-registration.html %}

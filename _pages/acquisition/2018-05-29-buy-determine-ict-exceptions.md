@@ -4,6 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Step 2: Determine ICT Exceptions'
 permalink: buy/determine-ict-exceptions/
+description: Guidance on identifying and documenting when Section 508 ICT exceptions including legacy, undue burden, national security, and best‑meet apply in federal procurements.
 audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)

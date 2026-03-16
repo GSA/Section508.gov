@@ -4,6 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Step 1: Inventory Your ICT'
 permalink: buy/inventory-your-ict/
+description: Guidance on conducting a comprehensive inventory of information and communication technology (ICT) — identifying software, hardware, content, documentation and services for Section 508 compliance.
 audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)

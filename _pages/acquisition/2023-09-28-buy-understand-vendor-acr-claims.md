@@ -4,6 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance'
 permalink: buy/understand-claims/
+description: Learn how to interpret vendor Section 508 conformance claims in Accessibility Conformance Reports (ACR), including supports, partially supports, does not support, not applicable, and not evaluated.
 audience:
 - Acquisition (acq)
 - 508 Program Manager (508pm)

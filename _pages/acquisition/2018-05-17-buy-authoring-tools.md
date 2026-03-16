@@ -6,7 +6,7 @@ title: 'Authoring Tool Requirements'
 permalink: buy/authoring-tools/
 redirect_from:
 - create/authoring-tools/
-description: 
+description: Learn Section 508 authoring tool requirements and how software must support creating, preserving, and exporting accessible content that meets WCAG 2.0 A and AA.
 audience:
 - "508 Program Manager (508pm)"
 - "Acquisition (acq)"

@@ -4,6 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Request Accessibility Information from Vendors & Contractors'
 permalink: buy/request-accessibility-information/
+description: Best practices for requesting accessibility information from vendors and contractors when procuring ICT, including accessibility conformance reports (ACR), and documentation based on the VPAT&reg;, and instructions for responses to meet Section 508 requirements.
 audience:
 - Contracting Officer’s Representative (cor)
 - Acquisition (acq)

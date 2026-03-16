@@ -4,6 +4,7 @@ sidenav: true
 type: acquisition
 title: 'Step 3: Determine Which Standards Apply'
 permalink: buy/determine-ict-standards/
+description: Learn how to determine which Section 508 ICT accessibility standards apply to federal procurements and development projects by identifying applicable requirements for software, hardware, and content.
 audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)

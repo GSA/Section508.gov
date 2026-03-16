@@ -5,6 +5,7 @@ permalink: /event/best-practices-webinar-jan2025/
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2025-01-21 #otherwise use end-date
 description: Presenters from the General Services Administration will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations.
+event-registration: https://accessibilityonline.org/ADA-Audio/session?id=111147
 created: 2024-12-03
 updated: 2025-01-07
 ---
@@ -24,4 +25,4 @@ Per the Act, OMB, in coordination with the GSA, the U.S. Access Board, and the W
 **WHERE:** Virtual webinar
 
 ### Registration
-Session and registration information is available at: <a href="https://accessibilityonline.org/ADA-Audio/session?id=111147" target="_blank">Highlights from the Fiscal Year 2024 Government-wide Section 508 Assessment</a>.
+{% include event-registration.html %}

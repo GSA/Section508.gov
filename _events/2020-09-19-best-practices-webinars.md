@@ -26,6 +26,4 @@ Webinars are recorded, and past sessions are available in the portal’s <a href
 **Available to:** Federal Employees and members of the public    
 
 ## Registration
-For event schedules, information, and registration, visit <a href="https://www.accessibilityonline.org/cioc-508/schedule" target="_blank" aria-label="Event Registration Link (opens in a new window)">  Section 508 Best Practices Webinar Series </a>  
-
- **Reviewed/Updated:** August 2025
+For event schedules, information, and registration, visit <a href="https://www.accessibilityonline.org/cioc-508/schedule" target="_blank" aria-label="Event Registration Link (opens in a new window)">  Section 508 Best Practices Webinar Series </a>
