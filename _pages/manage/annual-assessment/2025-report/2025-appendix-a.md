@@ -326,4 +326,3 @@ A technical issue with question dependencies resulted in agency questions 29c, 3
 ## Descriptive Statistics 
 GSA conducted descriptive analysis of agency, parent agency, and component data to develop a comprehensive understanding by identifying key patterns and trends. This involved calculating averages, frequency distributions, and other fundamental statistical measures for each criterion. To summarize the dataset, descriptive statistics were applied, focusing on measures of central tendency such as mean, median, and mode, to describe typical values. Measures of dispersion, including range, interquartile range, variance, and standard deviation, were calculated to assess data spread. These statistics collectively provided a view of both the central position and the overall spread of the data.
 
-**Reviewed/Updated**: March 2026

@@ -94,4 +94,3 @@ This collaboration was an important win for this Section 508 team, showcasing th
 * [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/)
 * [Universal Design and Accessibility]({{site.baseurl}}/develop/universal-design/)
 
-**Reviewed/Updated:** January 2025

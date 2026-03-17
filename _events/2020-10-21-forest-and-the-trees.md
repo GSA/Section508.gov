@@ -4,6 +4,7 @@ title: The Forest and the Trees - Scaling for Enterprise-Level Digital Accessibi
 start-date:  #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-10-21 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/forest-and-trees-scaling-enterprise-level-digital-accessibility/
+description: Learn how higher education is advancing digital accessibility in response to legal, regulatory, and global standards—covering policies, testing, training, and procurement impacts.
 image:
 image-alt: 
 created: 2020-10-21

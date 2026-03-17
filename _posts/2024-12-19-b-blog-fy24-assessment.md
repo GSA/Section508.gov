@@ -34,4 +34,3 @@ The FY24 assessment includes numerous recommendations to Congress and agencies, 
 ## How can you learn more?
 Read the [FY24 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2024/message-from-gsa-administrator/) or contact the GSA Government-wide IT Accessibility Program at <section.508@gsa.gov>. 
 
-**Reviewed/Updated:** December 2024

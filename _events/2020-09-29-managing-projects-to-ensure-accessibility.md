@@ -4,6 +4,7 @@ title: Managing projects to ensure accessibility
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-09-29 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/managing-projects-ensure-accessibility/
+description: The IT Accessibility Community Meeting (ITACM) will include a presentation and conversation on how to position federal agencies to ensure accessible information and communications technologies (ICT) are procured and managed for their agencies.
 image:
 image-alt: 
 created: 2020-09-29
