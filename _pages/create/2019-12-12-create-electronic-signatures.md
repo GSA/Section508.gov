@@ -138,13 +138,4 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
   Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
 </p>
 
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong>
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
  [1]: https://webaim.org/techniques/acrobat/forms

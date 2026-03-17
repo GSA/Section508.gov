@@ -240,14 +240,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC][2]
   * [How to Author and Test Microsoft PowerPoint Presentations for Accessibility][3]
 
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-
  [1]: {{site.baseurl}}/create/documents/training-videos/
  [2]: {{site.baseurl}}/create/pdfs/training-videos/
  [3]: {{site.baseurl}}/create/presentations/training-videos/
