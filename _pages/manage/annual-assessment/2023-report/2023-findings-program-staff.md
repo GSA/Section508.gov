@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/program-staff/
 type: report2023
 title: "Governmentwide Findings: Section 508 Program and Staff Analysis Summary"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines Section 508 program management and staffing, including training and governance practices.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -248,4 +249,3 @@ These findings underscore that resourcing for Section 508 Programs is lacking ac
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/executive-summary/
 type: report2024
 title: "Executive Summary"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including key outcomes and recommendations.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -69,4 +70,3 @@ The recommendations resulting from the FY 2024 Governmentwide Section 508 Assess
 
 * **Require Annual Section 508 Training by Roles and Responsibilities:** Although a significant improvement from last year, only about [34% of entities reported require any Section 508 training for employees]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#staff-training). Additionally [37% of respondents have no Section 508 training plan defined]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#staff-training). Agencies should require annual Section 508 training for all employees who create, maintain, or otherwise contribute to the agencies' digital content.
 
-**Reviewed/Updated**: December 2024

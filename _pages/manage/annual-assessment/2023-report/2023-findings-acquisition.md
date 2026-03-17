@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/acquisition/
 type: report2023
 title: "Governmentwide Findings: Acquisition and Procurement"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines acquisition and procurement practices and how they influence ICT accessibility outcomes across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -117,4 +118,3 @@ data suggests a lack of consistency in ensuring sufficient Section 508 language 
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

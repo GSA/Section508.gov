@@ -4,6 +4,7 @@ sidenav: true
 type: report2024
 title: "Observations and Acknowledgements"
 permalink: manage/section-508-assessment/2024/observations/
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, shares observations on reported data and acknowledges contributors to the assessment.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -54,4 +55,3 @@ Agencies noted that the Assessment and its publicly posted data, the M-24-08 mem
 
 We want to extend our heartfelt thanks to everyone who participated in the FY 2024 Governmentwide Section 508 Assessment. The FY 2024 Assessment report highlights the positive impact of your involvement and we eagerly anticipate the continued benefits of future assessments. These reports and associated data will help ensure all agencies meet the standards for providing equal access to ICT and digital services. The ongoing investments by these entities will further improve digital accessibility across the federal government.
 
-**Reviewed/Updated**: December 2024

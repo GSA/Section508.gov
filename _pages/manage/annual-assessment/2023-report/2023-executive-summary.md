@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/executive-summary/
 type: report2023
 title: "Executive Summary"
+permalink: manage/section-508-assessment/2023/executive-summary/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including key outcomes and recommendations.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -86,4 +87,3 @@ Overall, while some reporting entities perform well with respect to meeting acce
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

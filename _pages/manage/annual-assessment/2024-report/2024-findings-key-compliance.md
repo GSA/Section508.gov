@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/compliance-dimension/
 type: report2024
 title: "Governmentwide Findings: Compliance Key Findings"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, highlights key compliance findings across agencies, including conformance and verification outcomes.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -589,4 +590,3 @@ This year, the Assessment asked several questions regarding the accessibility an
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

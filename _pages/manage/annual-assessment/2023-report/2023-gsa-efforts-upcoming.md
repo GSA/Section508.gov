@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-upcoming/
 type: report2023
 title: "Upcoming GSA Efforts to Support Section 508 Compliance"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, outlines upcoming GSA initiatives and support efforts to improve Section 508 compliance.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -91,4 +92,3 @@ GSA plans to do the following before and during the FY 2024 Assessment to hone c
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

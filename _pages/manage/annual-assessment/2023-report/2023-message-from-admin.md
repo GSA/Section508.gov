@@ -4,9 +4,11 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/message-from-gsa-administrator/
 type: report2023
 title: "Message from the GSA Administrator"
+title-alt: "FY 2023 Governmentwide Section 508 Assessment"
 redirect_from:
 - manage/section-508-assessment/2023/
 - 2023-congressional-report/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared and submitted by the General Services Administration to Congress in coordination with OMB and the U.S. Access Board, presents federal ICT accessibility findings, highlighting federal agency digital accessibility progress and compliance priorities.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -34,4 +36,3 @@ Respectfully submitted,
 Robin Carnahan  
 Administrator
 
-**Reviewed/Updated**: December 2023

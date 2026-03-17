@@ -4,7 +4,7 @@ sidenav: true
 type: report2024
 title: "Assessment Data & Downloads"
 permalink: manage/section-508-assessment/2024/assessment-data-downloads/
-description: 
+description: The FY 2024 Governmentwide Section 508 Assessment provides assessment data and downloads to support transparency into agency responses across key ICT accessibility measures.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -40,4 +40,3 @@ To enhance the transparency of this report and respondent data, we have made the
 * <a href="https://assets.section508.gov/assets/files/assessment/2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment.xlsx" target="_blank" class="usa-link--external">FY 2024 Regression Results (XLSX)</a>
 
 
-**Reviewed/Updated**: May 2025

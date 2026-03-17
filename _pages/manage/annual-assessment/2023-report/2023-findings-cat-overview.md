@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/category-overview/
 type: report2023
 title: "Overall Performance Category Findings and Recommendations: Overview"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an overview of performance categories and related findings and recommendations.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -55,4 +56,3 @@ Below are the results from all 25 overall performance categories for this Assess
 * [Very High Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---high-conformance)
 * [Very High Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-high-conformance)
 
-**Reviewed/Updated**: December 2023

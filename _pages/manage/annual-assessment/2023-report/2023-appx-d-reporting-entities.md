@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-d-reporting-entities/
 type: report2023
 title: "Appendix D: Reporting Entities"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, lists reporting entities and components included in the assessment.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -369,4 +370,3 @@ Note: Reporting entity summaries will open in a new browser window or tab based 
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=USPS" target="_blank">U.S. Postal Service (USPS)</a></li>
 </ol>
 
-**Reviewed/Updated**: December 2023

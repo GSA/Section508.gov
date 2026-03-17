@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/category-overview/
 type: report2024
 title: "Category-level Findings and Recommendations: Overview"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an overview of category-level findings and recommendations across maturity categories.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -55,4 +56,3 @@ Below is a summation of outcomes and recommendations by category.
 * [Very High Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2024/findings/category-very-high/#very-high-maturity---high-conformance)
 * [Very High Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2024/findings/category-very-high/#very-high-maturity---very-high-conformance)
 
-**Reviewed/Updated**: December 2024

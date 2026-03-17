@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/program-staff/
 type: report2024
 title: "Governmentwide Findings: Section 508 Program and Staff Analysis Summary"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines Section 508 program management and staffing, including training and governance practices.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -305,4 +306,3 @@ Following a FY 2023 Assessment recommendation for agencies to require mandatory 
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

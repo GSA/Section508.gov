@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/maturity-dimension/
 type: report2024
 title: "Governmentwide Findings: Maturity Dimension Key Findings"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes key findings by maturity dimension, including policy, acquisition, testing, and conformance.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -433,4 +434,3 @@ The figure below demonstrates year over year (YOY) change:
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

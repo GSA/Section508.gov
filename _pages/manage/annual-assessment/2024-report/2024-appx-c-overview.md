@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/appendix-c-overview/
 type: report2024
 title: "Appendix C: Overview Data By Reporting Entity"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overview data by reporting entity to compare agency responses across key measures.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -162,4 +163,3 @@ traditional definitions.
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

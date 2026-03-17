@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/compliance-outcomes/
 type: report2023
 title: "Governmentwide Findings: Key Compliance Outcomes"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, highlights key compliance outcomes across agencies, including maturity and conformance results.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -389,4 +390,3 @@ this section as “maturity”) and the conformance index (referred to throughou
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

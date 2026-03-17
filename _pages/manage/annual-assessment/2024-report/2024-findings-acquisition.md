@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/acquisition/
 type: report2024
 title: "Governmentwide Findings: Acquisition and Procurement"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines acquisition and procurement practices and how they influence ICT accessibility outcomes across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -229,4 +230,3 @@ As findings show in [Compliance Key Findings]({{site.baseurl}}/manage/section-50
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

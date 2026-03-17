@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/observations/
 type: report2023
 title: "Observations and Acknowledgements"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, shares observations on reported data and acknowledges contributors to the assessment.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -50,4 +51,3 @@ We recognize and sincerely appreciate the importance of an annual Governmentwide
 
 We look forward to supporting all reporting entities’ efforts to improve accessibility across government so that accessibility is inherent to all user experiences.
 
-**Reviewed/Updated**: December 2023

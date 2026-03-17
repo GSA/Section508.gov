@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/category-high/
 type: report2024
 title: "Overall Performance Category Findings and Recommendations: High Maturity Categories"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overall performance category findings and recommendations for high maturity agencies.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -183,4 +184,3 @@ Those in the High-Very High overall performance category should consider a conti
  </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/summary/
 type: report2024
 title: "Governmentwide Findings: Findings Summary"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents governmentwide accessibility findings, including agency implementation, testing, and conformance outcomes.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -126,4 +127,3 @@ Overall, across the federal government, the average digital accessibility confor
     </ol>
 </div>
 
-**Reviewed/Updated**: January 2025

@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/complaints/
 type: report2023
 title: "Governmentwide Findings: Complaints"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes Section 508 complaint intake, tracking, and resolution practices across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -40,4 +41,3 @@ While the majority of reporting entities (53%) provide instructions regarding ho
         < Previous</a>
 </div>
 
-**Reviewed/Updated**: December 2023

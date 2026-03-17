@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/appendix-a-acronyms/
 type: report2024
 title: "Appendix A: Acronyms List"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an acronyms list used throughout the report.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -290,4 +291,3 @@ The following acronyms are used in this 2023 Assessment report to Congress. Defi
 </tbody>	
 </table>
 
-**Reviewed/Updated**: December 2024

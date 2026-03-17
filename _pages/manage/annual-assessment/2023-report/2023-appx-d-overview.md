@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-d-overview/
 type: report2023
 title: "Appendix D: Overview Data By Reporting Entity"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overview data by reporting entity to compare agency responses across key measures.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -113,4 +114,3 @@ and question 28*
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

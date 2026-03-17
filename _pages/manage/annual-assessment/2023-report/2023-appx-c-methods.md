@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/appendix-c-methods/
 type: report2023
 title: "Appendix C: Methods"
+permalink: manage/section-508-assessment/2023/appendix-c-methods/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, documents the assessment methodology, data validation approach, and calculation methods used to evaluate agency responses.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -254,4 +255,3 @@ Taken together, the best scenario in regression analysis is a p-value lower than
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
 type: report2023
 title: "Appendix B: Federal Initiatives and Resources on ICT Accessibility"
+permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes federal initiatives, guidance, tools, and resources that support ICT accessibility and Section 508 compliance.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -47,4 +48,3 @@ Important governmentwide initiatives and resources have developed out of the leg
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

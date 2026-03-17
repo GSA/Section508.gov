@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/summary/
 type: report2023
 title: "Governmentwide Findings: Findings Summary"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents governmentwide accessibility findings, including agency implementation, testing, and conformance outcomes.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -105,4 +106,3 @@ The [Observations ]({{site.baseurl}}/manage/section-508-assessment/2023/observat
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

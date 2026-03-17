@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-other/
 type: report2023
 title: "Other Activities Under Consideration Beyond FY 2024"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, describes other activities under consideration beyond FY 2024 to advance Section 508 compliance.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -37,4 +38,3 @@ did not incorporate users with disabilities into [business requirements, acquisi
 
 * GSA would like to explore the option to include instructions and performance standards relating to Section 508 compliance in COR certification and training. GSA may also consider strengthening performance standards for other ICT roles and responsibilities.
 
-**Reviewed/Updated**: December 2023

@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/complaints/
 type: report2024
 title: "Governmentwide Findings: Complaints"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes Section 508 complaint intake, tracking, and resolution practices across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -84,4 +85,3 @@ Entities in FY 2024 noted a 44% increase in providing instructions on how to fil
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

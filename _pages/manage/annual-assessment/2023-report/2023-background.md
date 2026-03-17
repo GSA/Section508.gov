@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/background/
 type: report2023
 title: "Background"
+permalink: manage/section-508-assessment/2023/background/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides background on Section 508 requirements, federal ICT accessibility, and assessment context.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -41,4 +42,3 @@ Over the past 50 years, the federal government has passed a variety of statutes,
     </ol>
 </div>
 
-**Reviewed/Updated**: March 2025

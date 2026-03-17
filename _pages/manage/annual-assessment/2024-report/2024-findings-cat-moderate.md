@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/category-moderate/
 type: report2024
 title: "Overall Performance Category Findings and Recommendations: Moderate Maturity Categories"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overall performance category findings and recommendations for moderate maturity agencies.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -161,4 +162,3 @@ Given such high and consistent conformance, those in the Moderate-Very High over
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2024/findings/category-high/"> Next > </a>
 </div>
 
-**Reviewed/Updated**: December 2024

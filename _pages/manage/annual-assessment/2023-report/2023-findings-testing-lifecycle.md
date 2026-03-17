@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/testing-lifecycle/
 type: report2023
 title: "Governmentwide Findings: Accessibility Conformance Testing and Technology Lifecycle"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines ICT accessibility testing practices and how testing integrates into the technology lifecycle.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -197,4 +198,3 @@ be coupled with a strategic manual testing and remediation plan to track, fix, a
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

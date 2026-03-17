@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/maturity-dimension/
 type: report2023
 title: "Governmentwide Findings: Maturity Dimension Key Findings"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes key findings by maturity dimension, including policy, acquisition, testing, and conformance.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -119,4 +120,3 @@ On average, even the highest and second highest maturity dimensions (Technology 
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023
