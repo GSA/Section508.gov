@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/developing-a-section-508-training-plan/
 type: manage
 title: "Considerations for Developing a Section 508 Training Plan"
+permalink: manage/developing-a-section-508-training-plan/
 description: "Learn how to develop a Section 508 agency training program to help staff understand their roles in complying with Section 508, reduce the risk of costly remediation, and support consistent application of ICT standards across roles, content, systems, and procurement processes." 
-created: 2025-07-15
 topic: "Manage (program)"
 sub-topic: "Manage a 508 Program"
 audience:
@@ -17,6 +16,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 redirect_from:
+created: 2025-07-15
 ---
 To meet federal information and communication technology (ICT) accessibility requirements and ensure effective implementation of Section 508, it is essential for agencies to develop a structured training plan to educate their workforce on ICT accessibility. A well-designed training program helps staff understand their roles in complying with Section 508, reduces the risk of costly remediation, and supports consistent application of ICT standards across roles, content, systems, and procurement processes. By equipping employees with the necessary knowledge and skills, agencies streamline workflows, improve testing and evaluation practices, and ensure accessibility is integrated into every phase of digital product and service delivery.
 
@@ -407,5 +407,3 @@ The purpose of this planning section is to establish a formal, sustainable found
 * [Technology Accessibility Playbook—Play 2: Measure Your Section 508 Program’s Overall Performance](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/2/)  
 * [Technology Accessibility Playbook—Play 3: Develop a Section 508 Accessibility Roadmap](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/3/)  
 * [Technology Accessibility Playbook—Play 12: Educate the Workforce](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/12) 
-
-**Reviewed/Updated:** July 2025

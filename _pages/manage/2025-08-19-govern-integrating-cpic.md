@@ -67,7 +67,6 @@ The goal of the Capital Planning and Investment Control (CPIC) process is to ach
 Mandated by <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf" target="_blank" class="usa-link--external">OMB Circular A-130</a>, CPIC forms the backbone of federal IT governance.
 </div>
 
-
 ## Why Integrate Section 508?
 Section 508 compliance is a legal requirement that also improves the quality of user experiences when accessing government electronic information and digital services. Agencies that ignore accessibility during the CPIC process risk:
 
@@ -140,7 +139,6 @@ By integrating Section 508 into CPIC, agencies can:
     </div>
   </li>
 </ul>
-
 
 ## Key Points for Integration
 
@@ -218,7 +216,6 @@ Agencies can embed Section 508 into the CPIC lifecycle using the following strat
   </li>
 </ul>
 
-
 ## Next Steps for Agencies
 <ol class="usa-process-list">
   <li class="usa-process-list__item">
@@ -246,5 +243,3 @@ Agencies can embed Section 508 into the CPIC lifecycle using the following strat
 * <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf" target="_blank" class="usa-link--external">OMB Circular A-130 Managing Information as a Strategic Resource</a>
 * <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII.htm" target="_blank" class="usa-link--external">Clinger Cohen Act of 1996</a>
 * <a href="https://energy.gov/sites/prod/files/cioprod/documents/IM-20CPICBY2012_2_BUDGET.pdf" target="_blank" class="usa-link--external">Department of Energy - Guide to IT Capital Planning and Investment Control (CPIC)</a>
-
-**Reviewed/Updated:** August 2025

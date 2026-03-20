@@ -1,10 +1,10 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: 'How Do I Use the Section 508 Requirements Created by ART?'
-description: This video provides instruction on how to use ART to help you conduct market research, write documentation, and determine technical requirements that apply to the information and communication technology (ICT) that you wish to procure.
 permalink: training/art/introducing-art-03/
+description: This video provides instruction on how to use ART to help you conduct market research, write documentation, and determine technical requirements that apply to the information and communication technology (ICT) that you wish to procure.
 created: 2024-07-25
 updated: 2025-01-09
 ---
@@ -42,7 +42,6 @@ This episode provides instruction on how to use ART to help you conduct market r
   * [Define Accessibility Criteria in Contracts][9]
   * [Solicitations Review Tool (SRT)][10]
 
-**Reviewed/Updated**: January 2025
 
 [1]: {{site.baseurl}}/training/art/introducing-art-01/
 [2]: {{site.baseurl}}/training/art/introducing-art-02/

@@ -2,9 +2,10 @@
 layout: page
 sidenav: true
 permalink: manage/program-roadmap/
+description: "Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities."
 type: manage
 title: 'Revised 508 Standards Roadmap'
-created: 1527574221
+created: 2018-05-29
 updated: 2025-01-24
 redirect_from:
 - Refresh-Toolkit/
@@ -193,7 +194,6 @@ format: HTML (html)
   <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/12/">Play 12: Educate the Workforce</a>
 </li>
 </ul>
-
 
 [Back to top][9]
 
@@ -556,8 +556,6 @@ format: HTML (html)
   <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Play 11: Track and Resolve Accessibility Issues</a>
 </li>
 </ul>
-
-**Reviewed/Updated:** March 2025
 
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563

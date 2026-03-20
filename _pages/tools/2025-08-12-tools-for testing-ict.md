@@ -137,5 +137,3 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   * [Trusted Tester Program]({{site.baseurl}}/test/trusted-tester/) 
   * [Universal Design]({{site.baseurl}}/develop/universal-design/)
   * <a href="https://www.w3.org/WAI/Tools/" target="_blank" class="usa-link--external">WAI - tools Project</a>
-
-**Reviewed/Updated:** August 2025

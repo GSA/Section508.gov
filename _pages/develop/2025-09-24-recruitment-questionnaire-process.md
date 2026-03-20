@@ -245,8 +245,6 @@ Use this structured questionnaire process to recruit people with disabilities (P
   </div>
 </div>
 
-<strong>Reviewed/Updated:</strong> September 2025
-
 <script>
 $("#expand-all").on("click", function () {
   $("#accordion-group-questions .usa-accordion__button").attr("aria-expanded", "true");

@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/acquisition/
 type: report2024
 title: "Governmentwide Findings: Acquisition and Procurement"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines acquisition and procurement practices and how they influence ICT accessibility outcomes across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Incorporating digital accessibility requirements into procurement processes and holding vendors accountable for meeting these requirements helps the government comply with Section 508 for all ICT it buys, builds, maintains or uses. **In general, while entities have made YOY improvements, they have not fully integrated Section 508 considerations in the acquisition phase, which may limit the positive downstream impacts on the accessibility of the ICT they procure and use.**
 
@@ -228,4 +230,3 @@ As findings show in [Compliance Key Findings]({{site.baseurl}}/manage/section-50
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

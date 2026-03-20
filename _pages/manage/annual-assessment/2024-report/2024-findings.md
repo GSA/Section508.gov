@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/summary/
 type: report2024
 title: "Governmentwide Findings: Findings Summary"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents governmentwide accessibility findings, including agency implementation, testing, and conformance outcomes.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Summary
 In the second year of the Assessment and 26 years since the Rehabilitation Act of 1973 was amended to include Section 508, **governmentwide Section 508 conformance remains low and without improvement in FY 2024**. There remains significant variation in conformance across government, with some respondents reporting full conformance of ICT, while others report little to no conformance. Although we have not yet observed a governmentwide improvement in ICT conformance, the **data indicates there have been investments in Section 508 programs over the past year** with some entities noting this was spurred by the FY 2023 Assessment or OMB's M-24-08. Entities acknowledged gaps that were apparent in the FY 2023 Assessment and reported using the Assessment and M-24-08 as a roadmap for improvement. More conformant ICT governmentwide will result as agencies:
@@ -125,4 +127,3 @@ Overall, across the federal government, the average digital accessibility confor
     </ol>
 </div>
 
-**Reviewed/Updated**: January 2025

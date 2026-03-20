@@ -56,5 +56,3 @@ Section 508 applies to public facing websites, [extranet]({{site.baseurl}}/tools
 * [Interagency Trusted Tester Program]({{site.baseurl}}/test/trusted-tester)  
 * <a href="https://ictbaseline.access-board.gov/web-baselines/" target="_blank" class="usa-link--external">The ICT Testing Baseline for Web</a>  
 * [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
-
-**Reviewed/Updated:** August 2025

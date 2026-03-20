@@ -1,12 +1,13 @@
 ---
-title: "GSA and the U.S. Access Board to Present at the CSUN Assistive Technology Conference"
 layout: wide_events
+title: "GSA and the U.S. Access Board to Present at the CSUN Assistive Technology Conference"
 start-date: 2024-03-19 #only fill in start date if the events spans multiple days
 end-date: 2024-03-21 #otherwise use end-date
-image:
-image-alt: 
 permalink: /event/csun-presentations-2024/
 description: Join GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board in Anaheim, California at the CSUN Assistive Technology Conference, March 19-22. Members of the GSA and Access Board will present five sessions during the four-day conference. We hope to see you there! 
+image:
+image-alt: 
+created: 2024-02-08
 ---
 The CSUN Assistive Technology Conference, also known as the CSUN Conference, is the ultimate community experience and the premier forum on technology for all persons with disabilities. For over 38 years, California State University, Northridge's Center on Disabilities has sponsored the conference, providing a platform for researchers, practitioners, educators, exhibitors and more from around the world, to engage with each other and share knowledge, innovations and best practices to promote access for all.
 

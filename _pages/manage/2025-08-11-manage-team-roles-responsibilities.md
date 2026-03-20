@@ -311,5 +311,3 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 * [How to Attain Section 508 Testing Expertise]({{site.baseurl}}/manage/roles/attain-section-508-testing-expertise/)
 * [Roles & Responsibilities]({{site.baseurl}}/manage/roles/)
 * [Section 508 Program Manager Competency Guide]({{ site.baseurl }}/manage/roles/section-508-pm-compentency-guide/)
-
-**Reviewed/Updated:** February 2026

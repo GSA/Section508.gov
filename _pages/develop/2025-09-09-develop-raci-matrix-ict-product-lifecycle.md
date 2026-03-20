@@ -162,4 +162,3 @@ A RACI matrix provides a clear framework to define and assign [roles and respons
   </tbody>
 </table>
 
-**Reviewed/Updated:** September 2025

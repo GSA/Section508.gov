@@ -164,5 +164,3 @@ Using this systematic approach ensures that accessibility is built into the prod
 * [ICT Product Lifecycle Overview]({{site.baseurl}}/develop/product-lifecycle-overview/)  
 * [Testing Lifecycle Overview]({{site.baseurl}}/test/testing-lifecycle-overview/)  
 * [Testing Methods Overview]({{site.baseurl}}/test/testing-overview/)
-
-**Reviewed/Updated:** January 2026

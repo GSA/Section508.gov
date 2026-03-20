@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/category-overview/
 type: report2023
 title: "Overall Performance Category Findings and Recommendations: Overview"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an overview of performance categories and related findings and recommendations.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 As discussed above, this Assessment groups reporting entities into categories that are a combination of their business function maturity and their operational conformance, with both ranging on 5-point Likert-like scales from Very Low to Very High. The combination of these two factors, each with 5-point scales, produces 25 individual overall performance categories where reporting entities fall based on their maturity and conformance responses. For instance, if a reporting entity’s responses produce a maturity index rating of 1.88 (Low) and an operational conformance index rating of 3.57 (High), then their overall performance category would be “Low Maturity - High Conformance.” We grouped reporting entities into overall categories based on their responses to the Assessment . Then, we conducted analysis for each overall performance category to determine group descriptive statistics (i.e., how many answered a question in a certain way) and maturity and conformance outcomes within the category . The sections below provide analysis highlights within each overall category as well as targeted recommendations that overwhelmingly apply to reporting entities within the category.
 
@@ -54,4 +56,3 @@ Below are the results from all 25 overall performance categories for this Assess
 * [Very High Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---high-conformance)
 * [Very High Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-high-conformance)
 
-**Reviewed/Updated**: December 2023

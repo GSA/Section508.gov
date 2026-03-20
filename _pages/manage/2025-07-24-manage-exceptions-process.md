@@ -861,5 +861,3 @@ Agencies that do not utilize such systems may opt for a forms-based approach, su
 * [Technology Accessibility Playbook - Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/)
 * [Track and Report Conformance]({{site.baseurl}}/manage/track-report-conformance/)
 * [Determine Section 508 Standards]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-
-**Reviewed/Updated:** July 2025

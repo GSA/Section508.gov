@@ -142,5 +142,3 @@ If ICT accessibility is not integrated at the architectural level, compliance be
 ## Related Resources:
 
 * <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_ea.pdf" target="_blank" class="usa-link--external">Common Approach to Federal Enterprise Architecture</a>
-
-**Reviewed/Updated:** September 2025

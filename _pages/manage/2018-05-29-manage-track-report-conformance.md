@@ -2,9 +2,10 @@
 layout: page
 sidenav: true
 permalink: manage/track-report-conformance/
+description: "Drive incremental improvement by measuring and reporting 508 conformance issues."
 type: manage
 title: 'Track and Report Conformance'
-created: 1527568792
+created: 2018-05-29
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -65,9 +66,6 @@ Suggestions to address these challenges include:
   * [Build Support for Accessible Content][5] - Follow the stages of content production to ensure your organization publishes accessible content.
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
-
-
-**Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions
  [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards

@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/legal/
+description: "Review policy guidance for legal functions to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Legal"
 created: December 10, 2023
@@ -66,4 +67,3 @@ The policy type Legal refers to policies that apply to compliance with federal l
     </a>
 </div>
 </div>
-

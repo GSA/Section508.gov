@@ -222,4 +222,3 @@ The governmentwide Section 508 conformance overall for the top-viewed ICT is low
     <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/tested-ict/"> < Previous</a>
 </div>
 
-**Reviewed/Updated**: March 2026

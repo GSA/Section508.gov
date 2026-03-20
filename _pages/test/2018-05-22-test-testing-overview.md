@@ -2,9 +2,9 @@
 layout: page
 sidenav: true
 permalink: test/testing-overview/
+description: "Learn about automated, manual, and hybrid testing methods used to evaluate Section 508 conformance and improve accessibility across digital content and ICT."
 type: test
 title: "Overview of Testing Methods for 508 Conformance"
-created: 1527010285
 topic: Testing (test)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
@@ -15,6 +15,7 @@ audience:
 - Content Creators (creator)
 resource-type: Process/How-to
 format: HTML (html)
+created: 2018-05-22
 ---
 
 There are several ways to validate conformance to the [Revised 508 Standards][1]: 
@@ -500,7 +501,6 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
   Accessibility Community of Practice, the U.S. Access Board, and the General
   Services Administration.
 </p>
-<p><strong>Reviewed/Updated: </strong>September 2023</p>
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: #Automated

@@ -79,7 +79,5 @@ To address these needs across the agency, the PM must be a champion for accessib
 ## Related Resources
   * [Section 508 Program Manager Competency Guide]({{ site.baseurl }}/manage/program-manager-responsibilities/)
 
-**Reviewed/Updated:** February 2026
-
  [1]: https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm
  [2]: {{site.baseurl}}/manage/laws-and-policies

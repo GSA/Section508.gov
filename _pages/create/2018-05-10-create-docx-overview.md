@@ -4,6 +4,9 @@ sidenav: true
 type: create
 title: 'Accessible Documents'
 permalink: create/documents/
+redirect_from:
+- create/documents/authoring-guides/
+- create/documents/#tips
 description: Learn how to create accessible Microsoft Word documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 topic: "Content creation (create)"
 sub-topic: "Documents"
@@ -16,9 +19,6 @@ format: "HTML (html)"
 created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
-redirect_from:
-- create/documents/authoring-guides/
-- create/documents/#tips
 ---
 Learn how to create accessible word processing documents&mdash;including Microsoft Word documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
@@ -111,5 +111,3 @@ The resources in this section were developed by federal agencies and shared here
   * Review <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM Alternative Text</a> for appropriate use of alternative text.
   * Review <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" target="_blank" class="usa-link--external">W3C's Alt Decision Tree</a> for guidance on how to describe images.
   * <a href="https://www.microsoft.com/en-us/accessibility/" target="_blank" class="usa-link--external">Microsoft Accessibility</a>
-
-**Reviewed/Updated:** August 2025

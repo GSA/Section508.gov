@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/how-508-standards-benefit-pwd/
+description: "Learn how Section 508 Standards improve access to digital tools, services, and workplace technology for people with disabilities in the federal government."
 type: manage
 title: 'How Section 508 Standards Benefit People with Disabilities'
 created: 2023-08-06
@@ -56,6 +57,3 @@ When Section 508 standards are implemented, people with disabilities have a more
 People with disabilities are vitally important to the federal workforce, yet continue to face barriers in their employment. Many federal agencies have committed to improving their implementation of Section 508 standards. However, many agencies still need to advance IT accessibility maturity to ensure people with disabilities have access to the tools and services needed to perform their jobs, professionally advance, pursue employment opportunities, and feel a sense of belonging in a culture committed to digital conformance.
 
 Whether you are an individual contributor or a leader in your agency, you have an opportunity to increase awareness of the challenges people with disabilities face, encourage your agency to review its conformance to Section 508 standards, and act as an ally to people with disabilities in your organization. If you are an acquisition professional, consider accessibility from the beginning of any agency [purchase]({{ site.baseurl }}/buy-sell/). If you are a developer, [create technology]({{ site.baseurl }}/develop/software-websites/) that conforms to Section 508 standards. If you are a designer, consider [universal design]({{site.baseurl}}/develop/universal-design/) principles and methodologies to help create products that are accessible for all users. If you are a tester, include [people with disabilities in usability testing]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/). If you are a content creator, ensure [content]({{ site.baseurl }}/create/) on your agency website meets Section 508 standards. Every person has the power to effect cultural change and hold agencies responsible to their missions of promoting accessibility in the federal workforce.
-
-**Reviewed/Updated:** February 2025
-

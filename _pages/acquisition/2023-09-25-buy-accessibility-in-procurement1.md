@@ -1,20 +1,21 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/accessibility-in-procurement-pre-solicitation-1/
 type: acquisition
 title: 'Accessibility In Procurement I: Pre-Soliciation'
-contributors: proctor, gsatts
+permalink: buy/accessibility-in-procurement-pre-solicitation-1/
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities. 
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+contributors: proctor, gsatts
 audience:
 - "Acquisition (acq)"
 - "Chief Acquisition Officer (cao)"
 - "Agency Senior Procurement Executive (spe)"
 - "Agency Senior Procurement Executive (spe)"
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2023-09-25
 ---
 
 ## Purpose
@@ -56,6 +57,3 @@ GSA also has the [Accessibility Requirements Tool (ART)]({{site.baseurl}}/buy/ac
 
 ### Sample Language for RFI:
 Please provide a copy of the most updated version of the appropriate Voluntary Procurement Accessibility Template (VPAT® (or similar Accessibility Conformance Report(s) (ACR))). In addition, please provide the contact information for an individual most qualified to speak to the accessibility of this product/service.
-
-**Reviewed/Updated**:  September 2023
-

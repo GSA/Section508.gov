@@ -132,5 +132,3 @@ In short, risk must be assessed, a remediation opportunity must be granted, and 
 * [Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement]({{site.baseurl}}/training/online-course/soliciting-and-evaluating-acrs/)  
 * [Technology Accessibility Playbook \- Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/)  
 * [Testing Lifecycle Overview]({{site.baseurl}}/test/testing-lifecycle-overview/)
-
-**Reviewed/Updated:** September 2025

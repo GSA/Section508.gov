@@ -1,12 +1,13 @@
 ---
-title: "Essential Strategies for Creating Accessible Social Media Content | Webinar"
 layout: wide_events
+title: "Essential Strategies for Creating Accessible Social Media Content | Webinar"
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-11-26 #otherwise use end-date
-image:
-image-alt: 
 permalink: /event/best-practices-webinar-nov2024/
 description: Presenters from the U.S. Access Board (USAB), National Park Service (NPS) and U.S. Fish and Wildlife (FWS) will present essential strategies for federal social media managers and communication professionals to ensure their content is accessible to all audiences.
+image:
+image-alt: 
+created: 2024-11-12
 ---
 Every day, millions of Americans use social media to engage with their favorite brands and influencers – including the federal government. Federal agencies have a crucial duty to engage the public effectively, share important information, and provide essential services to all Americans, including individuals with disabilities. Among other requirements, Section 508 of the Rehabilitation Act mandates that federal agencies ensure equal access to social media content, data, and platforms.
 

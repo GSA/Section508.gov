@@ -4,6 +4,7 @@ sidenav: true
 type: develop
 title: "Designing Digital Content For Users With Cognitive Disabilities"
 permalink: design/digital-content-users-with-cognitive-disabilities/
+description: "According to the Centers for Disease Control and Prevention (CDC), “more than 28.7% of adults in the United States have a disability” and 13.9% of U.S."
 topic: "Design (design)"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -69,5 +70,3 @@ Designing and developing ICT for users with cognitive disabilities is not just a
 review <a href="{{site.baseurl}}/develop/mapping-wcag-to-fpc/">Mapping of WCAG 2.0 to Functional Performance Criteria</a>.</li>
 <li>For more information on Universal Design, visit <a href="{{site.baseurl}}/develop/universal-design/">Universal Design and Accessibility</a>.</li>
 </ul>
-
-**Reviewed/Updated:** September 2024

@@ -83,4 +83,3 @@ Significant challenges remain due to fragmented policy structures and limited in
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/acquisition-and-procurement/"> Next > </a>
 </div>
 
-**Reviewed/Updated**: March 2026

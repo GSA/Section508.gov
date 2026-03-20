@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/resources-and-references/list-of-acronyms/
+description: "Review the acronyms used throughout the IT Accessibility Policy Framework and their meanings."
 type: manage
 title: "IT Accessibility Policy Framework - List of Acronyms"
 created: December 09, 2023
@@ -165,7 +166,6 @@ format: "HTML (html)"
     </a>
 </div>
 </div>
-
 
 
 

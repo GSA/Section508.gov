@@ -4,6 +4,7 @@ sidenav: true
 permalink: 'manage/section-508-assessment/2024/recommendations/'
 type: report2024
 title: "Recommendations"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents recommendations to Congress and federal agencies to strengthen ICT accessibility and Section 508 compliance.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -80,4 +81,3 @@ Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)
 
 **Invest in Human Capital, Culture, and Leadership Efforts:** For 141 entities, or approximately 58%, [either the accessibility performance metrics are unknown or there are no such metrics in leadership performance plans and no current intent to include them]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#section-508-competencies-leadership-and-management). **Agencies** should develop accessibility-related metrics to include in annual leadership performance plans. Increasing accountability may increase prioritization of digital accessibility, likely improving conformance of ICT. 
 
-**Reviewed/Updated**: January 2025

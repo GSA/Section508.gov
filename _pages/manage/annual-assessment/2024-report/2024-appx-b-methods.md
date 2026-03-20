@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/appendix-b-methods/
 type: report2024
 title: "Appendix B: Methods"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, documents the assessment methodology, data validation approach, and calculation methods used to evaluate agency responses.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Overview
 
@@ -374,4 +376,3 @@ The key metrics we used to evaluate the regressions were:
     </ol>
 </div>
 
-**Reviewed/Updated**: January 2025

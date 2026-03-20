@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: manage/laws-and-policies/far-update-comparison/
+description: "Review a side-by-side comparison of previous FAR text and the 2021 Section 508 update to understand how federal acquisition language changed to align with the Revised 508 Standards."
 type: manage
 title: 'Tabular Comparison of the Previous FAR Text Against the 2021 Update'
 created: September 22, 2020
@@ -439,5 +440,3 @@ format: HTML (html)
 <h2>For Further Information Contact:</h2>
 
 <p>Mr. Michael O. Jackson, a Procurement Analyst for GSA, at 202-208-4949, or by email at michaelo.jackson@gsa.gov for clarification of content. For information pertaining to status or publication schedules, contact the Regulatory Secretariat Division at 202-501-4755 or GSARegSec@gsa.gov. Please cite FAC 2021-07, FAR Case 2017-011.</p>
-
-<p><strong>Reviewed/Updated:</strong> September 2021</p>

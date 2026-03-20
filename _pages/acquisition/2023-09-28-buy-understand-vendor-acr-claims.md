@@ -1,20 +1,21 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/understand-claims/
 type: acquisition
 title: 'Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance'
-created: 2023-09-27
-topic: Acquisition/Buy (buy)
-sub-topic: VPAT/ACR Production & Eval
+permalink: buy/understand-claims/
+description: Learn how to interpret vendor Section 508 conformance claims in Accessibility Conformance Reports (ACR), including supports, partially supports, does not support, not applicable, and not evaluated.
 audience:
 - Acquisition (acq)
 - 508 Program Manager (508pm)
 - Contracting Officer’s Representative (cor)
 - Chief Acquisition Officer (cao)
 - Contracting Officer (cor)
+topic: Acquisition/Buy (buy)
+sub-topic: VPAT/ACR Production & Eval
 resource-type: Long form article
 format: HTML (html)
+created: 2023-09-27
 ---
 
 In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)]({{ site.baseurl }}/sell/acr/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's conformance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.
@@ -51,5 +52,3 @@ Understanding vendor claims in ACRs regarding Section 508 conformance is essenti
   * [Buy Accessible Products and Services]({{ site.baseurl }}/buy/)
   * [Accessibility Requirements Tool (ART)]({{ site.baseurl }}/art/)
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-  
-**Reviewed/Updated**: November 2024
