@@ -15,7 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 - "Public (public)"
 - "Content Creators (creator)"
-- "508 Prorgam Manager (508pm)"
+- "508 Program Manager (508pm)"
 - "Website Managers/Content Managers (wcm)"
 resource-type: "Process/How-to"
 format: "HTML (html)"

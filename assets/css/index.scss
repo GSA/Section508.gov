@@ -1955,7 +1955,26 @@ div[role=rowheader] {
 
 /* Library Card transitions */
 #library-cards li {
-  transition: opacity 0.5s ease, transform 0.5s ease;
+  transition: opacity 0.22s ease, transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+#library-cards li.library-card--is-hiding,
+#library-cards li.library-card--is-entering {
+  opacity: 0;
+  transform: scale(0.96);
+}
+
+#library-cards li.library-card--is-moving {
+  z-index: 1;
+}
+
+.library-card-description {
+  line-height: 1.5;
+}
+
+.library-card-description__toggle {
+  white-space: nowrap;
 }
 
 /* Hide checkbox */
@@ -1972,11 +1991,24 @@ div[role=rowheader] {
   display: inline-block!important;
   border: 1px solid #005ea2;
   border-radius: 0.25rem;
+  background-color: #ffffff;
+  transition: border-color 0.2s ease, background-color 0.2s ease, opacity 0.2s ease;
 }
 
 .filter-item:focus-within {
   border: .25rem solid #2491ff;
   border-radius: 0.25rem;
+}
+
+.filter-item--disabled {
+  border-color: #c9c9c9;
+  background-color: #f0f0f0;
+  opacity: 0.75;
+}
+
+.usa-checkbox__input--tile:disabled+[class*=__label] {
+  color: #757575;
+  cursor: not-allowed;
 }
 
 /* Content Library - remove default list styling */

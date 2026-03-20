@@ -24,6 +24,27 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
+  function normalizeDisplayText(value) {
+    return String(value || "")
+      .trim()
+      .replace(/&/g, " and ")
+      .replace(/\+/g, " and ")
+      .replace(/[_/]+/g, " ")
+      .replace(/[-–—]+/g, " ")
+      .replace(/[.,:;()[\]'"]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function toTitleCase(value) {
+    return normalizeDisplayText(value)
+      .toLowerCase()
+      .split(" ")
+      .filter(Boolean)
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(" ");
+  }
+
   function getFiltersFromURL() {
     const params = new URLSearchParams(window.location.search);
     const filters = {};
@@ -104,6 +125,11 @@ document.addEventListener("DOMContentLoaded", function () {
         const normalizedValues = normalizeFilterList(card.getAttribute(attr));
         card.setAttribute(attr, normalizedValues.join(","));
       });
+
+      const heading = card.querySelector("span[class*='usa-card__heading']");
+      if (heading) {
+        heading.textContent = toTitleCase(heading.textContent);
+      }
     });
   }
 
@@ -126,6 +152,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const noFiltersText = document.getElementById("no-filters");
   const resetButton = document.getElementById("reset-filters");
   const countSpan = document.getElementById("filter-count");
+  const cardFadeDuration = 220;
+  const cardReflowDuration = 700;
+  let hasInitializedCardLayout = false;
+  let cardAnimationCycle = 0;
 
   const filterAttributes = {
     topic: "data-topic",
@@ -193,30 +223,149 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  function getVisibleCards() {
+    return cards.filter(card => !card.classList.contains("display-none"));
+  }
+
+  function captureCardPositions(cardList) {
+    const positions = new Map();
+
+    cardList.forEach(card => {
+      positions.set(card, card.getBoundingClientRect());
+    });
+
+    return positions;
+  }
+
+  function animateCardReflow(previousPositions) {
+    getVisibleCards().forEach(card => {
+      const previousPosition = previousPositions.get(card);
+      if (!previousPosition) return;
+
+      const nextPosition = card.getBoundingClientRect();
+      const deltaX = previousPosition.left - nextPosition.left;
+      const deltaY = previousPosition.top - nextPosition.top;
+
+      if (!deltaX && !deltaY) return;
+
+      card.classList.add("library-card--is-moving");
+      card.style.transform = `translate(${deltaX}px, ${deltaY}px)`;
+
+      requestAnimationFrame(() => {
+        card.style.transform = "";
+      });
+
+      window.setTimeout(() => {
+        card.classList.remove("library-card--is-moving");
+      }, cardReflowDuration);
+    });
+  }
+
+  function setCardDescriptionExpanded(card, expanded) {
+    if (!card) return;
+
+    const truncated = card.querySelector(".library-card-description__truncated");
+    const full = card.querySelector(".library-card-description__full");
+    const expandLink = card.querySelector("[data-library-card-toggle='expand']");
+    const collapseLink = card.querySelector("[data-library-card-toggle='collapse']");
+
+    if (truncated && full) {
+      truncated.classList.toggle("display-none", expanded);
+      full.classList.toggle("display-none", !expanded);
+    }
+
+    if (expandLink) {
+      expandLink.setAttribute("aria-expanded", expanded ? "true" : "false");
+    }
+
+    if (collapseLink) {
+      collapseLink.setAttribute("aria-expanded", expanded ? "true" : "false");
+    }
+  }
+
   applyURLFilters();  // <-- load filters from URL
   updateFilterUI();   // then apply them visually
 
   function updateFilterUI() {
     const groupedFilters = getGroupedFilters();
+    const currentCycle = ++cardAnimationCycle;
+    const previousPositions = captureCardPositions(getVisibleCards());
+    const cardsToHide = [];
+    const cardsToShow = [];
+
     updateFilterPills(groupedFilters);
 
     cards.forEach(card => {
       const isMatch = matchesAllGroups(card, groupedFilters);
+      const isHidden = card.classList.contains("display-none");
+
+      if (card.hideTimer) {
+        window.clearTimeout(card.hideTimer);
+        card.hideTimer = null;
+      }
 
       if (isMatch) {
-        card.classList.remove("display-none");
-        card.style.opacity = "1";
-        card.style.transform = "scale(1)";
         card.style.pointerEvents = "auto";
+        card.classList.remove("library-card--is-hiding");
+
+        if (isHidden) {
+          cardsToShow.push(card);
+        }
       } else {
-        card.style.opacity = "0";
-        card.style.transform = "scale(0.95)";
         card.style.pointerEvents = "none";
-        setTimeout(() => card.classList.add("display-none"), 200);
+
+        if (!isHidden) {
+          cardsToHide.push(card);
+          card.classList.add("library-card--is-hiding");
+        }
       }
     });
 
-    setTimeout(updateCardCount, 210);
+    const revealMatchingCards = () => {
+      if (currentCycle !== cardAnimationCycle) return;
+
+      cardsToShow.forEach(card => {
+        card.classList.remove("display-none");
+        card.classList.add("library-card--is-entering");
+      });
+
+      animateCardReflow(previousPositions);
+
+      requestAnimationFrame(() => {
+        cardsToShow.forEach(card => {
+          card.classList.remove("library-card--is-entering");
+        });
+      });
+
+      updateCardCount();
+    };
+
+    if (!hasInitializedCardLayout) {
+      cards.forEach(card => {
+        const isMatch = matchesAllGroups(card, groupedFilters);
+        card.classList.toggle("display-none", !isMatch);
+        card.classList.remove("library-card--is-hiding", "library-card--is-entering", "library-card--is-moving");
+        card.style.transform = "";
+        card.style.pointerEvents = isMatch ? "auto" : "none";
+      });
+
+      updateCardCount();
+      hasInitializedCardLayout = true;
+    } else if (cardsToHide.length) {
+      cardsToHide.forEach(card => {
+        card.hideTimer = window.setTimeout(() => {
+          if (currentCycle !== cardAnimationCycle) return;
+          card.classList.add("display-none");
+          card.classList.remove("library-card--is-hiding");
+          card.hideTimer = null;
+        }, cardFadeDuration);
+      });
+
+      window.setTimeout(revealMatchingCards, cardFadeDuration);
+    } else {
+      revealMatchingCards();
+    }
+
     updateCheckboxStates(groupedFilters); // disable unavailable filters
     updateURLFromFilters(groupedFilters); // Update URL with current filters
   }
@@ -225,11 +374,13 @@ document.addEventListener("DOMContentLoaded", function () {
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
       const value = normalizeFilterValue(cb.dataset.filter);
+      const wrapper = cb.closest(".filter-item");
       if (!group || !value) return;
 
       // Always keep selected filters enabled
       if (cb.checked) {
         cb.disabled = false;
+        wrapper?.classList.remove("filter-item--disabled");
         return;
       }
 
@@ -242,6 +393,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       cb.disabled = !hasMatches;
+      wrapper?.classList.toggle("filter-item--disabled", cb.disabled);
     });
   }
 
@@ -285,6 +437,20 @@ document.addEventListener("DOMContentLoaded", function () {
         cb.checked = false;
       });
       updateFilterUI();
+    });
+  }
+
+  const cardsContainer = document.getElementById("library-cards");
+  if (cardsContainer) {
+    cardsContainer.addEventListener("click", function (e) {
+      const toggle = e.target.closest("[data-library-card-toggle]");
+      if (!toggle) return;
+
+      e.preventDefault();
+
+      const card = toggle.closest("#library-cards li");
+      const shouldExpand = toggle.dataset.libraryCardToggle === "expand";
+      setCardDescriptionExpanded(card, shouldExpand);
     });
   }
 

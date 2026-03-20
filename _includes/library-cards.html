@@ -85,14 +85,20 @@
     </div>
     <ul id="library-cards" class="usa-card-group">
         {% for page in pages_posts %}
-        {% if page.library-exclude %}
+        {% if page.exclude-library %}
         {% else %}
+            {% assign page_description = page.description | default: "" | strip_html | strip_newlines | strip %}
+            {% assign page_description_size = page_description | size %}
+            {% assign page_description_truncated = page_description | slice: 0, 60 %}
 
             {% comment %} !!! Assign each card filter and filter shorthand from topic, sub-topic, audience, resource type, and format !!! {% endcomment %}
         
-            {% assign topic_item = page.topic %}
+            {% assign topic_item = page.topic | default: "Other" %}
             {% assign topic_split_item = topic_item | split: " (" %}
             {% assign topic_filter = topic_split_item[0] %}
+            {% if topic_filter == nil or topic_filter == "" %}
+                {% assign topic_filter = "Other" %}
+            {% endif %}
             {% if topic_filter == "Other" %}
                 {% assign topic_fil = topic_filter | downcase %}
             {% else %}
@@ -136,6 +142,32 @@
                     <p class="font-sans-sm">
                         <a class="no-style" href="{{ site.baseurl }}/{{ page.permalink }}">{{ page.title }}</a>
                     </p>
+                    {% if page_description != "" %}
+                    <p class="font-sans-2xs library-card-description margin-top-1 margin-bottom-0">
+                        {% if page_description_size > 60 %}
+                        <span class="library-card-description__truncated">
+                            {{ page_description_truncated }}...
+                            <a
+                                class="library-card-description__toggle"
+                                href="#"
+                                data-library-card-toggle="expand"
+                                aria-expanded="false"
+                            >Show more</a>
+                        </span>
+                        <span class="library-card-description__full display-none">
+                            {{ page_description }}
+                            <a
+                                class="library-card-description__toggle"
+                                href="#"
+                                data-library-card-toggle="collapse"
+                                aria-expanded="true"
+                            >Show less</a>
+                        </span>
+                        {% else %}
+                        <span class="library-card-description__static">{{ page_description }}</span>
+                        {% endif %}
+                    </p>
+                    {% endif %}
                 </div>
             </div>
         </li>
