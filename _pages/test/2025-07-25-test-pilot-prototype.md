@@ -23,8 +23,7 @@ subtopic:
 - General Info and Best Practices
 - Software
 resource-type: 
-- article
-- process-how-to
+- Article
 format: html
 created: 2025-08-05
 ---

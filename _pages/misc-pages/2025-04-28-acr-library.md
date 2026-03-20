@@ -29,8 +29,7 @@ subtopic:
 - Other Accessibility Training or Tools
 - VPAT/ACR Production & Eval
 resource-type: 
-- article
-- tool
+- Article
 format: html
 created: 2025-04-28
 updated: 2026-03-19

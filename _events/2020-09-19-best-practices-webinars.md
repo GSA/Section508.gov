@@ -10,6 +10,7 @@ description: Section508.gov Event Announcement | The Section 508 Best Practices 
 topic: Events
 sub-topic: 
 - Webinar
+resource-type: Training
 image: #seals-logos/usab.jpg
 image-alt: 
 created: 2021-06-23

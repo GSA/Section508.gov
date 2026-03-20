@@ -11,7 +11,7 @@ audience:
 - "Federal employee (fedemp)"
 - "Content Creators (creator)"
 - "Designer (design)"
-resource-type: "Training"
+resource-type: Training
 format: "HTML (html)"
 created: 2018-05-10
 hide-date: true
