@@ -2,6 +2,7 @@
 sidenav: true
 layout: page
 permalink: manage/playbooks/exec-guide-accessibility/
+description: "Learn how federal executives can strengthen IT accessibility through leadership, governance, staffing, training, testing, procurement, and policy oversight."
 type: manage
 title: 'Executive Guide to Federal IT Accessibility'
 created: 2018-08-15
@@ -169,8 +170,6 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 ## Conclusion
 
 IT Accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff will understand their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. Visit [Section508.gov][5] and the [IT Accessibility/508 Program Manager Playbook][6] to learn more.
-
-**Reviewed/Updated:** March 2025
 
  [1]: {{site.baseurl}}/blog/benefits-accessible-design
  [2]: https://www.deque.com/accessible-design

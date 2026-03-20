@@ -1,13 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 type: report2023
 title: "Assessment Data & Downloads"
-created: 2023-12-29
-updated: 2025-01-16
+permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 redirect_from:
 - 2023-congressional-report-downloads/
+description: The FY 2023 Governmentwide Section 508 Assessment provides assessment data and downloads to support transparency into agency responses across key ICT accessibility measures.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -18,6 +17,8 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-12-29
+updated: 2025-01-16
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 2023 Governmentwide Section 508 Assessment below, which includes:
 
@@ -38,4 +39,3 @@ To enhance the transparency of this report and respondent data, we have made the
 * <a href="https://assets.section508.gov/assets/files/assessment/2023/Regression%20Results%20for%20FY23%20Governmentwide%20Section%20508%20Assessment.xlsx" target="_blank" class="usa-link--external">FY 2023 Regression Results (XLSX)</a>
 
 
-**Reviewed/Updated**: May 2025

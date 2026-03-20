@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: test/elements-of-an-accessibility-test-report/
 type: test
 title: 'Essential Elements of an Accessibility Test Report'
+permalink: test/elements-of-an-accessibility-test-report/
 description: Learn about essential elements an ICT accessibility test report should include in order to assist teams in identifying accessibility gaps and prioritizing remediation efforts.
-created: 2025-07-24
 contributors:
 topic: Testing (test)
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
@@ -17,6 +16,7 @@ audience:
 - Chief Information Officer (cio)
 resource-type: Long form article
 format: HTML (html)
+created: 2025-07-24
 ---
 
 A well crafted accessibility test report helps ensure compliance, improves accessibility and usability, reduces legal risk, and helps inform decision making prior to product deployment. Internally, it assists teams in identifying accessibility gaps and prioritizing remediation efforts. It enables developers and project managers to make informed decisions regarding user experience, the severity of Section 508 defects, and the potential user impact if the product is deployed. Furthermore, these reports offer valuable insights into common enterprise-wide defects, aiding in the development of plans to address them.
@@ -102,6 +102,3 @@ Formatting enhances readability and understanding of the test report. At a minim
 <li><a href="{{site.baseurl}}/test/testing-overview/">Overview of Testing Methods for 508 Conformance</a></li>  
 <li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes</a></li>  
 <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
-
-
-<strong>Reviewed/Updated:</strong> July 2025

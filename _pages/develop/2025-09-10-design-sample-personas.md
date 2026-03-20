@@ -26,7 +26,6 @@ format: "HTML (html)"
    flex-wrap: wrap; /* Stacks on smaller screens */
  }
 
-
  .thumbnail-card .usa-card__media {
    flex-shrink: 0;
    width: 80px;
@@ -34,14 +33,12 @@ format: "HTML (html)"
    overflow: hidden;
  }
 
-
  .thumbnail-card .usa-card__media img {
    width: auto;
    height: 100%;
    object-fit: cover;
    display: block;
  }
-
 
  /* Optional: Stack vertically on narrow screens */
  @media (max-width: 600px) {
@@ -77,18 +74,15 @@ To develop effective personas that reflect people with disabilities:
 4. **Balance specificity and breadth:** Create a range of personas that reflect diverse disabilities, assistive technologies, and levels of digital skill. 
 5. **Keep them human:** Include a name, photo (optional), background, and personal motivations to make the persona relatable.
 
-
 <ol class="usa-process-list">
  <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Start With Real User Research</h3>
    <p class="margin-top-05">
 Qualitative and quantitative research are useful in creating user personas. They help to understand groupings within a user base. Qualitative research can be used to create clusters or groupings of characteristics. Quantitative surveys can then be used to test groupings to see if the clusters behave similarly or need to be re-grouped. More about conducting User Research can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/">Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a>.</p></li>
 
-
 <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Include Functional Attributes</h3>
    <p class="margin-top-05">
-
 
 Functional attributes are aligned with <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external"> functional performance criteria as defined in Section 508</a>. Create attributes that group performance criteria by the products and services they use to interact with technologies. Functional performance criteria include:
 <br>
@@ -106,11 +100,9 @@ Functional attributes are aligned with <a href="https://www.access-board.gov/ict
 <br>
 Users who are without vision and those who have extremely limited vision may use the same product or service, such as a screen reader, to interact with technology. Those users may be grouped together but likely do not have similar experiences to people with limited or no hearing. On the other hand, someone who is using a wheelchair due to a broken leg may have similar functional needs to someone who is paralyzed from the waist down when interacting with technology such as a kiosk. This overlapping functional group could potentially be addressed in one persona. Clustering personas by their functional attributes can minimize the number of personas needed to understand the user experience.</p></li>
 
-
 <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Highlight Goals and Barriers</h3>
    <p class="margin-top-05">
-
 
 When developing personas, focus on user goals and objectives first.
 <br>
@@ -123,14 +115,11 @@ When developing personas, focus on user goals and objectives first.
 <br>
 These questions should be answered in each persona developed.</p></li>
 
-
 <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Balance Specificity and Breadth</h3>
    <p class="margin-top-05">
 
-
 When creating personas, consider both demographic and psychographic differences and vary these qualities.
-
 
 When possible, variations should include:
 <br>
@@ -151,21 +140,17 @@ When possible, variations should include:
 </p>
 </li>
 
-
 <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Keep Them Human</h3>
    <p class="margin-top-05">
 
-
 Developing a persona is much like creating a character for a book. Name them, describe their appearance or use a photo, provide an occupation or role, give them a place to live and a support system, and add other characteristics that will shape the experience that person has when they interact with the government. Remember that though the personas are semi-fictional, they are each composites of many users, built to better understand barriers and challenges that may be encountered by users when interacting with government technology.</p></li></ol>
-
 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>User Personas:</strong>
 <ul>
 <li>Help build understanding</li> 
 <li>Provide a broad view of the user’s life</li> 
 <li>Include longer narratives including context and Assistive Technology used</li></ul></p></div>
-
 
 ## Example Personas
 
@@ -239,7 +224,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li>Websites who don’t consider accessibility and who insist on using CAPTCHA tests.</li>  
 <li>Having to ask for help from sighted friends when using inaccessible websites.</li></ul>
 
-
 <strong>Quote</strong>: “Inaccessible content means I cannot independently engage with family and friends."  <br>
 <strong>Design Considerations</strong>:
 <ul>
@@ -247,7 +231,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li>Ensure alternative forms of CAPTCHA are provided, at a minimum, for users without vision and users without hearing. </li>
 <li>Ensure all interactive elements are keyboard accessible and in logical focus order. </li></ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -282,14 +265,12 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li>Trying to be more Tech Savvy but without access to anyone who really knows the answers to her questions. </li>
 <li>Having to ask for help from her husband or others when using inaccessible websites.</li></ul>
 
-
 <strong>Quote</strong>: “I just want to be able to magnify text so I can easily read content on my computer screen or tablet."  <br>
 <strong>Design Considerations</strong>:<br>
 <ul>
 <li>Ensure there is a mechanism to resize, scale, or zoom in on the content at least to 200% of original size without loss of content or functionality. </li>
 <li>Ensure that the reading order and meaning of the content (in context) is correct without the CSS position property.</li></ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -331,7 +312,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Ensure color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.</li></ul>
 </p></div></div></li></ul></div>
 
-
 <h3 class="usa-accordion__heading">
    <button
      type="button"
@@ -365,7 +345,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Video content with subtitles or captioning that are not always available.</li> 
 <li> Any audio content that often lacks captions or transcripts.</li></ul>
 
-
 <strong>Quote:</strong> “I miss important information communicated audibly in videos when I don't have access to captions." <br>
 <strong>Design Considerations:</strong>
 <ul>
@@ -373,7 +352,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Ensure captions are provided for all live audio content in synchronized media.</li> 
 <li> Ensure prerecorded audio-only provides an alternative for time-based media that presents equivalent information for prerecorded audio-only content.</li></ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -395,7 +373,6 @@ Developing a persona is much like creating a character for a book. Name them, de
      </div>
      <div class="usa-card__body">
 <p>
-
 
 <strong>Name:</strong> Apollo <br>
 <strong>Age:</strong> 71  <br>
@@ -422,7 +399,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 </ul>
 </p></div></div></li></ul></div>
 
-
 <h3 class="usa-accordion__heading">
    <button
      type="button"
@@ -444,7 +420,6 @@ Developing a persona is much like creating a character for a book. Name them, de
      <div class="usa-card__body">
 <p>
 
-
 <strong>Name:</strong> Alma  <br>
 <strong>Age:</strong> 44  <br>
 <strong>Occupation:</strong> Painter  <br>
@@ -458,7 +433,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Speech is required to make selections.</li>
 <li> Lack of text-based communication methods.</li></ul>
 
-
 <strong>Quote:</strong> “When someone requires me to speak to select a choice, it’s very challenging for me."  <br>
 <strong>Design Considerations:</strong>
 <ul>
@@ -466,7 +440,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Offer multiple options for communication methods for users where speech may be challenging. </li>
 </ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -503,13 +476,11 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Kiosks that use sensitive touchscreens without physical buttons</li>.
 </ul>
 
-
 <strong>Quotes:</strong> 
 <ul>
 <li> “I can work so much more efficiently if product developers ensured compatibility with commonly used assistive technology.”</li>
 <li> “Sensitive touchscreens require precision movement that I just don’t have at the moment."</li>
 </ul>
-
 
 <strong>Design Considerations:</strong>
 <ul>
@@ -519,7 +490,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> For ICT hardware, ensure operable parts include physical, tactile navigation options.</li>
 </ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -556,7 +526,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li> Physical accessibility of interactive ICT hardware, because using a wheelchair in some places can be difficult or impossible.</li>
 </ul>
 
-
 <strong>Quotes: </strong>
 <ul>
 <li> “I get so frustrated when voice recognition doesn't allow me to independently complete tasks because someone did not code the page for accessibility.” </li> 
@@ -570,7 +539,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li>Ensure hardware is stable and will not be knocked over by a wheelchair user.</li>
 </ul>
 </p></div></div></li></ul></div>
-
 
 <h3 class="usa-accordion__heading">
    <button
@@ -614,7 +582,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 </ul>
 </p></div></div></li></ul></div>
 
-
 <h3 class="usa-accordion__heading">
    <button
      type="button"
@@ -655,7 +622,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 </p></div></div></li></ul></div>
 </div>
 
-
 ## Related Resources
 
 * [Design and Develop]({{site.baseurl}}/develop/) 
@@ -663,5 +629,3 @@ Developing a persona is much like creating a character for a book. Name them, de
 * [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/) 
 * [Universal Design]({{site.baseurl}}/develop/universal-design/) 
 
-
-<strong>Reviewed/Updated:</strong> September 2025 

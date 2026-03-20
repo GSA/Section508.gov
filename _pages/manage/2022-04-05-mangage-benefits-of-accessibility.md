@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/benefits-of-accessibility/
+description: "Learn about the benefits of digital accessibility and the risks of inaccessible content, including improved access, better user experience, reduced rework, and lower legal risk."
 type: manage
 title: 'Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content'
 created: April 5, 2022
@@ -51,8 +52,3 @@ In addition to causing the opposite of the benefits mentioned above (i.e. increa
   * ***Challenges with Comprehension:*** A lack of accessibility hinders accurate learning for both humans and machines by limiting access to well structured data. 
 
 Use the resources on [Section508.gov]({{site.basurl}}) to review your digital assets and make sure they are accessible.
-
-  
-
-**Reviewed/Updated:** February 2025
-

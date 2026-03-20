@@ -4,7 +4,7 @@ sidenav: true
 permalink: test/color-contrast-in-nonweb-documents-images/
 type: test
 title: 'Testing Color Contrast in Non-Web Documents and Images'
-description: 
+description: Learn how to evaluate color contrast in non-web documents and images to improve readability and support Section 508 conformance.
 disclaimer: true
 contributors: 
 created: 2024-09-20
@@ -65,5 +65,3 @@ Software and desktop applications are also available to test color contrast. For
 To gather feedback on color contrast accessibility and user experience, a creator can utilize end-user feedback and real-world testing by engaging users with visual impairments or diverse abilities in usability testing. While this should not be the primary method of testing color contrast, this may provide valuable feedback on your digital content, templates, and themes used to ensure your content is easy to read and understand by everyone.
 
 Many other tools for testing color contrast can be found through a web search to meet your specific ICT product testing need, such as mobile applications. Please also see Section508.gov’s <a href="{{site.baseurl}}/create/">Create</a> and <a href="{{site.baseurl}}/develop/">Design and Develop</a> pages for further information.
-
-**Reviewed/Updated:** September 2024

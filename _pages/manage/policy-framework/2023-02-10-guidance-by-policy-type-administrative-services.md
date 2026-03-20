@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/administrative-services/
+description: "Review policy guidance for administrative services to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Administrative Services"
 created: December 10, 2023

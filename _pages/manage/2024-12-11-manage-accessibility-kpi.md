@@ -4,6 +4,7 @@ sidenav: true
 type: manage
 title: 'Organizational IT Accessibility Key Performance Indicators (KPI)'
 permalink: manage/accessibility-kpi/
+description: "Learn how to use organizational IT accessibility key performance indicators to measure progress, identify gaps, and improve digital accessibility across your agency."
 redirect_from:
 - kpi/
 - kpis/
@@ -575,6 +576,3 @@ Federal organizations can take advantage of KPIs below to track improvement over
     </tr>
 </tbody>
 </table>
-
-**Reviewed/Updated:** December 2024
-

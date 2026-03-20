@@ -1,18 +1,18 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: "Accessibility of ICT: An Overview for Government Executives"
-description: Discover executive responsibilities under Section 508. This free course explains leadership’s role in advancing accessible ICT across federal agencies.
 permalink: training/online-course/accessible-for-executives/
-topic: "Training (train)"
-sub-topic: "Presentations"
+description: Discover executive responsibilities under Section 508. This free course explains leadership’s role in advancing accessible ICT across federal agencies.
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
+topic: "Training (train)"
+sub-topic: "Presentations"
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
 created: 2024-10-15
@@ -122,4 +122,3 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: March 2025

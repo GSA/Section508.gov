@@ -3,11 +3,12 @@ layout: page
 sidenav: true
 type: report2024
 title: "Message from the GSA Administrator"
+title-alt: "FY 2024 Governmentwide Section 508 Assessment"
 permalink: manage/section-508-assessment/2024/message-from-gsa-administrator/
 redirect_from:
 - manage/section-508-assessment/2024/
 - 2024-congressional-report/
-description: Message from the GSA Administrator for the FY 2024 Governmentwide Section 508 Assessment, highlighting federal agency digital accessibility progress, compliance insights, and inclusive goals under Section 508 of the Rehabilitation Act.
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared and submitted by the General Services Administration to Congress in coordination with OMB and the U.S. Access Board, presents federal ICT accessibility findings, highlighting federal agency digital accessibility progress, compliance insights, and inclusive goals under Section 508 of the Rehabilitation Act.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -41,4 +42,3 @@ Respectfully submitted,
 Robin Carnahan  
 Administrator
 
-**Reviewed/Updated**: December 2024

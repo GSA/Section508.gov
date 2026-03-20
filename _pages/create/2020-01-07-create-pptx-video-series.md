@@ -2,9 +2,10 @@
 layout: page
 sidenav: true
 permalink: create/presentations/training-videos/
+description: "This series of videos explain and demonstrate the minimum steps needed to ensure your electronic presentation is accessible to people with disabilities."
 type: create
 title: 'Presentations Training Videos'
-created: 1578415169
+created: 2020-01-07
 topic: Content creation (create)
 sub-topic: Presentations
 audience:
@@ -183,7 +184,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC][2]
   * [How to Author and Test Microsoft Excel Worksheets for Accessibility][3]
 
-**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/create/documents/training-videos/
  [2]: {{site.baseurl}}/create/pdfs/training-videos/

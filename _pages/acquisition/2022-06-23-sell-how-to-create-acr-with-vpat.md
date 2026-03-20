@@ -1,21 +1,22 @@
 ---
 layout: page
 sidenav: true
-permalink: sell/how-to-create-acr-with-vpat/
 type: acquisition
 title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)'
-contributors: haileselassie, sirk, nasa
+permalink: sell/how-to-create-acr-with-vpat/
 description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
-topic: "Acquisition/Sell (sell)"
-sub-topic: "VPAT/ACR Production & Eval"
+contributors: haileselassie, sirk, nasa
 audience:
 - "Acquisition (acq)"
 - "508 Program Manager (508pm)"
 - "Agency Senior Procurement Executive (spe)"
 - "Chief Acquisition Officer (cao)"
 - "Information Technology Program and Project Managers (itpm)"
+topic: "Acquisition/Sell (sell)"
+sub-topic: "VPAT/ACR Production & Eval"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2022-06-23
 ---
 
 This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
@@ -285,12 +286,10 @@ Below is an example of what these three columns look like for the Revised Sectio
   </li>
 </ul>
 
-**Reviewed/Updated**:  August 2024
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.itic.org/policy/accessibility/vpat
- [3]: {{site.baseurl}}/sell
- [4]: {{site.baseurl}}/buy/request-accessibility-information
- [5]: {{site.baseurl}}/acquisition
- [6]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
+[2]: https://www.itic.org/policy/accessibility/vpat
+[3]: {{site.baseurl}}/sell
+[4]: {{site.baseurl}}/buy/request-accessibility-information
+[5]: {{site.baseurl}}/acquisition
+[6]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
  

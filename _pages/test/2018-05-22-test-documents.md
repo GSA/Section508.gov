@@ -3,10 +3,10 @@ layout: page
 sidenav: true
 permalink: test/documents/
 type: test
-description:  Discover Section 508 accessibility requirements for electronic documents like PDFs, Word, Excel, and PowerPoint, ensuring federal content is usable by all  
+description: Learn about Section 508 accessibility requirements for electronic documents, including PDFs, Word, Excel, and PowerPoint files used by federal agencies.
 disclaimer: true
 title: Electronic Documents Overview
-created: 1527027750
+created: 2018-05-22
 topic: "Testing (test)"
 sub-topic: "Documents"
 audience:
@@ -19,6 +19,7 @@ resource-type: "Process/How-to"
 updated: 2025-08-18
 format: "HTML (html)"
 ---
+
 Electronic documents like PDFs, editable document files (e.g., MS Word, Google Docs), spreadsheets, and presentations are frequently used for information and data sharing. Federal agencies are mandated by Section 508 of the Rehabilitation Act to ensure these documents are accessible to individuals with disabilities. Consequently, content authors must create electronic documents that are accessible to everyone.
 
 ## Definitions
@@ -75,7 +76,6 @@ Electronic documents include files created with common office software for conte
 * A federal contract or grant document or template in a Word file or spreadsheet  
 * Fact sheets and brochures (PDF) on federal agency program offerings
 
-
 Incorporate accessibility up-front and learn how to create accessible content and test it for conformance to Section 508.
 
   * [Documents][2]
@@ -91,10 +91,6 @@ Incorporate accessibility up-front and learn how to create accessible content an
   * <a href="https://ictbaseline.access-board.gov/document-baselines/" target="_blank" class="usa-link--external">ICT Testing Baseline for Electronic Documents</a>
   * [Test for Accessibility][9]
   * [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
-
-
-
-**Reviewed/Updated:** August 2025
 
  [2]: {{site.baseurl}}/create/documents/authoring-guides/
  [3]: {{site.baseurl}}/create/pdfs/authoring-guides/

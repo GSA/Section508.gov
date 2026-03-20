@@ -82,5 +82,3 @@ Typography is a wide and deep topic.  For more information about accessible font
 
 ## In conclusion
 Accessible fonts and typography are indispensable components of Section 508 compliance and digital inclusivity. By considering the guidelines and recommendations outlined here, content creators can ensure their digital content is accessible to all, fostering a more inclusive and equitable online environment.
-
-**Reviewed/Updated:** March 2026

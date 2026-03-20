@@ -590,4 +590,3 @@ Use the following table as you check your ICT for color accessibility.
 * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
 
-**Reviewed/Updated:** March 2026

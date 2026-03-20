@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/emergency-response/
+description: "Review policy guidance for emergency response to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Emergency Response"
 created: December 10, 2023
@@ -74,6 +75,5 @@ The policy type Emergency Response refers to policies that apply to planning, pe
     </a>
 </div>
 </div>
-
 
 

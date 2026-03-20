@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/background/
 type: report2024
 title: "Background"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides background on Section 508 requirements, federal ICT accessibility, and assessment context.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 <hr class="breaker-bar-green">
 Please refer to <a href="{{site.baseurl}}/manage/laws-and-policies/">Section508.gov's IT Accessibility Laws and Policy</a> for review of key legislative and executive actions that have advanced digital equity across the federal government over the past 50 years. Please refer to the <a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/">FY 2023 Assessment</a> for a review of federal initiatives and resources on ICT accessibility.
@@ -74,4 +76,3 @@ Since the publication of the FY 2023 Assessment in December 2023, the federal go
   <li>The Department of Health and Human Services (HHS) finalized <a href="https://www.federalregister.gov/documents/2024/05/09/2024-09237/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial" target="_blank" class="usa-link--external">Discrimination on the Basis of Disability in Health and Human Service Programs or Activities</a>, a rule that prohibits discrimination on the basis of a disability and includes a definition of what accessibility means for websites, kiosks, and mobile applications at HHS. It also requires compliance with WCAG 2.1 AA, aligning with the standards published by the DOJ under Title II of the Americans with Disabilities Act.</li>
 </ul>
 
-**Reviewed/Updated**: December 2024

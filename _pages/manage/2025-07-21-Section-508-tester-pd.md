@@ -274,5 +274,3 @@ Building a strong Section 508 program starts with having the right team in place
     </div>
   </div>
 </div>
-
-**Reviewed/Updated:** September 2025

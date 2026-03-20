@@ -150,5 +150,3 @@ Below is the social media policy for other platforms not currently used by the U
 * <a href="https://digital.gov/topics/accessibility/" target="_blank" class="usa-link--external">Digital.gov</a> houses various resources, articles, and blog posts on digital accessibility topics.
 * <a href="https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/" target="_blank" class="usa-link--external">Federal Social Media Accessibility Toolkit Hackpad</a>
 * <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds [bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).
-
-**Reviewed/Updated:** October 2024

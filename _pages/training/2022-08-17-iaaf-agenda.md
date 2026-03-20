@@ -1,22 +1,23 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/archives/agenda-2022/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
-created: 1600981839
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+permalink: iaaf/archives/agenda-2022/
+description: View the agenda for the 2022 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
+social_img: "assets/images/social-media-og-image-iaaf.jpg"
+social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 resource-type: "Training"
 format: "HTML (html)"
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
+created: 2020-09-24
 updated: 2025-05-06
 ---
 
@@ -197,4 +198,3 @@ updated: 2025-05-06
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>October 13, 2022</p>

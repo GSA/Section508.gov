@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/maturity-dimension/
 type: report2024
 title: "Governmentwide Findings: Maturity Dimension Key Findings"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes key findings by maturity dimension, including policy, acquisition, testing, and conformance.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Assessment Indices and Reporting Entity Scatter Plot
 This Assessment targets two key areas of analysis to determine performance with respect to digital accessibility: conformance and maturity. Organization maturity with respect to accessibility is also a key factor in success for agencies. This includes several elements, such as having correct accessibility policies and hiring practices, as well as setting up the entity's IT accessibility program. If an entity is not mature, it will likely not be able to easily meet its target accessibility goals and create lasting, repeatable accessibility conformance results.
@@ -432,4 +434,3 @@ The figure below demonstrates year over year (YOY) change:
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

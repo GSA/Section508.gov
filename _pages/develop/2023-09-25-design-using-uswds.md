@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: develop/accessible-design-using-uswds/
+description: "The U.S. Web Design System (USWDS) is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites."
 type: develop
 title: "Accessible Design Using the U.S. Web Design System (USWDS)"
 created: 2023-09-25
@@ -70,5 +71,3 @@ Users don’t need to understand the following concepts and tools to install the
 * [Implementations:](https://designsystem.digital.gov/documentation/implementations/) Implementations are how teams use USWDS in their projects, like in Drupal, as well as other platforms and frameworks. We’ll link to projects and community supported implementations.
 
 **Note: The information above was derived from introductory materials on the USWDS site. Explore [the USWDS site](https://designsystem.digital.gov/) for more information on how to get started and effectively employ this great design system.**
-
-**Reviewed/Updated:** June 2024

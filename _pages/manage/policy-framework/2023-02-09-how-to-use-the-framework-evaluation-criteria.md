@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/how-to-use-the-framework/evaluation-criteria/
+description: "Learn how to use the IT Accessibility Policy Framework evaluation criteria to assess the sufficiency and importance of ICT accessibility language in agency policies."
 type: manage
 title: "IT Accessibility Policy Framework - Evaluation Criteria"
 created: December 09, 2023
@@ -80,4 +81,3 @@ The <b>Importance</b> rating can be determined by interpreting and combining the
     </a>
 </div>
 </div>
-

@@ -1,16 +1,16 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/standards-exceptions/
 type: acquisition
 title: 'Section 508 Standards and Exceptions Chart & Examples'
+permalink: buy/standards-exceptions/
 description: Learn how Section 508 standards apply to federal IT acquisitions and when exceptions are allowed. Understand compliance requirements, exception types, and agency responsibilities.
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 audience:
 - "Acquisition (acq)"
 - "508 Program Manager (508pm)"
 - "Lawmakers and Policy Officials (law-policy)"
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 resource-type: "Template"
 format: "Document (docx)"
 created: 2018-05-29
@@ -443,9 +443,7 @@ The following examples show how to complete the chart for different ICT items.
 * [Determine Section 508 Standards and Exceptions][3]
 * [Request Accessibility Information from Vendors and Contractors][4] to learn more about standards and exceptions for ICT items.
 
-**Reviewed/Updated**: June 2025
-
- [1]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
- [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
- [3]: {{site.baseurl}}/buy/understanding-section-508-exceptions/
- [4]: {{site.baseurl}}/buy/request-accessibility-information
+[1]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
+[2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
+[3]: {{site.baseurl}}/buy/understanding-section-508-exceptions/
+[4]: {{site.baseurl}}/buy/request-accessibility-information

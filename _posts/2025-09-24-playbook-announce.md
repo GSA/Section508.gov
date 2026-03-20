@@ -76,4 +76,3 @@ Explore the Playbook today and begin implementing the plays that align with your
 
 Together, we can ensure that federal digital services are usable and accessible to all.
 
-**Reviewed/Updated:** September 2025

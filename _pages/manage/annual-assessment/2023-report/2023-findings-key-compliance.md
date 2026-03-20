@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/compliance-outcomes/
 type: report2023
 title: "Governmentwide Findings: Key Compliance Outcomes"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, highlights key compliance outcomes across agencies, including maturity and conformance results.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Key Compliance Outcomes
 It has been 37 years since the Rehabilitation Act Amendments added Section 508 and 25 years since the expanded Rehabilitation Act Amendments of 1998, and the federal government is overarchingly still procuring, developing, maintaining, and using non-conformant ICT. <strong>The government as a whole is not meeting the minimum standard or legal obligation to provide equal access to all members of the public and federal employees with disabilities.</strong>
@@ -388,4 +390,3 @@ this section as “maturity”) and the conformance index (referred to throughou
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

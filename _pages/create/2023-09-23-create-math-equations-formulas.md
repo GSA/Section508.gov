@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/accessible-equations-formulas/
+description: "Learn how to create more accessible equations and formulas using Unicode characters, equation tools, and practical guidance for Word, PDF, and InDesign."
 type: create
 title: Equations and Formulas
 contributors: smith-frances, usfs
@@ -13,6 +14,7 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2023-09-23
 ---
 
 It is quite common for those who work with equations and use screen reader technologies to get an error saying the equation does not read correctly. As creatures of habit, we are used to working with keyboard keys as mathematical components. However, there is a difference in using the key on your keyboard versus using a Unicode version of the mathematical component.
@@ -78,7 +80,6 @@ The process listed above is the same for working with formulas in inDesign, with
 
 Once converted to PDF, you edit the role mapping settings for the mapped styles and DELETE the reference for /Formula /P (which maps the style Formula to a P tag) and all instances of this style in the tags tree will revert to the tag. This process does not work well with Word-converted PDF documents.
 
-
 ## Above the Basic Equation
 
 Equations must meet the same expectations as text when it comes to Section 508 requirements. This includes equations used as examples, formulas with variables, scientific scenarios, and especially equations that do not read correctly with assistive technologies. So how can this be accomplished?
@@ -131,5 +132,3 @@ The following resources were used in the creation of this resource:
     <li><a href="https://unicode.org/charts/#symbols" target="_blank" class="usa-link--external">Unicode lists</a></li>
     <li><a href="https://www.nvaccess.org/download/" target="_blank" class="usa-link--external">NVDA (free screen reader software similar to JAWS)</a></li>
 </ul>
-
-**Reviewed/Updated:** September 2023

@@ -45,4 +45,3 @@ R. Buckminster Fuller said, "You can't change the way people think, all you can 
  
 Through metrics, like those in the annual assessments, we can work continuously to improve the quality of the products we buy, build and use, ensuring employees and members of the public with disabilities have access to information comparable to the access available to others.
 
-**Reviewed/Updated**: October 2023

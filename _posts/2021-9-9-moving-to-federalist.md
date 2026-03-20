@@ -57,5 +57,4 @@ You can expect several useful resources, such as frequently asked questions, a u
 
 We are excited to reveal the new Section508.gov and Accessibility Requirements Tool (ART) and are targeting mid- to late-September for the initial update release.
 
-**Reviewed/Updated:** September 2021
 

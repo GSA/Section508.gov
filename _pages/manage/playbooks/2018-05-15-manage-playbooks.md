@@ -48,4 +48,3 @@ A chatbot is a computer program or software solution that automates conversation
 In addition to evidence-based resources and recommendations, the Chatbot Accessibility Playbook provides checklists to address accessibility during the design and development process.
   * [Self-Assessment Checklist](https://mitre.github.io/chatbot-accessibility-playbook/docs/A_2.html) from the Chatbot Accessibility Playbook
 
-**Reviewed/Updated:** March 2025

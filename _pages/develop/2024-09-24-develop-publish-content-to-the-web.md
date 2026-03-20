@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/publish-to-web/
 type: develop 
 title: 'Considerations for Publishing a Page to the Web'
+permalink: develop/publish-to-web/
+description: "Web content managers have many considerations when it comes to publishing content to their domains."
 topic: "Development (dev)"
 sub-topic: "Content Creation Training or Tools"
 audience:
@@ -87,8 +88,3 @@ Below is a pre-publishing checklist web content managers should use before consi
 </ol>
 
 For additional resources and processes for publishing accessible content to the web, contact your organization’s Section 508 Program Manager for assistance.
-
-
-
-
-**Reviewed/Updated:** September 2024
