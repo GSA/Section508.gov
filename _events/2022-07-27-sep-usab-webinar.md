@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days (YYYY-MM-
 end-date: 2022-09-27 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/best-practices-webinar-sep2022/
 description: This session will discuss some common features, work processes, and evaluation and implementation actions of successful document accessibility programs.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2022-07-27

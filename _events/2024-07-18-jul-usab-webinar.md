@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-07-30 #otherwise use end-date
 permalink: /event/best-practices-webinar-jul2024/
 description: Presenters from the U.S. Access Board (USAB) and Library of Congress (LOC) will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2 as well as AAA requirements from WCAG 2.0.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2024-07-18

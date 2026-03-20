@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-05-28 #otherwise use end-date
 permalink: /event/best-practices-webinar-may2024/
 description: Presenters from the Federal Chief Information Officer (OFCIO) will present to promote awareness and understanding of Digital experience and Accessibility guidance, foster active support, encourage public-private collaboration, and drive government-wide accountability.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2024-04-17

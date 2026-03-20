@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-11-26 #otherwise use end-date
 permalink: /event/best-practices-webinar-nov2024/
 description: Presenters from the U.S. Access Board (USAB), National Park Service (NPS) and U.S. Fish and Wildlife (FWS) will present essential strategies for federal social media managers and communication professionals to ensure their content is accessible to all audiences.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2024-11-12

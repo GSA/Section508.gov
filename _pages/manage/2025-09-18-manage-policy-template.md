@@ -21,7 +21,7 @@ topic:
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Documents
-resource_type: 
+resource-type: 
 - article
 format: document
 created: 2025-09-18

@@ -17,7 +17,7 @@ topic:
 subtopic: 
 - Design, Develop, Testing for Accessibility Training or Tools
 - General Info and Best Practices
-resource_type: 
+resource-type: 
 - process-how-to
 format: html
 created: 2025-09-26

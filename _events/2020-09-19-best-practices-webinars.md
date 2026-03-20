@@ -6,7 +6,10 @@ event-type: recuring-event
 event-frequency: bimonthly (once every two months)
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2021-09-23 #otherwise use end-date (YYYY-MM-DD)
-description: Section508.gov Event Announcement | The Section 508 Best Practices Webinar is a bimonthly event addresses a variety of issues associated with ensuring federal agencies have the knowledge they need to meet their obligations under Section 508.  
+description: Section508.gov Event Announcement | The Section 508 Best Practices Webinar is a bimonthly event addresses a variety of issues associated with ensuring federal agencies have the knowledge they need to meet their obligations under Section 508.
+topic: Events
+sub-topic: 
+- Webinar
 image: #seals-logos/usab.jpg
 image-alt: 
 created: 2021-06-23

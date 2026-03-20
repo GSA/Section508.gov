@@ -13,7 +13,7 @@ topic:
 - manage
 subtopic: 
 - Manage a 508 Program
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-09-19

@@ -7,6 +7,17 @@ permalink: training/web-software/andi-training-videos/
 redirect_from:
 - test/web-software/andi-training-videos/
 description: Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Systems and Technology][1] (OAST), the Interagency Trusted Tester Program has created the following video series to explain and demonstrate how to use the Accessible Name & Description Inspector (ANDI) [testing tool][2] to inspect web pages for conformance with the Revised Section 508 Standards. The following video series is broken up into 18 parts, each aligned to a specific ANDI module.
+topic:
+- Develop
+- Testing
+- Testing (Manual)
+- Tools
+- Training
+sub-topic:
+- Best Practices
+- Testing
+- Tools
+- Websites
 created: 2020-10-05
 updated: 2025-01-07
 ---

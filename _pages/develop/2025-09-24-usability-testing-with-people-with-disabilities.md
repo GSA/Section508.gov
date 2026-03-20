@@ -15,7 +15,7 @@ topic:
 - test
 subtopic: 
 - Design, Develop, Testing for Accessibility Training or Tools
-resource_type: 
+resource-type: 
 - playbook
 format: html
 created: 2025-09-26

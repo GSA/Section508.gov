@@ -25,7 +25,7 @@ subtopic:
 - General Info and Best Practices
 - Manage a 508 Program
 - Manage Accessibility for IT Program/Project Managers
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-08-11

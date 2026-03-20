@@ -22,7 +22,7 @@ topic:
 subtopic: 
 - General Info and Best Practices
 - Software
-resource_type: 
+resource-type: 
 - article
 - process-how-to
 format: html

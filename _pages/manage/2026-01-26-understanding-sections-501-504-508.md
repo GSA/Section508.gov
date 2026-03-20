@@ -18,7 +18,7 @@ subtopic:
 - Accessibility Law & Policy
 - General Info and Best Practices
 - Manage a 508 Program
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2026-01-26

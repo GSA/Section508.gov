@@ -15,7 +15,7 @@ topic:
 - training
 subtopic: 
 - Manage a 508 Program
-resource_type: 
+resource-type: 
 - article
 format: html
 custom-script: accordion-management.js

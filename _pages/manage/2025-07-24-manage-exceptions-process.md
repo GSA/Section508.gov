@@ -22,7 +22,7 @@ subtopic:
 - Accessible Acquisition Info, Guidance & Best Practices
 - Forms
 - Manage a 508 Program
-resource_type: 
+resource-type: 
 - article
 - law-policy
 - template

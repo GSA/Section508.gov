@@ -5,6 +5,7 @@ start-date: 2020-10-21 #only fill in start date if the events spans multiple day
 end-date: 2020-10-23 #otherwise use end-date  (YYYY-MM-DD)
 permalink: /event/5th-annual-ict-accessibility-testing-symposium/
 description: The IT Accessibility Testing Symposium will continue the tradition of knowledge sharing and professional networking at our online annual symposium—connecting peers and sharing what works now and beyond.
+topic: Events
 image:
 image-alt: 
 created: 2020-10-21

@@ -7,6 +7,10 @@ image:
 image-alt: 
 permalink: /event/best-practices-webinar-nov2021/
 description: This year marks the 20th anniversary of the initial enforcement of the Section 508 Standards. This session will showcase the work of influential accessibility professionals who developed and implemented the original 508 Standards. During this session of the Section 508 Best Practices Webinar Series, invited speakers will highlight the impact the standards have had on the accessibility of information and communication technology in the United States and around the world.
+topic: Events
+sub-topic: 
+- Webinar
+created: 2021-11-09
 ---
 
 This year marks the 20th anniversary of the initial enforcement of the Section 508 Standards. This session will showcase the work of influential accessibility professionals who developed and implemented the original 508 Standards. The session will also highlight the impact the standards have had on the accessibility of information and communication technology in the United States and around the world.  

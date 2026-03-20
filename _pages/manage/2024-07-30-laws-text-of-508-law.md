@@ -4,10 +4,23 @@ layout: page
 type: manage
 title: 'Section 508 of the Rehabilitation Act, as amended'
 permalink: manage/laws-and-policies/section-508-law/
-description: Review the full text of Section 508 of the Rehabilitation Act and access federal guidance on digital accessibility requirements for government agencies.
 redirect_from:
 - section-508-law/
 - law/
+description: Review the full text of Section 508 of the Rehabilitation Act and access federal guidance on digital accessibility requirements for government agencies.
+audience: 
+- Section 508 Program Manager
+- Agency Head
+- Buyer
+topic: 
+- Buy
+- Create
+- Design
+- Law
+- Manage
+- Policy
+subtopic: 
+- Statute & Regulation
 created: 2024-07-30
 updated: 
 ---

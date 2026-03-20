@@ -15,7 +15,7 @@ audience:
 - Developers and Testers (dev-test)
 topic: Training (train)
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
-resource_type: Training
+resource-type: Training
 format: Video & Synchronized Media (video)
 created: 2020-10-05
 updated: 2026-03-03

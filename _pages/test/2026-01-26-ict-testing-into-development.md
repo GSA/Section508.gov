@@ -24,7 +24,7 @@ subtopic:
 - Design, Develop, Testing for Accessibility Training or Tools
 - Manage Accessibility for IT Program/Project Managers
 - Various Electronic Content (i.e. Multiple)
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2026-01-26

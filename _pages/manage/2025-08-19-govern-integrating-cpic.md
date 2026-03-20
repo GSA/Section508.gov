@@ -23,7 +23,7 @@ subtopic:
 - Accessible Acquisition Info, Guidance & Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-08-19

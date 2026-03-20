@@ -16,7 +16,7 @@ audience:
 - Public (public)
 topic: Training (train)
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
-resource_type: Training
+resource-type: Training
 format: Video & Synchronized Media (video)
 created: 2020-10-04
 updated: 2026-03-03

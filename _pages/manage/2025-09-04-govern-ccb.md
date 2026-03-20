@@ -19,7 +19,7 @@ subtopic:
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 - Accessibility Standards, Procedures, Guidance, Best Practices
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-09-04
