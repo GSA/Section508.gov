@@ -1,14 +1,110 @@
 document.addEventListener("DOMContentLoaded", function () {
+  function normalizeFilterValue(value) {
+    return String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/&/g, " and ")
+      .replace(/\+/g, " and ")
+      .replace(/[_/]+/g, " ")
+      .replace(/[-–—]+/g, " ")
+      .replace(/[.,:;()[\]'"]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .replace(/ /g, "-");
+  }
+
+  function normalizeFilterList(value) {
+    return Array.from(
+      new Set(
+        String(value || "")
+          .split(",")
+          .map(item => normalizeFilterValue(item))
+          .filter(Boolean)
+      )
+    );
+  }
+
   function getFiltersFromURL() {
     const params = new URLSearchParams(window.location.search);
     const filters = {};
 
     for (const [key, value] of params.entries()) {
       if (!filters[key]) filters[key] = [];
-      filters[key].push(value);
+      filters[key].push(normalizeFilterValue(value));
     }
 
     return filters;
+  }
+
+  let checkboxes = [];
+  let cards = [];
+  let pillItems = [];
+
+  function refreshElements() {
+    checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
+    cards = Array.from(document.querySelectorAll("#library-cards li"));
+    pillItems = Array.from(document.querySelectorAll("#active-filters-list li[data-filter]"));
+  }
+
+  function normalizeCheckboxes() {
+    const seenFilters = new Set();
+
+    checkboxes.forEach(cb => {
+      const group = cb.closest("fieldset")?.dataset.filterGroup;
+      const wrapper = cb.closest(".filter-item");
+      const label = wrapper?.querySelector("label");
+      const canonicalValue = normalizeFilterValue(cb.dataset.filter || cb.value || label?.textContent);
+
+      if (!group || !canonicalValue) {
+        wrapper?.remove();
+        return;
+      }
+
+      cb.dataset.filter = canonicalValue;
+      cb.value = canonicalValue;
+      cb.name = canonicalValue;
+
+      const key = `${group}:${canonicalValue}`;
+      if (seenFilters.has(key)) {
+        wrapper?.remove();
+        return;
+      }
+
+      seenFilters.add(key);
+    });
+  }
+
+  function normalizePills() {
+    const seenPills = new Set();
+
+    pillItems.forEach(pill => {
+      const group = pill.dataset.filterGroup;
+      const canonicalValue = normalizeFilterValue(pill.dataset.filter || pill.textContent);
+
+      if (!group || !canonicalValue) {
+        pill.remove();
+        return;
+      }
+
+      pill.dataset.filter = canonicalValue;
+
+      const key = `${group}:${canonicalValue}`;
+      if (seenPills.has(key)) {
+        pill.remove();
+        return;
+      }
+
+      seenPills.add(key);
+    });
+  }
+
+  function normalizeCards() {
+    cards.forEach(card => {
+      Object.values(filterAttributes).forEach(attr => {
+        const normalizedValues = normalizeFilterList(card.getAttribute(attr));
+        card.setAttribute(attr, normalizedValues.join(","));
+      });
+    });
   }
 
   function applyURLFilters() {
@@ -16,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
-      const value = cb.dataset.filter;
+      const value = normalizeFilterValue(cb.dataset.filter);
 
       if (group && value && urlFilters[group]?.includes(value)) {
         cb.checked = true;
@@ -26,8 +122,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  const checkboxes = document.querySelectorAll("#filter input[type='checkbox']");
-  const cards = document.querySelectorAll("#library-cards li");
   const pillContainer = document.getElementById("active-filters-list");
   const noFiltersText = document.getElementById("no-filters");
   const resetButton = document.getElementById("reset-filters");
@@ -41,6 +135,12 @@ document.addEventListener("DOMContentLoaded", function () {
     format: "data-format"
   };
 
+  refreshElements();
+  normalizeCheckboxes();
+  normalizePills();
+  normalizeCards();
+  refreshElements();
+
   // Group selected filters by their filter group
   function getGroupedFilters() {
     const groups = {};
@@ -48,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (cb.checked && cb.dataset.filter && cb.closest("fieldset")?.dataset.filterGroup) {
         const group = cb.closest("fieldset").dataset.filterGroup;
         if (!groups[group]) groups[group] = [];
-        groups[group].push(cb.dataset.filter);
+        groups[group].push(normalizeFilterValue(cb.dataset.filter));
       }
     });
     return groups;
@@ -58,8 +158,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const attr = filterAttributes[groupName];
     if (!attr) return true;
 
-    const cardAttrVal = card.getAttribute(attr) || "";
-    const cardValues = cardAttrVal.split(",").map(s => s.trim());
+    const cardValues = normalizeFilterList(card.getAttribute(attr));
     return groupValues.some(value => cardValues.includes(value));
   }
 
@@ -70,12 +169,16 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function updateFilterPills(groupedFilters) {
-    const activeValues = Object.values(groupedFilters).flat();
-    const pillItems = pillContainer.querySelectorAll("li[data-filter]");
+    const activeKeys = new Set(
+      Object.entries(groupedFilters).flatMap(([group, values]) =>
+        values.map(value => `${group}:${value}`)
+      )
+    );
     let anyVisible = false;
 
     pillItems.forEach(pill => {
-      const isActive = activeValues.includes(pill.dataset.filter);
+      const pillKey = `${pill.dataset.filterGroup}:${pill.dataset.filter}`;
+      const isActive = activeKeys.has(pillKey);
       pill.classList.toggle("display-none", !isActive);
       if (isActive) anyVisible = true;
     });
@@ -121,7 +224,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function updateCheckboxStates(groupedFilters) {
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
-      const value = cb.dataset.filter;
+      const value = normalizeFilterValue(cb.dataset.filter);
       if (!group || !value) return;
 
       // Always keep selected filters enabled
@@ -163,7 +266,10 @@ document.addEventListener("DOMContentLoaded", function () {
     if (pillLi) {
       e.preventDefault();
       const filterVal = pillLi.dataset.filter;
-      const checkbox = document.querySelector(`#filter input[data-filter='${filterVal}']`);
+      const filterGroup = pillLi.dataset.filterGroup;
+      const checkbox = document.querySelector(
+        `#filter fieldset[data-filter-group='${CSS.escape(filterGroup)}'] input[data-filter='${CSS.escape(filterVal)}']`
+      );
       if (checkbox) {
         checkbox.checked = false;
         updateFilterUI();
@@ -186,10 +292,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const params = new URLSearchParams();
 
     for (const [group, values] of Object.entries(groupedFilters)) {
-      values.forEach(value => params.append(group, value));
+      values.forEach(value => params.append(group, normalizeFilterValue(value)));
     }
 
-    const newURL = window.location.pathname + '?' + params.toString();
+    const queryString = params.toString();
+    const newURL = queryString ? `${window.location.pathname}?${queryString}` : window.location.pathname;
     history.replaceState(null, '', newURL); // don't reload
   }
 
