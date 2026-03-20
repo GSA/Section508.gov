@@ -39,6 +39,7 @@ exclude-changelog: false
   <div class="">
     <div class="usa-graphic-list">
       <form class="usa-form" action="#" method="post" novalidate="">
+        <p>All fields marked with an asterisk (*) are required.</p>
         <!-- TEXT INPUT -->
         <fieldset class="usa-fieldset">
         <legend class="usa-legend">Personal Information*</legend>
@@ -76,9 +77,7 @@ exclude-changelog: false
         </select>
         <!-- DATE PICKER -->
         <div class="usa-form-group margin-top-6">
-          <label class="usa-label text-bold" id="appointment-date-label" for="appointment-date"
-          >Appointment date</label
-          >
+          <label class="usa-label text-bold" id="appointment-date-label">Appointment date</label>
           <div class="usa-hint" id="appointment-date-hint">mm/dd/yyyy</div>
           <div class="usa-date-picker">
           <input
@@ -108,10 +107,10 @@ exclude-changelog: false
             <label class="usa-checkbox__label" for="topic-testing">Testing</label>
           </div>
         </fieldset>
-  <br />
+      <br>
       <!-- SUBMIT -->
-      </form>
       <button onclick="validateCheckboxes()" class="usa-button margin-top-6" type="submit">Submit</button>
+      </form>
     </div>
   </div>
 </div>
