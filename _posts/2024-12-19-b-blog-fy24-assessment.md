@@ -6,16 +6,16 @@ title: "General Services Administration's Latest Section 508 Assessment Highligh
 tags: Policy-and-Management
 created: 2024-12-19
 description: "The General Services Administration (GSA) recently released the FY24 Governmentwide Section 508 Assessment, continuing an effort mandated by Congress to evaluate the accessibility of federal agencies&#39; digital content and compliance with Section 508 of the Rehabilitation Act."
-topic: "Law (law)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Law"
+sub-topic: "Statute & Regulation"
 audience:
-- "Public (public)"
-- "Agency Head (head)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Agency Heads"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "Blog"
+format: "HTML"
 ---
 The General Services Administration (GSA) released the FY24 Governmentwide Section 508 Assessment on December 19, 2024, continuing an effort mandated by Congress &mdash; through the requirements in <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617/text" target="_blank" class="usa-link--external">Public Law No. 117-328</a> codified at <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 U.S.C. § 794d-1</a> &mdash; to evaluate the accessibility of federal agencies' digital content and compliance with Section 508 of the Rehabilitation Act. This annual report provides valuable insights regarding the ongoing efforts and accessibility-related improvements across federal agencies. The report also provides details on the accessibility of government websites, software, hardware and electronic content. This report helps Congress and agencies address gaps in information and communication technology (ICT) accessibility and work toward creating more accessible digital ICT for both public users and federal employees with disabilities.
 

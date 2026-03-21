@@ -7,20 +7,20 @@ permalink: manage/relationship-between-sections-508-504-and-501/
 description: Learn how Section 508 programs benefit from alliances with Section 501 and 504 programs to strengthen federal accessibility.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cio
-- eeo
-- hr-chco
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- Equal Employment Officers
+- Chief Human Capital Officers (CHCO)
 topic: 
-- manage
+- Manage
 subtopic: 
 - Accessibility Law & Policy
 - General Info and Best Practices
 - Manage a 508 Program
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2026-01-26
 updated: 
 exclude-changelog: 

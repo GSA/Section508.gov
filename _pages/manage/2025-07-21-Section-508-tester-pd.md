@@ -9,14 +9,14 @@ redirect_from:
 description: Example position description for a Section 508 Accessibility Tester.
 disclaimer: false
 contributors: 
-topic: "Manage (program)"
-sub-topic: "Testing for Accessibility Training or Tools"
+topic: "Manage"
+sub-topic: "Training"
 audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Developers"
 resource-type: "Template"
-format: "HTML (html)"
+format: "HTML"
 created: 2025-07-21
 updated: 2025-09-17
 ---

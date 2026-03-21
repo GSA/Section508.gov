@@ -5,16 +5,16 @@ type: report2025
 title: "Findings: Conformance of Top Viewed ICT"
 permalink: manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/top-viewed-ict/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes top-viewed ICT conformance, highlighting low accessibility rates, testing gaps, and common defects across agencies.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2026-03-02
 updated: 
 exclude-changelog: true

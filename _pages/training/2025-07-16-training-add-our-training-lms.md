@@ -6,14 +6,14 @@ title: "Add GSA’s Section 508 Training Courses to Your LMS"
 permalink: training/online-training/add-our-training-to-your-lms/
 description: "GSA offers no-cost, LMS-ready Section 508 training courses to federal agencies. Support accessibility compliance at your agency with these easy-to-deploy, SCORM-compliant modules."
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "hr-chco"
-- "agency-head"
-topic: "Training (train)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Chief Human Capital Officers (CHCO)"
+- "Agency Heads"
+topic: "Training"
 sub-topic: "Presentations"
-resource-type: Process/How-to
-format: HTML (html)
+resource-type: Process & How-To
+format: HTML
 created: 2025-07-16
 updated: 
 ---

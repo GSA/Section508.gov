@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/findings/category-overview/
 type: report2024
 title: "Category-level Findings and Recommendations: Overview"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an overview of category-level findings and recommendations across maturity categories.
-topic: Law (law)
-sub-topic: Reporting
+topic: Law
+sub-topic: Annual Assessment
 audience:
-- 508 Program Manager (508pm)
-- Agency Head (head)
-- Public (public)
-- Lawmakers and Policy Officials (law-policy)
-- Federal employee (fedemp)
-resource-type: White paper
-format: HTML (html)
+- Section 508 Program Managers
+- Agency Heads
+- Members of the Public
+- Policy and Law Makers
+- Federal Employees
+resource-type: White Paper
+format: HTML
 created: 2024-12-20
 ---
 As previously mentioned, categories are composed of the maturity and conformance index pairs, such as High Maturity High Conformance (High-High), Low Maturity High Conformance (Low-High), etc. In total, there are 25 categories that include all the combinations of the two scales that range from Very Low to Very High for both Maturity and Conformance as explained in the section discussing [Assessment Indices and Reporting Entity Scatter Plot]({{site.baseurl}}/manage/section-508-assessment/2024/findings/maturity-dimension/).

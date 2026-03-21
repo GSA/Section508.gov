@@ -6,15 +6,15 @@ title: 'Step 1: Inventory Your ICT'
 permalink: buy/inventory-your-ict/
 description: Guidance on conducting a comprehensive inventory of information and communication technology (ICT) — identifying software, hardware, content, documentation and services for Section 508 compliance.
 audience:
-- Acquisition (acq)
-- Contracting Officer’s Representative (cor)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-topic: Acquisition/Buy (buy)
-sub-topic: Accessible Acquisition Info, Guidance & Best Practices
-resource-type: Process/How-to
-format: HTML (html)
+- Buyers
+- Contracting Officers (CO & COR)
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+topic: Buy
+sub-topic: Guidance
+resource-type: Process & How-To
+format: HTML
 created: 2018-05-29
 ---
 

@@ -7,16 +7,16 @@ type: manage
 title: 'How Section 508 Standards Benefit People with Disabilities'
 created: 2023-08-06
 updated: 2025-02-03
-topic: "Manage (program)"
-sub-topic: "General Info and Best Practices"
+topic: "Manage"
+sub-topic: "Best Practices"
 audience:
-- "Manager/Exec (exec)"
-- "508 Program Manager (508pm)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Manager & Supervisor"
+- "Section 508 Program Managers"
+- "IT Program & Project Managers"
+- "Content Creators"
+- "Developers"
+resource-type: "Article"
+format: "HTML"
 ---
 Nearly half of the most popular federal websites (48%) failed a standard accessibility test on at least one of their three most frequently visited pages, according to a recent Information Technology and Innovation Foundation study.<sup>1</sup> While Section 508 of the Rehabilitation Act requires federal information and communication technology (ICT) be accessible, inaccessible ICT continues to prevent federal employees from doing their jobs and customers with disabilities from accessing government services.<sup>2</sup>
 

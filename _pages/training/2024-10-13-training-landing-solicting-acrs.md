@@ -6,12 +6,12 @@ title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal I
 permalink: training/online-course/soliciting-and-evaluating-acrs/
 description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Public (public)"
-topic: "Training (train)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Developers"
+- "Content Creators"
+- "Members of the Public"
+topic: "Training"
 sub-topic: "Presentations"
 resource-type: "Training"
 format: "HTML"

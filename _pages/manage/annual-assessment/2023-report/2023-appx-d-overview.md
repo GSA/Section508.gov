@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2023/appendix-d-overview/
 type: report2023
 title: "Appendix D: Overview Data By Reporting Entity"
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overview data by reporting entity to compare agency responses across key measures.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and component reporting entities followed by independent reporting entities<sup><a href="#fn39" id="fr39">39</a></sup>. Due to similarities of some reporting entity names, reporting entity acronyms used in this report may not reflect the initialism used by those reporting entities and altered solely to ensure data integrity during the collection, analysis, reporting and associated open data made available as part of this Assessment.

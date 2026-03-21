@@ -7,15 +7,15 @@ permalink: iaaf/archives/agenda-2025/
 description: View the agenda for the 2025 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 redirect_from: iaaf/agenda-2025/
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Events"
+sub-topic: "Guidance"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2025-05-05
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"

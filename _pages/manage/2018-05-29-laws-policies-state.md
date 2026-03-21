@@ -10,15 +10,15 @@ hide-date:
 created: 2018-05-29
 updated: 2025-02-25 
 audience:
-- Lawmakers and Policy Officials (law-policy)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- Manager/Exec (exec)
-topic: Law (law)
-sub-topic: Accessibility Law & Policy
-resource-type: Long form article
-format: HTML (html)
+- Policy and Law Makers
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+- Manager & Supervisor
+topic: Law
+sub-topic: Statute & Regulation
+resource-type: Article
+format: HTML
 ---
 <p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring information and communication technology (ICT) accessibility in addition to <a href="https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people" target="_blank" class="usa-link--external">rules introduced in 2024 by the Department of Justice under Title II of the Americans with Disabilities Act (ADA)</a> to strengthen web and mobile app access for people with disabilities. 

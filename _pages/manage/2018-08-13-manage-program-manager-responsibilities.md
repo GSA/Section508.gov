@@ -5,16 +5,16 @@ type: manage
 title: 'Section 508 Program Manager Responsibilities'
 permalink: manage/program-manager-responsibilities/
 description: Overview of Section 508 Program Manager responsibilities, skills, and stakeholders for managing federal compliance, reporting to Office of Management and Budget, and delivering accessible technology.
-topic: "Manage (program)"
-sub-topic: "Manage a 508 Program"
+topic: "Manage"
+sub-topic: "Manage a Section 508 Program"
 audience: 
-- "508 Program Manager (508pm)"
-- "Chief Information Officer (cio)"
-- "Agency Head (head)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Lawmakers and Policy Officials (law-policy)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Chief Information Officers (CIO)"
+- "Agency Heads"
+- "IT Program & Project Managers"
+- "Policy and Law Makers"
+resource-type: "Article"
+format: "HTML"
 created: 2018-08-13
 updated: 2026-03-02
 exclude-changelog: true

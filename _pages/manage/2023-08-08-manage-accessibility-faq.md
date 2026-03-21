@@ -5,16 +5,16 @@ type: manage
 title: "ICT Accessibility Frequently Asked Questions"
 permalink: manage/accessibility-faq/
 description: Find answers to common Section 508 and ICT accessibility questions, including standards, procurement requirements, ACRs, and how to create accessible digital content.
-topic: "Manage (program)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+topic: "Manage"
+sub-topic: "Guidance"
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Website Managers/Content Managers (wcm)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Content Creators (creator)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Web Content Managers"
+- "IT Program & Project Managers"
+- "Content Creators"
+resource-type: "Article"
+format: "HTML"
 created: 2023-08-08
 updated: 2024-03-01
 ---

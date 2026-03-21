@@ -7,20 +7,20 @@ permalink: develop/ba-section-508-task-matrix/
 description: This task list links Business Analyst responsibilities with Section 508 requirements, relevant tools, and Software Development Lifecycle (SDLC) activities.
 disclaimer:
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-topic: "Development (dev)"
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+topic: "Develop"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 custom-script: 
 - accordion-management.js
 created: 2025-09-09

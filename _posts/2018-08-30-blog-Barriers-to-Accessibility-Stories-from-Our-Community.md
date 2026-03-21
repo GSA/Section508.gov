@@ -7,13 +7,13 @@ description: A first-hand account of the consequences of inaccessibility.
 tags: Policy-and-Management
 created: 1535656948
 topic: "Other"
-sub-topic: "General Info and Best Practices"
+sub-topic: "Best Practices"
 audience:
-- "Public (public)"
-- "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Section 508 Program Managers"
+- "Federal Employees"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 <p style="font-family: verdana,arial,sans-serif;font-size: 14px;line-height: 1.42857143;color: #333333;margin-bottom:.0001pt; margin:0in 0in 10pt">

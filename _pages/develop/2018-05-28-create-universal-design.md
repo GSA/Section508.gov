@@ -7,16 +7,16 @@ permalink: develop/universal-design/
 redirect_from:
 - create/universal-design/
 description: Learn how federal agencies can adopt Universal Design and Accessibility principles—from strategy and procurement to implementation—to create ICT products usable by all, not just for compliance.
-topic: Development (dev)
-sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+topic: Develop
+sub-topic: Guidance
 audience:
-- Developers and Testers (dev-test)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- Content Creators (creator)
-resource-type: Long form article
-format: HTML (html)
+- Developers
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+- Content Creators
+resource-type: Article
+format: HTML
 created: 2018-05-22
 updated: 2025-08-12
 exclude-changelog: true

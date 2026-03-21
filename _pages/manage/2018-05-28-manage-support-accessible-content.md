@@ -5,14 +5,14 @@ type: manage
 title: 'Build Support for Accessible Content'
 permalink: manage/support-accessible-content/
 description: Discover guidance and strategies to support accessible content under Section 508, including tools, procedures, and best practices for federal digital accessibility.
-topic: "Manage (program)"
-sub-topic: "Manage Accessibility for IT Program/Project Managers"
+topic: "Manage"
+sub-topic: "Roles & Responsibilities"
 audience:
-- "508 Program Manager (508pm)"
-- "Manager/Exec (exec)"
-- "Information Technology Program and Project Managers (itpm)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Manager & Supervisor"
+- "IT Program & Project Managers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-28
 ---
 

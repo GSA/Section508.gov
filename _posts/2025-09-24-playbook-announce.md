@@ -4,7 +4,7 @@ type: article
 title: 'Technology Accessibility Playbook&mdash;A Practical Guide to Building an Effective Section 508 Program'
 description: The updated Technology Accessibility Playbook helps federal agencies build and sustain effective Section 508 programs to ensure ICT is accessible to all.
 topic:
-- Blog
+- Other
 sub-topic:
 - Best Practices
 - Guidance

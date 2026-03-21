@@ -12,14 +12,14 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
-sub-topic: "General Info and Best Practices"
+sub-topic: "Best Practices"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-- "Agency Head (head)"
-resource-type: "Tool (tool)"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+- "Agency Heads"
+resource-type: "Tool"
+format: "HTML"
 created: 2020-02-27
 updated: 2026-02-24
 ---

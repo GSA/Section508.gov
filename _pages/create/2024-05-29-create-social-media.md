@@ -7,19 +7,18 @@ description: Learn best practices for creating accessible social media content. 
 permalink: create/social-media/
 redirect_from:
 - social-media/
-description: 
 disclaimer: true
 contributors: usab
 social_img: 
 hide-date: 
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "Social Media"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2024-05-29
 updated: 2025-05-07
 ---

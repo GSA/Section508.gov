@@ -12,25 +12,25 @@ description: Explore our ACR Library for accessibility compliance reports on our
 disclaimer: 
 hide-date: 
 audience: 
-- 508-pm
-- buyer
-- buyer-senior-exec
-- co-cor
-- hr-chco
+- Section 508 Program Managers
+- Buyers
+- Executive Leadership (CXO)
+- Contracting Officers (CO & COR)
+- Chief Human Capital Officers (CHCO)
 topic: 
-- buy
-- create
-- manage
-- policy
-- sell
-- tools
+- Buy
+- Create
+- Manage
+- Policy
+- Sell
+- Tools
 subtopic: 
 - Accessible Selling Info, Guidance, & Best Practices
 - Other Accessibility Training or Tools
 - VPAT/ACR Production & Eval
 resource-type: 
 - Article
-format: html
+format: HTML
 created: 2025-04-28
 updated: 2026-03-19
 exclude-changelog: true

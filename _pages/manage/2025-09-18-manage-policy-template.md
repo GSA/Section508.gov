@@ -7,23 +7,23 @@ permalink: manage/section-508-policy-template/
 description: Use this Section 508 Policy Template to create agency-wide ICT accessibility policies, ensure compliance, and guide staff on accessibility responsibilities.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cao
-- cio
-- hr-chco
-- it-prog-proj-mgr
-- mgr-exec
-- policy-lawmaker
-- web-content-mgr
+- Section 508 Program Managers
+- Agency Heads
+- Chief Acquisition Officers (CAO)
+- Chief Information Officers (CIO)
+- Chief Human Capital Officers (CHCO)
+- IT Program & Project Managers
+- Manager & Supervisor
+- Policy and Law Makers
+- Web Content Managers
 topic: 
-- policy
+- Policy
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Documents
 resource-type: 
-- article
-format: document
+- Article
+format: Document (DOCX)
 created: 2025-09-18
 updated: 
 exclude-changelog: 

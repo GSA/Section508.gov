@@ -5,16 +5,16 @@ type: manage
 title: 'Teach Staff about Accessibility'
 permalink: manage/teach-staff-about-accessibility/
 description: Find Section 508 resources and strategies to teach staff about accessibility, including training methods, tools, and best practices to build inclusive digital skills.
-topic: Manage (program)
-sub-topic: Other Accessibility Training or Tools
+topic: Manage
+sub-topic: Training
 audience:
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Content Creators (creator)
-- Information Technology Program and Project Managers (itpm)
-- Manager/Exec (exec)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Federal Employees
+- Content Creators
+- IT Program & Project Managers
+- Manager & Supervisor
+resource-type: Article
+format: HTML
 created: 2018-05-28
 ---
 

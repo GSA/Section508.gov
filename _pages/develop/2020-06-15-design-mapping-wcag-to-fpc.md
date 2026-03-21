@@ -6,16 +6,16 @@ permalink: develop/mapping-wcag-to-fpc/
 redirect_from:
 - content/mapping-wcag-to-fpc/
 description: Learn how WCAG 2.0 Level A and AA success criteria correspond to Section 508’s Functional Performance Criteria (FPC), showing which disabilities each requirement supports.
-topic: "Law (law)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+topic: "Law"
+sub-topic: "Guidance"
 audience:
-- "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Federal Employees"
+- "IT Program & Project Managers"
+- "Content Creators"
+- "Developers"
+resource-type: "Process & How-To"
+format: "HTML"
 contributors: usab
 created: 2020-06-15
 updated: 2025-08-22

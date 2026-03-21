@@ -16,12 +16,12 @@ sub-topic:
 - Requirements & Acceptance Criteria
 - Tools
 audience:
-- Acquisition (acq)
-- Chief Acquisition Officer (cao)
-- Requiring Officials (ro)
-- Vendor (vendor)
-- Contracting Officer’s Representative (cor)
-resource-type: Tool (tool)
-format: HTML (html)
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Requirements & Business Analysts
+- Vendors
+- Contracting Officers (CO & COR)
+resource-type: Tool
+format: HTML
 created: 2023-11-28
 ---

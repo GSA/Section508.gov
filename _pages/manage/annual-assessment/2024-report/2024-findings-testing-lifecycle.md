@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/findings/testing-lifecycle/
 type: report2024
 title: "Governmentwide Findings: Accessibility Conformance Testing and Technology Lifecycle"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines ICT accessibility testing practices and how testing integrates into the technology lifecycle.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 ---
 The Assessment continued to ask questions about outcome-based results to determine whether policies, practices, and procedures were effectively leading to Section 508 conformant ICT. The average c-index value for all reporting entities was 1.74 out of 5, indicating a low level of compliance and highlights that policies, practices, and procedures are not yet resulting in more conformant ICT.

@@ -5,16 +5,16 @@ type: develop
 title: "Designing Digital Content For Users With Cognitive Disabilities"
 permalink: design/digital-content-users-with-cognitive-disabilities/
 description: "According to the Centers for Disease Control and Prevention (CDC), “more than 28.7% of adults in the United States have a disability” and 13.9% of U.S."
-topic: "Design (design)"
-sub-topic: "General Info and Best Practices"
+topic: "Design"
+sub-topic: "Best Practices"
 audience:
-- "Developers and Testers (dev-test)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Designer (design)"
-- "Content Creators (creator)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Developers"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Designers"
+- "Content Creators"
+resource-type: "Article"
+format: "HTML"
 created: 2024-09-11
 updated: 
 ---

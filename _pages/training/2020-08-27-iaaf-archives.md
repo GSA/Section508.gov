@@ -6,15 +6,15 @@ title: 'Interagency Accessibility Forum (IAAF) Archives'
 permalink: iaaf/archives/
 description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Events"
+sub-topic: "Guidance"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2020-08-27
 updated: 2024-06-01
 --- 

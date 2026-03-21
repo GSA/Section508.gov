@@ -9,20 +9,20 @@ contributors: dhs
 description: Learn about guidelines to help IT Project Teams understand the fundamental steps for obtaining Section 508 Subject Matter Expert (SME) approval during change control requests.
 disclaimer: 
 audience: 
-- 508-pm
-- mgr-exec
-- it-prog-proj-mgr
-- requirement-ba
+- Section 508 Program Managers
+- Manager & Supervisor
+- IT Program & Project Managers
+- Requirements & Business Analysts
 topic: 
-- policy
-- manage
+- Policy
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 - Accessibility Standards, Procedures, Guidance, Best Practices
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-09-04
 updated: 
 exclude-changelog: 

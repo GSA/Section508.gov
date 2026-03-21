@@ -9,9 +9,9 @@ redirect_from:
 - law/
 description: Review the full text of Section 508 of the Rehabilitation Act and access federal guidance on digital accessibility requirements for government agencies.
 audience: 
-- Section 508 Program Manager
-- Agency Head
-- Buyer
+- Section 508 Program Managers
+- Agency Heads
+- Buyers
 topic: 
 - Buy
 - Create

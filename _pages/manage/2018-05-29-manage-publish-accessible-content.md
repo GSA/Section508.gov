@@ -6,15 +6,15 @@ description: "These tips will help your agency publish content in an accessible 
 type: manage
 title: 'Publish Accessible Content'
 created: 2018-05-29
-topic: Manage (program)
-sub-topic: Manage a 508 Program
+topic: Manage
+sub-topic: Manage a Section 508 Program
 audience:
-- 508 Program Manager (508pm)
-- Website Managers/Content Managers (wcm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-resource-type: Process/How-to
-format: HTML (html)
+- Section 508 Program Managers
+- Web Content Managers
+- Federal Employees
+- IT Program & Project Managers
+resource-type: Process & How-To
+format: HTML
 ---
 
 These tips will help your agency publish content in an accessible way.

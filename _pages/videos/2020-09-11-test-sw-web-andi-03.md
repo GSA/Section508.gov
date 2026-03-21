@@ -9,15 +9,15 @@ redirect_from:
 description: In Module 3 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use ANDI’s Links/Buttons module to inspect interactive links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
 disclaimer: 
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Public (public)
-topic: Training (train)
+- Federal Employees
+- Section 508 Program Managers
+- Developers
+- Content Creators
+- Members of the Public
+topic: Training
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 created: 2020-10-05
 updated: 2026-03-03
 exclude-changelog: true

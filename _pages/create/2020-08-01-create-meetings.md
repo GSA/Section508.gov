@@ -8,14 +8,14 @@ redirect_from:
 - accessible-meetings/
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
 disclaimer: true
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2020-08-01
 updated: 2025-08-21
 exclude-changelog: true

@@ -9,16 +9,16 @@ created: 2018-08-15
 updated: 2025-03-05
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/
-topic: "Manage (program)"
-sub-topic: "Manage Accessibility for IT Program/Project Managers"
+topic: "Manage"
+sub-topic: "Roles & Responsibilities"
 audience:
-- "Agency Head (head)"
-- "Chief Information Officer (cio)"
-- "Chief Acquisition Officer (cao)"
-- "Manager/Exec (exec)"
-- "508 Program Manager (508pm)"
+- "Agency Heads"
+- "Chief Information Officers (CIO)"
+- "Chief Acquisition Officers (CAO)"
+- "Manager & Supervisor"
+- "Section 508 Program Managers"
 resource-type: "Playbook"
-format: "HTML (html)"
+format: "HTML"
 ---
 
 * <a href="#benefits">Benefits</a>

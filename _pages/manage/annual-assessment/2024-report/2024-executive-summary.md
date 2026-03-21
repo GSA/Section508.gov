@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/executive-summary/
 type: report2024
 title: "Executive Summary"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including key outcomes and recommendations.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 ---
 Building on insights from the [FY 2023 assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/), the FY 2024 Governmentwide Section 508 Assessment (referred to as the "Assessment") provides a deeper understanding of digital accessibility across the federal government. It evaluates the current state of Section 508 compliance and digital accessibility efforts, while also examining changes since the last reporting period. By introducing year-over-year (YOY) comparisons, this Assessment offers a more comprehensive view, enhancing transparency and accountability in federal digital accessibility efforts.

@@ -9,14 +9,14 @@ redirect_from:
 description: In Module 6 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI Structures module to verify that the page content contains logical heading levels and the heading levels are programmed accurately, and to provide descriptive headings for content structure.
 disclaimer: 
 audience:
-- federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-topic: Training (train)
+- Federal Employees
+- Web Content Managers
+- Content Creators
+- Developers
+topic: Training
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 created: 2020-10-05
 updated: 2026-03-03
 exclude-changelog: true

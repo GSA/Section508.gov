@@ -6,15 +6,15 @@ title: Understanding Section 508 Exceptions
 permalink: buy/understanding-section-508-exceptions/
 description: Understand when Section 508 exceptions apply to federal IT purchases. This guide explains types of exceptions, documentation tips, and how to ensure accessible alternatives are provided.
 audience: 
-- 508-pm
-- buyer
-- buyer-senior-exec
-- cao
-- co-cor
-- p-card
+- Section 508 Program Managers
+- Buyers
+- Executive Leadership (CXO)
+- Chief Acquisition Officers (CAO)
+- Contracting Officers (CO & COR)
+- Purchase Card Holders
 topic: 
-- buy
-- law
+- Buy
+- Law
 subtopic: 
 - Accessibility Law & Policy
 - Accessibility Standards, Procedures, Guidance, Best Practices
@@ -22,7 +22,7 @@ subtopic:
 - Acquisition Related Training or Tools(Buy/Sell)
 resource-type: 
 - Article
-format: html
+format: HTML
 created: 2025-06-11
 contributors: usab
 ---

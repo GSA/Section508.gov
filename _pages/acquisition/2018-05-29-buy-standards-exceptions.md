@@ -6,13 +6,13 @@ title: 'Section 508 Standards and Exceptions Chart & Examples'
 permalink: buy/standards-exceptions/
 description: Learn how Section 508 standards apply to federal IT acquisitions and when exceptions are allowed. Understand compliance requirements, exception types, and agency responsibilities.
 audience:
-- "Acquisition (acq)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+- "Buyers"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+topic: "Buy"
+sub-topic: "Guidance"
 resource-type: "Template"
-format: "Document (docx)"
+format: "Document (DOCX)"
 created: 2018-05-29
 updated: 2025-07-01
 exclude-changelog: true

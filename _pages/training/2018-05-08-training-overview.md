@@ -15,7 +15,7 @@ topic:
 sub-topic:
 - Online Training Courses
 - Training Videos Library
-- Events
+- Webinar
 - Tools 
 disclaimer: true
 created: 2018-05-08

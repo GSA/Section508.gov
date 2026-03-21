@@ -5,16 +5,16 @@ permalink: test/testing-overview/
 description: "Learn about automated, manual, and hybrid testing methods used to evaluate Section 508 conformance and improve accessibility across digital content and ICT."
 type: test
 title: "Overview of Testing Methods for 508 Conformance"
-topic: Testing (test)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+topic: Testing
+sub-topic: Training
 audience:
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- Content Creators (creator)
-resource-type: Process/How-to
-format: HTML (html)
+- Section 508 Program Managers
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Content Creators
+resource-type: Process & How-To
+format: HTML
 created: 2018-05-22
 ---
 

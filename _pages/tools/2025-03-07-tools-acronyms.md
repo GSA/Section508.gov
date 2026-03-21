@@ -10,22 +10,22 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-acronyms/
 description: "Discover commonly used acronyms in Section 508 guidance, technical assistance, and reporting, including those in Appendix A of the annual Governmentwide Section 508 Assessment to Congress. Stay informed on accessibility compliance terms."
 audience: 
-- 508-pm
-- agency-head
-- fed-emp
-- policy-lawmaker
-- public
+- Section 508 Program Managers
+- Agency Heads
+- Federal Employees
+- Policy and Law Makers
+- Members of the Public
 topic: 
-- create
-- law
-- policy
-- training
+- Create
+- Law
+- Policy
+- Training
 subtopic: 
 - Accessibility Law & Policy
 - Reporting
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-03-07
 updated: 2025-06-12
 ---

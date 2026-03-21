@@ -7,15 +7,15 @@ permalink: sell/acr-vpat-faq/
 description: Frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;) 
 contributors: haileselassie, sirk, nasa
 audience:
-- "Vendor (vendor)"
-- "Acquisition (acq)"
-- "Contracting Officer (cor)"
-- "Chief Acquisition Officer (cao)"
-- "Agency Senior Procurement Executive (spe)"
-topic: "Acquisition/Sell (sell)"
-sub-topic: "VPAT/ACR Production & Eval"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Vendors"
+- "Buyers"
+- "Contracting Officers (CO & COR)"
+- "Chief Acquisition Officers (CAO)"
+- "Executive Leadership (CXO)"
+topic: "Sell"
+sub-topic: "ACR Production & Evaluation"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2022-06-17
 ---
 

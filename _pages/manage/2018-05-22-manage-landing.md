@@ -7,16 +7,16 @@ description: Learn how to manage your ICT accessibility responsibilities and sup
 permalink: manage/
 redirect_from:
 - manage/deia-guidance/
-topic: "Manage (program)"
+topic: "Manage"
 sub-topic: "Manage a Section 508 Program"
 audience:
-- "508 Program Manager (508pm)"
-- "Chief Information Officer (cio)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Agency Head (head)"
-- "Lawmakers and Policy Officials (law-policy)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Chief Information Officers (CIO)"
+- "IT Program & Project Managers"
+- "Agency Heads"
+- "Policy and Law Makers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-22
 updated: 2025-09-23
 hide-date: true

@@ -19,16 +19,16 @@ redirect_from:
 - content/reporting/questions/
 - manage/reporting/section-508-program-maturity-reports/ #only one redirect for this page, as there is no legacy page
 description: Explore the Section 508 Program Maturity Report (PMR) page with archived reports showing how federal agencies have measured and reported Section 508 program performance.
-topic: Manage (program)
-sub-topic: Reporting
+topic: Manage
+sub-topic: Metrics & Reporting
 audience:
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Manager/Exec (exec)
-- Information Technology Program and Project Managers (itpm)
-- Lawmakers and Policy Officials (law-policy)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Federal Employees
+- Manager & Supervisor
+- IT Program & Project Managers
+- Policy and Law Makers
+resource-type: Article
+format: HTML
 created: 2018-05-25
 updated: 2025-01-16
 ---

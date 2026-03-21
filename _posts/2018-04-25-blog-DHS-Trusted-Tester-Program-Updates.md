@@ -6,13 +6,13 @@ title: 'DHS Trusted Tester Program Updates '
 created: 1524687889
 tags: Testing
 description: In April 2018, the Department of Homeland Security announced some updates coming to the Trusted Tester Program, to align with recent updates to the Revised 508 Standards.
-topic: "Training (train)"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+topic: "Training"
+sub-topic: "Training"
 audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-resource-type: "Law & Policy (law-policy)"
-format: "HTML (html)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+resource-type: "Law and Policy"
+format: "HTML"
 ---
 
 In April 2018, the Department of Homeland Security announced some updates coming to the [Trusted Tester Program][1], to align with recent updates to the [Revised 508 Standards][2].

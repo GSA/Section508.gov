@@ -9,14 +9,14 @@ redirect_from:
 description: In Module 5 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Structures module to inspect each visual heading on the page and validate that it is programmatically defined and to provide descriptive headings for sections of content.
 disclaimer: 
 audience:
-- Federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-topic: Training (train)
+- Federal Employees
+- Web Content Managers
+- Content Creators
+- Developers
+topic: Training
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 created: 2020-10-05
 updated: 2026-03-03
 exclude-changelog: true

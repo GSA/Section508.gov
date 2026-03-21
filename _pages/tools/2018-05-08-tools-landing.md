@@ -5,16 +5,16 @@ type: training
 permalink: tools/
 title: 'Section 508 Tools'
 description: "Find ICT acquisition and testing tools, view management playbooks, or find your agency’s Section 508 Program Manager."
-topic: Tools (tools)
-sub-topic: N/A
+topic: Tools
+sub-topic: Other
 audience:
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Federal employee (fedemp)
-resource-type: Tool (tool)
-format: HTML (html)
+- Section 508 Program Managers
+- IT Program & Project Managers
+- Developers
+- Content Creators
+- Federal Employees
+resource-type: Tool
+format: HTML
 created: 2018-05-22
 updated: 2023-11-28
 hide-date: true #dates on landing pages are hidden

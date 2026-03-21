@@ -7,17 +7,17 @@ permalink: develop/usability-testing-with-people-with-disabilities/
 description: Guidance for planning and conducting usability and qualitative research with people with disabilities, including best practices for recruitment, accessible research processes, budgeting, scheduling, and scripting to ensure inclusive ICT design and development.
 disclaimer: 
 audience: 
-- 508-pm
-- designer
-- dev-tester
-- it-prog-proj-mgr
+- Section 508 Program Managers
+- Designers
+- Developers
+- IT Program & Project Managers
 topic: 
-- test
+- Testing
 subtopic: 
 - Design, Develop, Testing for Accessibility Training or Tools
 resource-type: 
-- playbook
-format: html
+- Playbook
+format: HTML
 created: 2025-09-26
 updated: 
 exclude-changelog: 

@@ -10,22 +10,22 @@ redirect_from:
 description: Learn how to integrate Section 508 accessibility into Capital Planning and Investment Control (CPIC) to reduce risk, cost, and compliance issues.
 disclaimer: 
 audience: 
-- 508-pm
-- buyer
-- buyer-senior-exec
-- cao
-- it-prog-proj-mgr
-- requirement-ba
+- Section 508 Program Managers
+- Buyers
+- Executive Leadership (CXO)
+- Chief Acquisition Officers (CAO)
+- IT Program & Project Managers
+- Requirements & Business Analysts
 topic: 
-- buy
-- policy
+- Buy
+- Policy
 subtopic: 
 - Accessible Acquisition Info, Guidance & Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-08-19
 updated: 
 exclude-changelog: 

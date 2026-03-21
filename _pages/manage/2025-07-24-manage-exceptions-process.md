@@ -7,24 +7,24 @@ permalink: manage/exceptions-request-and-approval-process/
 description: Explore ways that federal agencies can request, approve, and document Section 508 exceptions while ensuring ICT accessibility compliance.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cao
-- cio
-- co-cor
-- mgr-exec
-- policy-lawmaker
+- Section 508 Program Managers
+- Agency Heads
+- Chief Acquisition Officers (CAO)
+- Chief Information Officers (CIO)
+- Contracting Officers (CO & COR)
+- Manager & Supervisor
+- Policy and Law Makers
 topic: 
-- buy
-- policy
+- Buy
+- Policy
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Accessible Acquisition Info, Guidance & Best Practices
 - Forms
 - Manage a 508 Program
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-07-24
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 

@@ -6,13 +6,13 @@ title: 'A Digital Accessibility Catalyst for Your Next Policy Refresh: Introduci
 created: May 18, 2023
 tags: Policy-and-Management
 description: The GSA Government-wide IT Accessibility Program publishes the IT Accessibility Policy Framework; guidance on how to ensure your policies include the correct accessibility information. The Framework allows IT accessibility professionals to assess agency policies for thier importance to IT Accessibility and the sufficiency of IT accessibility information. Combined, these two factors provide users with the ability to prioritize which documents they should remediate and in which order.
-topic: "Policy (policy)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Policy"
+sub-topic: "Statute & Regulation"
 audience:
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 All too often, digital accessibility is not top of mind for the agency policymakers and IT executives who guide federal IT modernization efforts. Consequently, many internal agency policies require updates to align with Section 508 statutory and regulatory requirements. To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the [IT Accessibility Policy Framework]({{ site.baseurl }}/manage/policy-framework/introduction/).

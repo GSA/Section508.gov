@@ -8,15 +8,15 @@ title: 'Checklist for Accessible Email Messages'
 contributors: fhwa
 created: 2024-09-10
 updated: 
-topic: "Testing (test)"
+topic: "Testing"
 sub-topic: "Email"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 Documents, including email messages, that are public facing or [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications) must comply with Section 508 Standards to ensure all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 

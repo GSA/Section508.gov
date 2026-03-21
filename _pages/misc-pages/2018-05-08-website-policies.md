@@ -7,14 +7,14 @@ permalink: website-policies/
 redirect_from: 
 - copyright/
 description: Explore Section508.gov website policies, including accessibility, privacy, security, and terms of use, to ensure safe and compliant site interactions.
-topic: About the program/site (about)
-sub-topic: General Info and Best Practices
+topic: About
+sub-topic: Best Practices
 audience:
-- Public (public)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-resource-type: Long form article
-format: HTML (html)
+- Members of the Public
+- Section 508 Program Managers
+- Federal Employees
+resource-type: Article
+format: HTML
 created: 2018-05-08
 ---
 

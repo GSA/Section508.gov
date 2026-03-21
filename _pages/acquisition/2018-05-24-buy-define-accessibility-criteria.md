@@ -6,12 +6,12 @@ title: 'Define Accessibility Criteria in Contracts'
 permalink: buy/define-accessibility-criteria/
 description: Learn how to define accessibility criteria in federal contracts to ensure ICT meets Section 508 requirements, with sample language and procurement guidance.
 audience:
-- "508 Program Manager (508pm)"
-- "Contracting Officer’s Representative (cor)"
-topic: "Acquisition/Buy (buy)"
-sub-topic: "New Contracting (RFP, RFI, etc.)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Contracting Officers (CO & COR)"
+topic: "Buy"
+sub-topic: "Solicitation Development"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-24
 ---
 

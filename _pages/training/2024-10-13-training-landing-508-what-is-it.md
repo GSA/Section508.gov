@@ -6,15 +6,15 @@ title: "Section 508: What Is It and Why Is It Important?"
 permalink: training/online-course/section-508-what-is-it/
 description: New to Section 508 accessibility? Learn what it is, why it matters, and how it ensures accessible information and communication technology (ICT) for federal employees and the public.
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Public (public)"
-topic: "Training (train)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Developers"
+- "Content Creators"
+- "Members of the Public"
+topic: "Training"
 sub-topic: "Presentations"
 resource-type: "Training"
-format: "Video & Synchronized Media (video)"
+format: "Video"
 created: 2024-10-15
 updated: 2025-03-19
 ---

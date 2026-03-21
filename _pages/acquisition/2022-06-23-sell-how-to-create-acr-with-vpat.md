@@ -7,15 +7,15 @@ permalink: sell/how-to-create-acr-with-vpat/
 description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
 contributors: haileselassie, sirk, nasa
 audience:
-- "Acquisition (acq)"
-- "508 Program Manager (508pm)"
-- "Agency Senior Procurement Executive (spe)"
-- "Chief Acquisition Officer (cao)"
-- "Information Technology Program and Project Managers (itpm)"
-topic: "Acquisition/Sell (sell)"
-sub-topic: "VPAT/ACR Production & Eval"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Buyers"
+- "Section 508 Program Managers"
+- "Executive Leadership (CXO)"
+- "Chief Acquisition Officers (CAO)"
+- "IT Program & Project Managers"
+topic: "Sell"
+sub-topic: "ACR Production & Evaluation"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2022-06-23
 ---
 

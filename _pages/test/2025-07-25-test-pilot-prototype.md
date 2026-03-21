@@ -7,24 +7,24 @@ permalink: test/conformance-of-prototypes-and-pilots/
 description: Learn the difference between prototypes and pilots in ICT development—and how accessibility and Section 508 testing applies at every stage.
 disclaimer: true
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- dev-tester
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-- web-content-mgr
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- Developers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+- Web Content Managers
 topic: 
-- design
-- dev
+- Design
+- Develop
 subtopic: 
 - General Info and Best Practices
 - Software
 resource-type: 
 - Article
-format: html
+format: HTML
 created: 2025-08-05
 ---
 When developing new information and communication technology (ICT) products, it's common to encounter terms like prototype and pilot. While both are part of the product design and development lifecycle, they serve distinctly different purposes---especially when it comes to accessibility and Section 508 conformance.

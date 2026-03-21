@@ -5,16 +5,16 @@ type: manage
 title: 'IT Accessibility Roles and Responsibilities'
 permalink: manage/roles/
 description: Explore the clearly defined roles and responsibilities—from agency officials to content creators and program managers—that federal agencies must follow to effectively govern and ensure compliance with Section 508 accessibility requirements.
-topic: Manage (program)
-sub-topic: Manage a 508 Program
+topic: Manage
+sub-topic: Manage a Section 508 Program
 audience:
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-- Manager/Exec (exec)
-- Federal employee (fedemp)
-- Lawmakers and Policy Officials (law-policy)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Federal Employees
+- Policy and Law Makers
+resource-type: Article
+format: HTML
 created: 2025-05-28
 updated: 2026-03-02
 exclude-changelog: true

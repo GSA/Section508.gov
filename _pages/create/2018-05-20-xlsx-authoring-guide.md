@@ -5,16 +5,16 @@ type: create
 title: 'Spreadsheets Authoring Guides'
 permalink: create/spreadsheets/authoring-guides/
 description: Explore Section 508 spreadsheet authoring guides with practical tips and best practices to help you create accessible, compliant tables and data files.
-topic: Content creation (create)
+topic: Create
 sub-topic: Spreadsheets
 audience:
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-- Federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-resource-type: Process/How-to
-format: Document (docx)
+- Content Creators
+- Developers
+- Federal Employees
+- Section 508 Program Managers
+- IT Program & Project Managers
+resource-type: Process & How-To
+format: Document (DOCX)
 created: 2018-05-20
 ---
 

@@ -7,24 +7,24 @@ permalink: manage/governance/including-section-508-in-fitara/
 description: Learn how integrating Section 508 compliance into FITARA oversight strengthens federal IT acquisition and management. Embed accessibility into portfolio reviews, acquisitions, investment scorecards, and governance to improve accountability, reduce waste, and deliver accessible technology that supports mission success.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- buyer
-- buyer-senior-exec
-- cio
-- mgr-exec
-- vendor
+- Section 508 Program Managers
+- Agency Heads
+- Buyers
+- Executive Leadership (CXO)
+- Chief Information Officers (CIO)
+- Manager & Supervisor
+- Vendors
 topic: 
-- buy
-- law
+- Buy
+- Law
 subtopic: 
 - Accessible Acquisition Info, Guidance & Best Practices
 - Accessible Selling Info, Guidance, & Best Practices
 - Acquisition Related Training or Tools(Buy/Sell)
 - Procuring federal shared services
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-09-18
 updated: 
 exclude-changelog:

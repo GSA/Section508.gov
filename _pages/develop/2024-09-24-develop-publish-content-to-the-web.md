@@ -5,16 +5,16 @@ type: develop
 title: 'Considerations for Publishing a Page to the Web'
 permalink: develop/publish-to-web/
 description: "Web content managers have many considerations when it comes to publishing content to their domains."
-topic: "Development (dev)"
-sub-topic: "Content Creation Training or Tools"
+topic: "Develop"
+sub-topic: "Training"
 audience:
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Website Managers/Content Managers (wcm)"
-- "Federal employee (fedemp)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Developers"
+- "Content Creators"
+- "Web Content Managers"
+- "Federal Employees"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2024-09-24
 ---
 Web content managers have many considerations when it comes to publishing content to their domains. First, there are a few action items to consider before readying the content to post. We have included these actions in the pre-publishing checklist below. Some of the actions should be done sequentially, while others can be done independently. However, all items from the pre-publishing checklist should be completed prior to publishing.

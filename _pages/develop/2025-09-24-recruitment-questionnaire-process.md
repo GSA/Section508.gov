@@ -6,20 +6,20 @@ title: Developing a User Research Recruitment Questionnaire
 description: Guidance on developing a user research recruitment questionnaire to ensure inclusive participation and accessibility in ICT testing.
 permalink: develop/recruitment-questionnaire-process/
 audience: 
-- 508-pm
-- dev-tester
-- vendor
+- Section 508 Program Managers
+- Developers
+- Vendors
 topic: 
-- design
-- dev
-- other
-- test
+- Design
+- Develop
+- Other
+- Testing
 subtopic: 
 - Design, Develop, Testing for Accessibility Training or Tools
 - General Info and Best Practices
 resource-type: 
-- process-how-to
-format: html
+- Process & How-To
+format: HTML
 created: 2025-09-26
 updated: 
 disclaimer: 

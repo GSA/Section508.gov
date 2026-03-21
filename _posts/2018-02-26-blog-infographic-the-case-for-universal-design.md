@@ -6,16 +6,16 @@ title: 'Infographic: The Case for Universal Design '
 created: 1519692723
 tags: Design-and-Develop
 description: Current trends in accessibility and technology promote universal design as a principle that leads to greater innovation, cost-savings, higher employee engagement, and talent retention.
-topic: "Design (design)"
-sub-topic: "Manage Accessibility for IT Program/Project Managers"
+topic: "Design"
+sub-topic: "Roles & Responsibilities"
 audience:
-- "Chief Information Officer (cio)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Information Technology Program and Project Managers (itpm)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Chief Information Officers (CIO)"
+- "Section 508 Program Managers"
+- "Developers"
+- "Content Creators"
+- "IT Program & Project Managers"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 <div>

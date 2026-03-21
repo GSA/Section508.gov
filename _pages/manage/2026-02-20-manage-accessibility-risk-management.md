@@ -8,21 +8,21 @@ redirect_from: manage/manage/ict-accessibility-and-risk-management/
 description: Learn how to apply risk management principles to ICT accessibility to be comfortable identifying, assessing and analyzing ICT accessibility risks.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cio
-- content-creator
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- Content Creators
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
 topic: 
-- manage
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage a 508 Program
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2026-02-23
 updated: 2026-02-24
 ---

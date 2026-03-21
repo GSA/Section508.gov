@@ -6,18 +6,18 @@ title: Section 508 Program Manager Competency Guide
 permalink: manage/roles/section-508-pm-compentency-guide/
 description: Section 508 Program Manager Competency Guide outlining skills, training, career paths, and certification options for federal accessibility leaders, adapted from Office of Personnel Management guidance.
 audience: 
-- 508-pm
-- agency-head
-- cio
-- hr-chco
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- Chief Human Capital Officers (CHCO)
 topic: 
-- manage
-- training
+- Manage
+- Training
 subtopic: 
 - Manage a 508 Program
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 custom-script: accordion-management.js
 created: 2026-03-01
 updated: 

@@ -6,16 +6,16 @@ title: Making Color Usage Accessible
 permalink: create/making-color-usage-accessible/
 description: Learn how to make digital content accessible by using color effectively. This guide explains color contrast requirements, common accessibility barriers, and tools like ANDI, WebAIM, and CCA to help ensure your ICT meets Section 508 and WCAG standards.
 audience: 
-- content-creator
-- designer
-- dev-tester
-- fed-emp
-- requirement-ba
-- vendor
-- web-content-mgr
+- Content Creators
+- Designers
+- Developers
+- Federal Employees
+- Requirements & Business Analysts
+- Vendors
+- Web Content Managers
 topic: 
-- create
-- dev
+- Create
+- Develop
 subtopic: 
 - Documents
 - General Info and Best Practices
@@ -23,11 +23,11 @@ subtopic:
 - Presentations
 - Software
 resource-type: 
-- article
+- Article
 redirect_from:
 - training/making-color-usage-accessible/
 - /training/create/making-color-usage-accessible/
-format: html
+format: HTML
 created: 2025-08-07
 updated: 2026-03-03
 exclude-changelog: true

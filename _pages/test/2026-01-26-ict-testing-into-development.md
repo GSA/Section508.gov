@@ -5,28 +5,26 @@ permalink: test/ict-testing-activities-by-lifecycle-phase/
 type: test
 title: Incorporating ICT Accessibility Testing into the Development Process
 description: Learn how to ensure ICT accessibility testing activities are included throughout the development lifecycle with testing strategies mapped to each type of test plan.
-created: 2026-01-26
 contributors: 
 audience: 
-- 508-pm
-- designer
-- fed-emp
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-- web-content-mgr
+- Section 508 Program Managers
+- Designers
+- Federal Employees
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+- Web Content Managers
 topic: 
-- design
-- dev
-- test
-subtopic: 
-- Accessibility Standards, Procedures, Guidance, Best Practices
-- Design, Develop, Testing for Accessibility Training or Tools
-- Manage Accessibility for IT Program/Project Managers
-- Various Electronic Content (i.e. Multiple)
-resource-type: 
-- article
-format: html
+- Design
+- Develop
+- Testing
+sub-topic: 
+- Guidance
+- Training
+- Roles & Responsibilities
+- Other
+resource-type: Article
+format: HTML
 created: 2026-01-26
 updated: 2026-01-26
 exclude-changelog: 

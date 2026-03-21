@@ -6,6 +6,8 @@ const yaml = require("js-yaml");
 const matter = require("gray-matter");
 
 const REPO_ROOT = process.cwd();
+const ASSETS_ORIGIN = "https://assets.section508.gov";
+const DEFAULT_REMOTE_VALIDATION_CONCURRENCY = 10;
 
 const TAXONOMY_FILE = path.join(REPO_ROOT, "_data", "content-library-taxonomy.yml");
 const DOCUMENTS_FILE = path.join(REPO_ROOT, "_data", "content-library-documents.yml");
@@ -109,6 +111,170 @@ function resolvePermalinkToFile(permalink) {
   return path.join(REPO_ROOT, cleanPermalink.replace(/^\/+/, ""));
 }
 
+function isFullyQualifiedUrl(value) {
+  if (!value || typeof value !== "string") {
+    return false;
+  }
+
+  try {
+    const url = new URL(value);
+    return url.protocol === "http:" || url.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
+
+function getAssetsValidationUrl(permalink) {
+  if (!permalink || typeof permalink !== "string") {
+    return null;
+  }
+
+  const cleanPermalink = permalink.split("#")[0];
+
+  if (isFullyQualifiedUrl(cleanPermalink)) {
+    const url = new URL(cleanPermalink);
+    if (url.origin !== ASSETS_ORIGIN) {
+      return null;
+    }
+
+    return url.toString();
+  }
+
+  if (!cleanPermalink.startsWith("/assets/files/")) {
+    return null;
+  }
+
+  return new URL(cleanPermalink, ASSETS_ORIGIN).toString();
+}
+
+async function fetchUrl(url, options = {}) {
+  const response = await fetch(url, {
+    redirect: "follow",
+    ...options
+  });
+
+  if (response.body && typeof response.body.cancel === "function") {
+    await response.body.cancel();
+  }
+
+  return response;
+}
+
+async function remoteFileExists(url) {
+  try {
+    const headResponse = await fetchUrl(url, { method: "HEAD" });
+
+    if (headResponse.ok) {
+      return { ok: true };
+    }
+
+    if (![405, 501].includes(headResponse.status)) {
+      return {
+        ok: false,
+        reason: `received HTTP ${headResponse.status} from ${url}`
+      };
+    }
+
+    const getResponse = await fetchUrl(url, {
+      method: "GET",
+      headers: { Range: "bytes=0-0" }
+    });
+
+    if (getResponse.ok || getResponse.status === 206) {
+      return { ok: true };
+    }
+
+    return {
+      ok: false,
+      reason: `received HTTP ${getResponse.status} from ${url}`
+    };
+  } catch (err) {
+    return {
+      ok: false,
+      reason: `request failed for ${url}: ${err.message}`
+    };
+  }
+}
+
+async function runWithConcurrency(items, concurrency, iteratee) {
+  let currentIndex = 0;
+
+  async function worker() {
+    while (currentIndex < items.length) {
+      const itemIndex = currentIndex;
+      currentIndex += 1;
+      await iteratee(items[itemIndex], itemIndex);
+    }
+  }
+
+  const workerCount = Math.min(concurrency, items.length);
+  await Promise.all(Array.from({ length: workerCount }, () => worker()));
+}
+
+function parseArgs(argv) {
+  const options = {
+    validateFrontMatter: true,
+    validateDocuments: true,
+    remoteValidation: true,
+    remoteConcurrency: DEFAULT_REMOTE_VALIDATION_CONCURRENCY
+  };
+
+  for (let i = 0; i < argv.length; i += 1) {
+    const arg = argv[i];
+
+    if (arg === "--offline") {
+      options.remoteValidation = false;
+      continue;
+    }
+
+    if (arg === "--documents-only") {
+      options.validateFrontMatter = false;
+      options.validateDocuments = true;
+      continue;
+    }
+
+    if (arg === "--front-matter-only") {
+      options.validateFrontMatter = true;
+      options.validateDocuments = false;
+      continue;
+    }
+
+    if (arg === "--remote-concurrency") {
+      const nextArg = argv[i + 1];
+      const parsed = Number.parseInt(nextArg, 10);
+
+      if (!nextArg || Number.isNaN(parsed) || parsed < 1) {
+        throw new Error('Invalid value for "--remote-concurrency". Expected an integer greater than 0.');
+      }
+
+      options.remoteConcurrency = parsed;
+      i += 1;
+      continue;
+    }
+
+    if (arg === "--help" || arg === "-h") {
+      options.help = true;
+      continue;
+    }
+
+    throw new Error(`Unknown option: ${arg}`);
+  }
+
+  return options;
+}
+
+function printHelp() {
+  console.log(`Usage: node scripts/validate-content-library.js [options]
+
+Options:
+  --offline               Disable remote validation against ${ASSETS_ORIGIN}
+  --documents-only        Validate only _data/content-library-documents.yml
+  --front-matter-only     Validate only front matter in _pages and _posts
+  --remote-concurrency N  Limit concurrent remote asset checks (default: ${DEFAULT_REMOTE_VALIDATION_CONCURRENCY})
+  --help, -h              Show this help message
+`);
+}
+
 function validateTaxonomyValue(filePath, key, value, allowedValues, errors) {
   const values = normalizeToArray(value);
 
@@ -163,15 +329,16 @@ function validateFrontMatter(taxonomy, errors, warnings) {
   }
 }
 
-function validateDocumentsManifest(taxonomy, errors, warnings) {
+async function validateDocumentsManifest(taxonomy, errors, warnings, options) {
   const docs = loadYamlFile(DOCUMENTS_FILE);
+  let skippedRemoteValidationCount = 0;
 
   if (!Array.isArray(docs)) {
     errors.push(`${relativeRepoPath(DOCUMENTS_FILE)}: expected a top-level YAML array`);
     return;
   }
 
-  docs.forEach((entry, index) => {
+  await runWithConcurrency(docs, options.remoteConcurrency, async (entry, index) => {
     const label = `${relativeRepoPath(DOCUMENTS_FILE)} [entry ${index + 1}]`;
 
     if (!entry || typeof entry !== "object") {
@@ -183,10 +350,24 @@ function validateDocumentsManifest(taxonomy, errors, warnings) {
       errors.push(`${label}: missing required key "permalink"`);
     } else {
       const resolvedPath = resolvePermalinkToFile(entry.permalink);
-      if (!resolvedPath || !fs.existsSync(resolvedPath) || !fs.statSync(resolvedPath).isFile()) {
-        errors.push(
-          `${label}: permalink "${entry.permalink}" does not resolve to a real file in the repository`
-        );
+      const localFileExists =
+        resolvedPath && fs.existsSync(resolvedPath) && fs.statSync(resolvedPath).isFile();
+
+      if (!localFileExists) {
+        const remoteUrl = getAssetsValidationUrl(entry.permalink);
+
+        if (remoteUrl && options.remoteValidation) {
+          const result = await remoteFileExists(remoteUrl);
+          if (!result.ok) {
+            errors.push(`${label}: permalink "${entry.permalink}" could not be validated: ${result.reason}`);
+          }
+        } else if (remoteUrl && !options.remoteValidation) {
+          skippedRemoteValidationCount += 1;
+        } else {
+          errors.push(
+            `${label}: permalink "${entry.permalink}" does not resolve to a real file in the repository`
+          );
+        }
       }
     }
 
@@ -210,11 +391,31 @@ function validateDocumentsManifest(taxonomy, errors, warnings) {
       validateTaxonomyValue(DOCUMENTS_FILE, key, value, taxonomy[key], errors);
     }
   });
+
+  if (skippedRemoteValidationCount > 0) {
+    warnings.push(
+      `${relativeRepoPath(DOCUMENTS_FILE)}: skipped remote validation for ${skippedRemoteValidationCount} asset-hosted permalink(s) because --offline was used`
+    );
+  }
 }
 
-function main() {
+async function main() {
   const errors = [];
   const warnings = [];
+  let options;
+
+  try {
+    options = parseArgs(process.argv.slice(2));
+  } catch (err) {
+    console.error(err.message);
+    printHelp();
+    process.exit(1);
+  }
+
+  if (options.help) {
+    printHelp();
+    process.exit(0);
+  }
 
   let taxonomy;
   try {
@@ -225,8 +426,13 @@ function main() {
   }
 
   try {
-    validateFrontMatter(taxonomy, errors, warnings);
-    validateDocumentsManifest(taxonomy, errors, warnings);
+    if (options.validateFrontMatter) {
+      validateFrontMatter(taxonomy, errors, warnings);
+    }
+
+    if (options.validateDocuments) {
+      await validateDocumentsManifest(taxonomy, errors, warnings, options);
+    }
   } catch (err) {
     console.error(err.message);
     process.exit(1);

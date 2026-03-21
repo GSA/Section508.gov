@@ -112,11 +112,14 @@ resource-type:
 
 format:
   - Document (DOCX)
+  - Document (DOC)
   - Form
   - HTML
   - Document (PDF)
   - Presentation (PPTX)
+  - Presentation (PPT)
   - Video
   - Video-Only
   - Spreadsheet (XLSX)
+  - Spreadsheet (XLS)
   - Image

@@ -6,16 +6,16 @@ title: 'Essential Elements of an Accessibility Test Report'
 permalink: test/elements-of-an-accessibility-test-report/
 description: Learn about essential elements an ICT accessibility test report should include in order to assist teams in identifying accessibility gaps and prioritizing remediation efforts.
 contributors:
-topic: Testing (test)
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+topic: Testing
+sub-topic: "Training"
 audience:
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
-- Chief Information Officer (cio)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Developers
+- IT Program & Project Managers
+- Federal Employees
+- Chief Information Officers (CIO)
+resource-type: Article
+format: HTML
 created: 2025-07-24
 ---
 

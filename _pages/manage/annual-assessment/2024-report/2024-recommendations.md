@@ -5,16 +5,16 @@ permalink: 'manage/section-508-assessment/2024/recommendations/'
 type: report2024
 title: "Recommendations"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents recommendations to Congress and federal agencies to strengthen ICT accessibility and Section 508 compliance.
-topic: Law (law)
-sub-topic: Reporting
+topic: Law
+sub-topic: Annual Assessment
 audience:
-- 508 Program Manager (508pm)
-- Agency Head (head)
-- Public (public)
-- Lawmakers and Policy Officials (law-policy)
-- Federal employee (fedemp)
-resource-type: White paper
-format: HTML (html)
+- Section 508 Program Managers
+- Agency Heads
+- Members of the Public
+- Policy and Law Makers
+- Federal Employees
+resource-type: White Paper
+format: HTML
 ---
 Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d) and 29 U.S.C. § 794d-1 to include:
 

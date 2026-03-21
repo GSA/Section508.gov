@@ -5,16 +5,16 @@ type: manage
 title: 'Playbooks'
 description: Explore Section 508 accessibility playbooks&mdash;including the Technology Accessibility Playbook. Find guidance, strategies, and tools to help agencies build effective, inclusive ICT programs and services.
 permalink: manage/playbooks/
-topic: Manage (program)
-sub-topic: Manage a 508 Program
+topic: Manage
+sub-topic: Manage a Section 508 Program
 audience:
-- Chief Information Officer (cio)
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
-- Developers and Testers (dev-test)
+- Chief Information Officers (CIO)
+- Section 508 Program Managers
+- IT Program & Project Managers
+- Federal Employees
+- Developers
 resource-type: Playbook
-format: HTML (html)
+format: HTML
 redirect_from:
 - tools/playbooks/
 - playbooks/

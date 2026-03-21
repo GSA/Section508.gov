@@ -6,13 +6,13 @@ title: 'Video and Other Synchronized Media'
 permalink: create/synchronized-media/
 description: "Learn how to create accessible audio-only, video-only, and synchronized media."
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+topic: "Create"
+sub-topic: "Other"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2022-02-16
 updated: 2026-03-16
 exclude-changelog: true

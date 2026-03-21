@@ -6,16 +6,16 @@ permalink: blog/understanding-fy25-assessment/
 redirect_from:
 description: "The General Services Administration (GSA) recently released the FY25 Governmentwide Section 508 Assessment, continuing an effort mandated by Congress to evaluate the accessibility of federal agencies&#39; digital content and compliance with Section 508 of the Rehabilitation Act."
 tags: Policy-and-Management #choose one or more (space separated): Accessibility-Bytes Acquisition Content-Creation Design-and-Develop Events Policy-and-Management Testing
-topic: "Law (law)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Law"
+sub-topic: "Statute & Regulation"
 audience:
-- "Public (public)"
-- "Agency Head (head)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Agency Heads"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "Blog"
+format: "HTML"
 created: 2026-03-02
 ---
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px" style="float:right;">

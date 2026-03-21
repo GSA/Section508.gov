@@ -7,15 +7,15 @@ permalink: manage/strategic-roadmap-template/
 description: Learn how to use a Section 508 strategic roadmap template to plan, sequence, and communicate enterprise IT accessibility initiatives over time.
 disclaimer: 
 audience: 
-- 508-pm
-- cio
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
 topic: 
-- manage
+- Manage
 subtopic: 
 - Manage a 508 Program
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-09-19
 updated: 
 exclude-changelog: 

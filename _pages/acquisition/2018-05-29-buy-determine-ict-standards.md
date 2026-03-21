@@ -6,15 +6,15 @@ title: 'Step 3: Determine Which Standards Apply'
 permalink: buy/determine-ict-standards/
 description: Learn how to determine which Section 508 ICT accessibility standards apply to federal procurements and development projects by identifying applicable requirements for software, hardware, and content.
 audience:
-- Acquisition (acq)
-- Contracting Officer’s Representative (cor)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-topic: Acquisition/Buy (buy)
-sub-topic: Accessible Acquisition Info, Guidance & Best Practices
-resource-type: Process/How-to
-format: HTML (html)
+- Buyers
+- Contracting Officers (CO & COR)
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+topic: Buy
+sub-topic: Guidance
+resource-type: Process & How-To
+format: HTML
 created: 2018-05-29
 ---
 

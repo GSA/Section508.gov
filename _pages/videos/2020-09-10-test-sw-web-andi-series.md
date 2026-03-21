@@ -10,12 +10,12 @@ description: Hosted by the Department of Homeland Security’s (DHS) [Office of 
 topic:
 - Develop
 - Testing
-- Testing (Manual)
+- Testing
 - Tools
 - Training
 sub-topic:
 - Best Practices
-- Testing
+- Testing (Manual)
 - Tools
 - Websites
 created: 2020-10-05

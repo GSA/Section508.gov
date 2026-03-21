@@ -5,13 +5,13 @@ type: manage
 title: 'Developing a Website Accessibility Statement'
 permalink: manage/laws-and-policies/website-accessibility-statement/
 description: "Learn how to develop a website accessibility statement that meets federal requirements and provides clear standards, contact information, feedback options, and complaint guidance."
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "Agency Head (head)"
-- "508 Program Manager (508pm)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Agency Heads"
+- "Section 508 Program Managers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2022-11-04
 updated: 2025-03-05
 ---

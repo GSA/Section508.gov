@@ -9,16 +9,16 @@ disclaimer: true
 contributors: 
 created: 2024-09-20
 updated: 
-topic: "Testing (test)"
-sub-topic: "Testing for Accessibility Training or Tools"
+topic: "Testing"
+sub-topic: "Training"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "508 Program Manager (508pm)"
-- "Website Managers/Content Managers (wcm)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Content Creators"
+- "Section 508 Program Managers"
+- "Web Content Managers"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 When creating digital content such as electronic documents, there must be sufficient color contrast of text and images of text. This ensures content is readable and usable by all individuals, including those with visual impairments. As a designer, developer, or content creator, it is important to choose appropriate foreground and background colors for text. While there are many pitfalls for poor color contrast, the information below explores the importance of color contrast, guidelines for meeting accessibility requirements, and methods to test color contrast in electronic documents and images. 
 

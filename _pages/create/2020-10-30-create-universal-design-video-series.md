@@ -7,16 +7,16 @@ permalink: develop/universal-design-video-series/
 description: "This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals."
 redirect_from:
 - create/universal-design-video-series/
-topic: Development (dev)
-sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+topic: Develop
+sub-topic: Guidance
 audience:
-- Developers and Testers (dev-test)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- Content Creators (creator)
-resource-type: Long form article
-format: HTML (html)
+- Developers
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+- Content Creators
+resource-type: Article
+format: HTML
 created: 2020-10-30
 ---
 

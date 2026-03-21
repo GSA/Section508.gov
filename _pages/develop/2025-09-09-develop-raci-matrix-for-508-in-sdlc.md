@@ -7,20 +7,20 @@ permalink: develop/raci-matrix-for-section-508-in-sdlc/
 description: This RACI matrix below provides a structured framework that identifies who is Responsible, Accountable, Consulted, and Informed, for each key activity related to integrating Section 508 into the SDLC. 
 disclaimer:
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-topic: "Development (dev)"
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+topic: "Develop"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 

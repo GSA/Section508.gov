@@ -7,23 +7,23 @@ permalink: test/ict-hardware-overview/
 description: Learn about Federal ICT hardware under Section 508, including accessibility requirements for computers, kiosks, printers, telecom equipment, and more.
 disclaimer: 
 audience: 
-- 508-pm
-- content-creator
-- designer
-- dev-tester
-- fed-emp
-- it-prog-proj-mgr
-- public
-- requirement-ba
-- web-content-mgr
-topic: "Testing (test)"
+- Section 508 Program Managers
+- Content Creators
+- Designers
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Members of the Public
+- Requirements & Business Analysts
+- Web Content Managers
+topic: "Testing"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Design, Develop, Testing for Accessibility Training or Tools
 - Hardware
 resource-type: 
-- process-how-to
-format: html
+- Process & How-To
+format: HTML
 created: 2025-08-18
 updated: 
 ---

@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/appendix-a-acronyms/
 type: report2024
 title: "Appendix A: Acronyms List"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides an acronyms list used throughout the report.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
 The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/tool/glossary/).

@@ -6,12 +6,12 @@ title: "Procuring Section 508 Conformant ICT Products and Services"
 permalink: training/online-course/procuring-section-508-conformant-ict/
 description: Learn the basics of procuring Section 508 conformant information and communication technology (ICT). This no-cost course explains roles, responsibilities, and steps in the federal acquisition process.
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Public (public)"
-topic: "Training (train)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Developers"
+- "Content Creators"
+- "Members of the Public"
+topic: "Training"
 sub-topic: "Presentations"
 resource-type: "Training"
 format: "HTML"

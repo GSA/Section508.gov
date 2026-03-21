@@ -8,20 +8,20 @@ description: Learn how to integrate Section 508 into each stage of the ICT chang
 disclaimer: 
 contributors: dhs
 audience: 
-- 508-pm
-- mgr-exec
-- buyer-senior-exec
-- it-prog-proj-mgr
+- Section 508 Program Managers
+- Manager & Supervisor
+- Executive Leadership (CXO)
+- IT Program & Project Managers
 topic: 
-- policy
-- manage
+- Policy
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 - Accessibility Standards, Procedures, Guidance, Best Practices
 resource-type: 
-- article
-format: html
+- Article
+format: HTML
 created: 2025-09-04
 updated: 
 exclude-changelog: 

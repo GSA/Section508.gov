@@ -5,16 +5,16 @@ type: create
 title: 'Presentations Authoring Guides'
 permalink: create/presentations/authoring-guides/
 description: Explore Section 508 presentation authoring guides with tips and best practices for creating accessible presentations that meet federal accessibility standards.
-topic: Content creation (create)
+topic: Create
 sub-topic: Presentations
 audience:
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- 508 Program Manager (508pm)
-resource-type: Process/How-to
-format: Document (docx)
+- Content Creators
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
+resource-type: Process & How-To
+format: Document (DOCX)
 created: 2018-05-20
 ---
 ## Microsoft PowerPoint 2016
