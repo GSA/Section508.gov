@@ -74,7 +74,35 @@ function yamlEscape(value) {
   if (value === null || value === undefined) {
     return '""';
   }
-  return `"${String(value).replace(/"/g, '\\"')}"`;
+
+  return `"${String(value).replace(/[\u0000-\u001f\u007f-\u009f"\\\u2028\u2029]/g, (char) => {
+    switch (char) {
+      case "\\":
+        return "\\\\";
+      case "\"":
+        return "\\\"";
+      case "\b":
+        return "\\b";
+      case "\t":
+        return "\\t";
+      case "\n":
+        return "\\n";
+      case "\v":
+        return "\\v";
+      case "\f":
+        return "\\f";
+      case "\r":
+        return "\\r";
+      case "\u2028":
+        return "\\L";
+      case "\u2029":
+        return "\\P";
+      default: {
+        const codePoint = char.codePointAt(0);
+        return `\\x${codePoint.toString(16).toUpperCase().padStart(2, "0")}`;
+      }
+    }
+  })}"`;
 }
 
 function buildEntry(filePath, baseDir, permalinkBase) {

@@ -9,7 +9,6 @@ redirect_from:
 description: Example position description for a Section 508 Accessibility Tester.
 disclaimer: false
 contributors: 
-updated: 
 topic: "Manage (program)"
 sub-topic: "Testing for Accessibility Training or Tools"
 audience:

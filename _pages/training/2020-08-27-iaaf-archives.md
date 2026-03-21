@@ -37,10 +37,6 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
-created: 2020-08-28
-updated: 2025-02-26
----
-
 ## 2023 Interagency Accessibility Forum
 
 The 2023 IAAF was a three-day conference built on the theme ***Beyond Compliance: Building a Culture of Digital Accessibility*** and featured workshops, keynote addresses, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
