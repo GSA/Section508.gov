@@ -13,25 +13,9 @@ document.addEventListener("DOMContentLoaded", function () {
       .replace(/ /g, "-");
   }
 
-  function normalizeFilterList(value) {
-    return Array.from(
-      new Set(
-        String(value || "")
-          .split(",")
-          .map(item => normalizeFilterValue(item))
-          .filter(Boolean)
-      )
-    );
-  }
-
   function normalizeDisplayText(value) {
     return String(value || "")
       .trim()
-      .replace(/&/g, " and ")
-      .replace(/\+/g, " and ")
-      .replace(/[_/]+/g, " ")
-      .replace(/[-–—]+/g, " ")
-      .replace(/[.,:;()[\]'"]/g, " ")
       .replace(/\s+/g, " ")
       .trim();
   }
@@ -43,6 +27,32 @@ document.addEventListener("DOMContentLoaded", function () {
       .filter(Boolean)
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
       .join(" ");
+  }
+
+  function parseRawFilterValues(value) {
+    if (value === undefined || value === null || value === "") {
+      return [];
+    }
+
+    if (Array.isArray(value)) {
+      return value.map(item => normalizeDisplayText(item)).filter(Boolean);
+    }
+
+    if (typeof value === "string") {
+      try {
+        const parsed = JSON.parse(value);
+
+        if (Array.isArray(parsed)) {
+          return parsed.map(item => normalizeDisplayText(item)).filter(Boolean);
+        }
+
+        return [normalizeDisplayText(parsed)].filter(Boolean);
+      } catch (error) {
+        return [normalizeDisplayText(value)].filter(Boolean);
+      }
+    }
+
+    return [normalizeDisplayText(value)].filter(Boolean);
   }
 
   function getFiltersFromURL() {
@@ -57,24 +67,40 @@ document.addEventListener("DOMContentLoaded", function () {
     return filters;
   }
 
+  const pillContainer = document.getElementById("active-filters-list");
+  const noFiltersText = document.getElementById("no-filters");
+  const resetButton = document.getElementById("reset-filters");
+  const countSpan = document.getElementById("filter-count");
+  const cardsContainer = document.getElementById("library-cards");
+  const cardFadeDuration = 220;
+  const cardReflowDuration = 700;
+
+  let hasInitializedCardLayout = false;
+  let cardAnimationCycle = 0;
   let checkboxes = [];
   let cards = [];
-  let pillItems = [];
+  let filterGroupConfigs = [];
 
   function refreshElements() {
     checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
     cards = Array.from(document.querySelectorAll("#library-cards li"));
-    pillItems = Array.from(document.querySelectorAll("#active-filters-list li[data-filter]"));
+    filterGroupConfigs = Array.from(document.querySelectorAll("#filter fieldset[data-filter-group]")).map(
+      fieldset => ({
+        group: fieldset.dataset.filterGroup,
+        attr: fieldset.dataset.filterAttr || `data-${fieldset.dataset.filterGroup}`
+      })
+    );
   }
 
   function normalizeCheckboxes() {
     const seenFilters = new Set();
 
     checkboxes.forEach(cb => {
-      const group = cb.closest("fieldset")?.dataset.filterGroup;
+      const fieldset = cb.closest("fieldset");
+      const group = fieldset?.dataset.filterGroup;
       const wrapper = cb.closest(".filter-item");
-      const label = wrapper?.querySelector("label");
-      const canonicalValue = normalizeFilterValue(cb.dataset.filter || cb.value || label?.textContent);
+      const labelText = cb.dataset.filterLabel || wrapper?.querySelector("label")?.textContent || cb.value;
+      const canonicalValue = normalizeFilterValue(labelText);
 
       if (!group || !canonicalValue) {
         wrapper?.remove();
@@ -82,8 +108,8 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
       cb.dataset.filter = canonicalValue;
+      cb.dataset.filterLabel = normalizeDisplayText(labelText);
       cb.value = canonicalValue;
-      cb.name = canonicalValue;
 
       const key = `${group}:${canonicalValue}`;
       if (seenFilters.has(key)) {
@@ -95,100 +121,56 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  function normalizePills() {
-    const seenPills = new Set();
-
-    pillItems.forEach(pill => {
-      const group = pill.dataset.filterGroup;
-      const canonicalValue = normalizeFilterValue(pill.dataset.filter || pill.textContent);
-
-      if (!group || !canonicalValue) {
-        pill.remove();
-        return;
-      }
-
-      pill.dataset.filter = canonicalValue;
-
-      const key = `${group}:${canonicalValue}`;
-      if (seenPills.has(key)) {
-        pill.remove();
-        return;
-      }
-
-      seenPills.add(key);
-    });
+  function getCardRawValues(card, attr) {
+    return parseRawFilterValues(card.getAttribute(attr));
   }
 
-  function normalizeCards() {
+  function getCardNormalizedValues(card, attr) {
+    return Array.from(
+      new Set(
+        getCardRawValues(card, attr)
+          .map(item => normalizeFilterValue(item))
+          .filter(Boolean)
+      )
+    );
+  }
+
+  function initializeCards() {
     cards.forEach(card => {
-      Object.values(filterAttributes).forEach(attr => {
-        const normalizedValues = normalizeFilterList(card.getAttribute(attr));
-        card.setAttribute(attr, normalizedValues.join(","));
+      const topicGroup = filterGroupConfigs.find(config => config.group === "topic");
+      const topicValues = topicGroup ? getCardRawValues(card, topicGroup.attr) : [];
+
+      filterGroupConfigs.forEach(({ attr }) => {
+        const normalizedValues = getCardNormalizedValues(card, attr);
+        card.setAttribute(attr, JSON.stringify(normalizedValues));
       });
 
-      const heading = card.querySelector("span[class*='usa-card__heading']");
+      const heading = card.querySelector("[data-card-topic-heading]");
       if (heading) {
-        heading.textContent = toTitleCase(heading.textContent);
+        heading.textContent = toTitleCase(topicValues[0] || "Other");
       }
     });
   }
 
-  function applyURLFilters() {
-    const urlFilters = getFiltersFromURL();
+  function getGroupedFilters() {
+    const groups = {};
 
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
-      const value = normalizeFilterValue(cb.dataset.filter);
+      if (!group || !cb.checked || !cb.dataset.filter) return;
 
-      if (group && value && urlFilters[group]?.includes(value)) {
-        cb.checked = true;
-      } else {
-        cb.checked = false;
-      }
+      if (!groups[group]) groups[group] = [];
+      groups[group].push(cb.dataset.filter);
     });
-  }
 
-  const pillContainer = document.getElementById("active-filters-list");
-  const noFiltersText = document.getElementById("no-filters");
-  const resetButton = document.getElementById("reset-filters");
-  const countSpan = document.getElementById("filter-count");
-  const cardFadeDuration = 220;
-  const cardReflowDuration = 700;
-  let hasInitializedCardLayout = false;
-  let cardAnimationCycle = 0;
-
-  const filterAttributes = {
-    topic: "data-topic",
-    sub_topic: "data-sub_topic",
-    audience: "data-audience",
-    resource_type: "data-resource_type",
-    format: "data-format"
-  };
-
-  refreshElements();
-  normalizeCheckboxes();
-  normalizePills();
-  normalizeCards();
-  refreshElements();
-
-  // Group selected filters by their filter group
-  function getGroupedFilters() {
-    const groups = {};
-    checkboxes.forEach(cb => {
-      if (cb.checked && cb.dataset.filter && cb.closest("fieldset")?.dataset.filterGroup) {
-        const group = cb.closest("fieldset").dataset.filterGroup;
-        if (!groups[group]) groups[group] = [];
-        groups[group].push(normalizeFilterValue(cb.dataset.filter));
-      }
-    });
     return groups;
   }
 
   function matchesGroup(card, groupName, groupValues) {
-    const attr = filterAttributes[groupName];
-    if (!attr) return true;
+    const config = filterGroupConfigs.find(item => item.group === groupName);
+    if (!config) return true;
 
-    const cardValues = normalizeFilterList(card.getAttribute(attr));
+    const cardValues = parseRawFilterValues(card.getAttribute(config.attr));
     return groupValues.some(value => cardValues.includes(value));
   }
 
@@ -198,29 +180,62 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
-  function updateFilterPills(groupedFilters) {
-    const activeKeys = new Set(
-      Object.entries(groupedFilters).flatMap(([group, values]) =>
-        values.map(value => `${group}:${value}`)
-      )
-    );
-    let anyVisible = false;
+  function applyURLFilters() {
+    const urlFilters = getFiltersFromURL();
 
-    pillItems.forEach(pill => {
-      const pillKey = `${pill.dataset.filterGroup}:${pill.dataset.filter}`;
-      const isActive = activeKeys.has(pillKey);
-      pill.classList.toggle("display-none", !isActive);
-      if (isActive) anyVisible = true;
+    checkboxes.forEach(cb => {
+      const group = cb.closest("fieldset")?.dataset.filterGroup;
+      cb.checked = Boolean(group && urlFilters[group]?.includes(cb.dataset.filter));
+    });
+  }
+
+  function updateFilterPills(groupedFilters) {
+    if (!pillContainer) return;
+
+    pillContainer.innerHTML = "";
+    const fragment = document.createDocumentFragment();
+
+    Object.entries(groupedFilters).forEach(([group, values]) => {
+      values.forEach(value => {
+        const checkbox = checkboxes.find(cb => {
+          const fieldset = cb.closest("fieldset");
+          return fieldset?.dataset.filterGroup === group && cb.dataset.filter === value;
+        });
+
+        if (!checkbox) return;
+
+        const item = document.createElement("li");
+        item.className = "active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1";
+        item.dataset.filterGroup = group;
+        item.dataset.filter = value;
+
+        const link = document.createElement("a");
+        link.href = "javascript:void(0)";
+        link.setAttribute(
+          "aria-label",
+          `Remove filter by ${group.replace(/_/g, " ")}: ${checkbox.dataset.filterLabel}`
+        );
+
+        link.innerHTML = `
+          <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+            <use href="/assets/img/sprite.svg#highlight_off"></use>
+          </svg>
+          ${checkbox.dataset.filterLabel}
+        `;
+
+        item.appendChild(link);
+        fragment.appendChild(item);
+      });
     });
 
-    noFiltersText.classList.toggle("display-none", anyVisible);
+    pillContainer.appendChild(fragment);
+    const anyVisible = fragment.childNodes.length > 0 || pillContainer.children.length > 0;
+    noFiltersText?.classList.toggle("display-none", anyVisible);
   }
 
   function updateCardCount() {
-    const visibleCards = Array.from(cards).filter(card => !card.classList.contains("display-none"));
-    if (countSpan) {
-      countSpan.textContent = visibleCards.length;
-    }
+    if (!countSpan) return;
+    countSpan.textContent = cards.filter(card => !card.classList.contains("display-none")).length;
   }
 
   function getVisibleCards() {
@@ -229,11 +244,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function captureCardPositions(cardList) {
     const positions = new Map();
-
-    cardList.forEach(card => {
-      positions.set(card, card.getBoundingClientRect());
-    });
-
+    cardList.forEach(card => positions.set(card, card.getBoundingClientRect()));
     return positions;
   }
 
@@ -283,8 +294,38 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  applyURLFilters();  // <-- load filters from URL
-  updateFilterUI();   // then apply them visually
+  function updateCheckboxStates(groupedFilters) {
+    checkboxes.forEach(cb => {
+      const group = cb.closest("fieldset")?.dataset.filterGroup;
+      const value = cb.dataset.filter;
+      const wrapper = cb.closest(".filter-item");
+      if (!group || !value) return;
+
+      if (cb.checked) {
+        cb.disabled = false;
+        wrapper?.classList.remove("filter-item--disabled");
+        return;
+      }
+
+      const testFilters = { ...groupedFilters, [group]: [value] };
+      const hasMatches = cards.some(card => matchesAllGroups(card, testFilters));
+
+      cb.disabled = !hasMatches;
+      wrapper?.classList.toggle("filter-item--disabled", cb.disabled);
+    });
+  }
+
+  function updateURLFromFilters(groupedFilters) {
+    const params = new URLSearchParams();
+
+    Object.entries(groupedFilters).forEach(([group, values]) => {
+      values.forEach(value => params.append(group, value));
+    });
+
+    const queryString = params.toString();
+    const newURL = queryString ? `${window.location.pathname}?${queryString}` : window.location.pathname;
+    history.replaceState(null, "", newURL);
+  }
 
   function updateFilterUI() {
     const groupedFilters = getGroupedFilters();
@@ -308,9 +349,7 @@ document.addEventListener("DOMContentLoaded", function () {
         card.style.pointerEvents = "auto";
         card.classList.remove("library-card--is-hiding");
 
-        if (isHidden) {
-          cardsToShow.push(card);
-        }
+        if (isHidden) cardsToShow.push(card);
       } else {
         card.style.pointerEvents = "none";
 
@@ -366,73 +405,46 @@ document.addEventListener("DOMContentLoaded", function () {
       revealMatchingCards();
     }
 
-    updateCheckboxStates(groupedFilters); // disable unavailable filters
-    updateURLFromFilters(groupedFilters); // Update URL with current filters
+    updateCheckboxStates(groupedFilters);
+    updateURLFromFilters(groupedFilters);
   }
 
-  function updateCheckboxStates(groupedFilters) {
-    checkboxes.forEach(cb => {
-      const group = cb.closest("fieldset")?.dataset.filterGroup;
-      const value = normalizeFilterValue(cb.dataset.filter);
-      const wrapper = cb.closest(".filter-item");
-      if (!group || !value) return;
+  refreshElements();
+  normalizeCheckboxes();
+  refreshElements();
+  initializeCards();
+  applyURLFilters();
 
-      // Always keep selected filters enabled
-      if (cb.checked) {
-        cb.disabled = false;
-        wrapper?.classList.remove("filter-item--disabled");
-        return;
-      }
-
-      // Create a test filter state:
-      // Keep all other groups, but replace this group with only the checkbox's value
-      const testFilters = { ...groupedFilters, [group]: [value] };
-
-      const hasMatches = Array.from(cards).some(card => {
-        return matchesAllGroups(card, testFilters);
-      });
-
-      cb.disabled = !hasMatches;
-      wrapper?.classList.toggle("filter-item--disabled", cb.disabled);
-    });
-  }
-
-  // Listen for checkbox changes
   checkboxes.forEach(cb => {
     cb.addEventListener("change", updateFilterUI);
-    // Add Enter key support
-    cb.addEventListener("keydown", function (e) {
-      if (e.key === "Enter") {
-        e.preventDefault();
-        cb.checked = !cb.checked;
-        updateFilterUI();
-      }
+    cb.addEventListener("keydown", function (event) {
+      if (event.key !== "Enter") return;
+      event.preventDefault();
+      cb.checked = !cb.checked;
+      updateFilterUI();
     });
   });
-  
 
-  // Remove filter when clicking a pill
-  pillContainer.addEventListener("click", function (e) {
-    const anchor = e.target.closest("a");
-    const pillLi = anchor?.closest("li[data-filter]");
-    if (pillLi) {
-      e.preventDefault();
-      const filterVal = pillLi.dataset.filter;
-      const filterGroup = pillLi.dataset.filterGroup;
-      const checkbox = document.querySelector(
-        `#filter fieldset[data-filter-group='${CSS.escape(filterGroup)}'] input[data-filter='${CSS.escape(filterVal)}']`
-      );
-      if (checkbox) {
-        checkbox.checked = false;
-        updateFilterUI();
-      }
-    }
+  pillContainer?.addEventListener("click", function (event) {
+    const anchor = event.target.closest("a");
+    const pill = anchor?.closest("li[data-filter]");
+    if (!pill) return;
+
+    event.preventDefault();
+
+    const checkbox = checkboxes.find(cb => {
+      const fieldset = cb.closest("fieldset");
+      return fieldset?.dataset.filterGroup === pill.dataset.filterGroup && cb.dataset.filter === pill.dataset.filter;
+    });
+
+    if (!checkbox) return;
+    checkbox.checked = false;
+    updateFilterUI();
   });
 
-  // Reset all checkboxes
   if (resetButton) {
-    resetButton.addEventListener("click", function (e) {
-      e.preventDefault();
+    resetButton.addEventListener("click", function (event) {
+      event.preventDefault();
       checkboxes.forEach(cb => {
         cb.checked = false;
       });
@@ -440,31 +452,16 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  const cardsContainer = document.getElementById("library-cards");
-  if (cardsContainer) {
-    cardsContainer.addEventListener("click", function (e) {
-      const toggle = e.target.closest("[data-library-card-toggle]");
-      if (!toggle) return;
+  cardsContainer?.addEventListener("click", function (event) {
+    const toggle = event.target.closest("[data-library-card-toggle]");
+    if (!toggle) return;
 
-      e.preventDefault();
+    event.preventDefault();
 
-      const card = toggle.closest("#library-cards li");
-      const shouldExpand = toggle.dataset.libraryCardToggle === "expand";
-      setCardDescriptionExpanded(card, shouldExpand);
-    });
-  }
+    const card = toggle.closest("#library-cards li");
+    const shouldExpand = toggle.dataset.libraryCardToggle === "expand";
+    setCardDescriptionExpanded(card, shouldExpand);
+  });
 
-  function updateURLFromFilters(groupedFilters) {
-    const params = new URLSearchParams();
-
-    for (const [group, values] of Object.entries(groupedFilters)) {
-      values.forEach(value => params.append(group, normalizeFilterValue(value)));
-    }
-
-    const queryString = params.toString();
-    const newURL = queryString ? `${window.location.pathname}?${queryString}` : window.location.pathname;
-    history.replaceState(null, '', newURL); // don't reload
-  }
-
-  updateFilterUI(); // Run on load
+  updateFilterUI();
 });

@@ -16,71 +16,7 @@
     {% assign formats = pages_posts | map: "format" | uniq | compact | sort %}
     <div id="active-filters-container" class="margin-bottom-2">
         <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
-                <ul id="active-filters-list" class="active-filters-list">
-                    {% for item in topics %}
-                        {% assign split_item = item | split: " (" %}
-                        {% assign filter = split_item[0] %}
-                        {% if filter == "Other" %}
-                            {% assign fil = filter | downcase %}
-                        {% else %}
-                            {% assign fil = split_item[1] | replace: ")", "" %}
-                        {% endif %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter-group="topic" data-filter="{{fil}}"><a aria-label="Remove filter by Topic: {{filter}}" href="javascript:void(0)">
-                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-                                <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
-                            </svg>
-                            {{filter}}
-                            </a>
-                        </li>
-                    {% endfor %}
-                    {% for item in sub-topics %}
-                        {% assign filter = item %}
-                        {% assign fil = item | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter-group="sub_topic" data-filter="{{fil}}"><a aria-label="Remove filter by Sub-topic: {{filter}}" href="javascript:void(0)">
-                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-                                <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
-                            </svg>
-                            {{filter}}
-                            </a>
-                        </li>
-                    {% endfor %}
-                    {% for item in audience %}
-                        {% assign split_item = item | split: " (" %}
-                        {% assign filter = split_item[0] %}
-                        {% assign fil = split_item[1] | replace: ")", "" %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter-group="audience" data-filter="{{fil}}"><a aria-label="Remove filter by Audience: {{filter}}" href="javascript:void(0)">
-                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-                                <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
-                            </svg>
-                            {{filter}}
-                            </a>
-                        </li>
-                    {% endfor %}
-                    {% for item in resource-types %}
-                        {% assign split_item = item | split: " (" %}
-                        {% assign filter = split_item[0] %}
-                        {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter-group="resource_type" data-filter="{{fil}}"><a aria-label="Remove filter by Resource Type: {{filter}}" href="javascript:void(0)">
-                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-                                <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
-                            </svg>
-                            {{filter}}
-                            </a>
-                        </li>
-                    {% endfor %}
-                    {% for item in formats %}
-                        {% assign split_item = item | split: " (" %}
-                        {% assign filter = split_item[0] %}
-                        {% assign fil = split_item[1] | replace: ")", "" %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter-group="format" data-filter="{{fil}}"><a aria-label="Remove filter by Format: {{filter}}" href="javascript:void(0)">
-                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-                                <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
-                            </svg>
-                            {{filter}}
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
+                <ul id="active-filters-list" class="active-filters-list"></ul>
         </p>
     </div>
     <ul id="library-cards" class="usa-card-group">
@@ -93,50 +29,15 @@
 
             {% comment %} !!! Assign each card filter and filter shorthand from topic, sub-topic, audience, resource type, and format !!! {% endcomment %}
         
-            {% assign topic_item = page.topic | default: "Other" %}
-            {% assign topic_split_item = topic_item | split: " (" %}
-            {% assign topic_filter = topic_split_item[0] %}
-            {% if topic_filter == nil or topic_filter == "" %}
-                {% assign topic_filter = "Other" %}
-            {% endif %}
-            {% if topic_filter == "Other" %}
-                {% assign topic_fil = topic_filter | downcase %}
-            {% else %}
-                {% assign topic_short_fil = topic_split_item[1] %}
-                {% assign topic_fil = topic_short_fil | replace: ")", "" %}
-            {% endif %}
-
-            {% assign sub-topic_filter = page.sub-topic %}
-            {% assign sub-topic_fil = sub-topic_filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
-            
-            {% assign audience_filter = "" %}
-            {% assign audience_fil = "" %}
-            {% for item in page.audience %}
-                {% assign split_item = item | split: " (" %}
-                {% assign label = split_item[0] %}
-                {% assign short = split_item[1] | replace: ")", "" %}
-
-                {% if forloop.first %}
-                    {% assign audience_filter = label %}
-                    {% assign audience_fil = short %}
-                {% else %}
-                    {% assign audience_filter = audience_filter | append: ", " | append: label %}
-                    {% assign audience_fil = audience_fil | append: ", " | append: short %}
-                {% endif %}
-            {% endfor %}
-
-            {% assign resource_type_split_item = page.resource-type | split: " (" %}
-            {% assign resource_type_filter = resource_type_split_item[0] %}
-            {% assign resource_type_fil = resource_type_filter | downcase | replace: " ","-" | replace: "/","-" %}
-
-            {% assign format_split_item = page.format | split: " (" %}
-            {% assign format_filter = format_split_item[0] %}
-            {% assign format_fil = format_split_item[1] | replace: ")", "" %}
-
-        <li class="usa-card grid-col-12 tablet:grid-col-6 desktop:grid-col-4" data-topic="{{ topic_fil }}" data-sub_topic="{{ sub-topic_fil }}"  data-audience="{{ audience_fil }}" data-resource_type="{{ resource_type_fil }}" data-format="{{ format_fil }}">
+        <li class="usa-card grid-col-12 tablet:grid-col-6 desktop:grid-col-4"
+            data-topic='{{ page.topic | default: "Other" | jsonify | escape }}'
+            data-sub_topic='{{ page.sub-topic | default: "" | jsonify | escape }}'
+            data-audience='{{ page.audience | default: "" | jsonify | escape }}'
+            data-resource_type='{{ page.resource-type | default: "" | jsonify | escape }}'
+            data-format='{{ page.format | default: "" | jsonify | escape }}'>
             <div class="usa-card__container">
                 <div class="usa-card__header padding-top-1 bg-primary-lighter">
-                    <span class="usa-card__heading font-sans-md text-bold">{{topic_filter}}</span>
+                    <span class="usa-card__heading font-sans-md text-bold" data-card-topic-heading>Other</span>
                 </div>
                 <div class="usa-card__body">
                     <p class="font-sans-sm">

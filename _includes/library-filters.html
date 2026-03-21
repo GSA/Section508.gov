@@ -5,16 +5,17 @@
     <a id="reset-filters" class="usa-button usa-button--accent-cool margin-bottom-2" href="javascript:void(0)">Reset Filter</a>
 
     {% assign pages_posts = site.pages | concat: site.posts %}
-    {% assign topics = pages_posts | map: "topic" | uniq | compact | sort %}
-    {% assign sub-topics = pages_posts | map: "sub-topic" | uniq | compact | sort %}
-    {% assign audience = pages_posts | map: "audience" | uniq | compact | sort %}
-    {% assign resource-types = pages_posts | map: "resource-type" | uniq | compact | sort %}
-    {% assign formats = pages_posts | map: "format" | uniq | compact | sort %}
+    {% assign taxonomy = site.data.content-library-taxonomy %}
+    {% assign topics = taxonomy.topic | default: empty %}
+    {% assign sub_topics = taxonomy["sub-topic"] | default: empty %}
+    {% assign audiences = taxonomy.audience | default: empty %}
+    {% assign resource_types = taxonomy["resource-type"] | default: empty %}
+    {% assign formats = taxonomy.format | default: empty %}
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">
             <form class="usa-form margin-y-1">
-                <fieldset class="usa-fieldset filter-list" data-filter-group="topic">
+                <fieldset class="usa-fieldset filter-list" data-filter-group="topic" data-filter-attr="data-topic">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -29,34 +30,36 @@
                     </legend>
                     <div id="topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
                         {% for item in topics %}
-                            {% assign split_item = item | split: " (" %}
-                            {% assign filter = split_item[0] %}
-                            {% if filter == "Other" %}
-                                {% assign fil = filter | downcase %}
-                            {% else %}
-                                {% assign fil = split_item[1] | replace: ")", "" %}
-                            {% endif %}
-                            {% if fil != "" %}
+                            {% assign fil = item | slugify %}
+                            {% assign has_matching_content = false %}
+                            {% for page in pages_posts %}
+                                {% unless page.exclude-library %}
+                                    {% if page.topic contains item %}
+                                        {% assign has_matching_content = true %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endunless %}
+                            {% endfor %}
+                            {% if fil != "" and has_matching_content %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
                                 id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
-                                name="{{fil}}"
-                                value="{{fil}}"
-                                data-filter="{{fil}}"
+                                name="topic"
+                                value="{{ item | escape }}"
+                                data-filter-label="{{ item | escape }}"
                             />
                             <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
-                                >{{filter}}</label
+                                >{{ item }}</label
                             >
                         </div>
                             {% endif %}
                         {% endfor %}
-                        </ul>
                     </div>
                 </fieldset>
 
-                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="sub_topic">
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="sub_topic" data-filter-attr="data-sub_topic">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -70,30 +73,37 @@
                     </h2>
                     </legend>
                     <div id="sub-topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
-                        {% for item in sub-topics %}
-                            {% assign filter = item %}
-                            {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
-                            {% if fil != "" %}
+                        {% for item in sub_topics %}
+                            {% assign fil = item | slugify %}
+                            {% assign has_matching_content = false %}
+                            {% for page in pages_posts %}
+                                {% unless page.exclude-library %}
+                                    {% if page.sub-topic contains item %}
+                                        {% assign has_matching_content = true %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endunless %}
+                            {% endfor %}
+                            {% if fil != "" and has_matching_content %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
                                 id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
-                                name="{{fil}}"
-                                value="{{fil}}"
-                                data-filter="{{fil}}"
+                                name="sub_topic"
+                                value="{{ item | escape }}"
+                                data-filter-label="{{ item | escape }}"
                             />
                             <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
-                                >{{filter}}</label
+                                >{{ item }}</label
                             >
                         </div>
                             {% endif %}
                         {% endfor %}
-                        </ul>
                     </div>
                 </fieldset>
 
-                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="audience">
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="audience" data-filter-attr="data-audience">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -107,31 +117,37 @@
                     </h2>
                     </legend>
                     <div id="audience-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
-                        {% for item in audience %}
-                            {% assign split_item = item | split: " (" %}
-                            {% assign filter = split_item[0] %}
-                            {% assign fil = split_item[1] | replace: ")", "" %}
-                            {% if fil != "" %}
+                        {% for item in audiences %}
+                            {% assign fil = item | slugify %}
+                            {% assign has_matching_content = false %}
+                            {% for page in pages_posts %}
+                                {% unless page.exclude-library %}
+                                    {% if page.audience contains item %}
+                                        {% assign has_matching_content = true %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endunless %}
+                            {% endfor %}
+                            {% if fil != "" and has_matching_content %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
                                 id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
-                                name="{{fil}}"
-                                value="{{fil}}"
-                                data-filter="{{fil}}"
+                                name="audience"
+                                value="{{ item | escape }}"
+                                data-filter-label="{{ item | escape }}"
                             />
                             <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
-                                >{{filter}}</label
+                                >{{ item }}</label
                             >
                         </div>
                             {% endif %}
                         {% endfor %}
-                        </ul>
                     </div>
                 </fieldset>
 
-                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="resource_type">
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="resource_type" data-filter-attr="data-resource_type">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -145,31 +161,37 @@
                     </h2>
                     </legend>
                     <div id="resource-type-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
-                         {% for item in resource-types %}
-                            {% assign split_item = item | split: " (" %}
-                            {% assign filter = split_item[0] %}
-                            {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
-                            {% if fil != "" %}
+                         {% for item in resource_types %}
+                            {% assign fil = item | slugify %}
+                            {% assign has_matching_content = false %}
+                            {% for page in pages_posts %}
+                                {% unless page.exclude-library %}
+                                    {% if page.resource-type contains item %}
+                                        {% assign has_matching_content = true %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endunless %}
+                            {% endfor %}
+                            {% if fil != "" and has_matching_content %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
                                 id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
-                                name="{{fil}}"
-                                value="{{fil}}"
-                                data-filter="{{fil}}"
+                                name="resource_type"
+                                value="{{ item | escape }}"
+                                data-filter-label="{{ item | escape }}"
                             />
                             <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
-                                >{{filter}}</label
+                                >{{ item }}</label
                             >
                         </div>
                             {% endif %}
                         {% endfor %}
-                        </ul>
                     </div>
                 </fieldset>
 
-                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="format">
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="format" data-filter-attr="data-format">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -184,26 +206,32 @@
                     </legend>
                     <div id="format-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
                          {% for item in formats %}
-                            {% assign split_item = item | split: " (" %}
-                            {% assign filter = split_item[0] %}
-                            {% assign fil = split_item[1] | replace: ")", "" %}
-                            {% if fil != "" %}
+                            {% assign fil = item | slugify %}
+                            {% assign has_matching_content = false %}
+                            {% for page in pages_posts %}
+                                {% unless page.exclude-library %}
+                                    {% if page.format contains item %}
+                                        {% assign has_matching_content = true %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endunless %}
+                            {% endfor %}
+                            {% if fil != "" and has_matching_content %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
                                 id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
-                                name="{{fil}}"
-                                value="{{fil}}"
-                                data-filter="{{fil}}"
+                                name="format"
+                                value="{{ item | escape }}"
+                                data-filter-label="{{ item | escape }}"
                             />
                             <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
-                                >{{filter}}</label
+                                >{{ item }}</label
                             >
                         </div>
                             {% endif %}
                         {% endfor %}
-                        </ul>
                     </div>
                 </fieldset>
             </form>
