@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-03-26 #otherwise use end-date
 permalink: /event/best-practices-webinar-mar2024/
 description: Join the US Access Board and guest presenters to learn how procurement and accessibility go together like peanut butter and jelly. Procurement is a fancy way of saying “personal shopper.” It may seem like a daunting process but with the right tools and attitude, it can be a fun experience. This webinar will provide an informative and consumable discussion on the acquisition lifecycle.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2024-02-06

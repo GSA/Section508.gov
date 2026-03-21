@@ -22,7 +22,7 @@ subtopic:
 - Accessible Selling Info, Guidance, & Best Practices
 - Acquisition Related Training or Tools(Buy/Sell)
 - Procuring federal shared services
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-09-18

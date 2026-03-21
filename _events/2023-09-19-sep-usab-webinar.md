@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2023-09-26 #otherwise use end-date
 permalink: /event/best-practices-webinar-sep2023/
 description: This session will introduce the concept, development, tools, and benefits of creating and using accessible maps. Presenters from the Federal Aviation Administration and the Minnesota Department of Natural Resources of the State of Minnesota will discuss how they create accessible maps in different formats to meet their missions of informing and educating the public.
+topic: Events
+sub-topic: 
+- Webinar
 image:
 image-alt: 
 created: 2023-09-19

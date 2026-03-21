@@ -10,11 +10,19 @@ redirect_from:
 redirect_to:
 - art/
 description: The Accessibility Requirements Tool (ART) helps federal teams identify applicable Section 508 requirements and generate accessibility language for ICT procurements.
+topic: 
+- buy
+- tools
+sub-topic:
+- Acquisition Documentation
+- Best Practices
+- Tools
 audience:
-- Acquisition (acq)
-- Chief Acquisition Officer (cao)
-- Agency Senior Procurement Executive (spe)
-- 508 Program Manager (508pm)
+- Buyer
+- Chief Acquisition Officer (CAO)
+- Chief Information Officers (CIO)
+- Senior Procurement Executive (SPE)
+- Section 508 Program Manager
 topic: Tools (tools)
 sub-topic: Acquisition Tools
 resource-type: Tool (tool)

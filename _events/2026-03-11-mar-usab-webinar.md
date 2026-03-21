@@ -5,6 +5,10 @@ permalink: /event/best-practices-webinar-mar2026/
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2026-03-31 #otherwise use end-date
 description: Presenters from the General Services Administration provide an overview of the FY 2025 Governmentwide Section 508 Assessment, including key findings and recommendations for Congress and federal agencies.
+topic: Events
+sub-topic: 
+- Webinar
+created: 2026-03-11
 ---
 Now in its third year, the Governmentwide Section 508 Assessment evaluates how well federal agencies provide accessible and usable information and communication technology (ICT) consistent with Section 508 requirements. The presenters will provide an overview of the FY 2025 Governmentwide Section 508 Assessment, including key findings and recommendations for Congress and federal agencies.
 

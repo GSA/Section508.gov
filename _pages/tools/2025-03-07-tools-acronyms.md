@@ -23,7 +23,7 @@ topic:
 subtopic: 
 - Accessibility Law & Policy
 - Reporting
-resource_type: 
+resource-type: 
 - article
 format: html
 created: 2025-03-07

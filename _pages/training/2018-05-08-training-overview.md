@@ -7,6 +7,16 @@ permalink: training-home/
 redirect_from:
  - training/508-training/
 description: Explore Section 508 training, tools, and events to help your agency make digital services accessible to everyone. Access online courses, video tutorials, trusted tester certification, and tools to support Section 508 compliance.
+topic: 
+- About
+- Buy
+- Create
+- Training
+sub-topic:
+- Online Training Courses
+- Training Videos Library
+- Events
+- Tools 
 disclaimer: true
 created: 2018-05-08
 updated: 2025-08-05

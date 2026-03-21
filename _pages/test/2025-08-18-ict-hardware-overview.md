@@ -21,7 +21,7 @@ subtopic:
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Design, Develop, Testing for Accessibility Training or Tools
 - Hardware
-resource_type: 
+resource-type: 
 - process-how-to
 format: html
 created: 2025-08-18

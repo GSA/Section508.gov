@@ -5,6 +5,9 @@ permalink: /event/best-practices-webinar-jan2025/
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2025-01-21 #otherwise use end-date
 description: Presenters from the General Services Administration will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations.
+topic: Events
+sub-topic: 
+- Webinar
 event-registration: https://accessibilityonline.org/ADA-Audio/session?id=111147
 created: 2024-12-03
 updated: 2025-01-07

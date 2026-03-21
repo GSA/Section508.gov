@@ -20,8 +20,8 @@ subtopic:
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Accessible Acquisition Info, Guidance & Best Practices
 - Acquisition Related Training or Tools(Buy/Sell)
-resource_type: 
-- article
+resource-type: 
+- Article
 format: html
 created: 2025-06-11
 contributors: usab

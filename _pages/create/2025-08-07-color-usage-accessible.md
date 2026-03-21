@@ -22,7 +22,7 @@ subtopic:
 - PDFs
 - Presentations
 - Software
-resource_type: 
+resource-type: 
 - article
 redirect_from:
 - training/making-color-usage-accessible/

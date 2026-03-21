@@ -5,6 +5,7 @@ start-date: 2021-06-24 #only fill in start date if the events spans multiple day
 end-date: 2021-06-25 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/3rd-annual-digital-accessibility-summit/
 description: Join accessibility and legal experts at the 3rd Annual Digital Accessibility Summit to explore current trends, gain practical insights, and connect with peers—offered in-person in Washington, D.C., with flexible online participation.
+topic: Events
 image:
 image-alt: 
 created: 2021-06-24

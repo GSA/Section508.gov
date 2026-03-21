@@ -22,10 +22,8 @@ subtopic:
 - Accessible Acquisition Info, Guidance & Best Practices
 - Forms
 - Manage a 508 Program
-resource_type: 
+resource-type: 
 - article
-- law-policy
-- template
 format: html
 created: 2025-07-24
 updated: #Add/update date stamp for each review/update

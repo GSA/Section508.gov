@@ -5,6 +5,7 @@ start-date: #only fill in start date if the events spans multiple days (YYYY-MM-
 end-date: 2020-11-12 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/unmasking-accessibility-moving-beyond-band-aid-solution/ 
 description: Accessibility isn’t a one-time fix—learn how to embed accessibility into business processes, beyond tools and compliance, to build sustainable, organization-wide digital accessibility practices.
+topic: Events
 image:
 image-alt: 
 created: 2020-11-12

@@ -28,9 +28,8 @@ subtopic:
 - Accessible Selling Info, Guidance, & Best Practices
 - Other Accessibility Training or Tools
 - VPAT/ACR Production & Eval
-resource_type: 
-- article
-- tool
+resource-type: 
+- Article
 format: html
 created: 2025-04-28
 updated: 2026-03-19
