@@ -123,3 +123,8 @@ format:
   - Spreadsheet (XLSX)
   - Spreadsheet (XLS)
   - Image
+  - YAML
+  - Audio-Only
+  - ZIP
+  - CSV
+  - JSON
