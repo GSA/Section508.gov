@@ -5,13 +5,13 @@ document.addEventListener("DOMContentLoaded", function () {
     policy: { backgroundClass: "bg-blue", textClass: "text-white" },
     buy: { backgroundClass: "bg-green", textClass: "text-white" },
     sell: { backgroundClass: "bg-green", textClass: "text-white" },
-    create: { backgroundClass: "bg-orange", textClass: "text-black" },
+    create: { backgroundClass: "bg-red", textClass: "text-white" },
     design: { backgroundClass: "bg-magenta", textClass: "text-white" },
     develop: { backgroundClass: "bg-magenta", textClass: "text-white" },
-    testing: { backgroundClass: "bg-gold", textClass: "text-black" },
-    training: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
-    tools: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
-    events: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
+    testing: { backgroundClass: "bg-accent-warm-dark", textClass: "text-white" },
+    training: { backgroundClass: "bg-accent-cool-darker", textClass: "text-white" },
+    tools: { backgroundClass: "bg-accent-cool-darker", textClass: "text-white" },
+    events: { backgroundClass: "bg-accent-cool-darker", textClass: "text-white" },
     about: { backgroundClass: "bg-base-dark", textClass: "text-white" },
     other: { backgroundClass: "bg-base-dark", textClass: "text-white" }
   };
@@ -171,7 +171,18 @@ document.addEventListener("DOMContentLoaded", function () {
       const header = card.querySelector("[data-card-topic-header]");
       const heading = card.querySelector("[data-card-topic-heading]");
       if (header) {
-        header.classList.remove("bg-blue", "bg-green", "bg-orange", "bg-magenta", "bg-gold", "bg-accent-cool");
+        header.classList.remove(
+          "bg-blue",
+          "bg-green",
+          "bg-orange",
+          "bg-red",
+          "bg-magenta",
+          "bg-gold",
+          "bg-accent-cool",
+          "bg-accent-warm-dark",
+          "bg-accent-cool-darker",
+          "bg-base-dark"
+        );
         header.classList.add(topicStyle.backgroundClass);
       }
       if (heading) {

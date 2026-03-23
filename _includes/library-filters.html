@@ -12,7 +12,7 @@
     {% assign audiences = taxonomy.audience | default: empty %}
     {% assign resource_types = taxonomy["resource-type"] | default: empty %}
     {% assign formats = taxonomy.format | default: empty %}
-    {% assign topic_filter_groups = "Policy & Management::Manage|Law|Policy::bg-blue::text-white@@Acquisition::Buy|Sell::bg-green::text-white@@Content Creation::Create::bg-orange::text-black@@Design & Develop::Design|Develop::bg-magenta::text-white@@Testing::Testing::bg-gold::text-black@@Training, Tools & Events::Training|Tools|Events::bg-accent-cool::text-black@@Other::About|Other::bg-base-dark::text-white" | split: "@@" %}
+    {% assign topic_filter_groups = "Policy & Management::Manage|Law|Policy::bg-blue::text-white@@Acquisition::Buy|Sell::bg-green::text-white@@Content Creation::Create::bg-red::text-white@@Design & Develop::Design|Develop::bg-magenta::text-white@@Testing::Testing::bg-accent-warm-dark::text-white@@Training, Tools & Events::Training|Tools|Events::bg-accent-cool-darker::text-white@@Other::About|Other::bg-base-dark::text-white" | split: "@@" %}
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">

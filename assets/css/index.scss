@@ -2013,18 +2013,19 @@ div[role=rowheader] {
 }
 
 .filter-item--topic {
-  border-color: transparent;
   background-color: transparent;
 }
 
 .filter-item--topic .usa-checkbox__label {
+  color: #1b1b1b;
+  background-color: #ffffff !important;
   border: 1px solid currentColor;
   border-radius: 0.25rem;
   transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
 }
 
 .filter-item--topic .usa-checkbox__input--tile:not(:checked)+[class*=__label] {
-  opacity: 0.9;
+  opacity: 1;
 }
 
 .filter-item--topic .usa-checkbox__input--tile:hover+[class*=__label] {
@@ -2033,47 +2034,97 @@ div[role=rowheader] {
 }
 
 .filter-item--topic .usa-checkbox__label.bg-blue {
-  background-color: #005ea2 !important;
+  border-color: #005ea2;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-green {
-  background-color: #2e8540 !important;
+  border-color: #2e8540;
+}
+
+.filter-item--topic .usa-checkbox__label.bg-red {
+  border-color: #d54309;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-orange {
-  background-color: #fa9441 !important;
+  border-color: #fa9441;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-magenta {
-  background-color: #c84281 !important;
+  border-color: #c84281;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-gold {
-  background-color: #ffbe2e !important;
+  border-color: #ffbe2e;
+}
+
+.filter-item--topic .usa-checkbox__label.bg-accent-warm-dark {
+  border-color: #8b0a03;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-accent-cool {
-  background-color: #00bde3 !important;
+  border-color: #00bde3;
+}
+
+.filter-item--topic .usa-checkbox__label.bg-accent-cool-darker {
+  border-color: #07648d;
 }
 
 .filter-item--topic .usa-checkbox__label.bg-base-dark {
-  background-color: #565c65 !important;
-}
-
-.filter-item--topic .usa-checkbox__label.text-white,
-.filter-item--topic.text-white .usa-checkbox__label {
-  color: #ffffff;
-}
-
-.filter-item--topic .usa-checkbox__label.text-black,
-.filter-item--topic.text-black .usa-checkbox__label {
-  color: #1b1b1b;
+  border-color: #565c65;
 }
 
 .filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label] {
   border-width: 1px;
   opacity: 1;
   box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.65), 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-blue {
+  background-color: #005ea2 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-green {
+  background-color: #2e8540 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-red {
+  background-color: #d54309 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-orange {
+  background-color: #fa9441 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-magenta {
+  background-color: #c84281 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-gold {
+  background-color: #ffbe2e !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-accent-warm-dark {
+  background-color: #8b0a03 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-accent-cool {
+  background-color: #00bde3 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-accent-cool-darker {
+  background-color: #07648d !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].bg-base-dark {
+  background-color: #565c65 !important;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].text-white {
+  color: #ffffff;
+}
+
+.filter-item--topic .usa-checkbox__input--tile:checked+[class*=__label].text-black {
+  color: #1b1b1b;
 }
 
 .filter-item:focus-within {
@@ -2087,17 +2138,6 @@ div[role=rowheader] {
   opacity: 0.75;
 }
 
-.filter-item--topic.filter-item--disabled {
-  background-color: transparent;
-  opacity: 1;
-}
-
-.filter-item--topic.filter-item--disabled .usa-checkbox__label {
-  opacity: 0.38;
-  filter: grayscale(0.3);
-  box-shadow: none;
-}
-
 .usa-checkbox__input--tile:disabled+[class*=__label] {
   color: #757575;
   cursor: not-allowed;
@@ -2105,6 +2145,9 @@ div[role=rowheader] {
 
 .filter-item--topic .usa-checkbox__input--tile:disabled+[class*=__label] {
   cursor: not-allowed;
+  background-color: transparent !important;
+  border-color: transparent;
+  box-shadow: none;
 }
 
 /* Content Library - remove default list styling */
