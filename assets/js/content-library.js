@@ -101,6 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let checkboxes = [];
   let cards = [];
   let filterGroupConfigs = [];
+  let documentLinkSources = [];
 
   function refreshElements() {
     checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
@@ -111,6 +112,25 @@ document.addEventListener("DOMContentLoaded", function () {
         attr: fieldset.dataset.filterAttr || `data-${fieldset.dataset.filterGroup}`
       })
     );
+  }
+
+  function normalizeLinkTarget(value) {
+    try {
+      return new URL(String(value || ""), window.location.origin).href;
+    } catch (error) {
+      return String(value || "").trim();
+    }
+  }
+
+  function initializeDocumentLinkSources() {
+    documentLinkSources = Array.from(document.querySelectorAll("[data-library-link-source]")).map(source => ({
+      title: normalizeDisplayText(source.dataset.libraryLinkSourceTitle || source.textContent || "Untitled page"),
+      url: source.dataset.libraryLinkSourceUrl || "#",
+      documents: (source.dataset.libraryLinkSourceDocuments || "")
+        .split("|")
+        .map(item => normalizeLinkTarget(item))
+        .filter(Boolean)
+    }));
   }
 
   function normalizeCheckboxes() {
@@ -189,6 +209,47 @@ document.addEventListener("DOMContentLoaded", function () {
         heading.textContent = toTitleCase(primaryTopic);
         heading.classList.remove("text-white", "text-black");
         heading.classList.add(topicStyle.textClass);
+      }
+    });
+  }
+
+  function populateDocumentLinkAccordions() {
+    cards.forEach(card => {
+      if (card.dataset.librarySource !== "document") return;
+
+      const documentPermalink = normalizeLinkTarget(card.dataset.documentPermalink);
+      const accordion = card.querySelector("[data-library-linked-from]");
+      const footer = card.querySelector(".library-card__footer");
+      const linkList = card.querySelector("[data-library-linked-from-list]");
+      const summary = card.querySelector(".library-card-linked-from__summary");
+
+      if (!documentPermalink || !linkList) return;
+
+      const matchedPages = documentLinkSources.filter(source => source.documents.includes(documentPermalink));
+      linkList.innerHTML = "";
+
+      matchedPages.forEach(source => {
+        const item = document.createElement("li");
+        item.className = "font-sans-3xs";
+
+        const link = document.createElement("a");
+        link.href = source.url;
+        link.textContent = source.title;
+
+        item.appendChild(link);
+        linkList.appendChild(item);
+      });
+
+      if (accordion) {
+        accordion.open = false;
+      }
+
+      if (footer) {
+        footer.classList.toggle("display-none", matchedPages.length === 0);
+      }
+
+      if (summary) {
+        summary.textContent = `Linked from (${matchedPages.length})`;
       }
     });
   }
@@ -451,9 +512,11 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   refreshElements();
+  initializeDocumentLinkSources();
   normalizeCheckboxes();
   refreshElements();
   initializeCards();
+  populateDocumentLinkAccordions();
   applyURLFilters();
 
   checkboxes.forEach(cb => {
