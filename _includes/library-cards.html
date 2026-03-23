@@ -9,18 +9,19 @@
         </p>
     </div>
     {% assign pages_posts = site.pages | concat: site.posts %}
-    {% assign topics = pages_posts | map: "topic" | uniq | compact | sort %}
-    {% assign sub-topics = pages_posts | map: "sub-topic" | uniq | compact | sort %}
-    {% assign audience = pages_posts | map: "audience" | uniq | compact | sort %}
-    {% assign resource-types = pages_posts | map: "resource-type" | uniq | compact | sort %}
-    {% assign formats = pages_posts | map: "format" | uniq | compact | sort %}
+    {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
+    {% assign topics = library_items | map: "topic" | uniq | compact | sort %}
+    {% assign sub-topics = library_items | map: "sub-topic" | uniq | compact | sort %}
+    {% assign audience = library_items | map: "audience" | uniq | compact | sort %}
+    {% assign resource-types = library_items | map: "resource-type" | uniq | compact | sort %}
+    {% assign formats = library_items | map: "format" | uniq | compact | sort %}
     <div id="active-filters-container" class="margin-bottom-2">
         <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
                 <ul id="active-filters-list" class="active-filters-list"></ul>
         </p>
     </div>
     <ul id="library-cards" class="usa-card-group">
-        {% for page in pages_posts %}
+        {% for page in library_items %}
         {% if page.exclude-library %}
         {% else %}
             {% assign page_description = page.description | default: "" | strip_html | strip_newlines | strip %}
@@ -41,7 +42,7 @@
                 </div>
                 <div class="usa-card__body">
                     <p class="font-sans-sm">
-                        <a class="no-style" href="{{ site.baseurl }}/{{ page.permalink }}">{{ page.title }}</a>
+                        <a class="no-style" href="{{ page.permalink | relative_url }}">{{ page.title }}</a>
                     </p>
                     {% if page_description != "" %}
                     <p class="font-sans-2xs library-card-description margin-top-1 margin-bottom-0">
