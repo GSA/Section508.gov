@@ -1,4 +1,25 @@
 document.addEventListener("DOMContentLoaded", function () {
+  const topicStyles = {
+    manage: { backgroundClass: "bg-blue", textClass: "text-white" },
+    law: { backgroundClass: "bg-blue", textClass: "text-white" },
+    policy: { backgroundClass: "bg-blue", textClass: "text-white" },
+    buy: { backgroundClass: "bg-green", textClass: "text-white" },
+    sell: { backgroundClass: "bg-green", textClass: "text-white" },
+    create: { backgroundClass: "bg-orange", textClass: "text-black" },
+    design: { backgroundClass: "bg-magenta", textClass: "text-white" },
+    develop: { backgroundClass: "bg-magenta", textClass: "text-white" },
+    testing: { backgroundClass: "bg-gold", textClass: "text-black" },
+    training: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
+    tools: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
+    events: { backgroundClass: "bg-accent-cool", textClass: "text-black" },
+    about: { backgroundClass: "bg-base-dark", textClass: "text-white" },
+    other: { backgroundClass: "bg-base-dark", textClass: "text-white" }
+  };
+
+  function getTopicStyle(value) {
+    return topicStyles[normalizeFilterValue(value)] || topicStyles.other;
+  }
+
   function normalizeFilterValue(value) {
     return String(value || "")
       .trim()
@@ -139,15 +160,24 @@ document.addEventListener("DOMContentLoaded", function () {
     cards.forEach(card => {
       const topicGroup = filterGroupConfigs.find(config => config.group === "topic");
       const topicValues = topicGroup ? getCardRawValues(card, topicGroup.attr) : [];
+      const primaryTopic = topicValues[0] || "Other";
+      const topicStyle = getTopicStyle(primaryTopic);
 
       filterGroupConfigs.forEach(({ attr }) => {
         const normalizedValues = getCardNormalizedValues(card, attr);
         card.setAttribute(attr, JSON.stringify(normalizedValues));
       });
 
+      const header = card.querySelector("[data-card-topic-header]");
       const heading = card.querySelector("[data-card-topic-heading]");
+      if (header) {
+        header.classList.remove("bg-blue", "bg-green", "bg-orange", "bg-magenta", "bg-gold", "bg-accent-cool");
+        header.classList.add(topicStyle.backgroundClass);
+      }
       if (heading) {
-        heading.textContent = toTitleCase(topicValues[0] || "Other");
+        heading.textContent = toTitleCase(primaryTopic);
+        heading.classList.remove("text-white", "text-black");
+        heading.classList.add(topicStyle.textClass);
       }
     });
   }

@@ -11,6 +11,7 @@
     {% assign audiences = taxonomy.audience | default: empty %}
     {% assign resource_types = taxonomy["resource-type"] | default: empty %}
     {% assign formats = taxonomy.format | default: empty %}
+    {% assign topic_filter_groups = "Policy & Management::Manage|Law|Policy::bg-blue::text-white@@Acquisition::Buy|Sell::bg-green::text-white@@Content Creation::Create::bg-orange::text-black@@Design & Develop::Design|Develop::bg-magenta::text-white@@Testing::Testing::bg-gold::text-black@@Training, Tools & Events::Training|Tools|Events::bg-accent-cool::text-black@@Other::About|Other::bg-base-dark::text-white" | split: "@@" %}
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">
@@ -29,32 +30,45 @@
                         </h2>
                     </legend>
                     <div id="topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
-                        {% for item in topics %}
-                            {% assign fil = item | slugify %}
-                            {% assign has_matching_content = false %}
-                            {% for page in pages_posts %}
-                                {% unless page.exclude-library %}
-                                    {% if page.topic contains item %}
-                                        {% assign has_matching_content = true %}
-                                        {% break %}
-                                    {% endif %}
-                                {% endunless %}
-                            {% endfor %}
-                            {% if fil != "" and has_matching_content %}
-                        <div class="usa-checkbox filter-item margin-2px">
+                        {% for group_definition in topic_filter_groups %}
+                            {% assign group_parts = group_definition | split: "::" %}
+                            {% assign group_title = group_parts[0] %}
+                            {% assign group_topics = group_parts[1] | split: "|" %}
+                            {% assign group_bg_class = group_parts[2] %}
+                            {% assign group_text_class = group_parts[3] %}
+                            <div class="filter-topic-group">
+                                <h3 class="filter-topic-group__title font-sans-2xs text-bold text-uppercase margin-top-0 margin-bottom-1">{{ group_title }}</h3>
+                                <div class="filter-topic-group__items">
+                                    {% for item in group_topics %}
+                                        {% assign fil = item | slugify %}
+                                        {% assign has_matching_content = false %}
+                                        {% for page in pages_posts %}
+                                            {% unless page.exclude-library %}
+                                                {% if page.topic contains item %}
+                                                    {% assign has_matching_content = true %}
+                                                    {% break %}
+                                                {% endif %}
+                                            {% endunless %}
+                                        {% endfor %}
+                                        {% if fil != "" and has_matching_content %}
+                                            {% capture filter_id %}check-{{ fil }}-{% increment counter1 %}{% endcapture %}
+                        <div class="usa-checkbox filter-item filter-item--topic {{ group_bg_class }} {{ group_text_class }} margin-2px" data-topic-group="{{ group_title | escape }}">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}-{% increment counter1 %}"
+                                id="{{ filter_id }}"
                                 type="checkbox"
                                 name="topic"
                                 value="{{ item | escape }}"
                                 data-filter-label="{{ item | escape }}"
                             />
-                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                            <label class="usa-checkbox__label font-sans-xs {{ group_bg_class }} {{ group_text_class }}" for="{{ filter_id }}"
                                 >{{ item }}</label
                             >
                         </div>
-                            {% endif %}
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            </div>
                         {% endfor %}
                     </div>
                 </fieldset>
@@ -85,16 +99,17 @@
                                 {% endunless %}
                             {% endfor %}
                             {% if fil != "" and has_matching_content %}
+                            {% capture filter_id %}check-{{ fil }}-{% increment counter1 %}{% endcapture %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}-{% increment counter1 %}"
+                                id="{{ filter_id }}"
                                 type="checkbox"
                                 name="sub_topic"
                                 value="{{ item | escape }}"
                                 data-filter-label="{{ item | escape }}"
                             />
-                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                            <label class="usa-checkbox__label font-sans-xs" for="{{ filter_id }}"
                                 >{{ item }}</label
                             >
                         </div>
@@ -129,16 +144,17 @@
                                 {% endunless %}
                             {% endfor %}
                             {% if fil != "" and has_matching_content %}
+                            {% capture filter_id %}check-{{ fil }}-{% increment counter1 %}{% endcapture %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}-{% increment counter1 %}"
+                                id="{{ filter_id }}"
                                 type="checkbox"
                                 name="audience"
                                 value="{{ item | escape }}"
                                 data-filter-label="{{ item | escape }}"
                             />
-                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                            <label class="usa-checkbox__label font-sans-xs" for="{{ filter_id }}"
                                 >{{ item }}</label
                             >
                         </div>
@@ -173,16 +189,17 @@
                                 {% endunless %}
                             {% endfor %}
                             {% if fil != "" and has_matching_content %}
+                            {% capture filter_id %}check-{{ fil }}-{% increment counter1 %}{% endcapture %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}-{% increment counter1 %}"
+                                id="{{ filter_id }}"
                                 type="checkbox"
                                 name="resource_type"
                                 value="{{ item | escape }}"
                                 data-filter-label="{{ item | escape }}"
                             />
-                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                            <label class="usa-checkbox__label font-sans-xs" for="{{ filter_id }}"
                                 >{{ item }}</label
                             >
                         </div>
@@ -217,16 +234,17 @@
                                 {% endunless %}
                             {% endfor %}
                             {% if fil != "" and has_matching_content %}
+                            {% capture filter_id %}check-{{ fil }}-{% increment counter1 %}{% endcapture %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}-{% increment counter1 %}"
+                                id="{{ filter_id }}"
                                 type="checkbox"
                                 name="format"
                                 value="{{ item | escape }}"
                                 data-filter-label="{{ item | escape }}"
                             />
-                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                            <label class="usa-checkbox__label font-sans-xs" for="{{ filter_id }}"
                                 >{{ item }}</label
                             >
                         </div>

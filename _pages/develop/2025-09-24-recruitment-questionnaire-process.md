@@ -12,7 +12,6 @@ audience:
 topic: 
 - Design
 - Develop
-- Other
 - Testing
 subtopic: 
 - Design, Develop, Testing for Accessibility Training or Tools
