@@ -2253,10 +2253,20 @@ div[role=rowheader] {
   content: none;
 }
 
-/* Style the link inside the list item */
-.active-filters-list a {
+/* Style the interactive control inside the list item */
+.active-filters-list a,
+.active-filters-list__button {
   text-decoration: none;
   color: inherit;
+}
+
+.active-filters-list__button {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
 }
 
 .card-tag {

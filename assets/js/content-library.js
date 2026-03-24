@@ -374,21 +374,22 @@ document.addEventListener("DOMContentLoaded", function () {
         item.dataset.filterGroup = group;
         item.dataset.filter = value;
 
-        const link = document.createElement("a");
-        link.href = "javascript:void(0)";
-        link.setAttribute(
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "active-filters-list__button";
+        button.setAttribute(
           "aria-label",
           `Remove filter by ${group.replace(/_/g, " ")}: ${checkbox.dataset.filterLabel}`
         );
 
-        link.innerHTML = `
+        button.innerHTML = `
           <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
             <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
           </svg>
           ${checkbox.dataset.filterLabel}
         `;
 
-        item.appendChild(link);
+        item.appendChild(button);
         fragment.appendChild(item);
       });
     });
@@ -644,8 +645,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   pillContainer?.addEventListener("click", function (event) {
-    const anchor = event.target.closest("a");
-    const pill = anchor?.closest("li[data-filter]");
+    const button = event.target.closest("button");
+    const pill = button?.closest("li[data-filter]");
     if (!pill) return;
 
     event.preventDefault();
