@@ -202,7 +202,7 @@ exclude:
   - tsconfig.app.json
   - tsconfig.json
   - tsconfig.spec.json
-  - scripts/generate-content-library-yml.js
+  - scripts/update-content-library
 
 autoprefixer:
   browsers:
@@ -219,4 +219,3 @@ sass:
   quiet_deps: true
   style: compressed
   verbose: true
-
