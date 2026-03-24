@@ -20,6 +20,7 @@ topic:
 subtopic: 
 - General Info and Best Practices
 - Manage a 508 Program
+- Risk Management
 resource-type: 
 - Article
 format: HTML
