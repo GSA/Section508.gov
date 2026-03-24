@@ -3,6 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const SITE_ORIGIN = "";
+const PROJECT_ROOT = path.resolve(__dirname, "..");
 
 const FORMAT_MAP = {
   ".pdf": "Document (PDF)",
@@ -61,6 +62,29 @@ function detectFormat(filePath) {
 
 function toPosixPath(value) {
   return value.split(path.sep).join("/");
+}
+
+function isPathInside(parentPath, childPath) {
+  const relativePath = path.relative(parentPath, childPath);
+  return relativePath === "" || (!relativePath.startsWith("..") && !path.isAbsolute(relativePath));
+}
+
+function resolveProjectPath(inputPath, label) {
+  if (!inputPath) {
+    throw new Error(`${label} is required.`);
+  }
+
+  if (path.isAbsolute(inputPath)) {
+    throw new Error(`${label} must be a relative path inside the project.`);
+  }
+
+  const resolvedPath = path.resolve(PROJECT_ROOT, inputPath);
+
+  if (!isPathInside(PROJECT_ROOT, resolvedPath)) {
+    throw new Error(`${label} must stay inside the project directory.`);
+  }
+
+  return resolvedPath;
 }
 
 function formatPermalink(filePath, baseDir, permalinkBase = "/") {
@@ -158,16 +182,16 @@ function walkDirectory(dirPath) {
 function printUsage() {
   console.log(`
 Usage:
-  node scripts/generate-library-yml.js <input_dir> [output_file] [permalink_base] [extensions]
+  node scripts/generate-content-library-yml.js <input_dir> [output_file] [permalink_base] [extensions]
 
 Examples:
-  node scripts/generate-library-yml.js assets/files
-  node scripts/generate-library-yml.js assets/files _data/content-library-documents.yml /assets/files
-  node scripts/generate-library-yml.js assets/files _data/content-library-documents.yml /assets/files .pdf,.docx,.pptx,.xlsx
+  node scripts/generate-content-library-yml.js assets/files
+  node scripts/generate-content-library-yml.js assets/files _data/content-library-documents.yml /assets/files
+  node scripts/generate-content-library-yml.js assets/files _data/content-library-documents.yml /assets/files .pdf,.docx,.pptx,.xlsx
 
 Arguments:
-  <input_dir>       Directory to scan recursively
-  [output_file]     Output YAML file (default: content-library-documents.yml)
+  <input_dir>       Project-relative directory to scan recursively
+  [output_file]     Project-relative output YAML file (default: content-library-documents.yml)
   [permalink_base]  Base path prefix for permalinks (default: /)
   [extensions]      Optional comma-separated list of extensions to include
                     Example: .pdf,.docx,.pptx,.xlsx
@@ -182,42 +206,46 @@ function main() {
     process.exit(args.length < 1 ? 1 : 0);
   }
 
-  const inputDir = path.resolve(args[0]);
-  const outputFile = path.resolve(args[1] || "content-library-documents.yml");
-  const permalinkBase = args[2] || "/";
-  const extensionsArg = args[3];
+  try {
+    const inputDir = resolveProjectPath(args[0], "Input directory");
+    const outputFile = resolveProjectPath(args[1] || "content-library-documents.yml", "Output file");
+    const permalinkBase = args[2] || "/";
+    const extensionsArg = args[3];
 
-  if (!fs.existsSync(inputDir) || !fs.statSync(inputDir).isDirectory()) {
-    console.error(`Error: input directory does not exist or is not a directory: ${inputDir}`);
+    if (!fs.existsSync(inputDir) || !fs.statSync(inputDir).isDirectory()) {
+      throw new Error(`Input directory does not exist or is not a directory: ${inputDir}`);
+    }
+
+    let extensions = null;
+    if (extensionsArg) {
+      extensions = new Set(
+        extensionsArg
+          .split(",")
+          .map((ext) => ext.trim().toLowerCase())
+          .filter(Boolean)
+          .map((ext) => (ext.startsWith(".") ? ext : `.${ext}`))
+      );
+    }
+
+    const files = walkDirectory(inputDir)
+      .filter((filePath) => shouldInclude(filePath, extensions))
+      .sort((a, b) => {
+        const relA = toPosixPath(path.relative(inputDir, a)).toLowerCase();
+        const relB = toPosixPath(path.relative(inputDir, b)).toLowerCase();
+        return relA.localeCompare(relB);
+      });
+
+    const entries = files.map((filePath) => buildEntry(filePath, inputDir, permalinkBase));
+    const outputText = entries.join("\n\n") + (entries.length ? "\n" : "");
+
+    fs.mkdirSync(path.dirname(outputFile), { recursive: true });
+    fs.writeFileSync(outputFile, outputText, "utf8");
+
+    console.log(`Wrote ${files.length} entries to ${outputFile}`);
+  } catch (error) {
+    console.error(`Error: ${error.message}`);
     process.exit(1);
   }
-
-  let extensions = null;
-  if (extensionsArg) {
-    extensions = new Set(
-      extensionsArg
-        .split(",")
-        .map((ext) => ext.trim().toLowerCase())
-        .filter(Boolean)
-        .map((ext) => (ext.startsWith(".") ? ext : `.${ext}`))
-    );
-  }
-
-  const files = walkDirectory(inputDir)
-    .filter((filePath) => shouldInclude(filePath, extensions))
-    .sort((a, b) => {
-      const relA = toPosixPath(path.relative(inputDir, a)).toLowerCase();
-      const relB = toPosixPath(path.relative(inputDir, b)).toLowerCase();
-      return relA.localeCompare(relB);
-    });
-
-  const entries = files.map((filePath) => buildEntry(filePath, inputDir, permalinkBase));
-  const outputText = entries.join("\n\n") + (entries.length ? "\n" : "");
-
-  fs.mkdirSync(path.dirname(outputFile), { recursive: true });
-  fs.writeFileSync(outputFile, outputText, "utf8");
-
-  console.log(`Wrote ${files.length} entries to ${outputFile}`);
 }
 
 main();
