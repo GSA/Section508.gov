@@ -78,11 +78,24 @@ document.addEventListener("DOMContentLoaded", function () {
     return [normalizeDisplayText(value)].filter(Boolean);
   }
 
+  function normalizeSearchText(value) {
+    return String(value || "")
+      .toLowerCase()
+      .replace(/&/g, " and ")
+      .replace(/\+/g, " and ")
+      .replace(/[_/]+/g, " ")
+      .replace(/[-–—]+/g, " ")
+      .replace(/[.,:;()[\]'"]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
   function getFiltersFromURL() {
     const params = new URLSearchParams(window.location.search);
     const filters = {};
 
     for (const [key, value] of params.entries()) {
+      if (key === "search") continue;
       if (!filters[key]) filters[key] = [];
       filters[key].push(normalizeFilterValue(value));
     }
@@ -90,16 +103,24 @@ document.addEventListener("DOMContentLoaded", function () {
     return filters;
   }
 
+  function getSearchQueryFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return normalizeDisplayText(params.get("search") || "");
+  }
+
   const pillContainer = document.getElementById("active-filters-list");
   const noFiltersText = document.getElementById("no-filters");
   const resetButton = document.getElementById("reset-filters");
   const countSpan = document.getElementById("filter-count");
   const cardsContainer = document.getElementById("library-cards");
+  const searchInput = document.getElementById("library-search");
+  const searchClearButton = document.getElementById("library-search-clear");
   const cardFadeDuration = 220;
   const cardReflowDuration = 700;
 
   let hasInitializedCardLayout = false;
   let cardAnimationCycle = 0;
+  let searchQuery = "";
   let checkboxes = [];
   let cards = [];
   let filterGroupConfigs = [];
@@ -107,7 +128,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function refreshElements() {
     checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
-    cards = Array.from(document.querySelectorAll("#library-cards li"));
+    cards = Array.from(
+      document.querySelectorAll("#library-cards li:not([data-library-excluded='true'])")
+    );
     filterGroupConfigs = Array.from(document.querySelectorAll("#filter fieldset[data-filter-group]")).map(
       fieldset => ({
         group: fieldset.dataset.filterGroup,
@@ -184,11 +207,19 @@ document.addEventListener("DOMContentLoaded", function () {
       const topicValues = topicGroup ? getCardRawValues(card, topicGroup.attr) : [];
       const primaryTopic = topicValues[0] || "Other";
       const topicStyle = getTopicStyle(primaryTopic);
+      const searchableParts = [
+        card.dataset.searchTitle,
+        card.dataset.searchDescription
+      ];
 
       filterGroupConfigs.forEach(({ attr }) => {
+        const rawValues = getCardRawValues(card, attr);
         const normalizedValues = getCardNormalizedValues(card, attr);
+        searchableParts.push(rawValues.join(" "));
         card.setAttribute(attr, JSON.stringify(normalizedValues));
       });
+
+      card.dataset.searchText = normalizeSearchText(searchableParts.join(" "));
 
       const header = card.querySelector("[data-card-topic-header]");
       const heading = card.querySelector("[data-card-topic-heading]");
@@ -242,12 +273,17 @@ document.addEventListener("DOMContentLoaded", function () {
         linkList.appendChild(item);
       });
 
+      const hasLinkedPages = matchedPages.length > 0;
+
+      card.dataset.libraryExcluded = hasLinkedPages ? "false" : "true";
+      card.classList.toggle("display-none", !hasLinkedPages);
+
       if (accordion) {
         accordion.open = false;
       }
 
       if (footer) {
-        footer.classList.toggle("display-none", matchedPages.length === 0);
+        footer.classList.toggle("display-none", !hasLinkedPages);
       }
 
       if (summary) {
@@ -284,13 +320,35 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
+  function matchesSearchQuery(card, query) {
+    const normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) return true;
+
+    return normalizeSearchText(card.dataset.searchText).includes(normalizedQuery);
+  }
+
+  function updateSearchClearButton(query) {
+    if (!searchClearButton) return;
+
+    const hasQuery = Boolean(normalizeDisplayText(query));
+    searchClearButton.hidden = !hasQuery;
+    searchClearButton.disabled = !hasQuery;
+  }
+
   function applyURLFilters() {
     const urlFilters = getFiltersFromURL();
+    searchQuery = getSearchQueryFromURL();
 
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
       cb.checked = Boolean(group && urlFilters[group]?.includes(cb.dataset.filter));
     });
+
+    if (searchInput) {
+      searchInput.value = searchQuery;
+    }
+
+    updateSearchClearButton(searchQuery);
   }
 
   function updateFilterPills(groupedFilters) {
@@ -398,7 +456,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  function updateCheckboxStates(groupedFilters) {
+  function updateCheckboxStates(groupedFilters, query) {
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
       const value = cb.dataset.filter;
@@ -412,19 +470,26 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
       const testFilters = { ...groupedFilters, [group]: [value] };
-      const hasMatches = cards.some(card => matchesAllGroups(card, testFilters));
+      const hasMatches = cards.some(
+        card => matchesAllGroups(card, testFilters) && matchesSearchQuery(card, query)
+      );
 
       cb.disabled = !hasMatches;
       wrapper?.classList.toggle("filter-item--disabled", cb.disabled);
     });
   }
 
-  function updateURLFromFilters(groupedFilters) {
+  function updateURLFromFilters(groupedFilters, query) {
     const params = new URLSearchParams();
 
     Object.entries(groupedFilters).forEach(([group, values]) => {
       values.forEach(value => params.append(group, value));
     });
+
+    const normalizedQuery = normalizeDisplayText(query);
+    if (normalizedQuery) {
+      params.set("search", normalizedQuery);
+    }
 
     const queryString = params.toString();
     const newURL = queryString ? `${window.location.pathname}?${queryString}` : window.location.pathname;
@@ -433,6 +498,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateFilterUI() {
     const groupedFilters = getGroupedFilters();
+    const currentSearchQuery = searchInput ? searchInput.value : searchQuery;
+    searchQuery = normalizeDisplayText(currentSearchQuery);
+    updateSearchClearButton(searchQuery);
     const currentCycle = ++cardAnimationCycle;
     const previousPositions = captureCardPositions(getVisibleCards());
     const cardsToHide = [];
@@ -441,7 +509,7 @@ document.addEventListener("DOMContentLoaded", function () {
     updateFilterPills(groupedFilters);
 
     cards.forEach(card => {
-      const isMatch = matchesAllGroups(card, groupedFilters);
+      const isMatch = matchesAllGroups(card, groupedFilters) && matchesSearchQuery(card, searchQuery);
       const isHidden = card.classList.contains("display-none");
 
       if (card.hideTimer) {
@@ -485,7 +553,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (!hasInitializedCardLayout) {
       cards.forEach(card => {
-        const isMatch = matchesAllGroups(card, groupedFilters);
+        const isMatch = matchesAllGroups(card, groupedFilters) && matchesSearchQuery(card, searchQuery);
         card.classList.toggle("display-none", !isMatch);
         card.classList.remove("library-card--is-hiding", "library-card--is-entering", "library-card--is-moving");
         card.style.transform = "";
@@ -509,8 +577,18 @@ document.addEventListener("DOMContentLoaded", function () {
       revealMatchingCards();
     }
 
-    updateCheckboxStates(groupedFilters);
-    updateURLFromFilters(groupedFilters);
+    updateCheckboxStates(groupedFilters, searchQuery);
+    updateURLFromFilters(groupedFilters, searchQuery);
+  }
+
+  function isFilterToggleKey(event) {
+    return (
+      event.key === "Enter" ||
+      event.key === "Return" ||
+      event.code === "Enter" ||
+      event.code === "NumpadEnter" ||
+      event.keyCode === 13
+    );
   }
 
   refreshElements();
@@ -519,16 +597,39 @@ document.addEventListener("DOMContentLoaded", function () {
   refreshElements();
   initializeCards();
   populateDocumentLinkAccordions();
+  refreshElements();
   applyURLFilters();
 
   checkboxes.forEach(cb => {
     cb.addEventListener("change", updateFilterUI);
     cb.addEventListener("keydown", function (event) {
-      if (event.key !== "Enter") return;
+      if (!isFilterToggleKey(event)) return;
       event.preventDefault();
+      event.stopPropagation();
+      cb.dataset.enterTogglePending = "true";
+    });
+    cb.addEventListener("keyup", function (event) {
+      if (!isFilterToggleKey(event) || cb.dataset.enterTogglePending !== "true") return;
+      event.preventDefault();
+      event.stopPropagation();
+      delete cb.dataset.enterTogglePending;
       cb.checked = !cb.checked;
       updateFilterUI();
     });
+    cb.addEventListener("blur", function () {
+      delete cb.dataset.enterTogglePending;
+    });
+  });
+
+  searchInput?.addEventListener("input", updateFilterUI);
+
+  searchClearButton?.addEventListener("click", function () {
+    if (!searchInput) return;
+
+    searchInput.value = "";
+    searchInput.focus();
+    searchQuery = "";
+    updateFilterUI();
   });
 
   pillContainer?.addEventListener("click", function (event) {
@@ -554,6 +655,10 @@ document.addEventListener("DOMContentLoaded", function () {
       checkboxes.forEach(cb => {
         cb.checked = false;
       });
+      if (searchInput) {
+        searchInput.value = "";
+      }
+      searchQuery = "";
       updateFilterUI();
     });
   }

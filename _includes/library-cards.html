@@ -2,6 +2,32 @@
 
 <div class="tablet:grid-col-9">
     <h2>Content Library Cards</h2>
+    <div class="content-library-search margin-bottom-2">
+        <label class="usa-label margin-top-0" for="library-search">Search the library</label>
+        <div class="content-library-search__field">
+            <input
+                id="library-search"
+                class="usa-input content-library-search__input"
+                type="search"
+                name="search"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Search by title, description, or category"
+            />
+            <button
+                id="library-search-clear"
+                class="content-library-search__clear"
+                type="button"
+                aria-label="Clear library search"
+                hidden
+                disabled
+            >
+                <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
     <div id="filter-count-container" class="margin-bottom-2">
         <p id="filter-count-text" aria-live="polite" aria-atomic="true">
             <span id="filter-count" class="filter-count card-tag margin-top-0 text-gray-50 text-thin">X </span>
@@ -40,6 +66,8 @@
             data-audience='{{ item.audience | default: "" | jsonify | escape }}'
             data-resource_type='{{ item.resource-type | default: "" | jsonify | escape }}'
             data-format='{{ item.format | default: "" | jsonify | escape }}'
+            data-search-title='{{ item.title | default: "" | strip_html | strip_newlines | strip | escape }}'
+            data-search-description='{{ page_description | escape }}'
             data-library-source="{% if is_document_card %}document{% else %}page{% endif %}"
             {% if is_document_card %}
             data-document-permalink="{{ item.permalink | escape }}"

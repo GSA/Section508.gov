@@ -1973,6 +1973,73 @@ div[role=rowheader] {
   line-height: 1.5;
 }
 
+.content-library-search__field {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 1px solid #565c65;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.content-library-search__field:focus-within {
+  outline: 0.25rem solid #2491ff;
+  outline-offset: 0;
+}
+
+.content-library-search__input {
+  flex: 1 1 auto;
+  min-width: 0;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+  padding-right: 0.5rem;
+}
+
+.content-library-search__input:focus {
+  outline: none;
+}
+
+.content-library-search__input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.content-library-search__clear {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: 9999px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.content-library-search__clear .usa-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.content-library-search__clear:hover {
+  background-color: #d9e8f6;
+}
+
+.content-library-search__clear:focus {
+  outline: 2px solid #2491ff;
+  outline-offset: 1px;
+}
+
+.content-library-search__clear[hidden] {
+  display: none;
+}
+
 .library-card-description__toggle {
   white-space: nowrap;
 }
