@@ -35,6 +35,7 @@
         </p>
     </div>
     {% assign pages_posts = site.pages | concat: site.posts %}
+    {% capture linked_document_permalinks %}{% include library-linked-document-permalinks.html %}{% endcapture %}
     {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
     {% assign topics = library_items | map: "topic" | uniq | compact | sort %}
     {% assign sub-topics = library_items | map: "sub-topic" | uniq | compact | sort %}
@@ -54,12 +55,17 @@
             {% assign page_description_size = page_description | size %}
             {% assign page_description_truncated = page_description | slice: 0, 60 %}
             {% assign is_document_card = false %}
+            {% assign is_visible_library_item = true %}
             {% if item.filename %}
                 {% assign is_document_card = true %}
+                {% capture document_token %}||{{ item.permalink | default: "" | strip }}||{% endcapture %}
+                {% unless linked_document_permalinks contains document_token %}
+                    {% assign is_visible_library_item = false %}
+                {% endunless %}
             {% endif %}
 
             {% comment %} !!! Assign each card filter and filter shorthand from topic, sub-topic, audience, resource type, and format !!! {% endcomment %}
-        
+        {% if is_visible_library_item %}
         <li class="usa-card grid-col-12 tablet:grid-col-6 desktop:grid-col-4"
             data-topic='{{ item.topic | default: "Other" | jsonify | escape }}'
             data-sub_topic='{{ item.sub-topic | default: "" | jsonify | escape }}'
@@ -122,6 +128,7 @@
                 {% endif %}
             </div>
         </li>
+        {% endif %}
         {% endif %}
         {% endfor %}
     </ul>

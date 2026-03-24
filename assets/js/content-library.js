@@ -128,9 +128,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function refreshElements() {
     checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
-    cards = Array.from(
-      document.querySelectorAll("#library-cards li:not([data-library-excluded='true'])")
-    );
+    cards = Array.from(document.querySelectorAll("#library-cards li"));
     filterGroupConfigs = Array.from(document.querySelectorAll("#filter fieldset[data-filter-group]")).map(
       fieldset => ({
         group: fieldset.dataset.filterGroup,
@@ -273,17 +271,12 @@ document.addEventListener("DOMContentLoaded", function () {
         linkList.appendChild(item);
       });
 
-      const hasLinkedPages = matchedPages.length > 0;
-
-      card.dataset.libraryExcluded = hasLinkedPages ? "false" : "true";
-      card.classList.toggle("display-none", !hasLinkedPages);
-
       if (accordion) {
         accordion.open = false;
       }
 
       if (footer) {
-        footer.classList.toggle("display-none", !hasLinkedPages);
+        footer.classList.toggle("display-none", matchedPages.length === 0);
       }
 
       if (summary) {
@@ -597,7 +590,6 @@ document.addEventListener("DOMContentLoaded", function () {
   refreshElements();
   initializeCards();
   populateDocumentLinkAccordions();
-  refreshElements();
   applyURLFilters();
 
   checkboxes.forEach(cb => {
