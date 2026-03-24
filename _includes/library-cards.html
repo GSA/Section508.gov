@@ -69,7 +69,7 @@
         {% if is_visible_library_item %}
         <li class="usa-card grid-col-12 tablet:grid-col-6 desktop:grid-col-4"
             data-topic='{{ item.topic | default: "Other" | jsonify | escape }}'
-            data-sub_topic='{{ item.sub-topic | default: "" | jsonify | escape }}'
+            data-sub_topic='{{ item.sub-topic | default: item.subtopic | default: "" | jsonify | escape }}'
             data-audience='{{ item.audience | default: "" | jsonify | escape }}'
             data-resource_type='{{ item.resource-type | default: "" | jsonify | escape }}'
             data-format='{{ item.format | default: "" | jsonify | escape }}'
