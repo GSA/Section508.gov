@@ -1,6 +1,7 @@
 ---
 ---
 document.addEventListener("DOMContentLoaded", function () {
+  // Map the primary topic on each card to the color treatment used across the library UI.
   const topicStyles = {
     manage: { backgroundClass: "bg-blue", textClass: "text-white" },
     law: { backgroundClass: "bg-blue", textClass: "text-white" },
@@ -78,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     return [normalizeDisplayText(value)].filter(Boolean);
   }
 
+  // Normalize free-text input so search matching is resilient to punctuation and spacing differences.
   function normalizeSearchText(value) {
     return String(value || "")
       .toLowerCase()
@@ -108,6 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
     return normalizeDisplayText(params.get("search") || "");
   }
 
+  // Cache the main DOM nodes that drive search, filtering, counts, and card interactions.
   const pillContainer = document.getElementById("active-filters-list");
   const noFiltersText = document.getElementById("no-filters");
   const resetButton = document.getElementById("reset-filters");
@@ -126,6 +129,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let filterGroupConfigs = [];
   let documentLinkSources = [];
 
+  // Refresh live element collections after DOM-dependent initialization steps.
   function refreshElements() {
     checkboxes = Array.from(document.querySelectorAll("#filter input[type='checkbox']"));
     cards = Array.from(document.querySelectorAll("#library-cards li"));
@@ -156,6 +160,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }));
   }
 
+  // Normalize and deduplicate checkbox values so they line up with card metadata and URL params.
   function normalizeCheckboxes() {
     const seenFilters = new Set();
 
@@ -199,6 +204,7 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
+  // Prepare each card for filtering by normalizing category data and building a searchable text index.
   function initializeCards() {
     cards.forEach(card => {
       const topicGroup = filterGroupConfigs.find(config => config.group === "topic");
@@ -244,6 +250,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Populate the "Linked from" accordions on document cards using the prerendered link source index.
   function populateDocumentLinkAccordions() {
     cards.forEach(card => {
       if (card.dataset.librarySource !== "document") return;
@@ -285,6 +292,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Read the currently selected structured filters into an object keyed by filter group.
   function getGroupedFilters() {
     const groups = {};
 
@@ -328,6 +336,7 @@ document.addEventListener("DOMContentLoaded", function () {
     searchClearButton.disabled = !hasQuery;
   }
 
+  // Restore filter and search state from the URL so views can be revisited or shared.
   function applyURLFilters() {
     const urlFilters = getFiltersFromURL();
     searchQuery = getSearchQueryFromURL();
@@ -344,6 +353,7 @@ document.addEventListener("DOMContentLoaded", function () {
     updateSearchClearButton(searchQuery);
   }
 
+  // Render removable pills for the active checkbox filters.
   function updateFilterPills(groupedFilters) {
     if (!pillContainer) return;
 
@@ -403,6 +413,7 @@ document.addEventListener("DOMContentLoaded", function () {
     return positions;
   }
 
+  // Animate visible cards into their next positions so filter changes feel less abrupt.
   function animateCardReflow(previousPositions) {
     getVisibleCards().forEach(card => {
       const previousPosition = previousPositions.get(card);
@@ -427,6 +438,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Toggle between truncated and expanded card descriptions without rerendering the card.
   function setCardDescriptionExpanded(card, expanded) {
     if (!card) return;
 
@@ -449,6 +461,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  // Disable filter chips that cannot produce any matches under the current filter and search state.
   function updateCheckboxStates(groupedFilters, query) {
     checkboxes.forEach(cb => {
       const group = cb.closest("fieldset")?.dataset.filterGroup;
@@ -472,6 +485,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Keep the current filter state reflected in the URL without causing a page reload.
   function updateURLFromFilters(groupedFilters, query) {
     const params = new URLSearchParams();
 
@@ -489,6 +503,7 @@ document.addEventListener("DOMContentLoaded", function () {
     history.replaceState(null, "", newURL);
   }
 
+  // Central update loop for search/filter changes, including matching, animation, counts, and URL sync.
   function updateFilterUI() {
     const groupedFilters = getGroupedFilters();
     const currentSearchQuery = searchInput ? searchInput.value : searchQuery;
@@ -574,6 +589,7 @@ document.addEventListener("DOMContentLoaded", function () {
     updateURLFromFilters(groupedFilters, searchQuery);
   }
 
+  // Support Enter/Return as an explicit toggle key for filter chips in addition to native Space behavior.
   function isFilterToggleKey(event) {
     return (
       event.key === "Enter" ||
@@ -584,6 +600,7 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
+  // Initialize derived data before attaching interactive behavior.
   refreshElements();
   initializeDocumentLinkSources();
   normalizeCheckboxes();
@@ -592,6 +609,7 @@ document.addEventListener("DOMContentLoaded", function () {
   populateDocumentLinkAccordions();
   applyURLFilters();
 
+  // Checkbox filters use native change events plus a controlled Enter-key toggle path.
   checkboxes.forEach(cb => {
     cb.addEventListener("change", updateFilterUI);
     cb.addEventListener("keydown", function (event) {
@@ -613,6 +631,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
+  // Search updates results as the user types, and the clear button resets the query in place.
   searchInput?.addEventListener("input", updateFilterUI);
 
   searchClearButton?.addEventListener("click", function () {
@@ -641,6 +660,7 @@ document.addEventListener("DOMContentLoaded", function () {
     updateFilterUI();
   });
 
+  // Reset clears both structured filters and the live text query.
   if (resetButton) {
     resetButton.addEventListener("click", function (event) {
       event.preventDefault();
@@ -655,6 +675,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Card descriptions expand/collapse through event delegation to avoid per-card listeners.
   cardsContainer?.addEventListener("click", function (event) {
     const toggle = event.target.closest("[data-library-card-toggle]");
     if (!toggle) return;
