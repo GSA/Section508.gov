@@ -1,3 +1,5 @@
+---
+---
 document.addEventListener("DOMContentLoaded", function () {
   const topicStyles = {
     manage: { backgroundClass: "bg-blue", textClass: "text-white" },
@@ -320,7 +322,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         link.innerHTML = `
           <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
-            <use href="/assets/img/sprite.svg#highlight_off"></use>
+            <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
           </svg>
           ${checkbox.dataset.filterLabel}
         `;
