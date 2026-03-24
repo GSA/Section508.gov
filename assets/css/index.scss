@@ -2141,13 +2141,13 @@ div[role=rowheader] {
 .usa-checkbox__input--tile:disabled+[class*=__label] {
   color: #757575;
   cursor: not-allowed;
+  background-color: transparent !important;
+  border-color: transparent;
+  box-shadow: none;
 }
 
 .filter-item--topic .usa-checkbox__input--tile:disabled+[class*=__label] {
   cursor: not-allowed;
-  background-color: transparent !important;
-  border-color: transparent;
-  box-shadow: none;
 }
 
 /* Content Library - remove default list styling */
