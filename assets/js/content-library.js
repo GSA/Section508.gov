@@ -128,6 +128,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let cards = [];
   let filterGroupConfigs = [];
   let documentLinkSources = [];
+  let availableFiltersByGroup = new Map();
 
   // Refresh live element collections after DOM-dependent initialization steps.
   function refreshElements() {
@@ -202,6 +203,38 @@ document.addEventListener("DOMContentLoaded", function () {
           .filter(Boolean)
       )
     );
+  }
+
+  function buildAvailableFiltersIndex() {
+    availableFiltersByGroup = new Map();
+
+    filterGroupConfigs.forEach(({ group, attr }) => {
+      const values = new Set();
+
+      cards.forEach(card => {
+        getCardNormalizedValues(card, attr).forEach(value => values.add(value));
+      });
+
+      availableFiltersByGroup.set(group, values);
+    });
+  }
+
+  function pruneUnavailableFilters() {
+    checkboxes.forEach(cb => {
+      const group = cb.closest("fieldset")?.dataset.filterGroup;
+      const value = cb.dataset.filter;
+      const wrapper = cb.closest(".filter-item");
+      const availableValues = availableFiltersByGroup.get(group);
+
+      if (!group || !value || !wrapper || availableValues?.has(value)) return;
+      wrapper.remove();
+    });
+
+    document.querySelectorAll(".filter-topic-group").forEach(group => {
+      if (!group.querySelector(".filter-item")) {
+        group.remove();
+      }
+    });
   }
 
   // Prepare each card for filtering by normalizing category data and building a searchable text index.
@@ -619,6 +652,9 @@ document.addEventListener("DOMContentLoaded", function () {
   normalizeCheckboxes();
   refreshElements();
   initializeCards();
+  buildAvailableFiltersIndex();
+  pruneUnavailableFilters();
+  refreshElements();
   populateDocumentLinkAccordions();
   applyURLFilters();
 
