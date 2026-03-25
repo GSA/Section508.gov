@@ -70,14 +70,29 @@ Learn how you can make your agency's electronic information and digital services
   </li>
 </ul>
 <ul class="usa-card-group">
-    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-6">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/content-library/">Content Library</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-red">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-content-library-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Find what you need faster. Filter and search across Section508.gov content by topic, sub-topic, resource type, audience, and file format.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/">Section 508 Tools</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-orange">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-training-toolbox-col2.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-training-toolbox-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -85,14 +100,14 @@ Learn how you can make your agency's electronic information and digital services
       </div>
     </div>
   </li>
-  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-6">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program)">DHS Trusted Tester Process & Certification Program</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-primary-light">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col2.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
