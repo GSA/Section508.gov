@@ -25,8 +25,8 @@ resource_type:
 - article
 format: document
 created: 2025-09-18
-updated: 
-exclude-changelog: 
+updated: 2026-03-25
+exclude-changelog: true
 ---
 The foundation of any ICT accessibility program is a comprehensive Section 508 policy that applies across the entire agency and its missions. Your policy should outline how the agency will ensure ICT accessibility compliance in all aspects of technology---including acquisition, development, authoring, configuration, deployment, and maintenance---and should be explicitly referenced in other policies across these agency functions. (See [Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/) for examples).
 
@@ -355,3 +355,8 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
     </tr>
   </tbody>
 </table>
+
+## Related Resources
+<ul>
+  <li><a href="{{site.baseurl}}/manage/section-508-policy-template/">Section 508 Policy Template</a></li>
+</ul>
