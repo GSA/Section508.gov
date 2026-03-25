@@ -92,6 +92,21 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/content-library/">Section508.gov Content Library</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-red">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-content-library-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Find what you need faster. Filter and search across Section508.gov content by topic, sub-topic, resource type, audience, and file format.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></h2>
       </header>
       <div class="usa-card__media">

@@ -406,6 +406,8 @@ training:
     children:
       - name: Tools Overview
         url: 'tools/'
+      - name: Accessibility Playbooks
+        url: 'manage/playbooks/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
       - name: ART API Server
@@ -419,10 +421,10 @@ training:
         url: 'accessibility-conformance-reports/' 
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
+      - name: 'Section508.gov Content Library'
+        url: 'content-library/'
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
-      - name: Accessibility Playbooks
-        url: 'manage/playbooks/'
       - name: Tools for Testing ICT
         url: 'tools/tools-for-testing-ict/'
       - name: 'Terms, Definitions, and Acronyms'
