@@ -2,30 +2,37 @@
 layout: page
 sidenav: true
 type: manage
-title: 'Sample Position Descriptions for Section 508 Subject Matter Experts'
+title: Sample Position Descriptions for Section 508 Subject Matter Experts
 permalink: manage/roles/section-508-position-descriptions/
-redirect_from:
-- manage/roles/section-508-tester-pd/ #legacy
 description: Example position description for a Section 508 Accessibility Tester.
-disclaimer: false
-contributors: 
-updated: 
-topic: "Manage (program)"
-sub-topic: "Testing for Accessibility Training or Tools"
-audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-resource-type: "Template"
-format: "HTML (html)"
+redirect_from: 
+- manage/roles/section-508-tester-pd/
+audience: 
+- Chief Human Capital Officers (CHCO)
+- Chief Information Officers (CIO)
+- Executive Leadership (CXO)
+- Section 508 Program Managers
+topic: 
+- Manage
+subtopic: 
+- Guidance
+- Manage a Section 508 Program
+- Roles & Responsibilities
+resource-type: 
+- Article
+format: HTML
+custom-script: 
+- accordion-management.js
 created: 2025-07-21
-updated: 2025-09-17
+updated: 2026-03-25
+exclude-changelog: true
 ---
+
 Building a strong Section 508 program starts with having the right team in place. Clear, well-defined roles ensure accountability, consistent application of accessibility standards, and effective collaboration across your organization. This page provides sample position descriptions for key IT accessibility roles, including program managers and accessibility tester. These examples are designed to help federal agencies develop or refine staffing structures that support compliance with Section 508 requirements and technical standards throughout the IT lifecycle.
 
-<div class="usa-accordion usa-accordion--bordered">
+<div id="accordion-group" class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="508-tester">
+    <button id="accessibility-tester" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="508-tester">
       Section 508 Accessibility Tester
     </button>
   </h2>
@@ -112,13 +119,9 @@ Building a strong Section 508 program starts with having the right team in place
       <p><strong>Instructions:</strong> Insert applicable information for applicants to contact the agency's hiring official.</p>
     </div>
   </div>
-</div>
 
-<!-- Section 508 PM -->
-
-<div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="508-pm">
+    <button id="program-manager" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="508-pm">
       Section 508 Program Manager
     </button>
   </h2>
