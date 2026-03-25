@@ -35,14 +35,18 @@
             ITEMS SELECTED
         </p>
     </div>
-    {% assign pages_posts = site.pages | concat: site.posts %}
-    {% capture linked_document_permalinks %}{% include library-linked-document-permalinks.html %}{% endcapture %}
-    {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
-    {% assign topics = library_items | map: "topic" | uniq | compact | sort %}
-    {% assign sub-topics = library_items | map: "sub-topic" | uniq | compact | sort %}
-    {% assign audience = library_items | map: "audience" | uniq | compact | sort %}
-    {% assign resource-types = library_items | map: "resource-type" | uniq | compact | sort %}
-    {% assign formats = library_items | map: "format" | uniq | compact | sort %}
+    {% assign pages_posts = include.pages_posts %}
+    {% unless pages_posts %}
+        {% assign pages_posts = site.pages | concat: site.posts %}
+    {% endunless %}
+    {% assign linked_document_permalinks = include.linked_document_permalinks %}
+    {% unless linked_document_permalinks %}
+        {% capture linked_document_permalinks %}{% include library-linked-document-permalinks.html %}{% endcapture %}
+    {% endunless %}
+    {% assign library_items = include.library_items %}
+    {% unless library_items %}
+        {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
+    {% endunless %}
     <div id="active-filters-container" class="margin-bottom-2">
         <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
                 <ul id="active-filters-list" class="active-filters-list"></ul>

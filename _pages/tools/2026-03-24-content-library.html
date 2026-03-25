@@ -22,9 +22,12 @@ exclude-library: true
 <section class="usa-graphic-list margin-bottom-4">
   <div class="grid-container padding-x-1">
     <div class="usa-graphic-list__row grid-row grid-gap">
+      {% assign pages_posts = site.pages | concat: site.posts %}
+      {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
+      {% capture linked_document_permalinks %}{% include library-linked-document-permalinks.html %}{% endcapture %}
 
-      {% include library-filters.html %}
-      {% include library-cards.html %}
+      {% include library-filters.html taxonomy=site.data.content-library-taxonomy %}
+      {% include library-cards.html pages_posts=pages_posts library_items=library_items linked_document_permalinks=linked_document_permalinks %}
 
     </div>
   </div>
