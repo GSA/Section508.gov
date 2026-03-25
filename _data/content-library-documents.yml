@@ -3362,7 +3362,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Agency-Response-Data.csv"
   title: "FY25 Governmentwide Section 508 Assessment Agency Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
@@ -3377,7 +3377,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Agency-Response-Data.json"
   title: "FY25 Governmentwide Section 508 Assessment Agency Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
@@ -3392,7 +3392,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Agency-Top-Viewed-ICT-Response-Data.csv"
   title: "FY25 Governmentwide Section 508 Assessment Agency Top Viewed ICT Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
@@ -3407,7 +3407,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Agency-Top-Viewed-ICT-Response-Data.json"
   title: "FY25 Governmentwide Section 508 Assessment Agency Top Viewed ICT Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
@@ -3422,7 +3422,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Component-Response-Data.csv"
   title: "FY25 Governmentwide Section 508 Assessment Component Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
@@ -3437,7 +3437,7 @@
   permalink: "/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Component-Response-Data.json"
   title: "FY25 Governmentwide Section 508 Assessment Component Response Data"
   description: "The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX."
-  topic: "Law"
+  topic: "Manage"
   sub-topic: "Annual Assessment"
   audience:
     - "Section 508 Program Managers"
