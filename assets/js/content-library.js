@@ -336,6 +336,17 @@ document.addEventListener("DOMContentLoaded", function () {
     searchClearButton.disabled = !hasQuery;
   }
 
+  function updateResetButtonState(groupedFilters, query) {
+    if (!resetButton) return;
+
+    const hasActiveFilters = Object.values(groupedFilters).some(values => values.length > 0);
+    const hasSearchQuery = Boolean(normalizeDisplayText(query));
+    const isActive = hasActiveFilters || hasSearchQuery;
+
+    resetButton.classList.toggle("usa-button--secondary", isActive);
+    resetButton.classList.toggle("usa-button--outline", !isActive);
+  }
+
   // Restore filter and search state from the URL so views can be revisited or shared.
   function applyURLFilters() {
     const urlFilters = getFiltersFromURL();
@@ -510,6 +521,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const currentSearchQuery = searchInput ? searchInput.value : searchQuery;
     searchQuery = normalizeDisplayText(currentSearchQuery);
     updateSearchClearButton(searchQuery);
+    updateResetButtonState(groupedFilters, searchQuery);
     const currentCycle = ++cardAnimationCycle;
     const previousPositions = captureCardPositions(getVisibleCards());
     const cardsToHide = [];
