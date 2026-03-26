@@ -125,9 +125,9 @@ This guide identifies categories of costs agencies should consider. It does not 
    <table id="table-1" class="usa-table usa-table--borderless striped"> 
 <caption>Table 1. Example Section 508 Program Federal Personnel Cost Categories</caption>
   <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Section 508 Program Manager - Federal Personnel</td>
