@@ -74,7 +74,7 @@ Investments in ongoing education help staff remain current on ICT accessibility 
 ### Enterprise-Wide Resources
 In addition to program-specific training, agencies can leverage enterprise-wide learning platforms to expand accessibility awareness and promote organization-wide compliance.
 <ul>
-  <li><strong>Self-Paced Learning Courses on the Learning Management System (LMS)</strong> establish a foundation of expertise, help staff remain up-to-date on Section 508 best provide flexible, on-demand training accessible to all staff across the agency. These courses help embed Section 508 and digital accessibility awareness into everyday operations by covering foundational topics, technical standards, and practical implementation strategies. For information on no-cost training available to your federal agency, visit <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a>.</li>/
+  <li><strong>Self-Paced Learning Courses on the Learning Management System (LMS)</strong> establish a foundation of expertise, help staff remain up-to-date on Section 508 best provide flexible, on-demand training accessible to all staff across the agency. These courses help embed Section 508 and digital accessibility awareness into everyday operations by covering foundational topics, technical standards, and practical implementation strategies. For information on no-cost training available to your federal agency, visit <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a>.</li>
   <li><strong>Annual or Recurring Training</strong> informs staff about Section 508 standards, reinforces  knowledge retention, ensures new staff are onboarded with essential digital accessibility principles, and supports ongoing compliance efforts.</li>
 </ul>
 
@@ -237,6 +237,7 @@ This guide identifies categories of costs agencies should consider. It does not 
   <div id="m-b5" class="usa-accordion__content">
     <table id="table-5" class="usa-table usa-table--borderless striped"> 
 <caption>Table 5. Example Cost Categories for Section 508 Program Infrastructure and System Upgrade Expenses</caption>
+  <tr> 
     <th>Budget Category</th>
     <th>Program vs. Enterprise</th>
     <th>Considerations</th>
