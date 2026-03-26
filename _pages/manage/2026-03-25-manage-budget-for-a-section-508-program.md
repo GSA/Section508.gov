@@ -155,9 +155,9 @@ This guide identifies categories of costs agencies should consider. It does not 
    <table id="table-2" class="usa-table usa-table--borderless striped"> 
 <caption>Table 2. Example Cost Categories for Section 508 Program Tools and Licenses</caption>
   <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Automating Testing Tools</td>
@@ -186,9 +186,9 @@ This guide identifies categories of costs agencies should consider. It does not 
  <table id="table-3" class="usa-table usa-table--borderless striped"> 
 <caption>Table 3. Example Cost Categories for Section 508 Program Contracts and External Support Expenses</caption>
    <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>External Consultants</td>
@@ -212,9 +212,9 @@ This guide identifies categories of costs agencies should consider. It does not 
     <table id="table-4" class="usa-table usa-table--borderless striped"> 
 <caption>Table 4. Example Cost Categories for Section 508 Program Training and Professional Development Expenses</caption>
    <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Certifications</td>
@@ -238,9 +238,9 @@ This guide identifies categories of costs agencies should consider. It does not 
     <table id="table-5" class="usa-table usa-table--borderless striped"> 
 <caption>Table 5. Example Cost Categories for Section 508 Program Infrastructure and System Upgrade Expenses</caption>
   <tr> 
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Content Management System Upgrades and Extensions</td>
@@ -269,9 +269,9 @@ This guide identifies categories of costs agencies should consider. It does not 
     <table id="table-6" class="usa-table usa-table--borderless striped"> 
 <caption>Table 6. Example Cost Categories for Section 508 Program Outreach and Communication Expenses</caption>
    <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Communications Materials and Support (Licenses, etc.)</td>
@@ -295,9 +295,9 @@ This guide identifies categories of costs agencies should consider. It does not 
     <table id="table-7" class="usa-table usa-table--borderless striped"> 
 <caption>Table 7. Example Cost Categories for Section 508 Program Research Expenses</caption>
    <tr>
-    <th>Budget Category</th>
-    <th>Program vs. Enterprise</th>
-    <th>Considerations</th>
+    <th><strong>Budget Category</strong></th>
+    <th><strong>Program vs. Enterprise</strong></th>
+    <th><strong>Considerations</strong></th>
   </tr>
   <tr>
     <td>Pilot Programs</td>
