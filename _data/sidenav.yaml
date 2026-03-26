@@ -108,6 +108,10 @@ manage:
         grandchildren:
           - name: Manage a Section 508 Program Overview
             url: manage/section-508-program/
+          - name: Developing a Business Case for a Section 508 Program
+            url: manage/developing-a-business-case-for-a-section-508-program/
+          - name: Developing a Budget for a Section 508 Program
+            url: manage/developing-a-budget-for-a-section-508-program/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
           - name: Publish Accessible Content

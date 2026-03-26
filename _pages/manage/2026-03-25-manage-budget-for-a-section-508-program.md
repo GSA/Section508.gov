@@ -3,8 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: Developing a Budget for a Section 508 Program
-permalink: manage/governance/developing-a-budget-for-a-section-508-program/
-redirect_from: manage/manage/developing-a-budget-for-a-section-508-program/
+permalink: manage/developing-a-budget-for-a-section-508-program/
 description: Learn how to think through the different aspects of ICT accessibility support throughout the enterprise and determine a budget for a Section 508 program that intends to provice that support.
 disclaimer: 
 audience: 
@@ -22,7 +21,7 @@ resource_type:
 - article
 format: html
 created: 2026-03-24
-updated: 2026-03-24
+updated: 2026-03-26
 ---
 
 # Budgeting for Section 508 Compliance
