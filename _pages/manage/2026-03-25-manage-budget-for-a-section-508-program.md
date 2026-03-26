@@ -3,9 +3,9 @@ layout: page
 sidenav: true
 type: manage
 title: Developing a Budget for a Section 508 Program
-permalink: manage/governance/developing-a-budget-for-a-section-508-program/
-redirect_from: manage/manage/developing-a-budget-for-a-section-508-program/
+permalink: manage/developing-a-budget-for-a-section-508-program/
 description: Learn how to think through the different aspects of ICT accessibility support throughout the enterprise and determine a budget for a Section 508 program that intends to provice that support.
+custom-script: accordion-management.js
 disclaimer: 
 audience: 
 - 508-pm
@@ -22,18 +22,18 @@ resource_type:
 - article
 format: html
 created: 2026-03-24
-updated: 2026-03-24
+updated: 2026-03-26
 ---
 
 # Budgeting for Section 508 Compliance
-A successful Section 508 program requires a well-defined budget that reflects the full scope of resources needed for the agency to comply with <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act</a> and to develop information and communication technology (ICT) that meets the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards for ICT</a>. Budget planning should account for all necessary costs, including personnel, tools and software licenses, contracts and external support, research, training and professional development, outreach and communications, IT infrastructure, and system upgrades.
+A successful Section 508 program requires a well-defined budget that reflects the full scope of resources needed for the agency to comply with <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act</a> and to develop information and communication technology (ICT) that meets the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards for ICT</a>. Budget planning should account for all necessary costs, including personnel, tools and software licenses, contracts and external support, research, training and professional development, outreach and communications, IT infrastructure, and system upgrades.
 To develop a comprehensive budget, agencies must consider both Section 508-specific resources—those dedicated exclusively to Section 508 compliance—and enterprise-wide resources that contribute indirectly to accessibility outcomes. By evaluating resources within and across these categories, agencies can allocate funds effectively, ensuring their ICT efforts are accessible and strategically aligned with broader agency missions, goals, and discrete programs and initiatives. Furthermore, integrating Section 508 early reduces costly remediation efforts, optimizes resources, and enhances overall efficiency.
 This best practice guide provides recommended budget categories and allocations for a Section 508 program; however, agencies are encouraged to tailor their budgets based on specific needs, organizational priorities, and available resources. The categories outlined below serve as a guideline, not a requirement, and should be adapted to align with your agency’s structure, mission, and operational context.
 
 ## Federal Personnel
-A dedicated and staffed Section 508 program plays a vital role in ensuring compliance and advancing accessibility across the agency. The <a href="https://www.section508.gov/manage/program-manager-responsibilities/" target="_blank" class="usa-link--external">Section 508 Program Manager</a> manages the program on behalf of the agency Chief Information Officer (CIO) or equivalent, by developing and maintaining agency policies and guidebooks, disseminating best practices, and managing the overall program strategy. For more details on the general and technical skills targeted for Section 508 Program Managers within the federal government, please visit the <a href="https://www.section508.gov/manage/roles/section-508-pm-compentency-guide/" target="_blank" class="usa-link--external">Government-wide Section 508 Program Manager Competency Guide</a>.
+A dedicated and staffed Section 508 program plays a vital role in ensuring compliance and advancing accessibility across the agency. The <a href="https://www.section508.gov/manage/program-manager-responsibilities/">Section 508 Program Manager</a> manages the program on behalf of the agency Chief Information Officer (CIO) or equivalent, by developing and maintaining agency policies and guidebooks, disseminating best practices, and managing the overall program strategy. For more details on the general and technical skills targeted for Section 508 Program Managers within the federal government, please visit the <a href="https://www.section508.gov/manage/roles/section-508-pm-compentency-guide/">Government-wide Section 508 Program Manager Competency Guide</a>.
 
-Additional <a href="https://www.section508.gov/manage/roles/" target="_blank" class="usa-link--external">federal personnel roles</a> may include:
+Additional <a href="https://www.section508.gov/manage/roles/">federal personnel roles</a> may include:
 <ul>
   <li>Section 508 or ICT Accessibility Subject Matter Expert, with specialized knowledge of accessibility standards, ICT procurement requirements, and integration of digital accessibility throughout the technology development lifecycle</li>
   <li>Web and Software Accessibility Testing Specialist</li>
@@ -74,7 +74,7 @@ Investments in ongoing education help staff remain current on ICT accessibility 
 ### Enterprise-Wide Resources
 In addition to program-specific training, agencies can leverage enterprise-wide learning platforms to expand accessibility awareness and promote organization-wide compliance.
 <ul>
-  <li><strong>Self-Paced Learning Courses on the Learning Management System (LMS)</strong> establish a foundation of expertise, help staff remain up-to-date on Section 508 best provide flexible, on-demand training accessible to all staff across the agency. These courses help embed Section 508 and digital accessibility awareness into everyday operations by covering foundational topics, technical standards, and practical implementation strategies. For information on no-cost training available to your federal agency, visit <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/" target="_blank" class="usa-link--external">Add GSA’s Section 508 Training Courses to Your LMS</a>.</li>/
+  <li><strong>Self-Paced Learning Courses on the Learning Management System (LMS)</strong> establish a foundation of expertise, help staff remain up-to-date on Section 508 best provide flexible, on-demand training accessible to all staff across the agency. These courses help embed Section 508 and digital accessibility awareness into everyday operations by covering foundational topics, technical standards, and practical implementation strategies. For information on no-cost training available to your federal agency, visit <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a>.</li>/
   <li><strong>Annual or Recurring Training</strong> informs staff about Section 508 standards, reinforces  knowledge retention, ensures new staff are onboarded with essential digital accessibility principles, and supports ongoing compliance efforts.</li>
 </ul>
 
@@ -110,7 +110,19 @@ Investments in research help agencies stay ahead of technological developments i
 ## Example Budget Categories
 This guide identifies categories of costs agencies should consider. It does not prescribe specific dollar amounts or percentages. Each agency should use its own staffing data, contract history, and program priorities to inform budget formulation. Tables 1-6 below show example budget categories that include both Section 508-specific and general enterprise-wide resources. As agencies often fund federal personnel costs through a different budget mechanism than specific program expenses, this guide presents federal personnel costs separate from program budget categories.
 
-<table id="table-1" class="usa-table usa-table--borderless striped"> 
+<div class="margin-bottom-3">
+   <button id="expand-all" class="usa-button" data-target="accordion-group" data-action="expand">Expand All</button>
+   <button id="collapse-all" class="usa-button" data-target="accordion-group" data-action="collapse">Collapse All</button>
+</div>
+
+<div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
+
+<h3 class="usa-accordion__heading">
+    <button id="Example-1" type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="m-b1"
+    >Federal Personnel Cost Categories</button>
+  </h3>
+  <div id="m-b1" class="usa-accordion__content">
+   <table id="table-1" class="usa-table usa-table--borderless striped"> 
 <caption>Table 1. Example Section 508 Program Federal Personnel Cost Categories</caption>
   <tr>
     <th>Budget Category</th>
@@ -133,8 +145,14 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Provides expertise and guidance to agency personnel on ongoing accessible electronic content creation and remediation</td>
   </tr>
 </table>  
+  </div>
 
-<table id="table-2" class="usa-table usa-table--borderless striped"> 
+<h3 class="usa-accordion__heading">
+    <button id="Exmple-2" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
+    >Tools and Licenses</button>
+  </h3>
+  <div id="m-b2" class="usa-accordion__content">
+   <table id="table-2" class="usa-table usa-table--borderless striped"> 
 <caption>Table 2. Example Cost Categories for Section 508 Program Tools and Licenses</caption>
   <tr>
     <th>Budget Category</th>
@@ -157,8 +175,15 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Modern development platforms that support accessible design and content creation</td>
   </tr>
 </table>  
+  </div>
 
-<table id="table-3" class="usa-table usa-table--borderless striped"> 
+<h3 class="usa-accordion__heading">
+    <button id="Example-3" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b3"
+    >Contracts and External Support Expenses</button>
+  </h3>
+  
+  <div id="m-b3" class="usa-accordion__content">
+ <table id="table-3" class="usa-table usa-table--borderless striped"> 
 <caption>Table 3. Example Cost Categories for Section 508 Program Contracts and External Support Expenses</caption>
    <tr>
     <th>Budget Category</th>
@@ -176,8 +201,15 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Internal technical support to assist in setting up/developing, maintaining and executing accessibility operations</td>
   </tr>
 </table>  
-
-<table id="table-4" class="usa-table usa-table--borderless striped"> 
+  </div>
+ 
+ <h3 class="usa-accordion__heading">
+    <button id="Example-4" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b4"
+    >Training and Professional Development Expenses</button>
+  </h3>
+  
+  <div id="m-b4" class="usa-accordion__content">
+    <table id="table-4" class="usa-table usa-table--borderless striped"> 
 <caption>Table 4. Example Cost Categories for Section 508 Program Training and Professional Development Expenses</caption>
    <tr>
     <th>Budget Category</th>
@@ -195,8 +227,15 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Events to engage the Section 508/digital accessibility community</td>
   </tr>
 </table>  
+  </div>
 
-<table id="table-5" class="usa-table usa-table--borderless striped"> 
+<h3 class="usa-accordion__heading">
+    <button id="Example-5" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b5"
+    >Infrastructure and System Upgrade Expenses</button>
+  </h3>
+  
+  <div id="m-b5" class="usa-accordion__content">
+    <table id="table-5" class="usa-table usa-table--borderless striped"> 
 <caption>Table 5. Example Cost Categories for Section 508 Program Infrastructure and System Upgrade Expenses</caption>
     <th>Budget Category</th>
     <th>Program vs. Enterprise</th>
@@ -218,8 +257,15 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Enhancing enterprise collaboration systems (email, chat, video conferencing, survey tools) to ensure accessibility features such as captioning, screen reader compatibility, and accessible document sharing</td>
   </tr>
 </table>
+  </div>
 
-<table id="table-6" class="usa-table usa-table--borderless striped"> 
+<h3 class="usa-accordion__heading">
+    <button id="Example-6" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b6"
+    >Outreach and Communication Expenses</button>
+  </h3>
+  
+  <div id="m-b6" class="usa-accordion__content">
+    <table id="table-6" class="usa-table usa-table--borderless striped"> 
 <caption>Table 6. Example Cost Categories for Section 508 Program Outreach and Communication Expenses</caption>
    <tr>
     <th>Budget Category</th>
@@ -237,8 +283,15 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Dedicated strategy to ensure impactful and accessible social media</td>
   </tr>
 </table>  
+  </div>
 
-<table id="table-7" class="usa-table usa-table--borderless striped"> 
+<h3 class="usa-accordion__heading">
+    <button id="Example-7" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b7"
+    >Program Research Expenses</button>
+  </h3>
+  
+  <div id="m-b7" class="usa-accordion__content">
+    <table id="table-7" class="usa-table usa-table--borderless striped"> 
 <caption>Table 7. Example Cost Categories for Section 508 Program Research Expenses</caption>
    <tr>
     <th>Budget Category</th>
@@ -256,6 +309,9 @@ This guide identifies categories of costs agencies should consider. It does not 
     <td>Engagements across government, with academia, or with industry partners to identify approaches to improve accessibility in technology implementations</td>
   </tr>
 </table>  
+  </div>
+</div>
+
 
 
 

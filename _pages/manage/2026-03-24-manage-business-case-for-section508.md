@@ -3,8 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: Developing a Business Case for a Section 508 Program
-permalink: manage/governance/developing-a-business-case-for-a-section-508-program/
-redirect_from: manage/manage/developing-a-business-case-for-a-section-508-program/
+permalink: manage/developing-a-business-case-for-a-section-508-program/
 description: Learn how to apply business and operations management principles to your Section 508 team in order to develop and employ a convincing business case for a Section 508 Program.
 disclaimer: 
 audience: 
@@ -21,12 +20,12 @@ resource_type:
 - article
 format: html
 created: 2026-03-24
-updated: 2026-03-24
+updated: 2026-03-26
 ---
 
 # The Business Case for Section 508
 
-Compliance with <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act</a> and conformance to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">ICT Standards and Guidelines</a> are more than legal obligations—they are strategic investments that reduce financial risk, streamline operations, and improve service delivery. Proactive integration of ICT accessibility minimizes costly litigation and remediation while enhancing IT modernization. At both the organizational and individual levels, accessible technology boosts productivity, reduces barriers, and creates a more efficient workplace.
+Compliance with <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act</a> and conformance to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">ICT Standards and Guidelines</a> are more than legal obligations—they are strategic investments that reduce financial risk, streamline operations, and improve service delivery. Proactive integration of ICT accessibility minimizes costly litigation and remediation while enhancing IT modernization. At both the organizational and individual levels, accessible technology boosts productivity, reduces barriers, and creates a more efficient workplace.
 
 The following sections provide rationale for the business case, illustrating how accessibility investments could result in improvements. Specific figures for how to explicitly estimate productivity savings will vary widely by agency, type of mission, and leadership engagement, among other considerations. These cost considerations provide a general sense of potential impacts and may vary based on agency size, operational structure, and implementation strategies. For a business case tailored to your agency, use your agency’s actual data rather than rely on more general estimates.
 
@@ -37,7 +36,7 @@ Adhering to Section 508 law is a proactive risk management strategy that reduces
 <ul>
   <li><strong>Organizational Impact: </strong>Fewer Section 508-related complaints lead to reduced processing costs. This could include reduced labor hours across various agency roles, including time spent by legal teams, Section 508 staff, and other personnel involved in gathering information and addressing complaints.</li>
   <li><strong>Individual Impact: </strong>The time spent handling a single complaint by Section 508 staff, legal teams, and IT personnel could be avoided by providing accessible products from the start.</li>
-  <li>For additional guidance on identifying and mitigating Section 508 risks, please refer to the <a href="https://www.section508.gov/manage/governance/ict-accessibility-and-risk-management/" target="_blank" class="usa-link--external">Risk Matrix & Example Risk Factors</a>.</li>
+  <li>For additional guidance on identifying and mitigating Section 508 risks, please refer to the <a href="https://www.section508.gov/manage/governance/ict-accessibility-and-risk-management">Risk Matrix & Example Risk Factors</a>.</li>
 </ul>
 
 ### Avoid costly litigation, settlements, and reputational damage.
@@ -75,7 +74,7 @@ Beyond risk mitigation, Section 508 compliance is a strategic investment that he
   </ul>
 
 ## Broader Benefits of Section 508 Compliance
-To learn about the broader benefits of Section 508 compliance—beyond the budgetary focus of this guidance—and practical strategies for implementing accessibility across your agency, visit </strong><a href="https://www.section508.gov/manage/benefits-of-accessibility/" target="_blank" class="usa-link--external">Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content</a>.
+To learn about the broader benefits of Section 508 compliance—beyond the budgetary focus of this guidance—and practical strategies for implementing accessibility across your agency, visit <a href="https://www.section508.gov/manage/benefits-of-accessibility/">Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content</a>.
 
 **Reviewed/Updated:** March 2026
 
