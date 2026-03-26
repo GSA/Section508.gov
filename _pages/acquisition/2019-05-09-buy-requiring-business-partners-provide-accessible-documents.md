@@ -3,21 +3,22 @@ layout: page
 sidenav: true
 type: acquisition
 title: 'Requiring Business Partners to Provide Accessible Documents'
-description: Learn how to require business partners to provide accessible documents. Get Section 508 guidance, sample language, and best practices for compliance.
 permalink: buy/requiring-business-partners-provide-accessible-documents/
 redirect_from: 
 - content/requiring-business-partners-provide-accessible-documents/
-topic: Content creation (create)
-sub-topic: Documents
+description: Learn how to require business partners to provide accessible documents. Get Section 508 guidance, sample language, and best practices for compliance.
 audience:
 - Contracting Officer’s Representative (cor)
 - Requiring Officials (ro)
 - Vendor (vendor)
+topic: Content creation (create)
+sub-topic: Documents
 resource-type: Process/How-to
 format: HTML (html)
 created: 2019-05-09
 updated: 2025-03-05
 ---
+
 Do you work for an agency that provides services through grantees or other partner organizations? If those partner organizations provide documents that will be posted to your agency's website, how do you ensure that the content they provide is accessible?
 
 Requests for Proposal (RFP), grant notices, trainings, status reports - if you have business partners that produce these types of documents, and you host them on your website, the documents must meet Section 508 accessibility requirements. Here are some simple steps (with examples!) to ensure your business partners deliver accessible documents.
@@ -79,11 +80,9 @@ Vendors and individuals testing for accessibility may be interested in the [DHS 
 
 Learn more about [buying accessible products and services][6].
 
-**Reviewed/Updated:** January 2025
-
- [1]: {{site.baseurl}}/art/
- [2]: http://www.dhs.gov/compliance-test-processes
- [3]: http://www.w3.org/WAI/WCAG20/quickref/
- [4]: http://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973
- [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [6]: {{site.baseurl}}/buy
+[1]: {{site.baseurl}}/art/
+[2]: http://www.dhs.gov/compliance-test-processes
+[3]: http://www.w3.org/WAI/WCAG20/quickref/
+[4]: http://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973
+[5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
+[6]: {{site.baseurl}}/buy

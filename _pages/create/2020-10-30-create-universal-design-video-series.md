@@ -4,6 +4,7 @@ sidenav: true
 type: training
 title: "An Introduction to Universal Design"
 permalink: develop/universal-design-video-series/
+description: "This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals."
 redirect_from:
 - create/universal-design-video-series/
 topic: Development (dev)
@@ -101,4 +102,3 @@ This four-part video series provides an introduction to [Universal Design]({{sit
   </div>
 </div>
 
-**Reviewed/Updated:** October 2020

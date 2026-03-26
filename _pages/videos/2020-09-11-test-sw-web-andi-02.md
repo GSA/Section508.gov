@@ -6,7 +6,7 @@ title: 'Module 2: Focus Element'
 permalink: training/web-software/andi-training-videos/focus-element/
 redirect_from:
  - test/web-software/andi-training-videos/focus-element/
-description: 
+description: In Module 2 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Focusable Elements modules to analyze all focusable interactive elements with keyboard access and visual focus.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 2 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Focusable Elements modules to analyze all focusable [interactive elements][1] with keyboard access and visual focus.<br />
+In Module 2 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Focusable Elements modules to analyze all focusable [interactive elements][1] with keyboard access and visual focus.<br />
 Note: This ANDI module is not used to test visual focus.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-02-oc.mp4" type="video/mp4"></video>
@@ -112,6 +112,5 @@ Note: This ANDI module is not used to test visual focus.
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
 [1]: {{site.baseurl}}/tools/glossary/#interactive-element

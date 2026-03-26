@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: create/spreadsheets/authoring-guides/
 type: create
 title: 'Spreadsheets Authoring Guides'
+permalink: create/spreadsheets/authoring-guides/
+description: Explore Section 508 spreadsheet authoring guides with practical tips and best practices to help you create accessible, compliant tables and data files.
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:
@@ -14,6 +15,7 @@ audience:
 - Information Technology Program and Project Managers (itpm)
 resource-type: Process/How-to
 format: Document (docx)
+created: 2018-05-20
 ---
 
 ## Microsoft Excel 2016

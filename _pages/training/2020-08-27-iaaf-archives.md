@@ -1,22 +1,24 @@
 ---
 layout: page
 sidenav: true
-permalink: iaaf/archives/
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
-created: 2020-08-28
-updated: 2025-02-26
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+permalink: iaaf/archives/
+description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 resource-type: "Training"
 format: "HTML (html)"
+created: 2020-08-27
+updated: 2024-06-01
 --- 
+
 ## 2024 Interagency Accessibility Forum
 The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
 
@@ -35,6 +37,8 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
+created: 2020-08-28
+updated: 2025-02-26
 ---
 
 ## 2023 Interagency Accessibility Forum
@@ -93,5 +97,3 @@ For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-202
   * [The UniDescription Project - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/The%20UniDescription%20Project%20-%20IAAF%202022.pptx)  
   * [Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx)  
   * [Demystifying Section 508 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Demystifying%20Section%20508%20-%20IAAF%202022.pptx)
-
-**Reviewed/Updated:** February 2025

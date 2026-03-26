@@ -63,5 +63,3 @@ Section 508 Program Managers (PM) play a critical role in ensuring that their ag
 * Continuously monitor ICT systems for accessibility gaps.
 * Use audits, feedback, and data-driven insights to improve compliance.
 * Update policies, procedures, and tools based on lessons learned and evolving standards.
-
-**Reviewed/Updated:** September 2025

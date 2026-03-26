@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: test/checklist/email-messages/
+description: "Use this checklist to review accessible email messages for Section 508 conformance, including structure, formatting, links, images, attachments, and readability."
 type: test
 title: 'Checklist for Accessible Email Messages'
 contributors: fhwa
@@ -214,5 +215,3 @@ The following table outlines key accessibility checks for email messages focusin
 ## Additional Resources 
 * [Checklist for Accessible Email (XLSX)](https://assets.section508.gov/assets/files/Checklist-for-Accessible-Email.xlsx)
 * [Creating Accessible Email Messages]({{site.baseurl}}/create/email-messages/)
-
-**Reviewed/Updated:** September 2024

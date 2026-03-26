@@ -1,17 +1,17 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: "Add GSA’s Section 508 Training Courses to Your LMS"
 permalink: training/online-training/add-our-training-to-your-lms/
-topic: "Training (train)"
 description: "GSA offers no-cost, LMS-ready Section 508 training courses to federal agencies. Support accessibility compliance at your agency with these easy-to-deploy, SCORM-compliant modules."
-sub-topic: "Presentations"
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "hr-chco"
 - "agency-head"
+topic: "Training (train)"
+sub-topic: "Presentations"
 resource-type: Process/How-to
 format: HTML (html)
 created: 2025-07-16
@@ -53,5 +53,3 @@ For more information or to request access to the course materials, contact **Sec
 * [Mandatory Section 508 Training Justification Example (DOCX)](https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx)  
 * [Technology Accessibility Playbook—Play 12: Educate the Workforce]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/12)
 
-
-**Reviewed/Updated:** July 2025

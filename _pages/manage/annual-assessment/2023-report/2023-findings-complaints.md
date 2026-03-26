@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/complaints/
 type: report2023
 title: "Governmentwide Findings: Complaints"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes Section 508 complaint intake, tracking, and resolution practices across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 Procuring and using non-conformant ICT can expose reporting entities to Section 508-related complaints.
 
@@ -39,4 +41,3 @@ While the majority of reporting entities (53%) provide instructions regarding ho
         < Previous</a>
 </div>
 
-**Reviewed/Updated**: December 2023

@@ -164,5 +164,3 @@ updated:
     </ul></p>
   </div>
 </div>
-
-**Reviewed/Updated:** July 2024

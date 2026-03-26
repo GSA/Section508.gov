@@ -1,12 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2024/assessment-data-downloads/
 type: report2024
 title: "Assessment Data & Downloads"
-description: 
-created: 2024-12-20
-updated: 2025-01-16
+permalink: manage/section-508-assessment/2024/assessment-data-downloads/
+description: The FY 2024 Governmentwide Section 508 Assessment provides assessment data and downloads to support transparency into agency responses across key ICT accessibility measures.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -19,6 +17,8 @@ resource-type: "White paper"
 format: "HTML (html)"
 redirect_from:
 - 2024-congressional-report-downloads/
+created: 2024-12-20
+updated: 2025-01-16
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 2024 Governmentwide Section 508 Assessment below, which includes:
 
@@ -40,4 +40,3 @@ To enhance the transparency of this report and respondent data, we have made the
 * <a href="https://assets.section508.gov/assets/files/assessment/2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment.xlsx" target="_blank" class="usa-link--external">FY 2024 Regression Results (XLSX)</a>
 
 
-**Reviewed/Updated**: May 2025

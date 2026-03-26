@@ -1,12 +1,14 @@
 ---
-title: "Section 508 Assessment Office Hours #11 | July 24, 2024"
 layout: wide_events
+title: "Section 508 Assessment Office Hours #11 | July 24, 2024"
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2024-07-24 #otherwise use end-date (YYYY-MM-DD)
-image:
-image-alt: 
 permalink: /event/gwaa-office-hours-24July2024/
 description: "The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity point of contact can meet with our teams to discuss the criteria or other questions related to completing the assessment."
+image:
+image-alt: 
+event-registration: https://gsa.zoomgov.com/meeting/register/vJIsduiorTgjHsAi7A_bMC8zOPOTAynNRh8
+created: 2024-07-17
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity's point of contact can meet with the team to discuss questions related to completing the assessment.
 
@@ -23,13 +25,12 @@ Prior to participating in an office hours event, please ensure that you are fami
 **WHO:** Points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Wednesday, July 24 at 1:30 PM ET. [Sign up today!][7]   
+Registration for this event has closed.
 
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.  CART will be provided.
 
 *Note: **You must join the meeting using your first and last name**.Agency affiliation is optional). Nicknames and phone numbers will not be given access.
 
-**Reviewed/Updated:** July 2024
 
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      

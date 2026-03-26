@@ -326,5 +326,3 @@ The seven phases of the development process are:
     </tr>
   </tbody>
 </table>
-
-**Reviewed/Updated:** September 2025

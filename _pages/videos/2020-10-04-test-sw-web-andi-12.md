@@ -6,7 +6,7 @@ title: 'Module 12: iFrames'
 permalink: training/web-software/andi-training-videos/iframes/
 redirect_from:
 - test/web-software/andi-training-videos/iframes/
-description: 
+description: In Module 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI <em>iframes</em> module to verify that all iframes provide a descriptive title which adequately identifies the iframe’s content.
 disclaimer: 
 audience:
 - "federal employee (fedemp)"
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
+In Module 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-12-oc.mp4" type="video/mp4"></video>
 
@@ -110,6 +110,5 @@ In Module: 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#iframe

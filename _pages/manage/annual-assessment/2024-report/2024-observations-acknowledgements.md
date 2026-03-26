@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2024/observations/
 type: report2024
 title: "Observations and Acknowledgements"
+permalink: manage/section-508-assessment/2024/observations/
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, shares observations on reported data and acknowledges contributors to the assessment.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2024-12-20
 ---
 Out of the 245 reporting entities this year, we welcomed 15 new entities who submitted data. Some of these are new components within a department or agency, while others are small and independent agencies reporting for the first time. Additionally, 19 entities that submitted in FY 2023 did not submit in FY 2024 due to the following reasons:
 
@@ -53,4 +55,3 @@ Agencies noted that the Assessment and its publicly posted data, the M-24-08 mem
 
 We want to extend our heartfelt thanks to everyone who participated in the FY 2024 Governmentwide Section 508 Assessment. The FY 2024 Assessment report highlights the positive impact of your involvement and we eagerly anticipate the continued benefits of future assessments. These reports and associated data will help ensure all agencies meet the standards for providing equal access to ICT and digital services. The ongoing investments by these entities will further improve digital accessibility across the federal government.
 
-**Reviewed/Updated**: December 2024

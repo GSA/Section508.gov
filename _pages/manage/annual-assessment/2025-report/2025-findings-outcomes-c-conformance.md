@@ -158,4 +158,3 @@ The assessment revealed varied agency outcomes regarding ICT conformance. While 
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/tested-ict/"> Next > </a>
 </div>
 
-**Reviewed/Updated**: March 2026

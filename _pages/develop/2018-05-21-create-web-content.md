@@ -1,12 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/web-content/
 type: develop
 title: 'Developing Accessible Web Content'
-created: 1526946893
+permalink: develop/web-content/
 redirect_from:
 - create/web-content/
+description: Explore Section 508 web content accessibility guidance, best practices, and tools to help developers create and maintain accessible, standards-compliant digital content.
 topic: "Development (dev)"
 sub-topic: "Content Creation Training or Tools"
 audience:
@@ -14,6 +14,7 @@ audience:
 - "Content Creators (creator)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-21
 ---
 <p>Learn how to build digital tools that conform to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. Review the W3C’s Sufficient Techniques for examples of how to meet Success Criteria using specific technologies (relevant to HTML, CSS, server-side scripting, Flash, ARIA, etc.).</p>
 <ul>
@@ -97,4 +98,3 @@ format: "HTML (html)"
     <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E204-functional-performance-criteria">Revised 508 Standards Functional Performance Criteria</a></li>
 </ul>
 <p>These best practices were developed by the U.S. Federal Government Authoring and Developer Transition Working Group, with contributions from the Federal CIO Council Accessibility Community of Practice (ACoP), the U.S. Access Board, and the General Services Administration.</p>
-<p><b>Reviewed/Updated:</b> May 2018</p>

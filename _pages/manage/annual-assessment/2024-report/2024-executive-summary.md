@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/executive-summary/
 type: report2024
 title: "Executive Summary"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including key outcomes and recommendations.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Building on insights from the [FY 2023 assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/), the FY 2024 Governmentwide Section 508 Assessment (referred to as the "Assessment") provides a deeper understanding of digital accessibility across the federal government. It evaluates the current state of Section 508 compliance and digital accessibility efforts, while also examining changes since the last reporting period. By introducing year-over-year (YOY) comparisons, this Assessment offers a more comprehensive view, enhancing transparency and accountability in federal digital accessibility efforts.
 
@@ -68,4 +70,3 @@ The recommendations resulting from the FY 2024 Governmentwide Section 508 Assess
 
 * **Require Annual Section 508 Training by Roles and Responsibilities:** Although a significant improvement from last year, only about [34% of entities reported require any Section 508 training for employees]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#staff-training). Additionally [37% of respondents have no Section 508 training plan defined]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#staff-training). Agencies should require annual Section 508 training for all employees who create, maintain, or otherwise contribute to the agencies' digital content.
 
-**Reviewed/Updated**: December 2024

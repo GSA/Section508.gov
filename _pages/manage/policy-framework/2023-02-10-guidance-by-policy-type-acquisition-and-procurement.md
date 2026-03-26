@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/
+description: "Review policy guidance for acquisition and procurement to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Acquisition and Procurement"
 created: December 10, 2023

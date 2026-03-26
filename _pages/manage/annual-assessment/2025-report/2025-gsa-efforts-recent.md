@@ -104,4 +104,3 @@ The following describes GSA’s efforts to help improve federal ICT accessibilit
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/gsa-efforts-upcoming/"> Next > </a>
 </div>
 
-**Reviewed/Updated**: March 2026

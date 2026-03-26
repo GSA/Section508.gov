@@ -5,7 +5,6 @@ permalink: develop/user-stories/
 type: develop
 title: 'Sample User Stories for Accessible ICT'
 description: Sample user stories to help embed ICT accessibility requirements into everyday practices to support compliance with Section 508 standards and reduce the risk of costly retrofits. 
-created: 2025-07-23
 topic: "develop"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
@@ -14,7 +13,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-
+created: 2025-07-23
 ---
 
 During the development of digital content and tools, a user story provides a general explanation of a feature from the end user or customer viewpoint. User stories are essential in the development of Section 508 conformant information and communication technology (ICT) because they ensure the needs of users with disabilities are considered during design, development, and testing. They help development teams understand how end users interact with digital content using assistive technologies like screen readers or keyboard navigation. By embedding ICT accessibility requirements into everyday practices, user stories support compliance with Section 508 standards and reduce the risk of costly retrofits or remediation. Most importantly, they help teams build products that are well designed and usable by everyone.
@@ -506,5 +505,3 @@ The following user stories illustrate how accessibility needs can be captured du
 <ul>
 <li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook/7/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a></li>  
 <li><a href="https://digital.va.gov/section-508/checklists/collections-user-stories/" target="_blank" class="usa-link--external">Department of Veteran's Affairs: Collections, Epics, Sub Epics, and User Stories</a></li></ul> 
-
-**Reviewed/Updated:** July 2025

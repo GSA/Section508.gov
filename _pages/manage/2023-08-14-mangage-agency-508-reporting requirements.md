@@ -28,7 +28,6 @@ Federal agencies are required to participate in reporting activities on the matu
 * **Frequency:** Annual
 * **Status:** Active
 
-
 ## DOJ Biennial Report
 * **Description:** For the [DOJ Biennial Report](https://www.justice.gov/crt/section-508-home-page-0), The Attorney General is required to submit to the President and Congress a report containing information on and recommendations regarding the state of federal department and agency compliance with Section 508 of the Rehabilitation Act, as amended. This report is submitted every other year; with [the most recent report](https://www.justice.gov/crt/page/file/1569331/download) submitted in February 2023.
 * **Authority:** Section 508 of the Rehabilitation Act of 1973, as amended, [29 U.S.C. 794d. Electronic and Information Technology]({{site.baseurl}}/manage/laws-and-policies/section-508-law/#794d)
@@ -36,7 +35,6 @@ Federal agencies are required to participate in reporting activities on the matu
 * **Agencies Required to Respond:** All agencies subject to Section 508<sup><strong><a href="#fn2" id="fr2">2</a></strong></sup>
 * **Frequency:** Biennial (every two years)
 * **Status:** Active
-
 
 ## Semi-Annual Program Maturity Report (PMR)
 * **Description:** The [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment) replaces the previously required semi-annual Section 508 Program Maturity Report. For the [Semi-Annual Program Maturity Report (PMR)]({{site.baseurl}}/manage/pmr), CFO Act agencies were previously required to self-report on five program maturity metrics, website compliance metrics on certain web pages tested for compliance, and the percentage of tested pages that fully conformed to the technical standards.<sup><strong><a href="#fn3" id="fr3">3</a></strong></sup>
@@ -56,5 +54,3 @@ Federal agencies are required to participate in reporting activities on the matu
     <li id="fn3">The <a href="{{ site.baseurl }}/manage/pmr">most recent and final report<a/a> was issued in the Summer 2023. The <a href="{{site.baseurl}}/manage/section-508-assessment">Governmentwide Section 508 Assessment</a> and corresponding report replace this previously required semi-annual Section 508 Program Maturity Report.<a href="#fr3" aria-label="Back to content"> ↩ </a></li>
   </ol>
 </div>
-
-**Reviewed/Updated:** March 2025

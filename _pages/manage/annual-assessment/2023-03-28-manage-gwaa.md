@@ -136,5 +136,3 @@ Annual assessment reports are made available on this website in HTML or as a dow
     <p>Submitted to Congress and published on December 29, 2023</p>
   </div>
 </div>
-
-**Reviewed/Updated:** March 2026

@@ -228,5 +228,3 @@ If the audio content contains swearing, slurs, or other offensive language, foll
 -   If the profanity is audible, include the exact words in the captions.
 -   If the profanity is censored in the audio, indicate that the word or phrase was censored. For example, "I feel like (censored)."
 -   Never replace profanity with euphemisms or substitute words that were not used in the original audio, like replacing "killed" with "unalived."
-
-**Reviewed/Updated:** July 2025

@@ -20,4 +20,3 @@ May 19, 2022 marks the 11th annual Global Accessibility Awareness Day (GAAD). Ac
 Additionally, visit the IT Accessility Team at [section508.gov](https://www.section508.gov) to learn more about digital accessibility in the federal government.
 
 
-**Reviewed/Updated**: May 2022

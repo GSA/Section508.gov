@@ -21,9 +21,11 @@ subtopic:
 - Manage Accessibility for IT Program/Project Managers
 resource-type: "Process/How-to"
 format: "HTML (html)"
+custom-script: 
+- accordion-management.js
 created: 2025-09-09
-updated: 2025-09-09
-exclude-changelog: 
+updated: 2026-03-16
+exclude-changelog: true
 ---
 Incorporating Section 508 conformance into Agile product lifecycle requires clear coordination among many roles to ensure compliance with Section 508. This Agile Section 508 Task Matrix provides a practical framework that maps key Agile activities to Product or Project Owner, Scrum Master or Agile Coach, and Agile or Development Team tasks. This visibility promotes accountability, fosters collaboration, and ensures Section 508 conformance is consistently prioritized throughout the development process—not as an afterthought.
 
@@ -41,14 +43,14 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
 <!-- Accordion View -->
 <div id="accordion-view">
   <div class="margin-bottom-3">
-      <button id="expand-all" class="usa-button">Expand All</button>
-      <button id="collapse-all" class="usa-button">Collapse All</button>
+    <button id="expand-all" class="usa-button" data-target="accordion-group" data-action="expand">Expand All</button>
+    <button id="collapse-all" class="usa-button" data-target="accordion-group" data-action="collapse">Collapse All</button>
   </div>
 
-  <div class="usa-accordion" data-allow-multiple>
+  <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
     <!-- Backlog Grooming -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="true" aria-controls="acc-backlog">
+      <button id="task01" class="usa-accordion__button roles_button" aria-expanded="true" aria-controls="acc-backlog">
         Backlog Grooming
       </button>
     </h3>
@@ -85,7 +87,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- User Story Writing -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-user-story">
+      <button id="task02" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-user-story">
         User Story Writing
       </button>
     </h3>
@@ -122,7 +124,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Sprint Planning -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-planning">
+      <button id="task03" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-planning">
         Sprint Planning
       </button>
     </h3>
@@ -159,7 +161,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Development -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-development">
+      <button id="task04" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-development">
         Development
       </button>
     </h3>
@@ -196,7 +198,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Testing -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-testing">
+      <button id="task05" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-testing">
         Testing
       </button>
     </h3>
@@ -233,7 +235,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Daily Standup -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-daily-standup">
+      <button id="task06" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-daily-standup">
         Daily Standup
       </button>
     </h3>
@@ -270,7 +272,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Sprint Review -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-review">
+      <button id="task07" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-review">
         Sprint Review
       </button>
     </h3>
@@ -307,7 +309,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Sprint Retrospective -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-retro">
+      <button id="task08" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-sprint-retro">
         Sprint Retrospective
       </button>
     </h3>
@@ -344,7 +346,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Definition of Done (DoD) -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-dod">
+      <button id="task09" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-dod">
         Definition of Done (DoD)
       </button>
     </h3>
@@ -381,7 +383,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Test Case Creation -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-test-cases">
+      <button id="task10" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-test-cases">
         Test Case Creation
       </button>
     </h3>
@@ -418,7 +420,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Bug Tracking -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-bug-tracking">
+      <button id="task11" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-bug-tracking">
         Bug Tracking
       </button>
     </h3>
@@ -455,7 +457,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Release Readiness or UAT -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-uat">
+      <button id="task12" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-uat">
         Release Readiness or UAT
       </button>
     </h3>
@@ -492,7 +494,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </div>
     <!-- Post-Release -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-post-release">
+      <button id="task13" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-post-release">
         Post-Release
       </button>
     </h3>
@@ -684,8 +686,6 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </table>
   </figure>
 </div>
-
-**Reviewed/Updated:** September 2025
 
 <!-- Show/Hide Sidenav -->
 <script>

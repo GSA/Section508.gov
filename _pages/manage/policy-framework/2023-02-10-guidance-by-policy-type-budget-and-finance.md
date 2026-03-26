@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/budget-and-finance/
+description: "Review policy guidance for budget and finance to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
 title: "IT Accessibility Policy Framework - Budget and Finance"
 created: December 10, 2023
@@ -71,7 +72,6 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
     </a>
 </div>
 </div>
-
 
 
 

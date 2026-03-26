@@ -1,23 +1,24 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/archives/biographies-2023/
-redirect_from: iaaf/biographies-2023/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
-created: 2023-09-23
-topic: "Events (events)"
-sub-topic: "N/A"
+permalink: iaaf/archives/biographies-2023/
+description: View speaker and presenter biographies for the 2023 Interagency Accessibility Forum.
+redirect_from: iaaf/biographies-2023/
+social_img: "assets/images/social-media-og-image-iaaf.jpg"
+social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "N/A"
 resource-type: "Training"
 format: "HTML (html)"
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
+created: 2023-09-23
 updated: 2025-05-06
 ---
 
@@ -99,4 +100,3 @@ updated: 2025-05-06
   {% endif %}
 {% endfor %}
 </div>
-<p><strong>Reviewed/Updated: </strong>October, 2023</p>

@@ -3,16 +3,16 @@ layout: page
 sidenav: true
 type: acquisition
 title: 'Solicitation Review Tool (SRT)'
-description: Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov. Ensure accessibility compliance in IT solicitations quickly and effectively.
 permalink: buy/solicitation-review-tool/
-topic: Acquisition/Buy (buy)
-sub-topic: Acquisition Tools
+description: Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov. Ensure accessibility compliance in IT solicitations quickly and effectively.
 audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)
 - 508 Program Manager (508pm)
 - Federal employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
+topic: Acquisition/Buy (buy)
+sub-topic: Acquisition Tools
 resource-type: Tool (tool)
 format: HTML (html)
 created: 2020-10-21
@@ -58,10 +58,8 @@ As federal acquisition staff needs to ensure that ICT solicitation documents inc
 
 With SRT, agencies will have the information to inform decisions on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
 
-## **How to Access SRT**
+## How to Access SRT
 
 The SRT is available to agency procurement officials and Section 508 Program Managers by **sending a request to <srt@gsa.gov>**. Once approved, you will receive instructions for accessing the tool using a Login.gov account associated with your government email address (e.g., .gov or .mil).
 
 If you have questions or suggestions for improving the tool, click the Contact Us link on the SRT homepage to message the system administrators.
-
-**Reviewed/Updated:** April 2025

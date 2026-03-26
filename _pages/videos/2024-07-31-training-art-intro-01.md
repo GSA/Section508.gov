@@ -1,10 +1,10 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: 'What is ART and When Do I Need to Use It?'
-description: This video introduces users to the Accessibility Requirements Tool (ART), and when and why you need to use it to generate a list of Section 508 requirements that apply to the information and communication technology (ICT) that you wish to procure.
 permalink: training/art/introducing-art-01/
+description: This video introduces users to the Accessibility Requirements Tool (ART), and when and why you need to use it to generate a list of Section 508 requirements that apply to the information and communication technology (ICT) that you wish to procure.
 created: 2024-07-25
 updated: 2025-01-09
 ---
@@ -49,7 +49,6 @@ This episode introduces users to the Accessibility Requirements Tool (ART), and 
   * [Define Accessibility Criteria in Contracts][9]
   * [Solicitations Review Tool (SRT)][10]
 
-**Reviewed/Updated**: January 2025
 
 [1]: {{site.baseurl}}/training/art/introducing-art-01/
 [2]: {{site.baseurl}}/training/art/introducing-art-02/

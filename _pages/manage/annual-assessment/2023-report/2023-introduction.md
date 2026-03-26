@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/introduction/
 type: report2023
 title: "Introduction"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, introduces the assessment scope, purpose, and reporting requirements.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Purpose
 The purpose of the Assessment is twofold:
@@ -134,4 +136,3 @@ This Assessment report is organized into four main sections:
 </div>
 
 
-**Reviewed/Updated**: December 2023

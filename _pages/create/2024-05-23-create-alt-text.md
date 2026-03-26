@@ -4,6 +4,7 @@ sidenav: true
 type: create
 title: Authoring Meaningful Alternative Text
 permalink: create/alternative-text/
+description: "Learn how to write meaningful alternative text so images and other visual content are accessible to people who use screen readers and other assistive technology."
 redirect_from:
 - alternative-text/
 created: 2024-05-23
@@ -313,4 +314,3 @@ Refer to the following for additional guidance on writing meaningful alt text.
 -   <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM: Alternative Text</a>
 -   <a href="https://webaim.org/techniques/alttext/#context" target="_blank" class="usa-link--external">WebAIM: Alternative Text - Context is Everything</a>
 
-**Reviewed/Updated:** January 2025

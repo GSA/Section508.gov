@@ -106,7 +106,6 @@ The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" cl
 ## Washington
 <a href="https://watech.wa.gov/policies/digital-accessibility-policy" target="_blank" class="usa-link--external">Washington State's Digital Accessibility Policy</a> and <a href="https://watech.wa.gov/policies/digital-accessibility-standard"  target="_blank" class="usa-link--external">Digital Accessibility Standard</a> require state agencies to ensure that individuals with disabilities have access to and can use information and data, allowing them the same services and content available to those without disabilities, unless there are technical or legal limitations. The policy shows the state's dedication to making information technology accessible to both the public and state employees, including those with disabilities, as long as it does not create an undue burden. It covers websites, web-based applications, software systems, and electronic documents, with the aim of providing the same functionality to all users. This policy ensures that the state complies with state and federal laws, such as Section 508 of the Rehabilitation Act and the Americans with Disabilities Act, guaranteeing reasonable accommodation and equal opportunity for individuals with disabilities.
 
-**Reviewed/Updated**: February 2025
  
 [1]: #A "Go to States beginning with A"
 [2]: #B "Go to States beginning with B"

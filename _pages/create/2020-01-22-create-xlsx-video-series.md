@@ -1,11 +1,10 @@
 ---
 sidenav: true
 layout: page
-permalink: create/spreadsheets/training-videos/
-type: create
 title: 'Spreadsheets Training Videos'
-created: 2020-01-22
-updated: 2025-01-09
+permalink: create/spreadsheets/training-videos/
+description: "This series of videos explain and demonstrate the minimum steps needed to ensure your spreadsheet is accessible to people with disabilities."
+type: create
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:
@@ -16,6 +15,8 @@ audience:
 - Public (public)
 resource-type: Training
 format: HTML (html)
+created: 2020-01-22
+updated: 2025-01-09
 ---
 
 # How to Make an Accessible Spreadsheet in Microsoft Excel
@@ -238,16 +239,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Make an Accessible Document in Microsoft Word][1]
   * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC][2]
   * [How to Author and Test Microsoft PowerPoint Presentations for Accessibility][3]
-
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-
-**Updated**: March 2023
 
  [1]: {{site.baseurl}}/create/documents/training-videos/
  [2]: {{site.baseurl}}/create/pdfs/training-videos/

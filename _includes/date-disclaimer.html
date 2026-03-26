@@ -3,37 +3,19 @@ Display the disclaimer when "disclaimer: true" in the page front matter, otherwi
 {% endcomment %}
 
 {% if page.disclaimer == true %}
-<div class="border-base radius-lg border-1px padding-1 margin-y-2 bg-primary-lighter" style="margin-top: 1.0em;"><strong>Disclaimer</strong>: Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act.</div>
+<div class="border-base radius-lg border-1px padding-1 margin-y-2 bg-primary-lighter" style="margin-top: 1.0em;"><strong>*Disclaimer</strong>: Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act.</div>
 {% endif %}
 
 {% comment %}
-Do not implement this until all dates are updated to YYYY-MM-DD 
-
+Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
+{% endcomment %}
 <div class="margin-y-105">   
 {% unless page.hide-date == true %}
     {% if page.updated %}
         {% assign input_date = page.updated %}
     {% else %}
         {% assign input_date = page.created %}
-    {% endif %}
-    {% assign year = input_date | slice: 0, 4 %}
-    {% assign month_number = input_date | slice: 5, 2 %}
-    {% case month_number %}
-        {% when "01" %} {% assign month_name = "January" %}
-        {% when "02" %} {% assign month_name = "February" %}
-        {% when "03" %} {% assign month_name = "March" %}
-        {% when "04" %} {% assign month_name = "April" %}
-        {% when "05" %} {% assign month_name = "May" %}
-        {% when "06" %} {% assign month_name = "June" %}
-        {% when "07" %} {% assign month_name = "July" %}
-        {% when "08" %} {% assign month_name = "August" %}
-        {% when "09" %} {% assign month_name = "September" %}
-        {% when "10" %} {% assign month_name = "October" %}
-        {% when "11" %} {% assign month_name = "November" %}
-        {% when "12" %} {% assign month_name = "December" %}
-    {% endcase %}    
-<strong>Reviewed/Updated: </strong> {{ month_name }} {{ year }}
+    {% endif %} 
+<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
 {% endunless %}
 </div>
-
-{% endcomment %}

@@ -73,5 +73,4 @@ Business analysts and other requirements officials should use persona-based desi
 
 For more information on creating personas for accessible ICT—including sample personas for various disability types that you can  use in your user stories—visit [Sample Personas for Users With Disabilities]({{ site.baseurl }}/develop/sample-personas/).
 
-**Reviewed/Updated:** February 2026
 

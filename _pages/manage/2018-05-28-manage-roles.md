@@ -459,5 +459,3 @@ The roles and responsibilities cited in this article were informed by federal re
   <li><a href="https://www.congress.gov/bill/115th-congress/house-bill/5759/text" target="_blank" class="usa-link usa-link--external text-top">21st Century Integrated Digital Experience Act (21st Century IDEA)</a></li>
   <li><a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651" target="_blank" class="usa-link usa-link--external text-top">Section 752 of the Consolidated Appropriations Act of 2023</a></li>
 </ul>
-
-**Reviewed/Updated:** February 2026

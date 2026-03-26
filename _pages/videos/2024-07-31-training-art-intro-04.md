@@ -1,10 +1,10 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: 'How Do I Generate a List for Multiple Procurements?'
-description: This episode demonstrates how to use ART to add and remove multiple items and generate Section 508 requirements for information and communication technology (ICT) that you wish to procure.
 permalink: training/art/introducing-art-04/
+description: This episode demonstrates how to use ART to add and remove multiple items and generate Section 508 requirements for information and communication technology (ICT) that you wish to procure.
 created: 2024-07-25
 updated: 2025-01-09
 ---
@@ -55,7 +55,6 @@ This episode demonstrates how to use ART to add and remove multiple items and ge
   * [Define Accessibility Criteria in Contracts][9]
   * [Solicitations Review Tool (SRT)][10]
 
-**Reviewed/Updated**: January 2025
 
 [1]: {{site.baseurl}}/training/art/introducing-art-01/
 [2]: {{site.baseurl}}/training/art/introducing-art-02/

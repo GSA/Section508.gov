@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/introduction/
 type: report2024
 title: "Introduction"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, introduces the assessment scope, purpose, and reporting requirements.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Purpose
 Now entering its second year, the purpose of this Assessment remains twofold:
@@ -98,4 +100,3 @@ This Assessment report is organized into four main sections:
    </ul>
 </div>
 
-**Reviewed/Updated**: December 2024

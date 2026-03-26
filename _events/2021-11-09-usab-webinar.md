@@ -1,6 +1,6 @@
 ---
-title: Section 508 – A Celebration of Twenty Years
 layout: wide_events
+title: Section 508 – A Celebration of Twenty Years
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2021-11-30 #otherwise use end-date (YYYY-MM-DD)
 image:

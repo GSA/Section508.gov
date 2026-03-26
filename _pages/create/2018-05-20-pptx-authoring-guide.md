@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: create/presentations/authoring-guides/
 type: create
 title: 'Presentations Authoring Guides'
+permalink: create/presentations/authoring-guides/
+description: Explore Section 508 presentation authoring guides with tips and best practices for creating accessible presentations that meet federal accessibility standards.
 topic: Content creation (create)
 sub-topic: Presentations
 audience:
@@ -14,6 +15,7 @@ audience:
 - 508 Program Manager (508pm)
 resource-type: Process/How-to
 format: Document (docx)
+created: 2018-05-20
 ---
 ## Microsoft PowerPoint 2016
 

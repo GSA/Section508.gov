@@ -24,7 +24,7 @@ subtopic:
 resource_type: 
 - article
 format: document
-created: 
+created: 2025-09-18
 updated: 
 exclude-changelog: 
 ---
@@ -355,6 +355,3 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
     </tr>
   </tbody>
 </table>
-
-
-**Reviewed/Updated:** September 2025

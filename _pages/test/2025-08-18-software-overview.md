@@ -79,5 +79,3 @@ In addition to WCAG 2.0 AA criterion, Section 508 also includes requirements tha
 
 * [Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes]({{site.baseurl}}/develop/incorporating-accessibility-conformance/)  
 * [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
-
-**Reviewed/Updated:** August 2025

@@ -1,23 +1,24 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
-description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
 permalink: training/online-course/soliciting-and-evaluating-acrs/
-topic: "Training (train)"
-sub-topic: "Presentations"
+description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
+topic: "Training (train)"
+sub-topic: "Presentations"
 resource-type: "Training"
 format: "HTML"
 created: 2024-10-15
 updated: 2025-03-19
 ---
+
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -115,5 +116,3 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </ul>
   </div>
 </div>
-
-**Reviewed/Updated**: March 2025

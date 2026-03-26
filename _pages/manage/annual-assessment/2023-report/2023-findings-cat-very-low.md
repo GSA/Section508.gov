@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/category-very-low/
 type: report2023
 title: "Overall Performance Category Findings and Recommendations: Very Low Maturity Categories"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overall performance category findings and recommendations for very low maturity agencies.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 <!-- VL-VL --> 
 ## Very Low Maturity - Very Low Conformance
@@ -144,4 +146,3 @@ Reporting entities in the Low-Very Low category performed relatively well with r
 </div>
 
 
-**Reviewed/Updated**: December 2023

@@ -272,7 +272,6 @@ The following self-paced courses provide an overview of key aspects of IT access
       * <a href="https://www.peatworks.org/tag/video/" target="_blank" class="usa-link--external">Videos</a>  
   * [Mapping of WCAG 2.0 to Functional Performance Criteria][15] 
 
-**Reviewed/Updated**: January 2025
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
 [2]: #federal-acquisition-institute

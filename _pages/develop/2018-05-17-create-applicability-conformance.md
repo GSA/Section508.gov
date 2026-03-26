@@ -1,12 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/applicability-conformance/
 type: develop
 title: 'Applicability & Conformance Requirements'
-created: 1526574510
+permalink: develop/applicability-conformance/
 redirect_from:
 - create/applicability-conformance/
+description: Understand the applicability and conformance standards of Section 508, including when the requirements apply and how to meet accessibility guidelines effectively.
 topic: "Development (dev)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -15,6 +15,7 @@ audience:
 - "508 Program Manager (508pm)"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"
+created: 2018-05-17
 ---
 
 ## Applicability
@@ -50,9 +51,6 @@ As an author or developer, you should assess the extent to which your work confo
 In some situations, you can comply with the Revised 508 Standards by providing a conforming alternate version of content. However, you should be aware that Sections [E101.2][16], [E205][7] and [E207][10] of the Revised 508 Standards impose significant constraints on this option.
 
   * [Understanding WCAG 2.0 Conformance][17] - Guidance from the W3C
-
-
-**Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E201-application

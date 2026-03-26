@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/website-accessibility-statement/
 type: manage
 title: 'Developing a Website Accessibility Statement'
-created: 
-updated: 2025-03-05
+permalink: manage/laws-and-policies/website-accessibility-statement/
+description: "Learn how to develop a website accessibility statement that meets federal requirements and provides clear standards, contact information, feedback options, and complaint guidance."
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -13,6 +12,8 @@ audience:
 - "508 Program Manager (508pm)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2022-11-04
+updated: 2025-03-05
 ---
 
 The Office of Management and Budget (OMB) memorandum on [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)][1] requires federal agencies to maintain an accessibility statement on their websites.
@@ -145,7 +146,5 @@ Websites not utilizing the USWDS’s Identifier component should ensure a link t
   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/policy-web-statement-figure-3.png" alt="Example sub-page statement" aria-describedby="figure-3-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3-statement">Figure 3: Example of an accessibility statement using the link text “Website Policies & Notices” among other links such as Privacy Policy, FOIA, No Fear Act and Contact Us.</span></div>
 </div>
-
-**Reviewed/Updated:** March 2025
 
 [1]: https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/

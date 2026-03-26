@@ -1,12 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: create/pdfs/common-tags-and-usage/
 type: create
 title: 'Common PDF Tags and Their Usage'
-contributors: mcgland-denise, ed
-created: 2024-08-22
-updated: 
+permalink: create/pdfs/common-tags-and-usage/
+description: "Learn about common PDF tags, what they mean, and how to use them to create more accessible PDF documents for people who use assistive technology."
+contributors: mcgland-denise, ed 
 topic: "Content creation (create)"
 sub-topic: "PDFs"
 audience:
@@ -16,6 +15,7 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2024-08-22
 ---
 As with all types of data, structure is crucial to how readers navigate, access, and comprehend information. Tags are the structural foundation of an accessible Portable Document File (PDF). Each piece of content has a corresponding <span class="code-text"><strong>tag</strong></span> that dictates how it is understood and read by assistive technology. This guide helps document authors understand why and how each commonly used tag is used in making an accessible PDF.
 
@@ -345,4 +345,3 @@ Elements that convey no meaning can be converted to an artifact so that they wil
   <p><strong>NOTE: </strong>Images of tags and their relationships are taken from the Tags panel within Adobe Acrobat Pro for training purposes and do not imply that GSA or ED endorses the product.</p>
 </div>
 
-**Reviewed/Updated:** August 2024

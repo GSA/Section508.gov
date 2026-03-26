@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
 type: report2023
 title: "Appendix B: Federal Initiatives and Resources on ICT Accessibility"
+permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes federal initiatives, guidance, tools, and resources that support ICT accessibility and Section 508 compliance.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 Important governmentwide initiatives and resources have developed out of the legislative and executive branches’ efforts to advance ICT accessibility in the federal government.<sup><a href="#fn37" id="fr37">37</a></sup> While OMB, GSA, Access Board, and DHS have led many of these efforts, the governmentwide relevance of ICT accessibility has drawn in many agencies to further the cause. These efforts are detailed below:
 
@@ -46,4 +48,3 @@ Important governmentwide initiatives and resources have developed out of the leg
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

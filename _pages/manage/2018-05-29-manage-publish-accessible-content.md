@@ -2,9 +2,10 @@
 layout: page
 sidenav: true
 permalink: manage/publish-accessible-content/
+description: "These tips will help your agency publish content in an accessible way."
 type: manage
 title: 'Publish Accessible Content'
-created: 1527566954
+created: 2018-05-29
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -34,9 +35,6 @@ These tips will help your agency publish content in an accessible way.
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
   
-
-
-**Reviewed/Updated:** September 2023
 
  [1]: {{site.baseurl}}/create
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

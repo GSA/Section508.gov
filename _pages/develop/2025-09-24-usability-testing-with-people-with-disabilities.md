@@ -297,7 +297,6 @@ If the audience of the potential service, product, or solution will be the gener
 ## Planning and Managing Research Logistics
 Once you have defined your research goals and begun planning recruitment, it is equally important to manage the practical details of running a study. This includes creating a clear checklist of tasks, establishing a budget, setting participant numbers, building realistic schedules, preparing scripts, and ensuring compliance with ethics and privacy requirements. Careful attention to these logistical elements helps ensure that research sessions with people with disabilities run smoothly, remain accessible, and generate reliable, actionable results.
 
-
 ### Checklist for Researchers
 
 <ul class="usa-icon-list">
@@ -793,7 +792,6 @@ A script is a guide that allows the tester to create a universal experience for 
 ### Ethics, Privacy, and Paperwork Reduction Act 
 Collect only the minimum personal information needed to schedule and pay participants. Do not store any medical information, including information about participants’ disability diagnoses. If you plan to ask the same questions of 10 or more members of the public in a 12-month period, coordinate with your Paperwork Reduction Act (PRA) officer. For sessions with federal employees, participation must be voluntary; if on duty time, obtain supervisor approval. Maintain records according to your agency records retention policies and protect any sensitive data.
 
-
 <h2>Related Resources</h2>
 
 <ul>
@@ -802,5 +800,3 @@ Collect only the minimum personal information needed to schedule and pay partici
 <li><a href="{{site.baseurl}}/test/usability-testing-with-people-with-disabilities/">Tips for Usability Testing with People with Disabilities</a></li> 
 </ul> 
 
-
-<strong> Reviewed/Updated:</strong> September 2025

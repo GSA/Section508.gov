@@ -1,17 +1,18 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/define-accessibility-criteria/
 type: acquisition
 title: 'Define Accessibility Criteria in Contracts'
-created: 1527181796
-topic: "Acquisition/Buy (buy)"
-sub-topic: "New Contracting (RFP, RFI, etc.)"
+permalink: buy/define-accessibility-criteria/
+description: Learn how to define accessibility criteria in federal contracts to ensure ICT meets Section 508 requirements, with sample language and procurement guidance.
 audience:
 - "508 Program Manager (508pm)"
 - "Contracting Officer’s Representative (cor)"
+topic: "Acquisition/Buy (buy)"
+sub-topic: "New Contracting (RFP, RFI, etc.)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-24
 ---
 
 When preparing solicitations, statements of work, or other procurement documents, clearly define your criteria to ensure the information and communication technology (ICT) your agency buys or builds is accessible and conforms to the [Revised 508 Standards][1]. Use the sample language below in your procurement documents to mitigate Section 508 compliance risk in IT procurement and development.
@@ -222,11 +223,7 @@ Consider using this language only when you know the offeror has the ability to e
 
 Before final acceptance of any ICT item, including updates and replacements, if the offeror claims its products or services satisfy the applicable Revised 508 Standards specified in the statement of work, and the contracting officer determines that any furnished ICT item is not in compliance with such requirements, the contracting officer will promptly inform the offeror in writing of the noncompliance. The offeror shall, at no cost to the agency, repair or replace the non-compliant products or services within the period specified by the contracting officer.
 
-
-**Reviewed/Updated:** March 2022
-
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.dhs.gov/compliance-test-processes
- [3]: {{site.baseurl}}/sell/vpat
- [4]: http://www.itic.org/policy/accessibility
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
+[2]: https://www.dhs.gov/compliance-test-processes
+[3]: {{site.baseurl}}/sell/vpat
+[4]: http://www.itic.org/policy/accessibility

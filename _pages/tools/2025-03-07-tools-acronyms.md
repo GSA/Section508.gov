@@ -6,9 +6,9 @@ title: "Commonly Used Acronyms and Abbreviations"
 permalink: tools/acronyms-abbreviations/
 redirect_from:
 - acronyms-abbreviations/
+- manage/section-508-assessment/2023/appendix-a-acronyms/
+- manage/section-508-assessment/2024/appendix-a-acronyms/
 description: "Discover commonly used acronyms in Section 508 guidance, technical assistance, and reporting, including those in Appendix A of the annual Governmentwide Section 508 Assessment to Congress. Stay informed on accessibility compliance terms."
-disclaimer: 
-hide-date: 
 audience: 
 - 508-pm
 - agency-head
@@ -26,12 +26,10 @@ subtopic:
 resource_type: 
 - article
 format: html
-redirect_from:
-- manage/section-508-assessment/2023/appendix-a-acronyms/
-- manage/section-508-assessment/2024/appendix-a-acronyms/
 created: 2025-03-07
 updated: 2025-06-12
 ---
+
 These acronyms and abbreviations appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Many are defined in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
 
 <table class="usa-table usa-table--borderless striped">	
@@ -409,5 +407,3 @@ These acronyms and abbreviations appear throughout our website, communications, 
     </tr>
 </tbody>	
 </table>
-
-**Reviewed/Updated**: March 2025
