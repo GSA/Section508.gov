@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/appendix-c-reporting-entities/
 type: report2024
 title: "Appendix C: Reporting Entities"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, lists reporting entities and components included in the assessment.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and components followed by independent reporting entities.
 
@@ -373,4 +375,3 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USTDA" title="Entity only reported data in FY 2024">U.S. Trade and Development Agency (USTDA)</a>*</li>
 </ol>
 
-**Reviewed/Updated**: December 2024

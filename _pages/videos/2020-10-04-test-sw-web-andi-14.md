@@ -6,7 +6,7 @@ title: 'Module 14: Color Contrast Analyzer'
 permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast-analyzer/
-description: 
+description: In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the Color Contrast Analyzer's (CCA) built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot programmatically determined by ANDI.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-<p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+<p>In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-14-oc.mp4" type="video/mp4"></video>
 
@@ -117,7 +117,6 @@ exclude-changelog: true
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
  [2]: {{site.baseurl}}/test/web-software

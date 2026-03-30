@@ -25,8 +25,7 @@ resource_type:
 - process-how-to
 format: html
 created: 2025-08-18
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
+updated: 
 ---
 Federal hardware information and communication technology (ICT) refers to physical technology products such as computers, mobile devices, and peripheral equipment, information kiosks and transaction machines, telecommunications equipment, customer premises equipment such as servers, and multifunction office machines such as printers. Section 508 of the Rehabilitation Act requires hardware ICT be usable by people with disabilities including features like tactile controls, adjustable displays, accessible ports, and compatibility with assistive technologies. <a href="https://www.access-board.gov/ict/#chapter-4-hardware" target="_blank" class="usa-link--external"> Chapter 4: Hardware</a> applies if the ICT is a tangible device or if it has a physical component.
 
@@ -68,5 +67,3 @@ Some devices and components fall outside the scope of <a href="https://www.acces
 
 * <a href="https://www.ssa.gov/accessibility/testmethod.html?tab=1" target="_blank" class="usa-link--external"> Social Security Administration's Hardware Kiosk Test Method</a> 
 * <a href="https://digital.va.gov/section-508/wp-content/uploads/sites/9/2024/02/VASection508StandardsChecklist-Hardware.pdf" target="_blank" class="usa-link--external">VA Section 508 Platform Hardware Standards Checklist (PDF)</a>
-
-**Reviewed/Updated**: August 2025

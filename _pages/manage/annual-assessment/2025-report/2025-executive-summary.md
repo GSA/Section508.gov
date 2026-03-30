@@ -172,4 +172,3 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
   </li>
 </ol>
 
-**Reviewed/Updated**: March 2026

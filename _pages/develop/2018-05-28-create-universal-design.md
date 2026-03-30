@@ -85,8 +85,6 @@ See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/
   * [Watch this Introduction to Universal Design for Developers][7] 
   * [The Benefit of Designing for Everyone][8]
 
-**Reviewed/Updated:** August 2025
-
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
  [3]: {{site.baseurl}}/blog/Building-Accessibility-into-your-Procurement-Process

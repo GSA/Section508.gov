@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/audio-video/
+description: "Learn the accessibility requirements for audio-only, video-only, and synchronized media, including transcripts, text descriptions, audio descriptions, and accessible media players."
 type: create
 title: 'Audio- and Video-Only Media'
 topic: "Content creation (create)"
@@ -32,8 +33,6 @@ Synchronized media, also referred to as multimedia or "video," combines several 
 
 ## Media Players
 Digital media content, whether audio-only, video-only, or synchronized media requires a way to control the playback of that media. These media players must be tested to ensure they are accessible to people with disabilities and conform with applicable Section 508 Standards. For more information, see [Guide to Accessible Web Design & Development, Timed Events]({{site.baseurl}}/develop/guide-accessible-web-design-development/#timed_events}}).
-
-**Reviewed/Updated:** May 2024
 
  [1]: #social-media
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

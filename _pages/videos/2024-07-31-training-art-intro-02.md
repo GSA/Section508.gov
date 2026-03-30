@@ -1,10 +1,10 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: 'Where is ART and How Do I Use It?'
-description: This episode provides information on where to find ART and how to start generating a list of Section 508 requirements that apply to the [information and communication technology (ICT)][6] that you wish to procure.
 permalink: training/art/introducing-art-02/
+description: This episode provides information on where to find ART and how to start generating a list of Section 508 requirements that apply to the [information and communication technology (ICT)][6] that you wish to procure.
 created: 2024-07-25
 updated: 2025-01-09
 ---
@@ -55,7 +55,6 @@ This episode provides information on where to find ART and how to start generati
   * [Define Accessibility Criteria in Contracts][9]
   * [Solicitations Review Tool (SRT)][10]
 
-**Reviewed/Updated**: January 2025
 
 [1]: {{site.baseurl}}/training/art/introducing-art-01/
 [2]: {{site.baseurl}}/training/art/introducing-art-02/

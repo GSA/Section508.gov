@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-recent/
 type: report2023
 title: "Recent and Upcoming GSA Efforts to Improve Section 508 Compliance: Recent GSA Efforts to Support Section 508 Compliance"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, details recent GSA actions and support efforts to improve Section 508 compliance.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 ## Recent GSA Efforts to Support Section 508 Compliance
 To meet the requirements of the Consolidated Appropriations Act, 2023, the following describes GSA’s efforts to help entities collect and submit their Assessment data and other related efforts to improve federal Section 508 compliance from December 29, 2022 up to date of publication.
@@ -117,4 +119,3 @@ A refresh in this guidance, issued 10 years ago, will incorporate the present ac
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2023

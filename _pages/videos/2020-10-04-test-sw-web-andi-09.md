@@ -6,7 +6,7 @@ title: 'Module 9: Language of Parts'
 permalink: training/web-software/andi-training-videos/language-parts/
 redirect_from:
 - test/web-software/andi-training-videos/language-parts/
-description: 
+description: In Module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI Structures module to ensure that all written content, regardless of how many (human) languages are used, is programmatically identified correctly to ensure that user agents (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -22,7 +22,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
+In Module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-09-oc.mp4" type="video/mp4"></video>
 
@@ -110,7 +110,6 @@ In Module: 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026
 
  [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
  [2]: {{site.baseurl}}/tools/glossary/#user-agent

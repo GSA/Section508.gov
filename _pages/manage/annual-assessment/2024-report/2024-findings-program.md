@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/findings/accessibility-program/
 type: report2024
 title: "Governmentwide Findings: Section 508 Program"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines Section 508 program implementation, governance, and policy integration across agencies.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Section 508 Program
 <hr class="breaker-bar-green">
@@ -91,4 +93,3 @@ As the findings above indicate, there is opportunity to advance the maturity of 
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

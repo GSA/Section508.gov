@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/category-high/
 type: report2023
 title: "Overall Performance Category Findings and Recommendations: High Maturity Categories"
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overall performance category findings and recommendations for high maturity agencies.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2023-03-28
 ---
 ## High Maturity - Very Low Conformance
 <div class="border-base padding-1 callout-box-bottom-left" style="width: auto;">
@@ -158,4 +160,3 @@ On average, the reporting entities in the High-Very High category performed belo
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/"> Next > </a>
 </div>
 
-**Reviewed/Updated**: December 2023

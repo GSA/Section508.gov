@@ -87,5 +87,3 @@ Once all defects have been remediated, or remediated to the best of the team’s
 </ul>
 </li>
 </ol>
-
-**Reviewed/Updated:** July 2025

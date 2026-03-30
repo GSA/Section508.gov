@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/policy-framework/resources-and-references/policy-review-template/
+description: "Download and use the Policy Review Template to help your agency review, categorize, and prioritize policies for ICT accessibility updates."
 type: manage
 title: "IT Accessibility Policy Framework - Policy Review Template"
 created: December 10, 2023
@@ -33,4 +34,3 @@ The <a href="https://assets.section508.gov/assets/files/Policy+Review+Template.x
     </a>
 </div>
 </div>
-

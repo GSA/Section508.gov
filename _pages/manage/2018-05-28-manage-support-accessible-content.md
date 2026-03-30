@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/support-accessible-content/
 type: manage
 title: 'Build Support for Accessible Content'
-created: 1527548666
+permalink: manage/support-accessible-content/
+description: Discover guidance and strategies to support accessible content under Section 508, including tools, procedures, and best practices for federal digital accessibility.
 topic: "Manage (program)"
 sub-topic: "Manage Accessibility for IT Program/Project Managers"
 audience:
@@ -13,6 +13,7 @@ audience:
 - "Information Technology Program and Project Managers (itpm)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-28
 ---
 
 The [Revised 508 Standards][1] clarify which electronic content must be accessible (scope) and how to make it accessible (technical requirements). Help staff at your agency understand their responsibility to produce accessible content, and ensure they have the tools to do so.
@@ -25,10 +26,6 @@ The [Revised 508 Standards][1] clarify which electronic content must be accessib
   * [Track and Report Conformance][7]
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
-
-  
-
-**Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/manage/understand-scope-technical-requirements

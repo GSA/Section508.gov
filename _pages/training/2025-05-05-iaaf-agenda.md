@@ -4,20 +4,21 @@ sidenav: false
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2025
 permalink: iaaf/archives/agenda-2025/
+description: View the agenda for the 2025 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 redirect_from: iaaf/agenda-2025/
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 resource-type: "Training"
 format: "HTML (html)"
+created: 2025-05-05
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
-created: 2025-05-05
 ---
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
@@ -186,4 +187,3 @@ created: 2025-05-05
 </div>
 -->
 
-**Reviewed/Updated:** May 2025

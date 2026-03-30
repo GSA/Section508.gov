@@ -138,12 +138,3 @@ While Section 508 is the ICT-focused requirement, its outcomes directly support 
  <li><a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">OMB Memo M-24-08: Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a></li>
  <li><a href="https://www.eeoc.gov/rehabilitation-act-1973" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (EEOC)</a></li>
 </ul>
-
-**Reviewed/Updated:** January 2026
-
-
-
-
-    
-
-

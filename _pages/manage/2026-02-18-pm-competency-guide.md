@@ -124,7 +124,6 @@ Additionally, this guide assists employees in planning and sequencing their care
     </div>
 </div>
 
-
 <!-- START ACCORDIONS -->
 ## Core Competencies
 
@@ -1437,5 +1436,3 @@ Additionally, this guide assists employees in planning and sequencing their care
 * [IT Accessibility Roles and Responsibilities]({{ site.baseurl }}/manage/roles/)
 * [Section 508 Program Manager Responsibilities]({{ site.baseurl }}/manage/program-manager-responsibilities/)
 * [Section 508 Program Team Roles and Responsibilities]({{ site.baseurl }}/manage/section-508-program-team-roles-and-responsibilities/)
-
-**Reviewed/Updated:** February 2026

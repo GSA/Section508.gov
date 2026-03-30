@@ -6,18 +6,20 @@ title: 'Accessibility Presentations and Workshop Materials'
 permalink: training/presentations-workshops/
 redirect_from:
 - csun2024/
+- training/presentations-workshops/2018-interagency-accessibility-forum/
 description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
-topic: "Events (events)"
-sub-topic: "General Info and Best Practices"
 audience:
 - "Public (public)"
 - "508 Program Manager (508pm)"
 - "Lawmakers and Policy Officials (law-policy)"
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 created: 2018-05-22
 updated: 2026-02-24
 ---
+
 The information on this page includes available resources and captioned text files 
 
 ## 2026
@@ -165,4 +167,3 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/assets/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: February 2026

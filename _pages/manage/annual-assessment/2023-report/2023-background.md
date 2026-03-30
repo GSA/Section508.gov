@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/background/
 type: report2023
 title: "Background"
+permalink: manage/section-508-assessment/2023/background/
+description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides background on Section 508 requirements, federal ICT accessibility, and assessment context.
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -14,6 +15,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Federal Law and Policy on ICT Accessibility
 Over the past 50 years, the federal government has passed a variety of statutes, regulations, and policies to advance ICT accessibility. In tandem with organizational shifts and initiatives to support PWD and ICT accessibility, key legislative and executive actions have emerged to advance digital equity across the federal government:
@@ -40,4 +42,3 @@ Over the past 50 years, the federal government has passed a variety of statutes,
     </ol>
 </div>
 
-**Reviewed/Updated**: March 2025

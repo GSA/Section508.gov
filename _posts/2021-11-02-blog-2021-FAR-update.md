@@ -36,4 +36,3 @@ This FAR final rule is consistent with the Revised 508 Standards. Noticeable dif
 For a detailed comparison of the previous and updated versions, visit [Tabular Comparison of the Previous FAR text against the 2021 Update]({{ site.baseurl }}/manage/laws-and-policies/far-update-comparison). 
 
  
-**Reviewed/Updated**: November 2021

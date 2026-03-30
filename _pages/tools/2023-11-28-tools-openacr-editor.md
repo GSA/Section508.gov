@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: false
-permalink: tools/openacr-editor/
 type: training
 title: 'OpenACR Editor'
-created: 2023-11-28
+permalink: tools/openacr-editor/
+description: "Learn more about OpenACR Editor on Section508.gov."
 redirect_from:
 - openacr-editor/
 redirect_to: 
@@ -19,4 +19,5 @@ audience:
 - Contracting Officer’s Representative (cor)
 resource-type: Tool (tool)
 format: HTML (html)
+created: 2023-11-28
 ---

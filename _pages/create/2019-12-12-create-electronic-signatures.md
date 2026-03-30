@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/electronic-signatures/
+description: "Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently."
 type: create
 title: 'Electronic Signatures'
 topic: "Content creation (create)"
@@ -135,19 +136,6 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 
 <p dir="ltr">
   Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
-</p>
-
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong>
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
-<p dir="ltr">
-  <strong>Page Reviewed/Updated</strong>: December 2019
 </p>
 
  [1]: https://webaim.org/techniques/acrobat/forms

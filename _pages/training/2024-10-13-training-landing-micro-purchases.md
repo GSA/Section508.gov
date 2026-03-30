@@ -1,18 +1,18 @@
 ---
-sidenav: true
 layout: page
+sidenav: true
 type: training
 title: "Micro-Purchases and Section 508 Requirements"
-descriptions: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
 permalink: training/online-course/micro-purchases/
-topic: "Training (train)"
-sub-topic: "Presentations"
+description: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"
 - "Public (public)"
+topic: "Training (train)"
+sub-topic: "Presentations"
 resource-type: "Training"
 format: "HTML"
 created: 2024-10-15
@@ -141,5 +141,3 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </ul>
   </div>
 </div>
-
-**Reviewed/Updated**: March 2025

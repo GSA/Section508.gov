@@ -218,4 +218,3 @@ Taken together, these findings show that while targeted investments and improved
     <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/acquisition-and-procurement/"> < Previous</a>
 </div>
 
-**Reviewed/Updated**: March 2026

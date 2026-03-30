@@ -1,21 +1,22 @@
 ---
 layout: page
 sidenav: true
-permalink: create/email-messages/
 type: create
 title: 'Email Messages'
+permalink: create/email-messages/
+description: "Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology."
 contributors: frith-chet, va
-created: 2024-08-28
-updated: 
-topic: "Content creation (create)"
-sub-topic: "Email"
 audience:
 - "Federal employee (fedemp)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Content creation (create)"
+sub-topic: "Email"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2024-08-28
+updated: 
 ---
 Email is a vital communication tool for federal employees to transmit [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). To ensure all federal employees have access to information contained within and attached to email messages, we must ensure the emails meet Section 508 Standards. Below are easy steps to create accessible email messages so all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 
@@ -176,7 +177,6 @@ If you place an image in your signature block, such as the <a href="https://www.
 
 Images with hyperlinks are acceptable as long as the alt text associated with the image describes the meaning or intent of the image so the reader knows what to expect if the link is activated. For example, the alt text for the Facebook logo linked to the Department of Veterans Affairs’s Facebook page is ”Visit the VA Facebook page.”
 
-
 ### Things to Avoid Placing in Your Signature Block
 Government emails signatures blocks should refrain from using:
 
@@ -213,4 +213,3 @@ Urgency and lack of planning are not sufficient reasons for sending or distribut
 * <a href="https://www.plainlanguage.gov/guidelines/words/minimize-abbreviations/" target="_blank" class="usa-link--external">Minimize Abbreviations | plainlanguage.gov</a>  
 * <a href="https://www.plainlanguage.gov/resources/articles/keep-it-jargon-free/" target="_blank" class="usa-link--external">Keep It Jargon-free | plainlanguage.gov</a>
 
-**Reviewed/Updated:** September 2024

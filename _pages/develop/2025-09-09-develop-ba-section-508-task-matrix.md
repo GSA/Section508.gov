@@ -21,6 +21,8 @@ subtopic:
 - Manage Accessibility for IT Program/Project Managers
 resource-type: "Process/How-to"
 format: "HTML (html)"
+custom-script: 
+- accordion-management.js
 created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 
@@ -30,10 +32,10 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
 <!-- Select Accordion / Table View -->
 <ul class="usa-button-group usa-button-group--segmented">
   <li class="usa-button-group__item">
-    <button type="button" class="usa-button" id="btn-view-accordion" aria-expanded="true" aria-controls="accordion-view">Accordion View</button>
+    <button id="accordion-view" type="button" class="usa-button" id="btn-view-accordion" aria-expanded="true" aria-controls="accordion-view">Accordion View</button>
   </li>
   <li class="usa-button-group__item">
-    <button type="button" class="usa-button usa-button--outline" id="btn-view-table" aria-expanded="false" aria-controls="table-view">Table  View</button>
+    <button id="table-view" type="button" class="usa-button usa-button--outline" id="btn-view-table" aria-expanded="false" aria-controls="table-view">Table  View</button>
   </li>
 </ul>
 
@@ -41,13 +43,15 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
 <!-- Accordion View -->
 <div id="accordion-view">
   <div class="margin-bottom-3">
-      <button id="expand-all" class="usa-button">Expand All</button>
-      <button id="collapse-all" class="usa-button">Collapse All</button>
+    <button id="expand-all" id="expand-all" class="usa-button" data-target="accordion-group" data-action="expand">Expand All</button>
+    <button id="collapse-all" id="collapse-all" class="usa-button" data-target="accordion-group" data-action="collapse">Collapse All</button>
   </div>
-  <div class="usa-accordion" data-allow-multiple>
+
+
+  <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
     <!-- Stakeholder Needs -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="true" aria-controls="acc-stakeholder">
+      <button id="task01" class="usa-accordion__button roles_button" aria-expanded="true" aria-controls="acc-stakeholder">
         Elicit Stakeholder Needs
       </button>
     </h3>
@@ -80,7 +84,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Define or gather functional requirements (what the ICT should do) -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-functional-reqs">
+      <button id="task02" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-functional-reqs">
         Define or gather functional requirements (what the ICT should do)
       </button>
     </h3>
@@ -113,7 +117,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Refine UI behavior -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-refine-ui">
+      <button id="task03" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-refine-ui">
         Refine UI behavior
       </button>
     </h3>
@@ -146,7 +150,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Draft user stories -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-draft-stories">
+      <button id="task04" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-draft-stories">
         Draft user stories
       </button>
     </h3>
@@ -179,7 +183,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Define acceptance criteria -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-acceptance-criteria">
+      <button id="task05" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-acceptance-criteria">
         Define acceptance criteria
       </button>
     </h3>
@@ -212,7 +216,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Define and document non-functional requirements (how the ICT should behave) -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-nonfunctional-reqs">
+      <button id="task06" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-nonfunctional-reqs">
         Define and document non-functional requirements (how the ICT should behave)
       </button>
     </h3>
@@ -245,7 +249,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Write use cases or business rules -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-use-cases">
+      <button id="task07" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-use-cases">
         Write use cases or business rules
       </button>
     </h3>
@@ -278,7 +282,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Support backlog prioritization -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-backlog-prioritization">
+      <button id="task08" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-backlog-prioritization">
         Support backlog prioritization
       </button>
     </h3>
@@ -311,7 +315,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Stakeholder Review and Validation -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-stakeholder-validation">
+      <button id="task09" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-stakeholder-validation">
         Stakeholder Review and Validation
       </button>
     </h3>
@@ -344,7 +348,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Facilitate User Acceptance Testing (UAT) planning -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-uat-planning">
+      <button id="task10" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-uat-planning">
         Facilitate User Acceptance Testing (UAT) planning
       </button>
     </h3>
@@ -377,7 +381,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Trace requirements to testing -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-traceability">
+      <button id="task11" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-traceability">
         Trace requirements to testing
       </button>
     </h3>
@@ -410,7 +414,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </div>
     <!-- Manage Section 508-related documentation -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-docs">
+      <button id="task12" class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-docs">
         Manage Section 508-related documentation
       </button>
     </h3>
@@ -448,8 +452,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
 <div id="table-view" hidden>
   <p>For a larger view of the table below, select the "Toggle Sidenav" button.</p>
 
-  <button id="toggle-sidenav" class="usa-button margin-y-2" type="button" aria-expanded="true" aria-controls="sidenav">Toggle Sidenav</button>
-
+  <button id="toggle-sidenav" id="toggle-sidenav" class="usa-button margin-y-2" type="button" aria-expanded="true" aria-controls="sidenav">Toggle Sidenav</button>
 
   <div id="table-ba-roles-caption" class="table-caption padding-left-2">
       <strong>Table 1: Agile Roles Section 508 Task Matrix</strong>
@@ -576,8 +579,6 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     </table>
   </figure>
 </div>
-
-**Reviewed/Updated:** September 2025
 
 <!-- Select Accordion / Table Views -->
 <script>

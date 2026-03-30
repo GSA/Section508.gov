@@ -42,4 +42,3 @@ To enhance the transparency of this report and respondent data, we have made the
 * <a href="{{ site.baseurl }}/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Component-Response-Data.csv" target="_blank" class="usa-link--external">FY 2025 Governmentwide Section 508 Assessment Component Response Data (CSV)</a>
 * <a href="{{ site.baseurl }}/assets/files/assessment/2025/FY25-Governmentwide-Section-508-Assessment-Component-Response-Data.json" target="_blank" class="usa-link--external">FY 2025 Governmentwide Section 508 Assessment Component Response Data (JSON)</a>
 
-**Reviewed/Updated**: March 2026

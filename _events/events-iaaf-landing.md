@@ -115,5 +115,3 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
     </div>
   </div>
 </div>
-
-**Reviewed/Updated:** February 2026

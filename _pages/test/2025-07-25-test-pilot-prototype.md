@@ -27,8 +27,6 @@ resource_type:
 - process-how-to
 format: html
 created: 2025-08-05
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
 ---
 When developing new information and communication technology (ICT) products, it's common to encounter terms like prototype and pilot. While both are part of the product design and development lifecycle, they serve distinctly different purposes---especially when it comes to accessibility and Section 508 conformance.
 
@@ -548,5 +546,3 @@ If you're unsure whether your project is in the prototype or pilot phase---or wh
 * <a href="https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs" target="_blank" class="usa-link--external">Personas: learn how to discover your audience, understand them, and pivot to address their needs | Digital.gov</a>
 * <a href="https://designsystem.digital.gov/" target="_blank" class="usa-link--external">U.S. Web Design System (USWDS) | Digital.gov</a>
 * <a href="https://www.deque.com/blog/the-business-case-for-accessibility/" target="_blank" class="usa-link--external">The business case for accessibility | Deque</a>
-
-**Reviewed/Updated:** August 2025

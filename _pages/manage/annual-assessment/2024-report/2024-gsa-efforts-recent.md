@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/section-508-assessment/2024/gsa-efforts-recent/
 type: report2024
 title: "Recent GSA Efforts to Support Section 508 Compliance"
+description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, details recent GSA actions and support efforts to improve Section 508 compliance.
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2024-12-20
 ---
 The following describes GSA's efforts to help entities collect and submit their Assessment data and related efforts to improve federal digital accessibility from December 29, 2023, to December 29, 2024.
 
@@ -230,4 +232,3 @@ In the beginning of FY 2025, GSA created a list of key performance indicators (K
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024

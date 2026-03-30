@@ -4,19 +4,20 @@ sidenav: false
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies - 2025'
 permalink: iaaf/archives/biographies-2025/
+description: View speaker and presenter biographies for the 2025 Interagency Accessibility Forum.
 redirect_from: iaaf/biographies-2025/
-topic: "Events (events)"
-sub-topic: "N/A"
+social_img: "assets/images/social-media-og-image-iaaf.jpg"
+social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:
 - "federal employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"
+topic: "Events (events)"
+sub-topic: "N/A"
 resource-type: "Training"
 format: "HTML (html)"
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
 created: 2025-05-05
 ---
 
@@ -98,5 +99,3 @@ created: 2025-05-05
   {% endif %}
 {% endfor %}
 </div>
-
-**Reviewed/Updated:** May 2025

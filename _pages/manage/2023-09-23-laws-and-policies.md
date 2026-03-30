@@ -2,6 +2,7 @@
 layout: page
 sidenav: true
 permalink: manage/laws-and-policies/
+description: "Learn about the laws, policies, and regulations that require federal agencies to provide accessible information and communication technology for employees and the public."
 type: manage
 title: 'IT Accessibility Laws and Policies'
 contributors: usab
@@ -150,7 +151,5 @@ Learn how to maintain your agency’s policies through the links below:
 ### Accessibility Statements
 
 For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][1].
-
-**Reviewed/Updated:** March 2025
 
 [1]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/

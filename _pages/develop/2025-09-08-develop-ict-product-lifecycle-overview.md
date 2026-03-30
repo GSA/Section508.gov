@@ -88,7 +88,6 @@ The following process outlines the product lifecycle stages and hows to integrat
 <li>Review wireframes and design <a href="{{site.baseurl}}/test/conformance-of-prototypes-and-pilots/">prototypes</a> for Section 508 conformance.</li>  
 <li>Include users with disabilities in user testing, feedback, and review stages to ensure the products meet real-world accessibility needs.</li></ul></li>
 
-
 <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Develop</h3>
 <ul>
@@ -101,7 +100,6 @@ The following process outlines the product lifecycle stages and hows to integrat
 <li>Avoid inaccessible components or provide a conforming alternate version.</li> 
 <li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Build accessibility into continuous delivery/continuous deployment (CI/CD) pipelines</a> through automated linting or Section 508 conformance testing methods.</li>  
 <li>Document code-level ICT accessibility features and decisions.</li></ul></li>
-
 
 <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Test</h3>
@@ -137,7 +135,6 @@ The following process outlines the product lifecycle stages and hows to integrat
  <li>Document and prioritize accessibility defects based on risk or criticality of defect.</li>    
  <li>Follow Change Control requirements for product deployment.</li></ul></li> 
 
-
 <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Deploy</h3>
 <ul>
@@ -147,7 +144,6 @@ The following process outlines the product lifecycle stages and hows to integrat
 <li>Confirm alternate formats are available or alternative means are documented, if applicable.</li>  
 <li>Verify all third-party integrations are Section 508 conformant or have alternative means of access.</li>  
 <li>Create feedback channels, such as <a href="{{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/"> public feedback</a> or <a href="{{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/">Section 508-related complaints</a> for users to report accessibility issues.</li></ul></li>
-
 
 <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Operate and Maintain</h3>
@@ -182,5 +178,3 @@ The following process outlines the product lifecycle stages and hows to integrat
   * [Play 11: Track and Resolve Accessibility Issues]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/)  
 * [Test for Accessibility]({{site.baseurl}}/test/)   
 * [Understanding Accessible Fonts and Typography for Section 508 Compliance]({{site.baseurl}}/develop/fonts-typography/)
-
-**Reviewed/Updated:** September 2025

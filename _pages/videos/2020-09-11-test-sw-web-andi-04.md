@@ -6,7 +6,7 @@ title: 'Module 4: Images'
 permalink: training/web-software/andi-training-videos/images/
 redirect_from:
 - test/web-software/andi-training-videos/images/
-description: 
+description: In Module 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI Graphics/Images module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 disclaimer: 
 audience:
 - federal employee (fedemp)
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
+In Module 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-04-oc.mp4" type="video/mp4"></video>
 
@@ -107,4 +107,3 @@ In Module: 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026

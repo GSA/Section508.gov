@@ -18,8 +18,8 @@ resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2022-05-09
 updated: 2025-08-21
+hide-date: true #dates on landing pages are hidden
 exclude-changelog: true
-hide-date: true
 ---
 Remediation means rework—and rework is waste. Federal agencies must ensure that their electronic documents and digital services are accessible to people with disabilities. These guides help federal employees create digital products that are accessible to everyone.
 

@@ -6,7 +6,7 @@ title: 'Module 1: Overview of ANDI'
 permalink: training/web-software/andi-training-videos/overview/
 redirect_from:
 - test/web-software/andi-training-videos/overview/
-description: 
+description: In Module 1 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, get an overview of the Accessible Name & Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs single page testing to automatically detect accessibility issues.
 disclaimer: 
 audience:
 - "federal employee (fedemp)"
@@ -23,7 +23,7 @@ updated: 2026-03-03
 exclude-changelog: true
 ---
 
-In Module: 1 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, get an overview of the Accessible Name & Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs single page testing to automatically detect accessibility issues.
+In Module 1 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, get an overview of the Accessible Name & Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs single page testing to automatically detect accessibility issues.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-01-oc.mp4" type="video/mp4"></video>
 
@@ -144,4 +144,3 @@ In Module: 1 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: March 2026

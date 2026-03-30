@@ -33,14 +33,16 @@ resource_type:
 - tool
 format: html
 created: 2025-04-28
-updated: 2024-05-12
+updated: 2026-03-19
+exclude-changelog: true
 ---
-The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov, and provides Accessibility Conformance Reports (ACRs) for external products and tools to help users make informed procurement decisions.
+
+The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov. Accessibility Conformance Reports (ACRs) are provided only for the tools and training made available by GSA through Section508.gov to support informed decision-making.
 
 ## How to Use This Page
 
-* **Find ACRs**: Browse for Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products.
-* **View or Download ACR Reports**: Select the provided link to download the latest ACR package file.
+* **Find ACRs**: Access Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products offered by the GSA Government-wide IT Accessibility Program.
+* **View or Download ACR Reports**: Select the applicable link to download the latest ACR package file.
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="HTML globe symbol">
   **HTML Format**: View the ACR in a user-friendly, readable document format.
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="YAML code symbol">
@@ -194,5 +196,3 @@ The General Services Administration (GSA) provides technical assistance to indiv
   * [Understanding Vendor Claims in ACRs for Section 508 Conformance]({{ site.baseurl }}/buy/understand-claims/) 
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
   * [Soliciting and Evaluating ACRs in Federal ICT Procurement]({{ site.baseurl }}/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
-
-**Reviewed/Updated:** May 2025

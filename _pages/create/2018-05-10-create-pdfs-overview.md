@@ -4,6 +4,9 @@ sidenav: true
 type: create
 title: 'Create Accessible PDFs'
 permalink: create/pdfs/
+redirect_from:
+- content/pdfs/
+- create/pdfs/authoring-guides/
 description: Learn how to create accessible Portable Document Format (PDF) documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 topic: "Content creation (create)"
 sub-topic: "PDFs"
@@ -16,9 +19,6 @@ format: "HTML (html)"
 created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
-redirect_from:
-- content/pdfs/
-- create/pdfs/authoring-guides/
 ---
 Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
@@ -95,8 +95,6 @@ The resources in this section were developed by Federal agencies, and shared her
   * Review [W3C's Alt Decision Tree][11] for guidance on how to describe images.
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
-
-**Reviewed/Updated:** November 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx

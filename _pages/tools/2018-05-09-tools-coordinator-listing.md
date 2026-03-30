@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2026-02-06
+updated: 2026-03-04
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -27,7 +27,6 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 
 ## Departments and CFO Act Agencies
 
-[Agency for International Development][1]  
 [Department of Agriculture][2]  
 [Department of Commerce][3]  
 [Department of Education][5]  
@@ -51,15 +50,12 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 [Office of Personnel Management][22]  
 [Small Business Administration][23]  
 [Social Security Administration][24]
+
 ## Small and Independent Agencies
 Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][30] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topJ" ></span> [J][34] |<span id="topL" ></span> [L][36] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
 
 <hr>
 
-## <span id="usaid" ></span>Agency for International Development (USAID)
-William Morgan - <wmorgan@usaid.gov>
-
----
 ## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Agencywide
 Angela Williams - <angela.williams@usda.gov>  
@@ -949,55 +945,53 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: March 2026
-
- [1]: #usaid "Go to Agency for International Development"
- [2]: #usda "Go to Department of Agriculture"
- [3]: #usdoc "Go to Department of Commerce"
- [4]: #usdod "Go to Department of Defense"
- [5]: #usdoe "Go to Department of Education"
- [6]: #usdoen "Go to Department of Energy"
- [7]: #usdohhs "Go to Department of Health and Human Services"
- [8]: #usdhs "Go to Department of Homeland Security"
- [9]: #usdhud "Go to Department of Housing and Urban Development"
- [10]: #usdoi "Go to Department of the Interior"
- [11]: #usdoj "Go to Department of Justice"
- [12]: #usdol "Go to Department of Labor"
- [13]: #usdos "Go to Department of State"
- [14]: #usdot "Go to Department of Transportation"
- [15]: #usdott "Go to Department of the Treasury"
- [16]: #usdova "Go to Department of Veterans Affairs"
- [17]: #usepa "Go to Environmental Protection Agency"
- [18]: #usgsa "Go to General Services Administration"
- [19]: #usnasa "Go to National Aeronautics & Space Administration"
- [20]: #usnsf "Go to National Science Foundation"
- [21]: #usnrc "Go to Nuclear Regulatory Commission"
- [22]: #usopm "Go to Office of Personnel Management"
- [23]: #ussba "Go to Small Business Administration"
- [24]: #usssn "Go to Social Security Administration"
- [25]: #A "Go to agencies beginning with A"
- [26]: #B "Go to agencies beginning with B"
- [27]: #C "Go to agencies beginning with C"
- [28]: #D "Go to agencies beginning with D"
- [29]: #E "Go to agencies beginning with E"
- [30]: #F "Go to agencies beginning with F"
- [31]: #G "Go to agencies beginning with G"
- [32]: #H "Go to agencies beginning with H"
- [33]: #I "Go to agencies beginning with I"
- [34]: #J "Go to agencies beginning with J"
- [35]: #K "Go to agencies beginning with K"
- [36]: #L "Go to agencies beginning with L"
- [37]: #M "Go to agencies beginning with M"
- [38]: #N "Go to agencies beginning with N"
- [39]: #O "Go to agencies beginning with O"
- [40]: #P "Go to agencies beginning with P"
- [41]: #Q "Go to agencies beginning with Q"
- [42]: #R "Go to agencies beginning with R"
- [43]: #S "Go to agencies beginning with S"
- [44]: #T "Go to agencies beginning with T"
- [45]: #U "Go to agencies beginning with U"
- [46]: #V "Go to agencies beginning with V"
- [47]: #W "Go to agencies beginning with W"
- [48]: #X "Go to agencies beginning with X"
- [49]: #Y "Go to agencies beginning with Y"
- [50]: #Z "Go to agencies beginning with Z"
+[1]: #usaid "Go to Agency for International Development"
+[2]: #usda "Go to Department of Agriculture"
+[3]: #usdoc "Go to Department of Commerce"
+[4]: #usdow "Go to Department of War"
+[5]: #usdoe "Go to Department of Education"
+[6]: #usdoen "Go to Department of Energy"
+[7]: #usdohhs "Go to Department of Health and Human Services"
+[8]: #usdhs "Go to Department of Homeland Security"
+[9]: #usdhud "Go to Department of Housing and Urban Development"
+[10]: #usdoi "Go to Department of the Interior"
+[11]: #usdoj "Go to Department of Justice"
+[12]: #usdol "Go to Department of Labor"
+[13]: #usdos "Go to Department of State"
+[14]: #usdot "Go to Department of Transportation"
+[15]: #usdott "Go to Department of the Treasury"
+[16]: #usdova "Go to Department of Veterans Affairs"
+[17]: #usepa "Go to Environmental Protection Agency"
+[18]: #usgsa "Go to General Services Administration"
+[19]: #usnasa "Go to National Aeronautics & Space Administration"
+[20]: #usnsf "Go to National Science Foundation"
+[21]: #usnrc "Go to Nuclear Regulatory Commission"
+[22]: #usopm "Go to Office of Personnel Management"
+[23]: #ussba "Go to Small Business Administration"
+[24]: #usssn "Go to Social Security Administration"
+[25]: #A "Go to agencies beginning with A"
+[26]: #B "Go to agencies beginning with B"
+[27]: #C "Go to agencies beginning with C"
+[28]: #D "Go to agencies beginning with D"
+[29]: #E "Go to agencies beginning with E"
+[30]: #F "Go to agencies beginning with F"
+[31]: #G "Go to agencies beginning with G"
+[32]: #H "Go to agencies beginning with H"
+[33]: #I "Go to agencies beginning with I"
+[34]: #J "Go to agencies beginning with J"
+[35]: #K "Go to agencies beginning with K"
+[36]: #L "Go to agencies beginning with L"
+[37]: #M "Go to agencies beginning with M"
+[38]: #N "Go to agencies beginning with N"
+[39]: #O "Go to agencies beginning with O"
+[40]: #P "Go to agencies beginning with P"
+[41]: #Q "Go to agencies beginning with Q"
+[42]: #R "Go to agencies beginning with R"
+[43]: #S "Go to agencies beginning with S"
+[44]: #T "Go to agencies beginning with T"
+[45]: #U "Go to agencies beginning with U"
+[46]: #V "Go to agencies beginning with V"
+[47]: #W "Go to agencies beginning with W"
+[48]: #X "Go to agencies beginning with X"
+[49]: #Y "Go to agencies beginning with Y"
+[50]: #Z "Go to agencies beginning with Z"

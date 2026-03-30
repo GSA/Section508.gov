@@ -1,12 +1,13 @@
 ---
-title: "Highlights from the new Government-wide Section 508 Assessment | Webinar"
 layout: wide_events
+title: "Highlights from the new Government-wide Section 508 Assessment | Webinar"
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2024-01-30 #otherwise use end-date
-image:
-image-alt: 
 permalink: /event/best-practices-webinar-jan2024/
 description: This session will introduce the concept, development, tools, and benefits of creating and using accessible maps. Presenters from the Federal Aviation Administration and the Minnesota Department of Natural Resources of the State of Minnesota will discuss how they create accessible maps in different formats to meet their missions of informing and educating the public.
+image:
+image-alt: 
+created: 2024-01-09
 ---
 At the end of 2022, Congress enacted the Consolidated Appropriations Act, Section 752. This required an update of Section 508 Assessment Criteria across government. During 2023, the Office of Management and Budget (OMB) the General Services administration (GSA), the U.S. Access Board (USAB) and the Office of Science and Technology Policy (OSTP) at the White House worked closely together developing new Section 508 Assessment Criteria. The Criteria were used to create a survey containing 105 questions, targeting specific areas of agency Section 508 programs. The survey was disseminated across government. Forty questions addressed accessibility program maturity, 43 addressed conformance questions, eliciting specific performance metrics for web, hardware, software, documents, and selected enterprise applications, among other features. Finally, there were 22 general information questions about Section 508 programs themselves, asking about staffing levels, task organization, and complaint processes, to name a few.
 

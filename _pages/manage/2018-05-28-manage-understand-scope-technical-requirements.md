@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/understand-scope-technical-requirements/
 type: manage
 title: 'Understand Content Scope and Technical Requirements'
-created: 1527551014
+permalink: manage/understand-scope-technical-requirements/
+description: Understand Section 508 scope and technical requirements, including what digital content and tools must comply and how to apply accessibility standards effectively.
 topic: Manage (program)
 sub-topic: Manage Accessibility for IT Program/Project Managers
 audience:
@@ -15,6 +15,7 @@ audience:
 - Content Creators (creator)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-28
 ---
 
 In the Revised 508 Standards, [Section E205 - Electronic Content][1] specifies which electronic content, including web, software, multimedia and electronic documents, must conform to the technical requirements.
@@ -66,11 +67,6 @@ Refer to  [Section E205][1] for the specific technical provisions that apply to 
   *  [Build Support for Accessible Content][3] - Follow the stages of content production to ensure your organization publishes accessible content.
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
-
-  
-
-
-**Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/ict/#E205-content
  [2]: https://www.access-board.gov/contact/
