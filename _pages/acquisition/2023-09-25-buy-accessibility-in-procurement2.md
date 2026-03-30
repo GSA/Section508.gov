@@ -70,7 +70,7 @@ This phase is one that may be overlooked, especially in terms of Accessibility. 
 ## Contractor Performance Assessment Report System (CPARS)
 Since Accessibility is a requirement for the product, it is important to include this as a performance factor in CPARS and other means of past performance tracking.
 
-The Contracting Officer’s Representative (COR) should follow the Quality Assurance Surveillance Plan (QASP) provided by the Government or the Quality Control Plan (QCP) provided by the contractor. Either is sufficient, depending on what the Acquisition Planning team determined at the beginning of the process.
+The Contracting Officer’s Representative (COR) should follow the [Quality Assurance Surveillance Plan (QASP)]({{site.baseurl}}/acquisition/buy/integrate-section-508-in-qasps/) provided by the Government or the Quality Control Plan (QCP) provided by the contractor. Either is sufficient, depending on what the Acquisition Planning team determined at the beginning of the process.
 
 Acceptable Quality Levels (AQLs) are included in the relevant Quality Plan. What does success look like for Accessibility? How often will the COR do spot checks on the product? What are the incentives or considerations for products that exceed expectations or are broken?
 
@@ -83,5 +83,5 @@ An AQL is completed when testing is successfully completed using the contractor�
 
 [^1]: To be developed.
 
-**Reviewed/Updated**:  September 2023
+**Reviewed/Updated**:  Macrh 2026
 

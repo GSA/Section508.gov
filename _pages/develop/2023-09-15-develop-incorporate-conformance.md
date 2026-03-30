@@ -43,7 +43,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
     </ul>
   </li>
   <li>Understand accessibility knowledge of staff; consider budgeting for training and tools.</li>
-  <li>Develop a Quality Assurance Surveillance Plan (QASP) that includes accessibility. Two examples of QASP temples are <a href="https://nitaac.nih.gov/resources/tools-and-templates/quality-assurance-surveillance-plan-qasp-template" class="usa-link--external" target="_blank">National Institutes of Health's QASP Template</a> and <a href="https://usahca.medcom.amedd.army.mil/docs/Sample-QASP.pdf" class="usa-link--external" target="_blank">U.S. Army Health Contracting Activity (USAHCA) QASP Template</a>. </li>
+  <li>Develop a <a href="{{site.baseurl}}/acquisition/buy/integrate-section-508-in-qasps/">Quality Assurance Surveillance Plan (QASP)</a> that includes accessibility. Two examples of QASP temples are <a href="https://nitaac.nih.gov/resources/tools-and-templates/quality-assurance-surveillance-plan-qasp-template" class="usa-link--external" target="_blank">National Institutes of Health's QASP Template</a> and <a href="https://usahca.medcom.amedd.army.mil/docs/Sample-QASP.pdf" class="usa-link--external" target="_blank">U.S. Army Health Contracting Activity (USAHCA) QASP Template</a>. </li>
   <li>Familiarize team members with accessibility features and support within design and development tools. </li>
   <li>Foster a culture of accessibility so all team members understand their role in ensuring the accessibility of the product and are committed to fulfilling that role. </li>
   </ol>
@@ -150,4 +150,4 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   </ol>
 </div>
 
-**Reviewed/Updated:** March 2025
+**Reviewed/Updated:** March 2026

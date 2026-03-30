@@ -348,6 +348,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="contractor">Contractor</th>
     <td>An individual or entity contracted by the government to provide services, material, equipment, or supplies. IT accessibility contractors may perform services such as testing, remediation, development, and training. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies.</td>
   </tr>
+    <tr>
+    <th scope="row" id="contractor-performance-report">Contractor Performance Assessment Report (CPAR)</th>
+    <td>An official record of a contractor’s performance, documented in <a href="http://www.CPARS.gov" target="_blank" class="usa-link--external">CPARS.gov</a> and used to inform future source selections.</td>
+  </tr>
   <tr>
     <th scope="row" id="coordinator">Coordinator (Section 508 Coordinator)</th>
     <td>Previously used to refer to a Section 508 Program Manager. See <a href="#section-508-program-manager">Section 508 Program Manager</a>.</td>
@@ -996,6 +1000,11 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="quality-assurance">Quality Assurance (QA)</th>
     <td>An activity to ensure an organization provides the best possible product or service to customers, often based on standardized testing methods.</td>
   </tr>
+    <tr>
+    <th scope="row" id="quality-assurance-plan">Quality Assurance Surveillance Plan (QASP)</th>
+    <td>A government plan that outlines how contractor performance will be monitored and measured against contract requirements.
+</td>
+  </tr>
   <tr>
     <th scope="row" id="questions">Question</th>
     <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
@@ -1354,4 +1363,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** February 2026
+**Reviewed/Updated:** March 2026
