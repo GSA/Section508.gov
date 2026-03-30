@@ -72,7 +72,7 @@ Test results should be reported using testing performed by knowledgeable accessi
 <li>Provide specific and detailed remarks, explanations, and information on why the conformance level was selected, how to replicate each defect, and any other important information a developer may need to scope remediation. Testers should:</li><ul>
   <li>Avoid vague or generic language.</li>  
    <li>Provide sufficient information to explain:</li>
-   <ul>  
+   <ul>
      <li> what the defect is,</li>  
      <li>when or where the defect occurs, and</li>   
      <li>the criticality or severity of each defect. Common levels include: Critical, High, Moderate or Medium, and Low.</li></ul>   
