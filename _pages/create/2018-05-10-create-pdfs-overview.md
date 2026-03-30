@@ -23,7 +23,7 @@ exclude-changelog: true
 Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <ul>
+  <ul class="margin-0 padding-0">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-gold" style="display: flex; align-items: center; justify-content: center; width:20rem;">
         <svg class="usa-icon" aria-hidden="true" style="width:3em; height:3em;" role="img">
