@@ -9,16 +9,16 @@ redirect_from:
 - manage/section-508-assessment/2024/
 - 2024-congressional-report/
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared and submitted by the General Services Administration to Congress in coordination with OMB and the U.S. Access Board, presents federal ICT accessibility findings, highlighting federal agency digital accessibility progress, compliance insights, and inclusive goals under Section 508 of the Rehabilitation Act.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 updated: 2026-01-15
 exclude-changelog: true

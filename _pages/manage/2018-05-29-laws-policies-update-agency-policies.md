@@ -7,16 +7,16 @@ permalink: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
 redirect_from:
 - manage/laws-and-policies/update-agency-policies/
 description: Learn how to update and maintain your agency's accessibility policies to ensure compliance with Section 508 and other requirements of the Rehabilitation Act.
-topic: Law (law)
-sub-topic: Accessibility Law & Policy
+topic: Law
+sub-topic: Statute & Regulation
 audience:
-- 508 Program Manager (508pm)
-- Lawmakers and Policy Officials (law-policy)
-- Chief Information Officer (cio)
-- Agency Head (head)
-- Information Technology Program and Project Managers (itpm)
-resource-type: Process/How-to
-format: HTML (html)
+- Section 508 Program Managers
+- Policy and Law Makers
+- Chief Information Officers (CIO)
+- Agency Heads
+- IT Program & Project Managers
+resource-type: Process & How-To
+format: HTML
 created: 2025-09-15
 ---
 Ongoing compliance with Section 508 requires agencies to regularly review and update their Section 508, Section 501, and Section 504 policies. These policies should work together to clearly define responsibilities, ensure compliance with the Rehabilitation Act, and guide responses to claims of disability discrimination.

@@ -5,16 +5,16 @@ type: create
 title: 'PDF Training Videos'
 permalink: create/pdfs/training-videos/
 description: "This series of videos to explains and demonstrates the minimum steps needed to ensure your PDF document is accessible to people with disabilities."
-topic: Content creation (create)
+topic: Create
 sub-topic: PDFs
 audience:
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- 508 Program Manager (508pm)
+- Content Creators
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 created: 2020-01-22
 updated: 2025-01-22
 ---

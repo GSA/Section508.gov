@@ -6,16 +6,16 @@ description: "Review policy guidance for acquisition and procurement to identify
 type: manage
 title: "IT Accessibility Policy Framework - Acquisition and Procurement"
 created: December 10, 2023
-topic: "Policy (policy)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Policy"
+sub-topic: "Statute & Regulation"
 audience:
-- "Lawmakers and Policy Officials (law-policy)"
-- "508 Program Manager (508pm)"
-- "Acquisition (acq)"
-- "Manager/Exec (exec)"
-- "Federal employee (fedemp)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Policy and Law Makers"
+- "Section 508 Program Managers"
+- "Buyers"
+- "Manager & Supervisor"
+- "Federal Employees"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 
 <h2 id="standards">

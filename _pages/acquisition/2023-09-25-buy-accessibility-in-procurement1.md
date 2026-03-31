@@ -7,14 +7,14 @@ permalink: buy/accessibility-in-procurement-pre-solicitation-1/
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities. 
 contributors: proctor, gsatts
 audience:
-- "Acquisition (acq)"
-- "Chief Acquisition Officer (cao)"
-- "Agency Senior Procurement Executive (spe)"
-- "Agency Senior Procurement Executive (spe)"
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Buyers"
+- "Chief Acquisition Officers (CAO)"
+- "Executive Leadership (CXO)"
+- "Executive Leadership (CXO)"
+topic: "Buy"
+sub-topic: "Guidance"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2023-09-25
 ---
 

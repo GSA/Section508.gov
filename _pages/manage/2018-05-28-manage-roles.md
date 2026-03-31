@@ -5,16 +5,16 @@ type: manage
 title: 'IT Accessibility Roles and Responsibilities'
 permalink: manage/roles/
 description: Explore the clearly defined roles and responsibilities—from agency officials to content creators and program managers—that federal agencies must follow to effectively govern and ensure compliance with Section 508 accessibility requirements.
-topic: Manage (program)
-sub-topic: Manage a 508 Program
+topic: Manage
+sub-topic: Manage a Section 508 Program
 audience:
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-- Manager/Exec (exec)
-- Federal employee (fedemp)
-- Lawmakers and Policy Officials (law-policy)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Federal Employees
+- Policy and Law Makers
+resource-type: Article
+format: HTML
 created: 2025-05-28
 updated: 2026-03-02
 exclude-changelog: true
@@ -180,7 +180,7 @@ The following roles and responsibilities are defined in OMB memorandum, <a href=
 </thead>  
 <tbody>
   <tr>
-    <th scope="row" id="usab">Access Board (USAB)</th>
+    <th scope="row" id="usab-t2">Access Board (USAB)</th>
     <td>
       <ul>
         <li>Develops and issues <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 accessibility standards</a>.</li>
@@ -198,7 +198,7 @@ The following roles and responsibilities are defined in OMB memorandum, <a href=
     </td>
   </tr>
   <tr>
-    <th scope="row" id="doj">Department of Justice (DOJ)</th>
+    <th scope="row" id="doj-t2">Department of Justice (DOJ)</th>
     <td>
       <ul>
         <li>Collaborates with the General Services Administration to collect and evaluate information from all Federal agencies to ascertain status of compliance with Section 508.</li>
@@ -224,7 +224,7 @@ The following roles and responsibilities are defined in OMB memorandum, <a href=
     </td>
   </tr>    
   <tr>
-    <th scope="row" id="gsa">General Services Administration (GSA)</th>
+    <th scope="row" id="gsa-t2">General Services Administration (GSA)</th>
     <td>
       <ul>
         <li>Provides Section 508 technical assistance to Federal agencies, in collaboration with the Access Board.</li>
@@ -244,7 +244,7 @@ The following roles and responsibilities are defined in OMB memorandum, <a href=
     </td>
   </tr>
   <tr>
-    <th scope="row" id="omb">Office of Management and Budget (OMB)</th>
+    <th scope="row" id="omb-t2">Office of Management and Budget (OMB)</th>
     <td>
       <ul>
         <li>Develops Government-wide policies on the management of information resources, including information technology.</li>
@@ -401,7 +401,7 @@ The roles and responsibilities cited in this article were informed by federal re
 </thead>
 <tbody>    
   <tr>
-    <th scope="row" id="doj">Department of Justice (DOJ)</th>
+    <th scope="row" id="doj-t4">Department of Justice (DOJ)</th>
     <td>
       <ul>
         <li>Biennially, conduct a survey of all Federal agencies to ascertain status of compliance with Section 508.</li>
@@ -419,7 +419,7 @@ The roles and responsibilities cited in this article were informed by federal re
     </td>
   </tr>
   <tr>
-    <th scope="row" id="gsa">General Services Administration (GSA)</th>
+    <th scope="row" id="gsa-t4">General Services Administration (GSA)</th>
     <td>
       <ul>
         <li>Annually, conduct a survey of all Federal agencies to ascertain status of compliance with Section 508.</li>
@@ -430,7 +430,7 @@ The roles and responsibilities cited in this article were informed by federal re
     </td>
   </tr>
   <tr>
-    <th scope="row" id="omb">Office of Management and Budget (OMB)</th>
+    <th scope="row" id="omb-t4">Office of Management and Budget (OMB)</th>
     <td>
       <ul>
         <li>In coordination with GSA and USAB, disseminate amended or updated criteria, the metrics by which compliance will be assessed, and instructions to Federal departments or agencies for annual evaluation and reporting.</li>
@@ -438,7 +438,7 @@ The roles and responsibilities cited in this article were informed by federal re
     </td>
   </tr>
   <tr>
-    <th scope="row" id="usab">U.S. Access Board (USAB)</th>
+    <th scope="row" id="usab-t4">U.S. Access Board (USAB)</th>
     <td>
       <ul>
         <li>Provide technical assistance to agencies regarding their annual assessments and data submissions.</li>

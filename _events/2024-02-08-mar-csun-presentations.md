@@ -5,6 +5,7 @@ start-date: 2024-03-19 #only fill in start date if the events spans multiple day
 end-date: 2024-03-21 #otherwise use end-date
 permalink: /event/csun-presentations-2024/
 description: Join GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board in Anaheim, California at the CSUN Assistive Technology Conference, March 19-22. Members of the GSA and Access Board will present five sessions during the four-day conference. We hope to see you there! 
+topic: Events
 image:
 image-alt: 
 created: 2024-02-08

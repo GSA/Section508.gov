@@ -5,16 +5,16 @@ type: report2025
 title: "Findings: Accessibility Conformance Outcomes"
 permalink: manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes federal ICT accessibility conformance, highlighting testing gaps, barriers, and variation across agencies.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2026-03-02
 updated: 
 exclude-changelog: true
@@ -129,7 +129,7 @@ The assessment revealed varied agency outcomes regarding ICT conformance. While 
     </tr>
     <tr>
       <th scope="row">Medium (1,000-9,999 employees)</th>
-      <td class="bg-blueish-7">7</td>
+      <td class="bg-blueish-7" style="color: #060606;">7</td>
       <td class="bg-blueish-2">2</td>
       <td class="bg-blueish-1">1</td>
       <td class="bg-blueish-2">2</td>
@@ -157,4 +157,3 @@ The assessment revealed varied agency outcomes regarding ICT conformance. While 
 <div id="prev-next-section" style="justify-content: space-around;" class="padding-bottom-2">
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/tested-ict/"> Next > </a>
 </div>
-

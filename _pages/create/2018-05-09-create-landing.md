@@ -8,14 +8,14 @@ redirect_from:
 - content/build/create-accessible-documents/
 - create/video-social/
 description: Remediation is rework, and rework is waste. Federal agencies are responsible for ensuring their information and services are accessible to persons with disabilities. Federal employees can use our guides to create accessible electronic documents and digital services ensure access by everyone.
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2022-05-09
 updated: 2025-08-21
 hide-date: true #dates on landing pages are hidden

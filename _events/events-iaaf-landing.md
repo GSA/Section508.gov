@@ -9,6 +9,9 @@ redirect_from:
 start-date: 2026-05-21 #only fill in start date if the events spans multiple days
 end-date: 2026-05-22 #otherwise use end-date
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
+topic: Events
+sub-topic:
+- IAAF
 created: 2014-01-01
 updated: 2026-03-04
 exclude-changelog: true

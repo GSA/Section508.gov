@@ -6,13 +6,13 @@ title: 'Accessibility Training, Tools, and Events'
 permalink: training/
 description: Explore free Section 508 training to help federal employees create, buy, and maintain accessible technology that meets legal and usability standards.
 audience:
-- Public (public)
-- Federal employee (fedemp)
-- 508 Program Manager (508pm)
-topic: Training (train)
-sub-topic: N/A
+- Members of the Public
+- Federal Employees
+- Section 508 Program Managers
+topic: Training
+sub-topic: Other
 resource-type: Training
-format: HTML (html)
+format: HTML
 created: 2018-05-07
 updated: 2024-10-15
 hide-date: true #dates on landing pages are hidden
@@ -70,14 +70,29 @@ Learn how you can make your agency's electronic information and digital services
   </li>
 </ul>
 <ul class="usa-card-group">
-    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-6">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/content-library/">Section508.gov Content Library</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-red">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-content-library-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Find what you need faster. Filter and search across Section508.gov content by topic, sub-topic, resource type, audience, and file format.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/">Section 508 Tools</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-orange">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-training-toolbox-col2.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-training-toolbox-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -85,14 +100,14 @@ Learn how you can make your agency's electronic information and digital services
       </div>
     </div>
   </li>
-  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-6">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program)">DHS Trusted Tester Process & Certification Program</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-primary-light">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col2.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">

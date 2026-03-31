@@ -7,20 +7,20 @@ permalink: develop/product-lifecycle-overview/
 description: Learn how to integrate Section 508 compliance early in the product lifecycle, from planning and design to development, testing, deployment, and maintenance.
 disclaimer:
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-topic: "Development (dev)"
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+topic: "Develop"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2025-09-08
 updated: 2025-09-08
 exclude-changelog: 

@@ -5,16 +5,16 @@ type: manage
 title: 'Manage a Section 508 Program Overview'
 description: Explore comprehensive guidance on managing a Section 508 program, including policy development, governance, training, and compliance strategies for federal agencies.
 permalink: manage/section-508-program/
-topic: "Manage (program)"
+topic: "Manage"
 sub-topic: "Manage a Section 508 Program"
 audience:
-- "508 Program Manager (508pm)"
-- "Chief Information Officer (cio)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Agency Head (head)"
-- "Lawmakers and Policy Officials (law-policy)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Chief Information Officers (CIO)"
+- "IT Program & Project Managers"
+- "Agency Heads"
+- "Policy and Law Makers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2025-09-15
 updated: 
 exclude-changelog:

@@ -7,27 +7,27 @@ permalink: manage/section-508-program-team-roles-and-responsibilities/
 description: Explore Section 508 team roles, functions, and collaboration strategies to advance digital accessibility and agency compliance goals.
 disclaimer: 
 audience: 
-- 508-pm
-- buyer
-- buyer-senior-exec
-- cao
-- cio
-- hr-chco
-- requirement-ba
+- Section 508 Program Managers
+- Buyers
+- Executive Leadership (CXO)
+- Chief Acquisition Officers (CAO)
+- Chief Information Officers (CIO)
+- Chief Human Capital Officers (CHCO)
+- Requirements & Business Analysts
 topic: 
-- buy
-- design
-- dev
-- training
+- Buy
+- Design
+- Develop
+- Training
 subtopic: 
 - Accessible Selling Info, Guidance, & Best Practices
 - Content Creation Training or Tools
 - General Info and Best Practices
 - Manage a 508 Program
 - Manage Accessibility for IT Program/Project Managers
-resource_type: 
-- article
-format: html
+resource-type: 
+- Article
+format: HTML
 created: 2025-08-11
 updated: 2026-03-02
 exclude-changelog: true

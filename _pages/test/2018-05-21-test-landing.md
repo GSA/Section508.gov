@@ -9,16 +9,16 @@ redirect_from:
 - refresh-toolkit/test/
 - Refresh-toolkit/test/
 description: Learn Section 508 accessibility testing lifecycle, methods, and tools for electronic documents, hardware, software, and websites.
-topic: Testing (test)
-sub-topic: Various Electronic Content (i.e. Multiple)
+topic: Testing
+sub-topic: Other
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Information Technology Program and Project Managers (itpm)
-resource-type: Process/How-to
-format: HTML (html)
+- Federal Employees
+- Section 508 Program Managers
+- Developers
+- Content Creators
+- IT Program & Project Managers
+resource-type: Process & How-To
+format: HTML
 created: 2018-05-22
 updated: 2025-08-13
 hide-date: true #dates on landing pages are hidden

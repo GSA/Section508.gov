@@ -6,15 +6,15 @@ title: 'Solicitation Review Tool (SRT)'
 permalink: buy/solicitation-review-tool/
 description: Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov. Ensure accessibility compliance in IT solicitations quickly and effectively.
 audience:
-- Acquisition (acq)
-- Contracting Officer’s Representative (cor)
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-topic: Acquisition/Buy (buy)
-sub-topic: Acquisition Tools
-resource-type: Tool (tool)
-format: HTML (html)
+- Buyers
+- Contracting Officers (CO & COR)
+- Section 508 Program Managers
+- Federal Employees
+- IT Program & Project Managers
+topic: Buy
+sub-topic: Tools
+resource-type: Tool
+format: HTML
 created: 2020-10-21
 updated: 2025-04-21
 ---

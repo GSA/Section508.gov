@@ -7,12 +7,11 @@ permalink: training/create/making-color-usage-accessible/color-contrast-analyzer
 description: Learn how to use the Colour Contrast Analyser (CCA) to check color contrast in digital content using HEX codes. This Making Color Usage Accessible video is ideal when tools like ANDI can't detect contrast issues.
 disclaimer: true
 audience:
-topic: "Training (train)"
+topic: "Training"
 sub-topic: 
 resource-type: "Training"
-format: "Video & Synchronized Media (video)"
+format: "Video"
 created: 2025-08-07
-updated: 
 updated: 2026-03-03
 exclude-changelog: true
 ---
@@ -74,4 +73,3 @@ In this video from [Making Color Usage Accessible]({{site.baseurl}}/create/makin
 ## Additional Resources
 * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
-

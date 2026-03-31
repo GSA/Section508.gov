@@ -5,16 +5,16 @@ type: manage
 title: 'Identify User Needs'
 permalink: manage/identify-user-needs/
 description: Learn how to identify and assess user needs for accessible digital services, including research strategies and best practices for Section 508 compliance.
-topic: "Manage (program)"
-sub-topic: "Manage Accessibility for IT Program/Project Managers"
+topic: "Manage"
+sub-topic: "Roles & Responsibilities"
 audience:
-- "508 Program Manager (508pm)"
-- "Website Managers/Content Managers (wcm)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Web Content Managers"
+- "IT Program & Project Managers"
+- "Content Creators"
+- "Developers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-28
 ---
 

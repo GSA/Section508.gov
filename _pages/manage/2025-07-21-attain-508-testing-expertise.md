@@ -5,14 +5,14 @@ type: manage
 title: How to Attain Section 508 Testing Expertise
 permalink: manage/roles/attain-section-508-testing-expertise/
 description: Learn how federal agencies can develop or acquire Section 508 testing expertise, including internal skill-building strategies, vendor selection, and best practices for ensuring ICT accessibility compliance.
-topic: "Manage (program)"
-sub-topic: "Testing for Accessibility Training or Tools"
+topic: "Manage"
+sub-topic: "Training"
 audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Developers"
+resource-type: "Process & How-To"
+format: "HTML"
 disclaimer: true
 created: 2025-07-21
 updated: 2025-09-18

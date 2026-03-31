@@ -5,16 +5,16 @@ type: report2025
 title: "Executive Summary"
 permalink: manage/section-508-assessment/2025/executive-summary/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including conformance trends, testing gaps, and recommendations to Congress and agencies.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2026-03-02
 updated: 
 exclude-changelog: true
@@ -110,7 +110,7 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
 </ul>
 
 
-<h2 id="recommendations-to-congress"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-congress">Recommendations to Congress</a></h2>
+<h2 id="executive-summary-recommendations-to-congress"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-congress">Recommendations to Congress</a></h2>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
@@ -132,7 +132,7 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
   </li>
 </ol>
 
-<h2 id="recommendations-to-federal-agencies"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-federal-agencies">Recommendations to Federal Agencies</a></h2>
+<h2 id="executive-summary-recommendations-to-federal-agencies"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-federal-agencies">Recommendations to Federal Agencies</a></h2>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
@@ -171,4 +171,3 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
     </div>
   </li>
 </ol>
-

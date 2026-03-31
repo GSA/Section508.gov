@@ -4,7 +4,8 @@ title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-09-22 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/reporting-accessibility-vpat-2-guide-vendors/
-description: 
+description: Learn how vendors can accurately report accessibility using VPAT 2.0. This guide covers key requirements, best practices, and common reporting pitfalls.
+topic: Events
 image:
 image-alt: 
 overview: 

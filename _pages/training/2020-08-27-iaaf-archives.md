@@ -6,15 +6,15 @@ title: 'Interagency Accessibility Forum (IAAF) Archives'
 permalink: iaaf/archives/
 description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Events"
+sub-topic: "Guidance"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2020-08-27
 updated: 2024-06-01
 --- 
@@ -36,10 +36,6 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 * [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx)
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
-
-created: 2020-08-28
-updated: 2025-02-26
----
 
 ## 2023 Interagency Accessibility Forum
 

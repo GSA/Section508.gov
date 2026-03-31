@@ -9,13 +9,13 @@ redirect_from:
 - training/presentations-workshops/2018-interagency-accessibility-forum/
 description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
 audience:
-- "Public (public)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-topic: "Events (events)"
-sub-topic: "General Info and Best Practices"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+topic: "Events"
+sub-topic: "Best Practices"
+resource-type: "Blog"
+format: "HTML"
 created: 2018-05-22
 updated: 2026-02-24
 ---

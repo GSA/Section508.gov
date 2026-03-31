@@ -5,14 +5,14 @@ permalink: create/electronic-signatures/
 description: "Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently."
 type: create
 title: 'Electronic Signatures'
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2019-12-12
 updated: 2025-08-21
 exclude-changelog: true

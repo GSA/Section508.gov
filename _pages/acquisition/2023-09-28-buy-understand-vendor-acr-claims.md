@@ -6,15 +6,15 @@ title: 'Understanding Vendor Claims in Accessibility Conformance Reports for Sec
 permalink: buy/understand-claims/
 description: Learn how to interpret vendor Section 508 conformance claims in Accessibility Conformance Reports (ACR), including supports, partially supports, does not support, not applicable, and not evaluated.
 audience:
-- Acquisition (acq)
-- 508 Program Manager (508pm)
-- Contracting Officer’s Representative (cor)
-- Chief Acquisition Officer (cao)
-- Contracting Officer (cor)
-topic: Acquisition/Buy (buy)
-sub-topic: VPAT/ACR Production & Eval
-resource-type: Long form article
-format: HTML (html)
+- Buyers
+- Section 508 Program Managers
+- Contracting Officers (CO & COR)
+- Chief Acquisition Officers (CAO)
+- Contracting Officers (CO & COR)
+topic: Buy
+sub-topic: ACR Production & Evaluation
+resource-type: Article
+format: HTML
 created: 2023-09-27
 ---
 

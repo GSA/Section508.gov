@@ -1,0 +1,172 @@
+<!--******* Generates content library/catalog item cards. ********-->
+
+<div class="tablet:grid-col-9">
+    <h2>Content Library Cards</h2>
+    <div class="content-library-search margin-bottom-2">
+        <label class="usa-label margin-top-0" for="library-search">Search the library</label>
+        <div class="content-library-search__field">
+            <input
+                id="library-search"
+                aria-label="Search the library by title, description, or filter category"
+                class="usa-input content-library-search__input"
+                type="search"
+                name="search"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Search by title, description, or filter category"
+            />
+            <button
+                id="library-search-clear"
+                class="content-library-search__clear"
+                type="button"
+                aria-label="Clear library search"
+                hidden
+                disabled
+            >
+                <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                    <use href="{{site.baseurl}}/assets/img/sprite.svg#highlight_off"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div id="filter-count-container" class="margin-bottom-2">
+        <p id="filter-count-text" aria-live="polite" aria-atomic="true">
+            <span id="filter-count" class="filter-count card-tag margin-top-0 text-gray-50 text-thin">X </span>
+            ITEMS SELECTED
+        </p>
+    </div>
+    {% assign pages_posts = include.pages_posts %}
+    {% unless pages_posts %}
+        {% assign pages_posts = site.pages | concat: site.posts %}
+    {% endunless %}
+    {% assign linked_document_permalinks = include.linked_document_permalinks %}
+    {% unless linked_document_permalinks %}
+        {% capture linked_document_permalinks %}{% include library-linked-document-permalinks.html %}{% endcapture %}
+    {% endunless %}
+    {% assign library_items = include.library_items %}
+    {% unless library_items %}
+        {% assign library_items = pages_posts | concat: site.data.content-library-documents %}
+    {% endunless %}
+    <div id="active-filters-container" class="margin-bottom-2">
+        <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
+                <ul id="active-filters-list" class="active-filters-list"></ul>
+        </p>
+    </div>
+    <ul id="library-cards" class="usa-card-group">
+        {% for item in library_items %}
+        {% if item.exclude-library %}
+        {% else %}
+            {% assign page_description = item.description | default: "" | strip_html | strip_newlines | strip %}
+            {% assign page_description_size = page_description | size %}
+            {% assign page_description_truncated = page_description | slice: 0, 60 %}
+            {% assign is_document_card = false %}
+            {% assign is_visible_library_item = true %}
+            {% if item.filename %}
+                {% assign is_document_card = true %}
+                {% capture document_token %}||{{ item.permalink | default: "" | strip }}||{% endcapture %}
+                {% unless linked_document_permalinks contains document_token %}
+                    {% assign is_visible_library_item = false %}
+                {% endunless %}
+            {% endif %}
+
+            {% comment %} !!! Assign each card filter and filter shorthand from topic, sub-topic, audience, resource type, and format !!! {% endcomment %}
+        {% if is_visible_library_item %}
+        <li class="usa-card grid-col-12 tablet:grid-col-6 desktop:grid-col-4"
+            data-topic='{{ item.topic | default: "Other" | jsonify | escape }}'
+            data-sub_topic='{{ item.sub-topic | default: item.subtopic | default: "" | jsonify | escape }}'
+            data-audience='{{ item.audience | default: "" | jsonify | escape }}'
+            data-resource_type='{{ item.resource-type | default: "" | jsonify | escape }}'
+            data-format='{{ item.format | default: "" | jsonify | escape }}'
+            data-search-title='{{ item.title | default: "" | strip_html | strip_newlines | strip | escape }}'
+            data-search-description='{{ page_description | escape }}'
+            data-library-source="{% if is_document_card %}document{% else %}page{% endif %}"
+            {% if is_document_card %}
+            data-document-permalink="{{ item.permalink | escape }}"
+            data-document-filename="{{ item.filename | escape }}"
+            {% endif %}>
+            <div class="usa-card__container">
+                <div class="usa-card__header library-card__header padding-top-1" data-card-topic-header>
+                    <span class="usa-card__heading library-card__heading font-sans-md text-bold" data-card-topic-heading>Other</span>
+                </div>
+                <div class="usa-card__body">
+                    <p class="font-sans-sm">
+                        <a class="no-style" href="{{ item.permalink | relative_url }}">{{ item.title }}</a>
+                    </p>
+                    {% if page_description != "" %}
+                    <p class="font-sans-2xs library-card-description margin-top-1 margin-bottom-0">
+                        {% if page_description_size > 60 %}
+                        <span class="library-card-description__truncated">
+                            {{ page_description_truncated }}...
+                            <a
+                                class="library-card-description__toggle"
+                                href="#"
+                                data-library-card-toggle="expand"
+                                aria-expanded="false"
+                            >Show more</a>
+                        </span>
+                        <span class="library-card-description__full display-none">
+                            {{ page_description }}
+                            <a
+                                class="library-card-description__toggle"
+                                href="#"
+                                data-library-card-toggle="collapse"
+                                aria-expanded="true"
+                            >Show less</a>
+                        </span>
+                        {% else %}
+                        <span class="library-card-description__static">{{ page_description }}</span>
+                        {% endif %}
+                    </p>
+                    {% endif %}
+                </div>
+                {% if is_document_card %}
+                <div class="usa-card__footer library-card__footer">
+                    <details class="library-card-linked-from" data-library-linked-from>
+                        <summary class="library-card-linked-from__summary font-sans-3xs text-bold">
+                            Linked from
+                        </summary>
+                        <div class="library-card-linked-from__content margin-top-1">
+                            <ul class="library-card-linked-from__list margin-y-0 padding-left-2" data-library-linked-from-list></ul>
+                        </div>
+                    </details>
+                </div>
+                {% endif %}
+            </div>
+        </li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    {% capture library_document_link_index %}
+        {% for content_page in pages_posts %}
+            {% unless content_page.exclude-library %}
+                {% capture matched_document_permalinks %}
+                    {% for document in site.data.content-library-documents %}
+                        {% assign document_permalink = document.permalink | default: "" | strip %}
+                        {% assign document_filename = document.filename | default: "" | strip %}
+                        {% assign document_absolute_permalink = document_permalink %}
+                        {% unless document_permalink contains "://" %}
+                            {% capture document_absolute_permalink %}{{ site.url }}{{ site.baseurl }}{{ document_permalink }}{% endcapture %}
+                        {% endunless %}
+                        {% if document_permalink != "" and (content_page.content contains document_permalink or content_page.content contains document_absolute_permalink or content_page.content contains document_filename) %}
+                            {{ document_permalink }}||
+                        {% endif %}
+                    {% endfor %}
+                {% endcapture %}
+                {% assign matched_document_permalinks = matched_document_permalinks | strip %}
+                {% if matched_document_permalinks != "" %}
+                    <div
+                        data-library-link-source
+                        data-library-link-source-title="{{ content_page.title | default: content_page.url | escape }}"
+                        data-library-link-source-url="{{ content_page.url | relative_url }}"
+                        data-library-link-source-documents="{{ matched_document_permalinks | split: '||' | uniq | compact | join: '|' | escape }}"
+                    ></div>
+                {% endif %}
+            {% endunless %}
+        {% endfor %}
+    {% endcapture %}
+    <div id="library-document-link-index" class="display-none" aria-hidden="true">
+        {{ library_document_link_index }}
+    </div>
+</div>
