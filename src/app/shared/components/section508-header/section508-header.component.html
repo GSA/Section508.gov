@@ -37,15 +37,15 @@ END ALERT -->
               <div class="usa-icon-list__content"><a href="https://www.section508.gov/whats-new/">What's New!</a></div>
             </li>
             <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/tools/coordinator-listing/">My Agency’s 508 PM</a></li>
-            <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/about-us/">About Us</a></li>
+            <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/content-library/">Content Library</a></li>
           </ul>
     
         <form id="search_form" class="usa-search usa-search--small" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
           <input name="utf8" type="hidden" value="✓">
           <input name="affiliate" type="hidden" value="gsa-section508-accessibility">
-          <div role="search">
+          <div role="search" style="max-width: none;">
             <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-            <input class="usa-input usagov-search-autocomplete" style="margin-left:-45px" id="extended-search-field-small" type="search" name="query" autocomplete="off">
+            <input class="usa-input usagov-search-autocomplete" id="extended-search-field-small" type="search" name="query" autocomplete="off">
             <button class="usa-button primary-background-color" type="submit"><img src="{{url}}/assets/icons/search-white.svg" class="usa-search__submit-icon" alt="Search"></button>
           </div>
         </form>

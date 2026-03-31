@@ -22,6 +22,7 @@ resource-type: "Tool"
 format: "HTML"
 created: 2020-02-27
 updated: 2026-03-31
+exclude-changelog: true
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
