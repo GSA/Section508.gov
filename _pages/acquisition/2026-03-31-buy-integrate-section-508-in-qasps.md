@@ -169,7 +169,7 @@ At minimum, include Section 508 requirements in the following sections of a QASP
 <div class="usa-icon-list__content">
 <strong>Remediation and Corrective Action:</strong> Ensures defects must be fixed and re-tested. Example langauge:
 <div class="grid-col-8 border-base padding-1 margin-x-auto border-y text-primary" style="width:85%;">
-<em>The Contractor must remediate Section 508 defects identified by the agency within \[10\] business days of notification, unless otherwise approved by the Contracting Officer or COR. The agency will re-test to confirm that corrective action meets Section 508 requirements. The agency may reject the deliverable until the Contractor completes remediation and meets all Section 508 standards. Remediation will occur at no additional cost to the agency. </em></div>
+<em>The Contractor must remediate Section 508 defects identified by the agency within [10ß] business days of notification, unless otherwise approved by the Contracting Officer or COR. The agency will re-test to confirm that corrective action meets Section 508 requirements. The agency may reject the deliverable until the Contractor completes remediation and meets all Section 508 standards. Remediation will occur at no additional cost to the agency. </em></div>
 <div class="grid-col-12 border-base radius-lg padding-1 margin-top-2" style="border: 1px solid black; background-color: #f5f9fc;"><strong>Note:</strong> Modify the timeframe of remediation as needed. Use <a href="{{site.baseurl}}/tools/glossary/#cure-notice">cure notices</a> when applicable.</div></div>
 </li>
 <li class="usa-icon-list__item">

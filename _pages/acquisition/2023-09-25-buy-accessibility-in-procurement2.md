@@ -16,6 +16,7 @@ sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2023-09-25 
+updated: 2026-03-31
 ---
 
 ## Requests for Quotes (RFQs)/Request for Proposals (RFPs) - “Solicitations”
