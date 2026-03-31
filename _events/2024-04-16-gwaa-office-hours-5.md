@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days (YYYY-MM-
 end-date: 2024-05-17 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/gwaa-office-hours-14may2024/
 description: "The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity point of contact can meet with our teams to discuss the criteria or other questions related to completing the assessment."
+topic: Events
+sub-topic: 
+- Annual Assessment
 image:
 image-alt: 
 event-registration: https://gsa.zoomgov.com/meeting/register/vJItf-2uqDktGkes1UdDCp4dLUGmrEmW0pY

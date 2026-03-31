@@ -5,16 +5,16 @@ type: create
 title: 'Documents Authoring Guides'
 permalink: create/documents/authoring-guides/
 description: Find Section 508 authoring guides for creating accessible documents, with step‑by‑step tips and best practices to ensure compliance and improve usability.
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "Documents"
 audience:
-- "Content Creators (creator)"
-- "Designer (design)"
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "Document (docx)"
+- "Content Creators"
+- "Designers"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "Document (DOCX)"
 created: 2018-05-20
 ---
 

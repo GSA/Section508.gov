@@ -5,16 +5,16 @@ type: manage
 title: 'Section 508 Conformance Reporting for Federal Agencies'
 description: Learn federal agency reporting requirements under Section 508. Review previous reporting on ICT accessibility, compliance, and program maturity.
 permalink: manage/agency-508-reporting-requirements/
-topic: Manage (program)
-sub-topic: Reporting
+topic: Manage
+sub-topic: Metrics & Reporting
 audience:
-- 508 Program Manager (508pm)
-- Federal employee (fedemp)
-- Manager/Exec (exec)
-- Information Technology Program and Project Managers (itpm)
-- Lawmakers and Policy Officials (law-policy)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Federal Employees
+- Manager & Supervisor
+- IT Program & Project Managers
+- Policy and Law Makers
+resource-type: Article
+format: HTML
 created: 2023-08-22
 updated: 2025-03-18
 ---

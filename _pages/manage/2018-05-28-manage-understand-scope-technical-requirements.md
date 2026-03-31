@@ -5,16 +5,16 @@ type: manage
 title: 'Understand Content Scope and Technical Requirements'
 permalink: manage/understand-scope-technical-requirements/
 description: Understand Section 508 scope and technical requirements, including what digital content and tools must comply and how to apply accessibility standards effectively.
-topic: Manage (program)
-sub-topic: Manage Accessibility for IT Program/Project Managers
+topic: Manage
+sub-topic: Roles & Responsibilities
 audience:
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Information Technology Program and Project Managers (itpm)
-- Product Managers (prodmgr)
-- Content Creators (creator)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Developers
+- IT Program & Project Managers
+- Service & System Owners
+- Content Creators
+resource-type: Article
+format: HTML
 created: 2018-05-28
 ---
 

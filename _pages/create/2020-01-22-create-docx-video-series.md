@@ -5,16 +5,16 @@ permalink: create/documents/training-videos/
 type: create
 title: 'Documents Training Videos'
 description: This series of videos explain and demonstrate the minimum steps needed to ensure your electronic document is accessible to people with disabilities.
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "Documents"
 audience:
-- "Content Creators (creator)"
-- "Designer (design)"
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "Video & Synchronized Media (video)"
+- "Content Creators"
+- "Designers"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "Video"
 created: 2020-01-22
 updated: 2025-01-08
 ---

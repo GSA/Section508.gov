@@ -8,15 +8,15 @@ redirect_from:
 - create/authoring-tools/
 description: Learn Section 508 authoring tool requirements and how software must support creating, preserving, and exporting accessible content that meets WCAG 2.0 A and AA.
 audience:
-- "508 Program Manager (508pm)"
-- "Acquisition (acq)"
-- "Chief Acquisition Officer (cao)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Accessibility Law & Policy"
-resource-type: "Law & Policy (law-policy)"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Buyers"
+- "Chief Acquisition Officers (CAO)"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+topic: "Buy"
+sub-topic: "Statute & Regulation"
+resource-type: "Law and Policy"
+format: "HTML"
 created: 2018-05-17
 updated: 2024-05-30
 ---

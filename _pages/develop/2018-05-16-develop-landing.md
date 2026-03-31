@@ -7,13 +7,13 @@ permalink: develop/
 description: "Learn how to design and develop digital products and services for your agency that meet it's responsibilities under Section 508 of the Rehabilitation Act."
 redirect_from:
 - design/
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "Content Creators (creator)"
-- "Designer (design)"
-resource-type: "Tool (tool)"
-format: "HTML (html)"
+- "Content Creators"
+- "Designers"
+resource-type: "Tool"
+format: "HTML"
 created: 2018-05-16
 updated: 2025-08-22
 hide-date: true #dates on landing pages are hidden

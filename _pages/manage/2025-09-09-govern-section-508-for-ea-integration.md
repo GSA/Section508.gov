@@ -7,23 +7,23 @@ permalink: manage/governance/integrating-section-508-into-enterprise-architectur
 description: Learn how to integrate Section 508 compliance into all phases of federal Enterprise Architecture.
 disclaimer: 
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
 topic: 
-- policy
-- manage
+- Policy
+- Manage
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 resource-type: 
-- article
-format: "HTML (html)"
+- Article
+format: "HTML"
 created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 

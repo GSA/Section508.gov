@@ -7,14 +7,14 @@ permalink: develop/software-websites/
 redirect_from:
 - create/software-websites/
 description: 
-topic: "Development (dev)"
+topic: "Develop"
 sub-topic: "Software"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-17
 updated: 2024-07-11
 ---

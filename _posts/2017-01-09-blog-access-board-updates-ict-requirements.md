@@ -6,15 +6,15 @@ title: 'NEW: Access Board Updates Requirements for Information and Communication
 created: 1483972791
 tags: Policy-and-Management
 description: Tim Cregan of the Access Board reports that the Access Board has released a <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule">final rule</a> that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act.
-topic: Law (law)
-sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+topic: Law
+sub-topic: Guidance
 audience:
-- 508 Program Manager (508pm)
-- Manager/Exec (exec)
-- Chief Information Officer (cio)
-- Lawmakers and Policy Officials (law-policy)
-resource-type: Blog article (blog)
-format: HTML (html)
+- Section 508 Program Managers
+- Manager & Supervisor
+- Chief Information Officers (CIO)
+- Policy and Law Makers
+resource-type: Blog
+format: HTML
 ---
 
 Source: Tim Cregan (Access Board)

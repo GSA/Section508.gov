@@ -9,14 +9,14 @@ redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
 - content/coordinator-listing/
-topic: "Training (train)"
-sub-topic: "Manage a 508 Program"
+topic: "Training"
+sub-topic: "Manage a Section 508 Program"
 audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2018-05-08
 updated: 2026-03-04
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.

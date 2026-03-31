@@ -7,18 +7,6 @@ title: "Governmentwide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
 - section-508-assessment/annual-reports/
-description: The Consolidated Appropriations Act, 2023 amended Section 508 of the Rehabilitation Act (29 U.S.C. § 794d-1), requiring federal agencies to annually assess and report on efforts to ensure electronic and information technology (EIT) is accessible to individuals with disabilities, in line with updated standards and guidance.
-topic: "Manage (program)"
-sub-topic: "Reporting"
-audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Federal employee (fedemp)"
-- "Lawmakers and Policy Officials (law-policy)"
-resource-type: "Long form article"
-format: "HTML (html)"
-redirect_from:
 - manage/section-508-assessment/annual-reports/
 - assessment-reports/
 - annual-reports/
@@ -34,6 +22,17 @@ redirect_from:
 - manage/section-508-assessment/criteria-09/
 - manage/section-508-assessment/criteria-10/
 - manage/section-508-assessment/criteria-11/
+description: The Consolidated Appropriations Act, 2023 amended Section 508 of the Rehabilitation Act (29 U.S.C. § 794d-1), requiring federal agencies to annually assess and report on efforts to ensure electronic and information technology (EIT) is accessible to individuals with disabilities, in line with updated standards and guidance.
+topic: "Manage"
+sub-topic: "Annual Assessment"
+audience:
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Federal Employees"
+- "Policy and Law Makers"
+resource-type: "Article"
+format: "HTML"
 created: 2023-03-28
 updated: 2026-03-02
 exclude-changelog: true

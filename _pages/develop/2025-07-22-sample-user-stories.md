@@ -5,14 +5,14 @@ permalink: develop/user-stories/
 type: develop
 title: 'Sample User Stories for Accessible ICT'
 description: Sample user stories to help embed ICT accessibility requirements into everyday practices to support compliance with Section 508 standards and reduce the risk of costly retrofits. 
-topic: "develop"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+topic: "Develop"
+sub-topic: "Training"
 audience:
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Federal employee (fedemp)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Developers"
+- "Content Creators"
+- "Federal Employees"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2025-07-23
 ---
 

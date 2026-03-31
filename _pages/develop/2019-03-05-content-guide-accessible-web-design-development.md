@@ -8,16 +8,16 @@ redirect_from:
 - content/guide-accessible-web-design-development/
 contributors: usab
 description: "Guide to Accessible Web Design & Development"
-topic: "Development (dev)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+topic: "Develop"
+sub-topic: "Guidance"
 audience:
-- "Developers and Testers (dev-test)"
-- "508 Program Manager (508pm)"
-- "Content Creators (creator)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Designer (design)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Developers"
+- "Section 508 Program Managers"
+- "Content Creators"
+- "IT Program & Project Managers"
+- "Designers"
+resource-type: "Article"
+format: "HTML"
 created: 2019-03-05
 updated: 2023-01-01
 ---

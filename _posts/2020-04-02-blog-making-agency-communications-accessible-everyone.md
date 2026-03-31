@@ -6,16 +6,16 @@ title: 'Making Agency Communications Accessible to Everyone'
 created: 1585848520
 tags: Design-and-Develop
 description: During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
-topic: "Content creation (create)"
-sub-topic: "Various Electronic Content (i.e. Multiple)"
+topic: "Create"
+sub-topic: "Other"
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Product Managers (prodmgr)"
-- "Information Technology Program and Project Managers (itpm)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Service & System Owners"
+- "IT Program & Project Managers"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;

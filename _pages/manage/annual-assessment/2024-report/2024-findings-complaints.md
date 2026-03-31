@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/findings/complaints/
 type: report2024
 title: "Governmentwide Findings: Complaints"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, analyzes Section 508 complaint intake, tracking, and resolution practices across agencies.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 ---
 Under Section 508 of the Rehabilitation Act (29 U.S.C. § 794d(f)(2)), the agency receiving the complaint shall apply the complaint procedures established to implement section 504 for resolving allegations of discrimination in a federally conducted program or activity. OMB's M-24-08 also required agencies to include instructions for filing a complaint alleging a violation of Section 508 in their website's digital accessibility statement.

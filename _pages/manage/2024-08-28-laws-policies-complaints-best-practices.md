@@ -5,15 +5,15 @@ type: manage
 title: 'Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process'
 permalink: manage/laws-and-policies/section-508-complaints-best-practices/
 description: "Learn best practices for establishing and maintaining a formal Section 508 complaint process that is clear, accessible, and responsive for employees and the public."
-topic: Policy (policy)
-sub-topic: Accessibility Law and Policy
+topic: Policy
+sub-topic: Statute & Regulation
 audience:
-- 508 Program Manager (508pm)
-- Lawmakers and Policy Officials (law-policy)
-- Agency Head (head)
-- Equal Employment Opportunity Officer (eeo)
+- Section 508 Program Managers
+- Policy and Law Makers
+- Agency Heads
+- Equal Employment Officers
 resource-type:
-format: HTML (html)
+format: HTML
 created: 2024-08-28
 ---
 

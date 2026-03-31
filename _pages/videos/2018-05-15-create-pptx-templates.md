@@ -8,13 +8,13 @@ description: Learn how to use the Microsoft PowerPoint slide master to help othe
 redirect_from:
 - create/presentations/creating-powerpoint-templates/
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-topic: "Content creation (create)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+topic: "Create"
 sub-topic: "Presentations"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-15
 updated: 2025-02-25
 exempt-changelog: true

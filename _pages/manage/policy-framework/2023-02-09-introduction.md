@@ -9,15 +9,15 @@ created: December 09, 2023
 redirect_from:
 - manage/policy-framework/
 - policy-framework/
-topic: "Policy (policy)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Policy"
+sub-topic: "Statute & Regulation"
 audience:
-- "Lawmakers and Policy Officials (law-policy)"
-- "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
-- "Manager/Exec (exec)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Policy and Law Makers"
+- "Section 508 Program Managers"
+- "Federal Employees"
+- "Manager & Supervisor"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 
 <h2 id="standards">

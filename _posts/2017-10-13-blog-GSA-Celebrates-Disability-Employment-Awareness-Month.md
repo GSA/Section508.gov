@@ -6,13 +6,13 @@ title: 'GSA Celebrates Disability Employment Awareness Month at 2017 Interagency
 created: 1507900375
 tags: Events
 description: In celebration of National Disability Employment Awareness Month (NDEAM), the U.S. General Services Administration (GSA) held its fourth annual Interagency Accessibility Forum on October 13, 2017.
-topic: "Events (events)"
-sub-topic: "General Info and Best Practices"
+topic: "Events"
+sub-topic: "Best Practices"
 audience:
-- "Public (public)"
-- "508 Program Manager (508pm)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Section 508 Program Managers"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 

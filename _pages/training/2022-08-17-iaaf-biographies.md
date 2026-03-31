@@ -8,15 +8,15 @@ description: View speaker and presenter biographies for the 2022 Interagency Acc
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "N/A"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Events"
+sub-topic: "Other"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2020-09-28
 updated: 2025-05-06
 ---
