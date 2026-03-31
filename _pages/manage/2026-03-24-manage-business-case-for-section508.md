@@ -76,7 +76,5 @@ Beyond risk mitigation, Section 508 compliance is a strategic investment that he
 ## Broader Benefits of Section 508 Compliance
 To learn about the broader benefits of Section 508 compliance—beyond the budgetary focus of this guidance—and practical strategies for implementing accessibility across your agency, visit <a href="https://www.section508.gov/manage/benefits-of-accessibility/">Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content</a>.
 
-**Reviewed/Updated:** March 2026
-
 
 
