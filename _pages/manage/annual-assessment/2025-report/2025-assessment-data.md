@@ -8,16 +8,16 @@ redirect_from:
 - 2025-assessment-data-downloads/
 - 2025-congressional-report-downloads/ #legacy to be changed on other pages. 
 description: The FY 2025 Governmentwide Section 508 Assessment makes all agency and component submissions publicly available as an open government data asset, providing transparency into assessment criteria, responses, and top-viewed ICT data across multiple formats, including HTML, CSV, JSON, and XLSX.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2026-03-02
 updated: 
 exclude-changelog: true

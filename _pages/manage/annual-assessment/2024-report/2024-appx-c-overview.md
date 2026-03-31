@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/appendix-c-overview/
 type: report2024
 title: "Appendix C: Overview Data By Reporting Entity"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents overview data by reporting entity to compare agency responses across key measures.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 ---
 

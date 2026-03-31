@@ -7,20 +7,20 @@ permalink: manage/governance/section-508-into-asset-management-and-grc-tools/
 description: Learn how to integrate Section 508 conformance data into IT product portfolios—like asset inventories, approved application lists or Governance, Risk, and Compliance (GRC) tools.
 disclaimer: 
 audience: 
-- 508-pm
-- cio
-- it-prog-proj-mgr
-- mgr-exec
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- IT Program & Project Managers
+- Manager & Supervisor
 topic: 
-- policy
-- manage
+- Policy
+- Manage
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
 resource-type: 
-- article
-format: "HTML (html)"
+- Article
+format: "HTML"
 created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 

@@ -7,14 +7,14 @@ permalink: create/spreadsheets/
 redirect_from:
 - create/spreadsheets/authoring-guides/
 description: Learn how to create accessible Microsoft Excel spreadsheet that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "Spreadsheets"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true

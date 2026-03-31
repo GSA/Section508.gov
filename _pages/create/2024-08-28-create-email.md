@@ -7,14 +7,14 @@ permalink: create/email-messages/
 description: "Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology."
 contributors: frith-chet, va
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Content creation (create)"
+- "Federal Employees"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Create"
 sub-topic: "Email"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2024-08-28
 updated: 
 ---

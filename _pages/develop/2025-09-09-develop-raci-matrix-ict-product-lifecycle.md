@@ -7,20 +7,20 @@ permalink: develop/raci-matrix-for-ict-accessibility-product-lifecycle/
 description: This RACI Matrix maps tasks or activties for ICT accessibility integration across the product lifecycle.
 disclaimer:
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-topic: "Development (dev)"
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+topic: "Develop"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 

@@ -7,20 +7,20 @@ permalink: develop/agile-roles-section-508-task-matrix/
 description: This Agile Section 508 Task Matrix provides a practical framework that maps key Agile activities to Product or Project Owner, Scrum Master or Agile Coach, and Agile or Development Team tasks.
 disclaimer: true
 audience: 
-- 508-pm
-- cio
-- content-creator
-- designer
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
-topic: "Development (dev)"
+- Section 508 Program Managers
+- Chief Information Officers (CIO)
+- Content Creators
+- Designers
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
+topic: "Develop"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - General Info and Best Practices
 - Manage Accessibility for IT Program/Project Managers
-resource-type: "Process/How-to"
-format: "HTML (html)"
+resource-type: "Process & How-To"
+format: "HTML"
 custom-script: 
 - accordion-management.js
 created: 2025-09-09

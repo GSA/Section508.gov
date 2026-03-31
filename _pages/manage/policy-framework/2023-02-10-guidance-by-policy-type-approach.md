@@ -7,15 +7,15 @@ description: "Explore the ‘Approach’ section of the IT Accessibility Policy 
 permalink: manage/policy-framework/guidance-by-policy-type/approach/
 redirect_from:
 - manage/policy-framework/guidance-by-policy-type/
-topic: "Policy (policy)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Policy"
+sub-topic: "Statute & Regulation"
 audience:
-- "Lawmakers and Policy Officials (law-policy)"
-- "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
-- "Manager/Exec (exec)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Policy and Law Makers"
+- "Section 508 Program Managers"
+- "Federal Employees"
+- "Manager & Supervisor"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2023-12-10
 updated: 2025-03-05
 ---

@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: 2025-10-16 #otherwise use end-date
 permalink: /event/usda-oct2025/
 description: Celebrate NDEAM with USDA’s Section 508 Awareness Event on Oct 16, 2025. Learn how to implement IT accessibility. Open to federal employees & contractors.
+topic: Events
+sub-topic: 
+- Webinar
 event-registration: https://www.zoomgov.com/webinar/register/WN_pKssniKUTjO4nc88vYtnxg#/registration
 created: 2025-09-18 
 ---

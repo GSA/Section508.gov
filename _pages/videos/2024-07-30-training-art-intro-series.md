@@ -8,15 +8,15 @@ redirect_from:
 - introducing-art/
 description: Discover the Accessibility Requirements Tool (ART). Learn how to generate Section 508 requirements for ICT procurement with step-by-step video guides.
 audience:
-- Acquisition (acq)
-- 508 Program Manager (508pm)
-- Chief Acquisition Officer (cao)
-- Agency Senior Procurement Executive (spe)
-- Contracting Officer (cor)
-topic: Tools (tools)
-sub-topic: Acquisition Tools
+- Buyers
+- Section 508 Program Managers
+- Chief Acquisition Officers (CAO)
+- Executive Leadership (CXO)
+- Contracting Officers (CO & COR)
+topic: Tools
+sub-topic: Tools
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 created: 2024-07-30
 updated: 2025-05-07
 ---

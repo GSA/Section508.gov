@@ -5,13 +5,13 @@ type: training
 title: Events
 permalink: events/
 description: Explore upcoming digital accessibility events, webinars, and federal community meetings on Section 508, including training, best practices, and governmentwide forums.
-topic: "Training (train)"
+topic: Training
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
 - "Federal employee (fedemp)"
 - "Content Creators (creator)"
 - "Designer (design)"
-resource-type: "Training"
+resource-type: Training
 format: "HTML (html)"
 created: 2018-05-10
 hide-date: true
