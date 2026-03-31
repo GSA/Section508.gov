@@ -2,9 +2,10 @@
 layout: wide
 sidenav: false
 type: page
-title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
-permalink: iaaf/archives/biographies-2022/
-description: View speaker and presenter biographies for the 2022 Interagency Accessibility Forum.
+title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies - 2026'
+permalink: iaaf/archives/biographies-2026/
+redirect_from: iaaf/biographies-2026/
+description: View speaker and presenter biographies for the 2026 Interagency Accessibility Forum.
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
 audience:
@@ -17,17 +18,16 @@ topic: "Events (events)"
 sub-topic: "N/A"
 resource-type: "Training"
 format: "HTML (html)"
-created: 2020-09-28
-updated: 2025-05-06
+created: 2026-04-01
 ---
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   {% assign last_initial = "" %}
-  {% assign this_year = 2022 %}
+  {% assign this_year = 2026 %}
   {% for bio in site.bios_iaaf %}
-    {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year%}
+    {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year %}
       {% assign last_initial_new = bio.last_name | slice: 0 %}
       {% assign last_initial_new = last_initial_new | upcase %}
       {% if last_initial_new != last_initial %}
@@ -44,9 +44,9 @@ updated: 2025-05-06
 
 <div class="usa-graphic-list__row container">
 {% assign last_initial = "" %}
-{% assign this_year = 2022 %}
+{% assign this_year = 2026 %}
 {% for bio in site.bios_iaaf %}
-  {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year%}
+  {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year %}
     {% assign last_initial_new = bio.last_name | slice: 0 %}
     {% assign last_initial_new = last_initial_new | upcase %}
     {% if last_initial_new != last_initial %}
@@ -72,12 +72,12 @@ updated: 2025-05-06
         </p>
         <p>
         <!-- for each day/session/role -->
-          {% for day in site.data.iaaf_sessions.iaaf_2022 %}
+          {% for day in site.data.iaaf_sessions.iaaf_2026 %}
             {% for session in day.sessions %}
               {% if session.roles %}
                 {% for role in session.roles %}
                   {% if role.who contains bio.bio_id %}
-                    <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}</span></em></a>, Day {{ day.day }}<br> 
+                    <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2026#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}</span></em></a>, Day {{ day.day }}<br> 
                   {% endif %}
                 {% endfor %}
               {% endif %}
@@ -85,7 +85,7 @@ updated: 2025-05-06
                 {% for track in session.tracks %}
                   {% for role in track.roles %}
                     {% if role.who contains bio.bio_id %}
-                    <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2022#{{ track.track_id }}"><em><span> {{ track.name_breakout }}</span></em></a>, Day {{ day.day }}<br> 
+                    <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2026#{{ track.track_id }}"><em><span> {{ track.name_breakout }}</span></em></a>, Day {{ day.day }}<br> 
                   {% endif %}
                   {% endfor %}
                 {% endfor %}
