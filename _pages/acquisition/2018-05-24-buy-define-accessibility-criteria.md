@@ -13,6 +13,7 @@ sub-topic: "New Contracting (RFP, RFI, etc.)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2018-05-24
+updated: 2-26-03-31
 ---
 
 When preparing solicitations, statements of work, or other procurement documents, clearly define your criteria to ensure the information and communication technology (ICT) your agency buys or builds is accessible and conforms to the [Revised 508 Standards][1]. Use the sample language below in your procurement documents to mitigate Section 508 compliance risk in IT procurement and development.
@@ -22,6 +23,7 @@ When preparing solicitations, statements of work, or other procurement documents
   * Only use provisions and clauses that are appropriate for the ICT items you're purchasing.
   * Where an exception does not apply to some or all components of an ICT item, these provisions and clauses may apply.
   * Use of these provisions and clauses may increase the cost of an award. Ask offerors to separate out these costs in their proposals, particularly if your agency anticipates that conformance to particular provisions of the Revised 508 Standards may warrant an exception for undue burden.
+  * Do not forget to include Section 508 in [Quality Assurance Surveillance Plans][5].
 
 Navigate through the sections below to find sample language you can cut and paste into your procurement documents.
 
@@ -227,3 +229,4 @@ Before final acceptance of any ICT item, including updates and replacements, if 
 [2]: https://www.dhs.gov/compliance-test-processes
 [3]: {{site.baseurl}}/sell/vpat
 [4]: http://www.itic.org/policy/accessibility
+[5]: {{site.baseurl}}/acquisition/buy/integrate-section-508-in-qasps/
