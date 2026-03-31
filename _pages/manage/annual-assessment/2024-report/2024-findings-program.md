@@ -87,9 +87,8 @@ As the findings above indicate, there is opportunity to advance the maturity of 
 <div>
     <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="26">
-        <li id="fn26">One entity did not answer this question; for FY 2024 we have 244 responses. <a href="#fr27" aria-label="Back to content">↩</a></li>
+        <li id="fn26">One entity did not answer this question; for FY 2024 we have 244 responses. <a href="#fr26" aria-label="Back to content">↩</a></li>
         <li id="fn27">Response options underwent editing and one response option was added in FY 2024, which does not allow for a direct comparison YOY. <a href="#fr27" aria-label="Back to content">↩</a></li>
         <li id="fn28">Response options underwent editing and one response option was added in FY 2024, which does not allow for a direct comparison YOY. <a href="#fr28" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
-

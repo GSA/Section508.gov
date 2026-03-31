@@ -11,9 +11,12 @@
     "hideElements": [
       "#how-official, #site-nav, #sec-nav, #sICT, #create-cards, nav li a, nav li span"
     ],
-    "timeout": 5000,
+    "timeout": 15000,
     "reporters": [
-        "cli"
+        "cli",
+        ["json", {
+          "output": "pa11y-ci-results.json"
+        }]
     ]
   }
 }

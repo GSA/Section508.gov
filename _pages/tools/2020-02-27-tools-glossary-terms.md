@@ -54,7 +54,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
   </tr>
   <tr>
-    <th scope="row" id="acr-repository">Acceptance Criteria</th>
+    <th scope="row" id="acceptance-criteria">Acceptance Criteria</th>
     <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
@@ -294,7 +294,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Closed captions are on-screen text that represents the audio in a video. Viewers can turn them on or off as needed. They help make videos accessible for people who are deaf or hard of hearing and are also useful in noisy places or when watching without sound. See <a href="#open-captions">Open Captions</a>.</td>
   </tr>
   <tr>
-    <th scope="row" id="closed-function">Closed Functionality</th>
+    <th scope="row" id="closed-functionality">Closed Functionality</th>
     <td> Features that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so users may not adjust settings due to a policy such as Desktop Core Configuration.</td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A table with information organized into categories.</td>
   </tr>
   <tr>
-    <th scope="row" id="data-table">Design Considerations</th>
+    <th scope="row" id="design-considerations">Design Considerations</th>
     <td>Needs and preferences of different user types, represented through personas, that guide development and ensure accessibility for people with varied abilities.</td>
   </tr>
   <tr>
@@ -735,14 +735,14 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="kiosk">Kiosk</th>
-    <td>A <a href="#closed-function">closed functionality</a> device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.</td>
+    <td>A <a href="#closed-functionality">closed functionality</a> device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.</td>
   </tr>
 </tbody>
 </table>
   
 &nbsp;
 ## L
-<table id="TableL" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableL" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table L. Terms and definitions</caption>
 <thead>
   <tr>
@@ -776,7 +776,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## M  
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableM" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
@@ -839,7 +839,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## N
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableN" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>

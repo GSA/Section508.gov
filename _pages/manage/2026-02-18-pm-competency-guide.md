@@ -98,7 +98,7 @@ Additionally, this guide assists employees in planning and sequencing their care
           </li>
           <li class="usa-icon-list__item">
             <span class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#link"></use></svg></span>
-            <div class="usa-icon-list__content"><a href="#influencing-and-negotiating">Influencing and Negotiating</a></div>
+            <div class="usa-icon-list__content"><a href="#influencing-and-negotiation">Influencing and Negotiation</a></div>
           </li>
           <li class="usa-icon-list__item">
             <span class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#link"></use></svg></span>

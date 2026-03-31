@@ -322,12 +322,12 @@ Agencies and components reported totals for currently authorized exceptions. Bes
   <div class="itad-card__body padding-2">
     <h4 id="total-authorized-fundamental-alteration-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Fundamental Alteration Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="fund-alt-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">34<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="fund-alt-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">57<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 9 components</span>
       </span>
     </div>
@@ -340,12 +340,12 @@ Agencies and components reported totals for currently authorized exceptions. Bes
 <div class="itad-card__body padding-2">
     <h4 id="total-authorized-undue-burden-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Undue Burden Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="und-burden-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">45<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="und-burden-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">10<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 1 components</span>
       </span>
     </div>
@@ -358,12 +358,12 @@ Agencies and components reported totals for currently authorized exceptions. Bes
 <div class="itad-card__body padding-2">
     <h4 id="total-authorized-best-meets-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Best Meets Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="best-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">979<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="best-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">417<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 components</span>
       </span>
     </div>
@@ -379,4 +379,3 @@ However, substantial challenges remain. Agencies reported inconsistent adoption 
     <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/"> < Previous</a>
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-implementation-outcomes/testing-and-remediation/"> Next > </a>
 </div>
-

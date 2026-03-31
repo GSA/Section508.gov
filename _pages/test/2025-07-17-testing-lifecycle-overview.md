@@ -69,11 +69,13 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Retest for Verification of Remediation</h2>
 <ul>
-<li>Knowledgeable Section 508 testers should:</li>  
-<ul>
+<li>Knowledgeable Section 508 testers should:
+  <ul>
       <li>Re-check fixes and confirm defects have been adequately addressed.</li>  
       <li>Ensure fixes did not introduce new issues.</li>  
-      <li>Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.</li></ul>  
+      <li>Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.</li>
+  </ul>
+</li>
 <li>Create an Accommodation or Alternate Means Plan for any defects that remain unresolved.</li>
 </ul> 
 <br>

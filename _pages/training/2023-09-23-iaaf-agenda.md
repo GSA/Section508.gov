@@ -47,7 +47,7 @@ updated: 2025-05-06
       </div>
       {% else %}
         <div class="grid-row">
-          <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="{{ session.session_id }}">
+          <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="day{{ day.day }}-{{ session.session_id }}">
             {{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br>
             <span class="session-type">{{ session.name }}{% if session.type != "breakout" %}{% if session.room != nil %} - {{ session.room }}{% endif %}{% endif %}</span>
           </div>
