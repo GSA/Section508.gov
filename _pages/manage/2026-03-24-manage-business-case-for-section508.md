@@ -5,7 +5,7 @@ type: manage
 title: Developing a Business Case for a Section 508 Program
 permalink: manage/developing-a-business-case-for-a-section-508-program/
 description: Learn how to apply business and operations management principles to your Section 508 team in order to develop and employ a convincing business case for a Section 508 Program.
-disclaimer: 
+disclaimer: true
 audience: 
 - 508-pm
 - agency-head
