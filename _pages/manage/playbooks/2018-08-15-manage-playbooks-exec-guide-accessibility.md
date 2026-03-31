@@ -29,10 +29,10 @@ format: "HTML (html)"
   * <a href="#training">Training</a>
   * <a href="#reporting">OMB Reporting</a> 
   * <a href="#collaboration">Collaboration</a>
-* <a href="#design">Design and Development</a>
+* <a href="#design-and-development">Design and Development</a>
 * <a href="#testing">Testing</a>
 * <a href="#procurement">Procurement</a>
-* <a href="#legal">Legal Considerations</a>
+* <a href="#legal-considerations">Legal Considerations</a>
 * <a href="#conclusion">Conclusion</a>
   
 The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="http://www.cdc.gov/media/releases/2018/p0816-disability.html" target="_blank" class="usa-link--external">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
@@ -108,7 +108,7 @@ Support efforts to train staff on their responsibilities under Section 508, to e
 * <a href="{{site.baseurl}}/training-home/">Government-wide IT Accessibility Training</a>
 * <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
 
-### OMB Reporting
+### OMB Reporting {#reporting}
 
 Oversee submission of required to submit a Section 508 Assessment to OMB and Congress annually. These reports are required for all agencies subject to Section 508 of the Rehabilitation Act, as amended.
 
@@ -125,7 +125,7 @@ Collaborate within and across agencies to accurately baseline your IT Accessibil
 * Use standardized testing methodologies such as the Trusted Tester Process, and participate in the <a href="{{site.baseurl}}/test/trusted-tester">Interagency Trusted Tester Program</a>, to ensure conformance to the Revised 508 Standards.
 * Conduct an accessibility review of all IT-related acquisitions, policies and directives.
 
-## Design and Development
+## Design and Development {#design-and-development}
 
 Following the lead of innovative technology companies, adopt <a href="{{site.baseurl}}/develop/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
 
@@ -151,7 +151,7 @@ Implement policies and practices to ensure accessibility is identified as a core
 * Create a governance process to ensure Section 508 conformance is addressed in award decisions.
 * <a href="{{site.baseurl}}/buy">Buy accessible IT products and services</a>
 
-## Legal Considerations
+## Legal Considerations {#legal-considerations}
 
 ### The Law
 

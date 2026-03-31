@@ -52,16 +52,16 @@ updated:
             <li id="794da5"><strong>Exemption for national security systems</strong><br>
                 This section shall not apply to national security systems, as that term is defined in section 11103(a) of title 40.
             </li>
-            <li  id="794da5"><strong>Construction</strong>
+            <li id="794da6"><strong>Construction</strong>
                 <ol type="A">
-                    <li id="794da5A"><strong>Equipment</strong>
+                    <li id="794da6A"><strong>Equipment</strong>
                         In a case in which the Federal Government provides access to the public to information or data through electronic and information technology, nothing in this section shall be construed to require a Federal department or agency&mdash;
                         <ol>
                             <li type="i">to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public; or</li>
                             <li>to purchase equipment for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public.</li>
                         </ol>
                     </li>
-                    <li id="794da5B"><strong>Software and peripheral devices</strong><br>
+                    <li id="794da6B"><strong>Software and peripheral devices</strong><br>
                         Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral device at a workstation of a Federal employee who is not an individual with a disability.
                     </li>
                 </ol>

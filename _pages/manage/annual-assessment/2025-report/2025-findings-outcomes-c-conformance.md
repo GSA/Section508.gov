@@ -129,7 +129,7 @@ The assessment revealed varied agency outcomes regarding ICT conformance. While 
     </tr>
     <tr>
       <th scope="row">Medium (1,000-9,999 employees)</th>
-      <td class="bg-blueish-7">7</td>
+      <td class="bg-blueish-7" style="color: #060606;">7</td>
       <td class="bg-blueish-2">2</td>
       <td class="bg-blueish-1">1</td>
       <td class="bg-blueish-2">2</td>
@@ -157,4 +157,3 @@ The assessment revealed varied agency outcomes regarding ICT conformance. While 
 <div id="prev-next-section" style="justify-content: space-around;" class="padding-bottom-2">
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/tested-ict/"> Next > </a>
 </div>
-
