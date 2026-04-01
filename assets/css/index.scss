@@ -2051,8 +2051,8 @@ div[role=rowheader] {
   white-space: nowrap;
 }
 
-/* Hide checkbox */
-.usa-checkbox__label::before {
+/* Hide tiled checkbox indicator in the Content Library filters only */
+.content-library-page .usa-checkbox__label::before {
   display: none;
 }
 
