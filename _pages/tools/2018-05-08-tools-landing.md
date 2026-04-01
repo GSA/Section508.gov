@@ -5,16 +5,16 @@ type: training
 permalink: tools/
 title: 'Section 508 Tools'
 description: "Find ICT acquisition and testing tools, view management playbooks, or find your agency’s Section 508 Program Manager."
-topic: Tools (tools)
-sub-topic: N/A
+topic: Tools
+sub-topic: Other
 audience:
-- 508 Program Manager (508pm)
-- Information Technology Program and Project Managers (itpm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Federal employee (fedemp)
-resource-type: Tool (tool)
-format: HTML (html)
+- Section 508 Program Managers
+- IT Program & Project Managers
+- Developers
+- Content Creators
+- Federal Employees
+resource-type: Tool
+format: HTML
 created: 2018-05-22
 updated: 2023-11-28
 hide-date: true #dates on landing pages are hidden
@@ -89,6 +89,21 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
 
 <h2>Additional Tools & Resources</h2>
 <ul class="usa-card-group">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/content-library/">Section508.gov Content Library</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-red">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-content-library-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Find what you need faster. Filter and search across Section508.gov content by topic, sub-topic, resource type, audience, and file format.</p>
+      </div>
+    </div>
+  </li>
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">

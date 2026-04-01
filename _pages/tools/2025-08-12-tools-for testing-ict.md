@@ -9,16 +9,16 @@ redirect_from:
 - test/web-software/ 
 - test/about-testing-tools/ #See archive 2018-05-22-test-about-testing-tools.md
 disclaimer: true
-topic: "Testing (test)"
+topic: "Testing"
 sub-topic: "Websites"
 audience:
-- "Developers and Testers (dev-test)"
-- "508 Program Manager (508pm)"
-- "Content Creators (creator)"
-- "Designer (design)"
-- "Website Managers/Content Managers (wcm)"
+- "Developers"
+- "Section 508 Program Managers"
+- "Content Creators"
+- "Designers"
+- "Web Content Managers"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2025-08-12 
 ---
 

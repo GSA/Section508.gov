@@ -5,16 +5,16 @@ title: 'Spreadsheets Training Videos'
 permalink: create/spreadsheets/training-videos/
 description: "This series of videos explain and demonstrate the minimum steps needed to ensure your spreadsheet is accessible to people with disabilities."
 type: create
-topic: Content creation (create)
+topic: Create
 sub-topic: Spreadsheets
 audience:
-- federal employee (fedemp)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Designer (design)
-- Public (public)
+- Federal Employees
+- Developers
+- Content Creators
+- Designers
+- Members of the Public
 resource-type: Training
-format: HTML (html)
+format: HTML
 created: 2020-01-22
 updated: 2025-01-09
 ---

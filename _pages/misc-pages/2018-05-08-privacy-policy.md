@@ -5,13 +5,13 @@ type: page
 title: 'Privacy Policy'
 permalink: privacy-policy/
 description: Review the Section508.gov privacy policy to understand how information is collected, used, protected, and managed when you visit or interact with the site.
-topic: About the program/site (about)
-sub-topic: N/A
+topic: About
+sub-topic: Other
 audience:
-- Public (public)
-- Federal employee (fedemp)
-resource-type: Long form article
-format: HTML (html)
+- Members of the Public
+- Federal Employees
+resource-type: Article
+format: HTML
 created: 2018-05-08
 ---
 

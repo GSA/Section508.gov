@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2023/findings/compliance-outcomes/
 type: report2023
 title: "Governmentwide Findings: Key Compliance Outcomes"
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, highlights key compliance outcomes across agencies, including maturity and conformance results.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
 ## Key Compliance Outcomes
@@ -153,7 +153,7 @@ The criteria included questions on if specific federal organization's ICT, inclu
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
     <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-3.jpg" alt="Percentage of agencies reporting full conformance for select ICT: 31.7% fully conformed for Time and Attendance; 62.2% for Email App; 57.8% Virtual Meeting Platform, 51.4% Telework Agreement, 49.0% for SSO technology, 31.3% for W2, and 51% for employee training." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 3.</strong> Percentage of reporting entities noting full conformance by products used internally and by the public (Q82 to Q85, Q89 to Q92, respectively)</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Percentage of reporting entities noting full conformance by products used internally and by the public (Q82 to Q85, Q89 to Q92, respectively)</span>
     </div>
 </div>
 

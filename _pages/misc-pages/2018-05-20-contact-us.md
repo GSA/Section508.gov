@@ -7,13 +7,13 @@ permalink: contact-us/
 redirect_from: 
 - manage/support-information/
 description: "Have a Question or Comment? Review the resources below, which highlight some of the common tasks on this website, or learn how to contact our team for assistance."
-topic: "About the program/site (about)"
-sub-topic: "N/A"
+topic: "About"
+sub-topic: "Other"
 audience:
-- "Public (public)"
-- "Federal employee (fedemp)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Federal Employees"
+resource-type: "Blog"
+format: "HTML"
 created: 2018-05-20
 updated: 2024-07-18
 ---

@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2024/appendix-d-doj-addendum/
 type: report2024
 title: "Appendix D: U.S. Department of Justice Addendum Submission to Congress and the President Concerning Federal Agencies’ Compliance with Section 508 of the Rehabilitation Act Accessibility of Federal Electronic and Information Technology"
 description: The FY 2024 Governmentwide Section 508 Assessment includes the U.S. Department of Justice addendum submission to Congress and the President concerning federal agencies' compliance with Section 508.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2024-12-20
 ---
 <div style="text-align:center;"><img src="{{site.baseurl}}/assets/images/seals-logos/doj.jpg" height="150px" alt="Seal of the U.S. Department of Justice"></div>

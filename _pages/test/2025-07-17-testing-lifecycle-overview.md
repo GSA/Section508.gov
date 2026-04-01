@@ -5,16 +5,16 @@ type: test
 title: 'Testing Lifecycle Overview'
 description: Learn about the testing lifecycle which involves planning, scoping, and executing tests, remediating issues and retesting for resolution and ongoing monitoring to sustain Section 508 conformance.
 permalink: test/testing-lifecycle-overview/
-topic: Testing (test)
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+topic: Testing
+sub-topic: "Training"
 audience:
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
-- Chief Information Officer (cio)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Developers
+- IT Program & Project Managers
+- Federal Employees
+- Chief Information Officers (CIO)
+resource-type: Article
+format: HTML
 created: 2025-07-21
 updated: 2025-07-21
 ---
@@ -69,11 +69,13 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Retest for Verification of Remediation</h2>
 <ul>
-<li>Knowledgeable Section 508 testers should:</li>  
-<ul>
+<li>Knowledgeable Section 508 testers should:
+  <ul>
       <li>Re-check fixes and confirm defects have been adequately addressed.</li>  
       <li>Ensure fixes did not introduce new issues.</li>  
-      <li>Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.</li></ul>  
+      <li>Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.</li>
+  </ul>
+</li>
 <li>Create an Accommodation or Alternate Means Plan for any defects that remain unresolved.</li>
 </ul> 
 <br>

@@ -5,14 +5,14 @@ permalink: create/audio-video/
 description: "Learn the accessibility requirements for audio-only, video-only, and synchronized media, including transcripts, text descriptions, audio descriptions, and accessible media players."
 type: create
 title: 'Audio- and Video-Only Media'
-topic: "Content creation (create)"
-sub-topic: "Video/Audio/Multimedia"
+topic: "Create"
+sub-topic: "Audio, Video and Multimedia"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-15
 updated: 2025-08-21
 exclude-changelog: true

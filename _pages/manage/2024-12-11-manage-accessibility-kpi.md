@@ -8,16 +8,16 @@ description: "Learn how to use organizational IT accessibility key performance i
 redirect_from:
 - kpi/
 - kpis/
-topic: "Manage (program)"
-sub-topic: "General Info and Best Practices"
+topic: "Manage"
+sub-topic: "Best Practices"
 audience:
-- "Manager/Exec (exec)"
-- "508 Program Manager (508pm)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Manager & Supervisor"
+- "Section 508 Program Managers"
+- "IT Program & Project Managers"
+- "Content Creators"
+- "Developers"
+resource-type: "Article"
+format: "HTML"
 created: 2024-12-11
 updated: 2025-09-22
 exclude-changelog: true

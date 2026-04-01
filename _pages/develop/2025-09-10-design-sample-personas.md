@@ -7,15 +7,15 @@ title: "Sample Personas for Users With Disabilities"
 description: Sample personas for users with disabilities to use in the research and design phase to improve Section 508 conformance and the overall end-user experience of a service, product, or website.
 created: 2025-09-10
 contributors: dhs
-topic: "design"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+topic: "Design"
+sub-topic: "Training"
 audience:
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Federal employee (fedemp)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Developers"
+- "Content Creators"
+- "Federal Employees"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 <style>
  /* Flex container for horizontal thumbnail cards */

@@ -7,16 +7,16 @@ permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 redirect_from:
 - 2023-congressional-report-downloads/
 description: The FY 2023 Governmentwide Section 508 Assessment provides assessment data and downloads to support transparency into agency responses across key ICT accessibility measures.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-12-29
 updated: 2025-01-16
 ---

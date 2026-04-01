@@ -6,16 +6,16 @@ description: "Review policy guidance for information technology services to iden
 type: manage
 title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
-topic: "Policy (policy)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Policy"
+sub-topic: "Statute & Regulation"
 audience:
-- "Lawmakers and Policy Officials (law-policy)"
-- "508 Program Manager (508pm)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Manager/Exec (exec)"
-- "Federal employee (fedemp)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Policy and Law Makers"
+- "Section 508 Program Managers"
+- "IT Program & Project Managers"
+- "Manager & Supervisor"
+- "Federal Employees"
+resource-type: "Process & How-To"
+format: "HTML"
 ---
 <h2 id="standards">
   Information Technology Services

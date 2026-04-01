@@ -95,8 +95,8 @@ secondary_navigation:
     url: /whats-new/
   - name: My Agency’s 508 PM
     url: /tools/program-manager-listing/
-  - name: About Us
-    url: /content/about-us/
+  - name: Content Library
+    url: /content-library/
 
 
 # Search.gov configuration
@@ -202,6 +202,10 @@ exclude:
   - tsconfig.app.json
   - tsconfig.json
   - tsconfig.spec.json
+  - pa11y-ci-results.json
+  - pa11y-ci-readme.md
+  - CODEOWNERS
+  - scripts/update-content-library
 
 autoprefixer:
   browsers:
@@ -218,4 +222,3 @@ sass:
   quiet_deps: true
   style: compressed
   verbose: true
-

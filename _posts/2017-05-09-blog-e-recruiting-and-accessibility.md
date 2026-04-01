@@ -6,14 +6,14 @@ title: 'e-Recruiting and Accessibility'
 created: 1494338501
 tags: Policy-and-Management
 description: In today’s competitive job market, it’s important to recruit from a large and strong candidate pool. 
-topic: "Manage (program)"
-sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+topic: "Manage"
+sub-topic: "Guidance"
 audience:
-- "Chief Human Capital Officer (chco)"
-- "508 Program Manager (508pm)"
-- "Manager/Exec (exec)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Chief Human Capital Officers (CHCO)"
+- "Section 508 Program Managers"
+- "Manager & Supervisor"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 May 9, 2017 - In today’s competitive job market, it’s important to recruit from a large and strong candidate pool. The GSA Government-wide IT Accessibility Program would like to call to your attention the work of the [Partnership on Employment & Accessible Technology][1] (PEAT). PEAT helps employers find and recruit the best talent by using accessible e-Recruiting. PEAT, a part of the United States Department of Labor’s Office of Disability Employment Policy, promotes the employment, retention and career advancement of people with disabilities. They do this through the development, adoption and promotion of accessible technology. According to PEAT, building a talent pool of top-notch candidates begins with providing online applications that are accessible to everyone.

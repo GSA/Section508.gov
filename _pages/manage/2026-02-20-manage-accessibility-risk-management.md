@@ -8,21 +8,22 @@ redirect_from: manage/manage/ict-accessibility-and-risk-management/
 description: Learn how to apply risk management principles to ICT accessibility to be comfortable identifying, assessing and analyzing ICT accessibility risks.
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cio
-- content-creator
-- it-prog-proj-mgr
-- mgr-exec
-- requirement-ba
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- Content Creators
+- IT Program & Project Managers
+- Manager & Supervisor
+- Requirements & Business Analysts
 topic: 
-- manage
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage a 508 Program
-resource_type: 
-- article
-format: html
+- Risk Management
+resource-type: 
+- Article
+format: HTML
 created: 2026-02-23
 updated: 2026-02-24
 ---
@@ -57,7 +58,7 @@ Risk assessment frameworks commonly evaluate two primary dimensions: likelihood 
 
 <figure class="usa-table-container--scrollable" role="region" aria-labelledby="table-4-caption" tabindex="0">
   <table id="table-4" class="usa-table usa-table--borderless">
-    <caption>Table 1: Standard accessibility risk matrix</caption>
+    <caption id="table-4-caption">Table 1: Standard accessibility risk matrix</caption>
     <thead>
       <tr>
         <th scope="col" aria-label="blank">Likelihood/Frequency</th>
@@ -182,4 +183,3 @@ Contact the Government-wide IT Accessibility Program team for more information a
 * <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" download="Accessibility Risk Input Template.xlsx" target="_blank" class="usa-link--external">Accessibility risk input template (XLSX)</a>
 * <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" download="Example Accessibility Risk Factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLSX)</a>
 * <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
-

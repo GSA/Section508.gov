@@ -7,14 +7,14 @@ type: develop
 title: "Accessible Design Using the U.S. Web Design System (USWDS)"
 created: 2023-09-25
 updated: 2024-06-03
-topic: "Development (dev)"
+topic: "Develop"
 sub-topic: "Websites"
 audience:
-- "Developers and Testers (dev-test)"
-- "Designer (design)"
-- "Content Creators (creator)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Developers"
+- "Designers"
+- "Content Creators"
+resource-type: "Blog"
+format: "HTML"
 ---
 
 The U.S. Web Design System (USWDS) is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites. USWDS uses human-centered design to support human-centered design teams.

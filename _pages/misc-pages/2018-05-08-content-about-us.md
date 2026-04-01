@@ -7,13 +7,13 @@ permalink: about-us/
 description: Learn about the Section 508 program, its mission, partners, and how it supports federal agencies in delivering accessible information and communication technology.
 redirect_from:
 - content/about-us/
-topic: "About the program/site (about)"
-sub-topic: "N/A"
+topic: "About"
+sub-topic: "Other"
 audience:
-- "Public (public)"
-- "Federal employee (fedemp)"
-resource-type: "Blog article (blog)"
-format: "HTML (html)"
+- "Members of the Public"
+- "Federal Employees"
+resource-type: "Blog"
+format: "HTML"
 created: 2018-05-08
 updated: 2025-02-06
 ---
