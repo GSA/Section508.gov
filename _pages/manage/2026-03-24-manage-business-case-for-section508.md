@@ -22,9 +22,6 @@ format: html
 created: 2026-03-24
 updated: 2026-03-26
 ---
-
-# The Business Case for Section 508
-
 Compliance with <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act</a> and conformance to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">ICT Standards and Guidelines</a> are more than legal obligations—they are strategic investments that reduce financial risk, streamline operations, and improve service delivery. Proactive integration of ICT accessibility minimizes costly litigation and remediation while enhancing IT modernization. At both the organizational and individual levels, accessible technology boosts productivity, reduces barriers, and creates a more efficient workplace.
 
 The following sections provide rationale for the business case, illustrating how accessibility investments could result in improvements. Specific figures for how to explicitly estimate productivity savings will vary widely by agency, type of mission, and leadership engagement, among other considerations. These cost considerations provide a general sense of potential impacts and may vary based on agency size, operational structure, and implementation strategies. For a business case tailored to your agency, use your agency’s actual data rather than rely on more general estimates.
