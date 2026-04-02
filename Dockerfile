@@ -1,4 +1,4 @@
-FROM ruby:4.0.2
+FROM ruby:3.4.9
 
 RUN apt-get update && \
   apt-get install --reinstall -y locales && \
