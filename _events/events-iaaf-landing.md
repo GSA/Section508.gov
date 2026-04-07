@@ -13,7 +13,7 @@ topic: Events
 sub-topic:
 - IAAF
 created: 2014-01-01
-updated: 2026-03-04
+updated: 2026-04-07
 exclude-changelog: true
 --- 
 <p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
@@ -68,7 +68,7 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
     </div>
     -->
     <h3>Registration</h3>
-    Registration for this event will open in March.
+    Registration for this event will open in April.
     <!--<p><a href="https://gsa.zoomgov.com/webinar/register/N_fOacxbUoSGu6HaBajcazhQ" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>-->
   </div>
   <!--
