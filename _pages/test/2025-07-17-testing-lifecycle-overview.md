@@ -55,7 +55,7 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
 <ul>
 <li>Prioritize defects for remediation based on severity, risk, or impact on users.</li>   
 <li>Assign who is responsible for remediation which may be a specific person, team, or vendor.</li>  
-<li>Set and document deadlines in a Remediation Plan. High priority defects should be remediated as soon as possible, but deadlines for remediation should preferably not exceed 1 year.</li>   
+<li>Set and document deadlines in a <a href="{{ site.baseurl }}/manage/remediation-alternative-means-planning/">Remediation Plan</a>. High priority defects should be remediated as soon as possible, but deadlines for remediation should preferably not exceed 1 year.</li>   
 <li>Use a mechanism to track defects, progress, expected remediation date, and actual remediation date.</li>
 </ul>
 </li>

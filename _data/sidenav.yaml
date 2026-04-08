@@ -154,6 +154,8 @@ manage:
             url: manage/program-management/
           - name: Identify User Needs
             url: manage/identify-user-needs/
+          - name: Remediation and Accommodation Planning
+            url: manage/remediation-alternative-means-planning/
           - name: Support Development of Accessible Content
             url: manage/support-accessible-content/
           - name: Understand Content Scope and Technical Requirements
@@ -503,10 +505,12 @@ test:
     children:
       - name: Testing Lifecycle Overview
         url: 'test/testing-lifecycle-overview/'
-      - name: Essential Elements of an Accessibility Test Report
-        url: 'test/elements-of-an-accessibility-test-report/'
       - name: Conformance of ICT Prototypes and Pilots
         url: 'test/conformance-of-prototypes-and-pilots/'
+      - name: Essential Elements of an Accessibility Test Report
+        url: 'test/elements-of-an-accessibility-test-report/'
+      - name: Remediation and Accommodation Planning
+        url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
     url: '#'
     children:
