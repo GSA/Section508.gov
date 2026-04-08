@@ -50,7 +50,7 @@ The Section 508 Defect Remediation Plan is the authoritative record of how speci
 The Defect Remediation Plan remains in effect until all defects are resolved and compliance is validated through Section 508 testing. Once verified, the plan is retired.
 
 <div class="grid-col-12 summary-box">
-  <ul class="usa-icon-list maxw-full padding-bottom-2">
+  <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
         <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#push_pin"></use></svg>
@@ -71,8 +71,7 @@ An AMP should:
 
 1.  Describe how users can access impacted content or functions through alternate means such as  transcripts, accessible HTML versions, staff-assisted access, or alternate systems or tools.
 
-2.  Establish timelines for fulfilling requests such as "acknowledgement within 24 hours"\
-    or "delivery within 48--72 hours".
+2.  Establish timelines for fulfilling requests such as "acknowledgement within 24 hours" or "delivery within 48-72 hours".
 
 3.  Provide clear user notifications and contact information for requesting alternate access.
 
@@ -81,7 +80,7 @@ An AMP should:
 The AMP remains active until all defects are remediated and validated. If remediation is not planned, the AMP instead serves as the standing, ongoing method of access and is maintained for as long as the ICT remains in use.
 
 <div class="grid-col-12 summary-box">
-  <ul class="usa-icon-list maxw-full padding-bottom-2">
+  <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
         <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#push_pin"></use></svg>
