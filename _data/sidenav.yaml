@@ -509,6 +509,8 @@ test:
         url: 'test/conformance-of-prototypes-and-pilots/'
       - name: Essential Elements of an Accessibility Test Report
         url: 'test/elements-of-an-accessibility-test-report/'
+      - name: ICT Accessibility Testing in the Development Process
+        url:  test/ict-testing-activities-by-lifecycle-phase/
       - name: Remediation and Accommodation Planning
         url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
