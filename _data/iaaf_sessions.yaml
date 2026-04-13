@@ -1854,12 +1854,12 @@ iaaf_2026:
         time_start: 2026-05-21 13:15:00
         time_end: 2026-05-21 14:00:00
         session_id: day1session3
-        subtitle: "Subtitle"
-        description: Description.
+        subtitle: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI"
+        description: Accessibility shouldn’t be an afterthought, but manual remediation is a notorious bottleneck. In this session, we’ll go behind the scenes of a new AI-powered tool designed to automatically detect and fix Section 508 compliance issues in PDF documents. We will explore how we moved from a traditional deterministic approach to leveraging AWS Bedrock to handle complex ICT baselines like reading order, sensory characteristics, and data tables. Discover the "Why" behind this initiative, how we secured leadership buy-in, and how we integrated these capabilities directly into the FTAi portal to ensure digital equity at scale.
         room:
         roles: 
           - name: Presenter
-            who: andrew-nielson
+            who: iglasias-florence
         downloads:
           - link_name: #Project Managing Accessibility Compliance (PPTX)
             file_name: #IAAF-2026-Project-Managing-Accessibility-Compliance.pptx
