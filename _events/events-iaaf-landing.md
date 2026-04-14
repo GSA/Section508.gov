@@ -75,22 +75,22 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
   -->
 </div>
 
-<!--
 ## Event Agenda
+<a href="{{site.baseurl}}/iaaf/archives/agenda-2026/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2026 IAAF Agenda" width="75" height="75"/></a>
 
-<a href="{{site.baseurl}}/iaaf/archives/agenda-2025/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2025 IAAF Agenda" width="75" height="75"/></a>
-
-This year’s IAAF was held on May 20–21, 2025, and featured a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
+This year’s IAAF was held on May 21–22, 2026, and featured a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
 Presenters and panelists covered a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access to government information.
 
-For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
+For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a>. 
 
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
 
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
--->
+
+## Food and Refreshments
+
 
 ## Check Your Tech
 The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). 
