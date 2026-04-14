@@ -16,7 +16,7 @@ audience:
 resource-type: "Process & How-To"
 format: "HTML"
 created: 2018-05-10
-updated: 2025-08-05
+updated: 2026-04-14
 exclude-changelog: true
 ---
 Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
@@ -34,7 +34,7 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
         <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2016 Printable Accessible Testing Checklist (DOCX)</a>
+        <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc" target="_blank" class="usa-link--external">Microsoft Excel 2016 Printable Accessible Testing Checklist (DOC)</a>
       </li>
     </ul>
   </div>

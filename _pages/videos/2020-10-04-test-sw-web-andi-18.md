@@ -19,7 +19,7 @@ subtopic: Design, Develop, Testing for Accessibility Training or Tools
 resource-type: Training
 format: Video
 created: 2020-10-04
-updated: 2026-03-03
+updated: 2026-04-14
 exclude-changelog: true
 ---
 
@@ -103,7 +103,7 @@ In Module 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
