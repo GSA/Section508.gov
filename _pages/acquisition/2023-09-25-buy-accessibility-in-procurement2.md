@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: acquisition
 title: 'Accessibility In Procurement II: Solicitation & Post-Solicitation'
-permalink: buy/accessibility-in-procurement-pre-solicitation-2/
+permalink: buy/accessibility-in-procurement-solicitation-post-2/
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-solicitation activities. 
 contributors: proctor, gsatts
 audience:
@@ -17,6 +17,8 @@ resource-type: "Process & How-To"
 format: "HTML"
 created: 2023-09-25 
 updated: 2026-03-31
+redirect_from:
+- buy/accessibility-in-procurement-pre-solicitation-2/
 ---
 
 ## Requests for Quotes (RFQs)/Request for Proposals (RFPs) - “Solicitations”

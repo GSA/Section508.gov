@@ -275,7 +275,7 @@ At minimum, include Section 508 requirements in the following sections of a QASP
 <h2>Related Resources</h2>
 <ul>
 <li><a href="https://www.acquisition.gov/far/37.604" target="_blank" class="usa-link--external">37.604 Quality assurance surveillance plans</a> Federal Acquisition Regulation (FAR)</li>  
-<li><a href="{{ site.baseurl }}/buy/accessibility-in-procurement-pre-solicitation-2/">Accessibility In Procurement II: Solicitation and Post-Solicitation</a></li>    
+<li><a href="{{ site.baseurl }}/buy/accessibility-in-procurement-solicitation-post-2/">Accessibility In Procurement II: Solicitation and Post-Solicitation</a></li>    
 <li><a href="{{ site.baseurl }}/buy/">Buy Accessible Products and Services</a></li>     
 <li><a href="{{ site.baseurl }}/manage/governance/ict-accessibility-and-risk-management/">ICT Accessibility and Risk Management</a></li>    
 <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/">Technology Accessibility Playbook - Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes</a></li>    
