@@ -601,7 +601,7 @@ acquisition:
           - name: "Accessibility In Procurement I: Pre-Soliciation"
             url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
           - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
+            url: 'buy/accessibility-in-procurement-solicitation-post-2/'         
   - name: Sell
     url: '#'
     children:
