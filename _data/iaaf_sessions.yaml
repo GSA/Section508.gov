@@ -1808,20 +1808,20 @@ iaaf_2026:
         description: Description.
         roles: 
           - name: Presenter
-            who: andrew-nielson #bio_id for this person 
+            who: rachael-montgomery #bio_id for this person 
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-21 11:00:00
         session_id: day1session1
-        subtitle: "Subtitle"
+        subtitle: "Social Media"
         description: Description.
         roles: 
           - name: Presenter
-            who: andrew-nielson #bio_id for this person 
+            who: okeefe-david #bio_id for this person 
         downloads:
-          - link_name: #GSA Yearly Activities Update (PPTX) 
-            file_name: #IAAF-2026-File-Name.pptx
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 11:00:00
@@ -1834,14 +1834,14 @@ iaaf_2026:
         time_start: 2026-05-21 11:15:00
         time_end: 2026-05-21 12:15:00
         session_id: day1session2
-        subtitle: "Subtitle"
+        subtitle: "Integrating Solicitation Requirements for ACRs"
         description: Description.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person 
         downloads:
-        - link_name: #Enhancing Your Section 508 Assessment (PPTX) 
-          file_name: #IAAF-2026-Enhancing-Your-Section-508-Assessment.pptx
+        - link_name: #-IAAF 2026 (PPTX) 
+          file_name: #-IAAF%202026.pptx
       - name: 'Lunch'
         type: break
         time_start: 2026-05-21 12:15:00
@@ -1854,29 +1854,29 @@ iaaf_2026:
         time_start: 2026-05-21 13:15:00
         time_end: 2026-05-21 14:00:00
         session_id: day1session3
-        subtitle: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI"
-        description: Accessibility shouldn’t be an afterthought, but manual remediation is a notorious bottleneck. In this session, we’ll go behind the scenes of a new AI-powered tool designed to automatically detect and fix Section 508 compliance issues in PDF documents. We will explore how we moved from a traditional deterministic approach to leveraging AWS Bedrock to handle complex ICT baselines like reading order, sensory characteristics, and data tables. Discover the "Why" behind this initiative, how we secured leadership buy-in, and how we integrated these capabilities directly into the FTAi portal to ensure digital equity at scale.
+        subtitle: "Best Practices for Supporting Documentation for Section 508 Formal Complaints"
+        description: 
         room:
         roles: 
           - name: Presenter
-            who: iglasias-florence
+            who: ghoston-ameenah
         downloads:
-          - link_name: #Project Managing Accessibility Compliance (PPTX)
-            file_name: #IAAF-2026-Project-Managing-Accessibility-Compliance.pptx
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 14:00:00
         time_end: 2026-05-21 15:00:00
         session_id: day1session4
-        subtitle: Subtitle
+        subtitle: Department of the Interior (DOI) Video Player
         description: description.
         room:
         roles: 
           - name: Presenters
-            who: andrew-nielson
+            who: sharma-siddhartha
         downloads:
-          - link_name: # - IAAF 2026 (PDF) 
-            file_name: #-%20IAAF%202026.pdf
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 15:00:00
@@ -1889,29 +1889,29 @@ iaaf_2026:
         time_start: 2026-05-21 15:15:00
         time_end: 2026-05-21 16:00:00
         session_id: day1session5
-        subtitle: Subtitle
+        subtitle: Change Management
         description: description.
         room:
         roles: 
           - name: Presenters
-            who: andrew-nielson
+            who: antonio-haileselassie
         downloads:
-          - link_name: #Voice AI for Everyone (PPTX) 
-            file_name: #IAAF-2026-Voice-AI-for-Everyone.pptx
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 16:00:00
         time_end: 2026-05-21 16:45:00
         session_id: day1session6
-        subtitle: Subtitle
-        description: description.
+        subtitle: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI"
+        description: Accessibility shouldn’t be an afterthought, but manual remediation is a notorious bottleneck. In this session, we’ll go behind the scenes of a new AI-powered tool designed to automatically detect and fix Section 508 compliance issues in PDF documents. We will explore how we moved from a traditional deterministic approach to leveraging AWS Bedrock to handle complex ICT baselines like reading order, sensory characteristics, and data tables. Discover the "Why" behind this initiative, how we secured leadership buy-in, and how we integrated these capabilities directly into the FTAi portal to ensure digital equity at scale.
         room:
         roles: 
-          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person
+          - name: Presenter
+            who: iglasias-florence
         downloads:
-          - link_name: #Digital Accessibility Acquisition Solutions (PPTX)
-            file_name: #IAAF-2026-Digital-Accessibility-Acquisition-Solutions.pptx                
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2026-05-21 16:45:00
@@ -1943,15 +1943,15 @@ iaaf_2026:
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 11:00:00
         session_id: day2session1
-        subtitle: Subtitle? 
+        subtitle: Acquisitions and Exceptions
         description: Description?
         room:
         roles: 
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person
+            who: betsy-sirk #bio_id for this person
         downloads:
-          - link_name: #A Journey Through Global Accessibility Laws (PPTX) 
-            file_name: #IAAF-2026-A-Journey-Through-Global-Accessibility-Laws.pptx
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-22 11:00:00
@@ -1963,15 +1963,15 @@ iaaf_2026:
         time_start: 2026-05-22 11:00:00
         time_end: 2026-05-22 11:45:00
         session_id: day2session2
-        subtitle: Subtitle
-        description: Description?
+        subtitle: "Process of Making an Informational Video."
+        description: Description
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson#bio_id for this person 
+            who: castillo-kimberly #bio_id for this person 
         downloads:
-          - link_name: #Accessible-Self-Service Kiosks (PPTX) 
-            file_name: #IAAF-2026-Accessible-Self-Service-Kiosks.pptx
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2026-05-22 11:45:00
