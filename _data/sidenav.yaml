@@ -569,7 +569,7 @@ acquisition:
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
       - name: Including Section 508 in Quality Assurance Surveillance Plans
-        url: '/acquisition/buy/integrate-section-508-in-qasps/' 
+        url: 'buy/integrate-section-508-in-qasps/' 
       - name: Understanding Section 508 Exceptions
         url: 'buy/understanding-section-508-exceptions/'
       - name: Section 508 Standards and Exceptions Chart & Examples
