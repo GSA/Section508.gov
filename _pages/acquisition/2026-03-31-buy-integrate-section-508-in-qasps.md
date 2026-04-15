@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: /acquisition/buy/integrate-section-508-in-qasps/
+permalink: acquisition/buy/integrate-section-508-in-qasps/
 type: acquisition
 title: Including Section 508 in Quality Assurance Surveillance Plans
 description: Learn how to integrate Section 508 in Quality Assurance Surveillance Plans (QASP) and explore sample language for Section 508 compliance across ICT deliverables.
