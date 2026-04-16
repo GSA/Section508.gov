@@ -5,6 +5,7 @@ type: create
 title: Accessible Presentations
 permalink: create/presentations/
 description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
+description-alt: Added the MS PowerPoint 365 Authoring and Testing Guide (PDF).
 redirect_from: 
 - create/presentations/authoring-guides/
 audience: 

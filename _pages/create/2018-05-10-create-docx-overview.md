@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: create
 title: Accessible Documents
+title-alt: 
 permalink: create/documents/
 description: Learn how to create accessible Microsoft Word documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
+description-alt: Added the MS Word 365 Authoring and Testing Guide (PDF).
 redirect_from: 
 - create/documents/authoring-guides/, create/documents/
 audience: 
