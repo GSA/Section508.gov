@@ -2,36 +2,51 @@
 layout: page
 sidenav: true
 type: create
-title: 'Accessible Documents'
+title: Accessible Documents
 permalink: create/documents/
-redirect_from:
-- create/documents/authoring-guides/
-- create/documents/#tips
 description: Learn how to create accessible Microsoft Word documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
-topic: "Create"
-sub-topic: "Documents"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
+redirect_from: 
+- create/documents/authoring-guides/, create/documents/
+audience: 
+- Content Creators
+- Designers
+- Federal Employees
+- Members of the Public
+- Section 508 Testers
+topic: 
+- Create
+subtopic: 
+- Documents
+resource-type: 
+- Process & How-To
 format: "HTML"
+custom-script: 
+- accordion-management.js
 created: 2018-05-10
-updated: 2025-08-05
-exclude-changelog: true
+updated: 2026-04-16
 ---
-Learn how to create accessible word processing documents&mdash;including Microsoft Word documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
+
+Learn how to create accessible word processing documents&mdash;including Microsoft Word documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
 ## Authoring Guides
 <section class="usa-accordion usa-accordion--bordered">
+  <!-- Word 365 -->
+  <h2 class="usa-accordion__heading">
+    <button id="365" class="usa-accordion__button" aria-expanded="true" aria-controls="a365">Microsoft Word 365</button>
+  </h2>
+  <div id="a365" class="usa-accordion__content">
+    <ul class="usa-list">
+      <li>
+        <a href="{{site.baseurl}}/assets/files/MS Word 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Word 365 Basic Authoring and Testing Guide (PDF)</a>
+      </li>
+    </ul>
+  </div>
   <!-- Word 2016 -->
   <h2 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="true" aria-controls="word-2016">
-      Microsoft Word 2016
-    </button>
+    <button id="2016" class="usa-accordion__button" aria-expanded="false" aria-controls="a2016">Microsoft Word 2016</button>
   </h2>
-  <div id="word-2016" class="usa-accordion__content">
-    <ul class="usa-list usa-list--unstyled">
+  <div id="a2016" class="usa-accordion__content">
+    <ul class="usa-list">
       <li>
         <a href="https://assets.section508.gov/assets/files/MS%20Word%202016%20Basic%20Authoring%20and%20Testing%20Guide-AED%20COP.docx" target="_blank" class="usa-link--external">Microsoft Word 2016 Basic Authoring and Testing Guide (DOCX)</a>
       </li>
@@ -42,12 +57,10 @@ Learn how to create accessible word processing documents&mdash;including Microso
   </div>
   <!-- Word 2013 -->
   <h2 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="word-2013">
-      Microsoft Word 2013
-    </button>
+    <button id="2013" class="usa-accordion__button" aria-expanded="false" aria-controls="a2013">Microsoft Word 2013</button>
   </h2>
-  <div id="word-2013" class="usa-accordion__content">
-    <ul class="usa-list usa-list--unstyled">
+  <div id="a2013" class="usa-accordion__content">
+    <ul class="usa-list">
       <li>
         <a href="https://assets.section508.gov/assets/files/MS%20Word%202013%20Baseline%20Test%20Process.docx" target="_blank" class="usa-link--external">Baseline Test Process (DOCX)</a>
       </li>
@@ -64,12 +77,10 @@ Learn how to create accessible word processing documents&mdash;including Microso
   </div>
   <!-- Word 2010 -->
   <h2 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="word-2010">
-      Microsoft Word 2010
-    </button>
+    <button id="2010" class="usa-accordion__button" aria-expanded="false" aria-controls="a2010">Microsoft Word 2010</button>
   </h2>
-  <div id="word-2010" class="usa-accordion__content">
-    <ul class="usa-list usa-list--unstyled">
+  <div id="a2010" class="usa-accordion__content">
+    <ul class="usa-list">
       <li>
         <a href="https://assets.section508.gov/assets/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Word%202010%20v%201.0%201.29.2015%20FINAL.docx" target="_blank" class="usa-link--external">Basic Authoring and Testing Guide (DOCX)</a>
       </li>

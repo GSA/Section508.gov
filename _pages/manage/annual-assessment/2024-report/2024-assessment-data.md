@@ -24,7 +24,7 @@ To enhance the transparency of this report and respondent data, we have made the
 
 ## Report
 
-* <a href="manage/section-508-assessment/2024/message-from-gsa-administrator/">FY 2024 Governmentwide Section 508 Assessment (HTML)</a>
+* <a href="{{site.baseurl}}/manage/section-508-assessment/2024/message-from-gsa-administrator/">FY 2024 Governmentwide Section 508 Assessment (HTML)</a>
 * <a href="https://assets.section508.gov/assets/files/assessment/2024/FY24%20Governmentwide%20Section%20508%20Assessment.pdf" target="_blank" class="usa-link--external">FY 2024 Governmentwide Section 508 Assessment (PDF)</a>
 
 ## Assessment Criteria and Reporting Entity Responses
