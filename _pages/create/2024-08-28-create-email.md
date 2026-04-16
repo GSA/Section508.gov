@@ -5,6 +5,7 @@ type: create
 title: Accessible Email Messages
 permalink: create/email-messages/
 description: Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology.
+description-alt: Added the MS Outlook 365 Authoring and Testing Guide (PDF).
 audience: 
 - Content Creators
 - Federal Employees
