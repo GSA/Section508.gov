@@ -25,7 +25,7 @@ To enhance the transparency of this report and respondent data, we have made the
 ## Report
 
 * <a href="https://assets.section508.gov/assets/files/assessment/2023/FY%2023%20Governmentwide%20Section%20508%20Assessment%20Report.pdf" target="_blank" class="usa-link--external">FY 2023 Governmentwide Section 508 Assessment (PDF)</a>
-* <a href="manage/section-508-assessment/2023/message-from-gsa-administrator/">FY 2023 Governmentwide Section 508 Assessment (HTML)</a>
+* <a href="{{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/">FY 2023 Governmentwide Section 508 Assessment (HTML)</a>
 
 
 ## Assessment Criteria and Reporting Entity Responses

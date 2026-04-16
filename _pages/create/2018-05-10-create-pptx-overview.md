@@ -2,34 +2,50 @@
 layout: page
 sidenav: true
 type: create
-title: 'Accessible Presentations'
+title: Accessible Presentations
 permalink: create/presentations/
-redirect_from:
-- create/presentations/authoring-guides/
 description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
-topic: "Create"
-sub-topic: "Presentations"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
+redirect_from: 
+- create/presentations/authoring-guides/
+audience: 
+- Content Creators
+- Designers
+- Federal Employees
+- Members of the Public
+- Section 508 Testers
+topic: 
+- Create
+subtopic: 
+- Documents
+resource-type: 
+- Process & How-To
 format: "HTML"
+custom-script: 
+- accordion-management.js
 created: 2018-05-10
-updated: 2025-08-05
-exclude-changelog: true
+updated: 2026-04-16
 ---
-Learn how to create accessible presentation&mdash;including Microsoft PowerPoint documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
+
+Learn how to create accessible presentation&mdash;including Microsoft PowerPoint documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
 ## Authoring Guides
 <div class="usa-accordion usa-accordion--bordered">
+  <!-- PowerPoint 365 Section - Open by default -->
+  <h3 class="usa-accordion__heading">
+    <button id="365" class="usa-accordion__button" aria-expanded="true" aria-controls="a365">Microsoft PowerPoint 365</button>
+  </h3>
+  <div id="a365" class="usa-accordion__content" hidden="false">
+    <ul>
+      <li>
+        <a href="{{site.baseurl}}/assets/files/MS PowerPoint 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft PowerPoint 365 Authoring and Testing Guide (PDF)</a>
+      </li>
+    </ul>
+  </div>
   <!-- PowerPoint 2016 Section - Open by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="true" aria-controls="a1">
-      Microsoft PowerPoint 2016
-    </button>
+    <button id="2016" class="usa-accordion__button" aria-expanded="true" aria-controls="a2016">Microsoft PowerPoint 2016</button>
   </h3>
-  <div id="a1" class="usa-accordion__content" hidden="false">
+  <div id="a2016" class="usa-accordion__content" hidden="false">
     <ul>
       <li>
         <a href="https://assets.section508.gov/assets/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft PowerPoint 2016 Authoring and Testing Guide (DOCX)</a>
@@ -41,9 +57,9 @@ Learn how to create accessible presentation&mdash;including Microsoft PowerPoint
   </div>
   <!-- 2013 - Closed by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Microsoft PowerPoint 2010</button>
+    <button id="2010" class="usa-accordion__button" aria-expanded="false" aria-controls="a2010">Microsoft PowerPoint 2010</button>
   </h3>
-  <div id="a2" class="usa-accordion__content" hidden>
+  <div id="a2010" class="usa-accordion__content" hidden>
     <ul>
       <li>
         <a href="http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf" target="_blank" class="usa-link--external">How to Make Your PowerPoint 2010 Presentations 508-Compliant (PDF)</a> - CMS
