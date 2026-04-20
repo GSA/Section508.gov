@@ -21,7 +21,7 @@ exclude-changelog: true
 --- 
 
 ## 2025 Interagency Accessibility Forum
-The 2025 Interagency Accessibility Forum (IAAF) was a one-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
+The 2025 Interagency Accessibility Forum (IAAF) was a two-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
 
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board, with support from other federal agencies and ICT professionals.
 

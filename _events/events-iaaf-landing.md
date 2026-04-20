@@ -98,13 +98,14 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <h3>Section 508 Program Managers Networking Forum (Invitation Only)</h3>
       <p>Section 508 Program Manager are invited to join us in person after the 2026 IAAF for an exclusive Networking Session at the GSA Headquarters Building. This session is reserved for registered Federal Section 508 Program Managers and offers a focused opportunity to connect with peers and discuss shared challenges and strategies. Registration is capacity-limited on a first-come, first-served basis.</p>
       <ul>
-        <li><strong>Closed Session</strong>&mdash;by invitation.Capacity limit 68 invited federal Section 508 Program Managers.
+        <li><strong>Closed Session</strong>&mdash;by invitation. Capacity limit 68 invited federal Section 508 Program Managers.
           <ul>
             <li><p>Friday, May 22 - 1:00pm - 3:00 pm<br>
               <a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register: Friday, May 22 Section 508 PM Networking Forum</a></p></li>
           </ul>
         </li>
       </ul>
+      <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.</p>
     </div>
   </div>
   <!-- REG NOW RED BADGE -->
