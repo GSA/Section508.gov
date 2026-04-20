@@ -1992,7 +1992,9 @@ iaaf_2026:
         time_end: 2026-05-22 14:45:00
         session_id: day2session1
         subtitle: Section 508 Program Manager Networking Forum
-        description: 
+        description: "<p>Creating accessible digital experiences requires more than policies and tools&colon; it requires people, partnerships, and followthrough. This highly interactive networking session is designed specifically for Section 508 Program Managers to make meaningful connections, exchange resources, and leave with clear next steps.</p>
+          <p>Facilitated by Amy Nieves of the U.S. Access Board, participants will take part in three guided networking activities focused on sharing successes, expanding nongovernment partnerships, and scheduling real followup conversations. Whether you are new to your role or a longtime program manager, this session is designed to help you strengthen your network and turn conversations into action.</p>
+          <p>Come prepared to participate, connect, and leave with new contacts and meetings on your calendar. Participants are highly encouraged to bring at least 5-10 business cards, or copies of agency resources, or &quot;swag&quot; items from their agency such as pens, or other promotional items if available.</p>"
         room:
         roles: 
           - name: Facilitator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist, Facilitator 

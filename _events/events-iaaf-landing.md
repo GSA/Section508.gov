@@ -62,33 +62,49 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <div class="grid-col tablet:grid-col-2"><strong>Agenda: </strong></div>
       <div class="grid-col tablet:grid-col-10"><a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a></div>
     </div>
-    <h2>Registration Information</h2>
+    <h2>How to Register</h2>
     <div>
-      <p>The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building. Review the registration options carefully, then sign up for the sessions you plan to attend. You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately. </p>
+      <p>The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building.</p>
+      <ul>
+        <li>Review the registration options carefully, then sign up for the sessions you plan to attend.</li>
+        <li>You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.</li>
+        <li>NOTICE: Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.</li>
+      </ul>
 
       <h3 id="virtual-attendance">Virtual Attendance</h3>
       <p>Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.</p>
+      <p><a href="" class="usa-button" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a></p>
       
       <h3 id="in-person-attendance">In-Person Attendance</h3>
-      <p>Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. We offer two ways to attend:</p>
+      <p>Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. Please note that registration does not guarantee entry, as all in-person sessions have limited seating. Registration is capacity-limited on a first-come, first-served basis.</p>
       <ul>
-      <li><p><strong>General Sessions</strong>&mdash;Thursday, May 21, and Friday, May 22, open to all attendees. Attendance is capacity-limited to 200 in-person attendees on a first-come, first-served basis.</p>
-      </li>
-      <li><p><strong>Section 508 Program Managers Networking Forum (Closed Session)</strong>&mdash;Friday afternoon, May 22, by invitation only for federal Section 508 Program Managers. Attendance is capacity-limited to 68 in-person attendees on a first-come, first-served basis.</p>
-      </li>
+        <li><strong>General Sessions</strong>&mdash;open to all attendees. Capacity limit 220.
+          <ul>
+            <li>
+              <p>Thursday, May 21 - 8:30am - 5:00pm<br>
+              <a href="" class="usa-button" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a>
+              </p>
+            </li>
+            <li>
+              <p>Friday, May 22 - 8:30am - 12:00pm<br>
+              <a href="" class="usa-button" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a>
+              </p>
+            </li>
+          </ul>
+        </li>
       </ul>
-      <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that registration does not guarantee entry, as all in-person sessions have limited seating.</p>
+      <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.</p>
 
-      <h3>Reserve Your Spot</h3>
-      <p>You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.</p>
-      <a href="" class="usa-button" rel="noopener noreferrer">Register for the IAAF Virtual Event</a>
-      <p><a href="" class="usa-button" rel="noopener noreferrer">Register to addend in-person for the Thursday, May 21 General Sessions</a></p>
-      <p><a href="" class="usa-button" rel="noopener noreferrer">Register to attend in-person for the Friday, May 22 General Sessions</a></p>
-      <p><a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register to attend in-person for the Friday, May 22 Section 508 PM Networking Forum</a></p>
-      
-      <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-        <p><strong>NOTICE:</strong> Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.</p>
-      </div>
+      <h3>Section 508 Program Managers Networking Forum (Invitation Only)</h3>
+      <p>Section 508 Program Manager are invited to join us in person after the 2026 IAAF for an exclusive Networking Session at the GSA Headquarters Building. This session is reserved for registered Federal Section 508 Program Managers and offers a focused opportunity to connect with peers and discuss shared challenges and strategies. Registration is capacity-limited on a first-come, first-served basis.</p>
+      <ul>
+        <li><strong>Closed Session</strong>&mdash;by invitation.Capacity limit 68 invited federal Section 508 Program Managers.
+          <ul>
+            <li><p>Friday, May 22 - 1:00pm - 3:00 pm<br>
+              <a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register: Friday, May 22 Section 508 PM Networking Forum</a></p></li>
+          </ul>
+        </li>
+      </ul>
     </div>
   </div>
   <!-- REG NOW RED BADGE -->
@@ -111,45 +127,65 @@ American Sign Language (ASL) interpretation and Real Time Captioning (CART) will
 
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
-## Travel 
-Travel to 1800 F St NW, Washington, D.C. (General Services Administration Headquarters Building) is recommended via Metro, with Foggy Bottom–GWU and Farragut West as the nearest stations. The site is also accessible by walking, WMATA transit, or ride-share. Parking is limited and typically costs approximately $14–$25 or more in nearby garages.
-
-Key Transportation Options:
-* **Metro:** The most efficient option is WMATA rail service. Use the WMATA trip planner to reach Foggy Bottom–GWU or Farragut West stations (Blue, Orange, and Silver lines).
-* **Parking:** Street parking is limited. Paid garages are available along 18th Street NW and Pennsylvania Avenue NW, with the closest option located at 1800 G St NW.
-
-## Food and Refreshments
-Attendees are responsible for their own lunch. A variety of dining establishments are available in and around the GSA Headquarters Building including:
-* An Uncommon Cafe
-* Cafe Aria
-* Carvings
-* Chick-fil-A
-* Chopt
-* Devon and Blakely
-* Dunkin'
-* Founding Farmers
-* GCDC Grilled Cheese Bar
-* Greenberry's Coffee
-* GSA in-building options
-  * Fooda&mdash;available Thursday only
-  * Picnic&mdash;available Thursday only
-* McDonald's
-* Met Cafe
-* Panera Bread
-* Potbelly
-* Starbucks Coffee Company
-* Subway
-* The Exchange Saloon
-
-## Check Your Tech
-The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). 
-
-We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:
-
-* <a href="https://support.zoom.com/hc/en/getting-started-with-webinars?id=zoom_webinars_guide" target="_blank" class="usa-link--external">Getting started with Zoom Webinar</a>
-* <a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a>
-* <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a>
-* <a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a>
+<div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
+  <h3 class="usa-accordion__heading">
+    <button id="traveling-to-gsa-headquaters-building" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b1"
+    >Traveling to GSA Headquaters Building</button>
+  </h3>
+  <div id="m-b1" class="usa-accordion__content">
+    <p>Travel to 1800 F St NW, Washington, D.C. (General Services Administration Headquarters Building) is recommended via Metro, with Foggy Bottom–GWU and Farragut West as the nearest stations. The site is also accessible by walking, WMATA transit, or ride-share. Parking is limited and typically costs approximately $14–$25 or more in nearby garages.</p>
+    <p>Key Transportation Options:<br>
+    <ul>
+      <li><strong>Metro:</strong> The most efficient option is WMATA rail service. Use the WMATA trip planner to reach Foggy Bottom–GWU or Farragut West stations (Blue, Orange, and Silver lines).</li>
+      <li><strong>Parking:</strong> Street parking is limited. Paid garages are available along 18th Street NW and Pennsylvania Avenue NW, with the closest option located at 1800 G St NW.</li>
+    </ul></p>
+  </div>
+  <h2 class="usa-accordion__heading">
+    <button id="food-and-refreshments" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
+    >Food and Refreshments</button>
+  </h2>
+  <div id="m-b2" class="usa-accordion__content">
+    <p>Attendees are responsible for their own lunch. A variety of dining establishments are available in and around the GSA Headquarters Building including:</p>
+    <ul>
+      <li>An Uncommon Cafe</li>
+      <li>Cafe Aria</li>
+      <li>Carvings</li>
+      <li>Chick-fil-A</li>
+      <li>Chopt</li>
+      <li>Devon and Blakely</li>
+      <li>Dunkin&#39;</li>
+      <li>Founding Farmers</li>
+      <li>GCDC Grilled Cheese Bar</li>
+      <li>Greenberry&#39;s Coffee</li>
+      <li>GSA in-building options<ul>
+      <li>Fooda&mdash;available Thursday only</li>
+      <li>Picnic&mdash;available Thursday only</li>
+      </ul>
+      </li>
+      <li>McDonald&#39;s</li>
+      <li>Met Cafe</li>
+      <li>Panera Bread</li>
+      <li>Potbelly</li>
+      <li>Starbucks Coffee Company</li>
+      <li>Subway</li>
+      <li>The Exchange Saloon</li>
+    </ul>
+  </div>
+  <h2 class="usa-accordion__heading">
+    <button id="check-your-tech" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b3"
+    >Check Your Tech</button>
+  </h2>
+  <div id="m-b3" class="usa-accordion__content">
+    <p>The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). </p>
+    <p>We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:</p>
+    <ul>
+      <li><a href="https://support.zoom.com/hc/en/getting-started-with-webinars?id=zoom_webinars_guide" target="_blank" class="usa-link--external">Getting started with Zoom Webinar</a></li>
+      <li><a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a></li>
+      <li><a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a></li>
+      <li><a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a></li>
+    </ul>
+  </div>
+</div>
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.

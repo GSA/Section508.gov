@@ -16,15 +16,35 @@ sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 resource-type: "Training"
 format: "HTML (html)"
 created: 2020-08-27
-updated: 2024-06-01
+updated: 2026-04-20
+exclude-changelog: true
 --- 
+
+## 2025 Interagency Accessibility Forum
+The 2025 Interagency Accessibility Forum (IAAF) was a one-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
+
+The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board, with support from other federal agencies and ICT professionals.
+
+### Presentations & Workshops
+* [GSA's Government-wide IT Accessibility Division - Yearly Activities Update (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-GSA-Yearly-Activities-Update.pptx)
+* [Project Management for the Section 508 Annual Assessment: A Structured Approach (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Enhancing-Your-Section-508-Assessment.pptx)
+* [Project Managing Accessibility Compliance: The Section 508 Assessment from a Project Management Perspective (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Project-Managing-Accessibility-Compliance.pptx)
+* [Enhancing Opportunities for Persons with Disabilities - Part 2 (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Voice-AI-for-Everyone.pptx)
+* [Digital Accessibility Acquisition Solutions (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Digital-Accessibility-Acquisition-Solutions.pptx)
+* [A Journey Through Global Accessibility Laws (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-A-Journey-Through-Global-Accessibility-Laws.pptx)
+* [Accessible Self Service Kiosks (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Accessible-Self-Service-Kiosks.pptx)
+* [From Risk to Roadmap: Tackling Accessibility Debt with the Technology Accessibility Playbook (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-From-Risk-to-Roadmap.pptx)
+* [Navigating Federal Acquisitions: Buying Accessible Tech (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Navigating-Federal-Acquisitions.pptx)
+* [A New Look at ART & SRT (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-A-New-Look-at-ART-SRT.pptx)
+
+For event details, visit: [2025 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2025/) and [2025 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2025/).
+
+---
 
 ## 2024 Interagency Accessibility Forum
 The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
 
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board and the Federal Chief Information Officer Council’s Accessibility Community of Practice , with support from other federal agencies and ICT professionals.
-
-Conference sessions were recorded, and will be posted on this page in early 2025. Watch for updates! 
 
 ### Presentations & Workshops
 * [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx)
@@ -37,8 +57,6 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
-created: 2020-08-28
-updated: 2025-02-26
 ---
 
 ## 2023 Interagency Accessibility Forum
