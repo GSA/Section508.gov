@@ -62,42 +62,30 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <div class="grid-col tablet:grid-col-2"><strong>Agenda: </strong></div>
       <div class="grid-col tablet:grid-col-10"><a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a></div>
     </div>
-    <h2>Registration</h2>
+    <h2>Registration Information</h2>
     <div>
       <p>The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building. Review the registration options carefully, then sign up for the sessions you plan to attend. You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately. </p>
 
       <h3 id="virtual-attendance">Virtual Attendance</h3>
       <p>Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.</p>
-      <a href="" class="usa-button" rel="noopener noreferrer">Register for the IAAF Virtual Event</a>
-
+      
       <h3 id="in-person-attendance">In-Person Attendance</h3>
-      <p>Join us in person for the 2026 IAAF at the GSA Building and participate in engaging sessions on federal digital accessibility. We offer two ways to attend:</p>
+      <p>Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. We offer two ways to attend:</p>
       <ul>
-      <li><p><strong>General Sessions</strong>&mdash;Thursday, May 21, and Friday, May 22, open to all attendees.</p>
+      <li><p><strong>General Sessions</strong>&mdash;Thursday, May 21, and Friday, May 22, open to all attendees. Attendance is capacity-limited to 200 in-person attendees on a first-come, first-served basis.</p>
       </li>
-      <li><p><strong>Section 508 Program Managers Networking Forum (Closed Session)</strong>&mdash;Friday afternoon, May 22, by invitation only for federal Section 508 Program Managers.</p>
+      <li><p><strong>Section 508 Program Managers Networking Forum (Closed Session)</strong>&mdash;Friday afternoon, May 22, by invitation only for federal Section 508 Program Managers. Attendance is capacity-limited to 68 in-person attendees on a first-come, first-served basis.</p>
       </li>
       </ul>
       <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that registration does not guarantee entry, as all in-person sessions have limited seating.</p>
-      <h4 id="general-sessions-open-to-all-">General Sessions (Open to All)</h4>
-      <ul>
-      <li><p>Thursday, May 21 is capacity-limited to 200 in-person attendees</p>
-      </li>
-      <li><p>Friday, May 22 is capacity-limited to 200 in-person attendees</p>
-      </li>
-      <li><p>Registration is capacity-limited on a first-come, first-served basis</p>
-      </li>
-      </ul>
-      <h3>Reserve your spot:</h3>
+
+      <h3>Reserve Your Spot</h3>
+      <p>You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.</p>
+      <a href="" class="usa-button" rel="noopener noreferrer">Register for the IAAF Virtual Event</a>
       <p><a href="" class="usa-button" rel="noopener noreferrer">Register to addend in-person for the Thursday, May 21 General Sessions</a></p>
-      <p><a href="" class="usa-button" rel="noopener noreferrer">Register to attend in-person for the Friday, May 22 Gemeral Sessions</a></p>
-      
-      <h4 id="section-508-program-managers-closed-session-invitation-only-">Section 508 Program Managers Closed Session (Invitation Only)</h4>
-      <ul>
-        <li><p>Friday, May 22 afternoon session -- limited to 68 invited federal Section 508 Program Managers</p></li>
-        <li><p>Registration is required for invited attendees, and is capacity-limited on a first-come, first-served basis </p></li>
-      </ul>
+      <p><a href="" class="usa-button" rel="noopener noreferrer">Register to attend in-person for the Friday, May 22 General Sessions</a></p>
       <p><a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register to attend in-person for the Friday, May 22 Section 508 PM Networking Forum</a></p>
+      
       <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
         <p><strong>NOTICE:</strong> Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.</p>
       </div>
