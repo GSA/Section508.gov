@@ -7,6 +7,7 @@ permalink: create/spreadsheets/
 redirect_from:
 - create/spreadsheets/authoring-guides/
 description: Learn how to create accessible Microsoft Excel spreadsheet that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
+description-alt: Added the MS Excel 365 Authoring and Testing Guide (PDF).
 topic: "Create"
 sub-topic: "Spreadsheets"
 audience:
@@ -15,20 +16,30 @@ audience:
 - "Designers"
 resource-type: "Process & How-To"
 format: "HTML"
+custom-script: 
+- accordion-management.js
 created: 2018-05-10
 updated: 2026-04-14
-exclude-changelog: true
 ---
-Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
+Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
 <div class="usa-accordion usa-accordion--bordered">
+  <!-- Excel 365 Section - Open by default -->
+  <h3 class="usa-accordion__heading">
+    <button id="365" class="usa-accordion__button" aria-expanded="true" aria-controls="a365">Microsoft Excel 365</button>
+  </h3>
+  <div id="a365" class="usa-accordion__content usa-prose" hidden="false">
+    <ul>
+      <li>
+        <a href="{{site.baseurl}}/assets/files/MS Excel 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (PDF)</a>
+      </li>
+    </ul>
+  </div>
   <!-- Excel 2016 Section - Open by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="true" aria-controls="e1">
-      Microsoft Excel 2016
-    </button>
+    <button id="2016" class="usa-accordion__button" aria-expanded="false" aria-controls="a2016">Microsoft Excel 2016</button>
   </h3>
-  <div id="e1" class="usa-accordion__content usa-prose" hidden="false">
+  <div id="a2016" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
       <li>
         <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (DOCX)</a>
@@ -40,11 +51,9 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
   </div>
   <!-- Excel 2010 Section - Closed by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="e2">
-      Microsoft Excel 2010
-    </button>
+    <button id="2010" class="usa-accordion__button" aria-expanded="false" aria-controls="a2010">Microsoft Excel 2010</button>
   </h3>
-  <div id="e2" class="usa-accordion__content" hidden>
+  <div id="a2010" class="usa-accordion__content" hidden>
     <ul>
       <li>
         <a href="https://assets.section508.gov/assets/files/MS Excel 2010 Basic Authoring Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Authoring Guide (DOCX)</a>
