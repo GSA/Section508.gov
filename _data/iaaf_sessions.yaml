@@ -1912,7 +1912,7 @@ iaaf_2026:
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
-      - name: 'Closing' 
+      - name: 'Closing Remarks - Day 1' 
         type: welcome
         time_start: 2026-05-21 16:45:00
         time_end: 2026-05-21 17:00:00
@@ -1923,7 +1923,7 @@ iaaf_2026:
             who: andrew-nielson #use bio_id
   - day: 2
     time_start: 2026-05-22 08:30:00 #YYYY-MM-DD HH:MM:SS
-    time_end: 2026-05-22 15:00:00
+    time_end: 2026-05-22 12:00:00
     sessions: 
       - name: 'Registration (In-person)'
         type: break
@@ -1972,12 +1972,31 @@ iaaf_2026:
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
-      - name: 'Closing' 
+      - name: 'Closing Remarks - IAAF'
         type: welcome
         time_start: 2026-05-22 11:45:00
         time_end: 2026-05-22 12:00:00
-        session_id: day2close
+        session_id: day2close1
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
+      - name: 'Special Session Registration&mdash;<em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
+        type: break
+        time_start: 2026-05-22 12:30:00
+        time_end: 2026-05-22 13:00:00
+        session_id: day2registration
+      - name: 'Closed Session<br>(In-person Only)'
+        type: general
+        time_start: 2026-05-22 13:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-22 14:45:00
+        session_id: day2session1
+        subtitle: Section 508 Program Manager Networking Forum
+        description: 
+        room:
+        roles: 
+          - name: Facilitator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist, Facilitator 
+            who: nieves-amy #bio_id for this person
+        downloads:
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx
