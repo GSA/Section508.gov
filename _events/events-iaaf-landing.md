@@ -98,7 +98,7 @@ Attending the 2026 IAAF virtually gives you access to all open sessions on Thurs
 <a href="" class="usa-button" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
 
 ### In-Person Attendance
-Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. Please note that registration does not guarantee entry, as all in-person sessions have limited seating. Registration is capacity-limited on a first-come, first-served basis.
+Join us in person for the 2026 IAAF at the GSA Headquarters Building for engaging sessions on federal digital accessibility; please note that registration does not guarantee entry, as seating is limited and offered on a first-come, first-served basis, and while you are welcome to attend both days, you must register for each day separately.
   
 * **General Sessions**&mdash;open to all attendees. Capacity limit 220.
   * Thursday, May 21 - 8:30am - 5:00pm<br>
