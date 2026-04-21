@@ -4,15 +4,29 @@ sidenav: false
 type: training
 title: Interagency Accessibility Forum (IAAF)
 permalink: /iaaf/
-redirect_from:
-- IAAF/
-start-date: 2026-05-21 #only fill in start date if the events spans multiple days
-end-date: 2026-05-22 #otherwise use end-date
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
+redirect_from: 
+- IAAF/
+audience: 
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+- Specialists & SMEs
+topic: 
+- Training
+subtopic: 
+- Best Practices
+- Training
+resource-type: 
+- Training
+format: HTML
+custom-script: 
+- accordion-management.js
 created: 2014-01-01
-updated: 2026-04-20
+updated: 2026-04-21
 featured: true
---- 
+---
+
 <p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
@@ -37,7 +51,7 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
 
 ## Event Details
 <div class="grid-row">
-  <div class="grid-col-12">
+  <div class="grid-col-12 tablet:grid-col-9">
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>Who: </strong></div>
       <div class="grid-col tablet:grid-col-10">ICT Accessibility Professionals</div>
@@ -58,64 +72,14 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <div class="grid-col tablet:grid-col-2"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-10">Attendance to this event is offered at no cost</div>
     </div>
-    <div class="grid-row">
-      <div class="grid-col tablet:grid-col-2"><strong>Agenda: </strong></div>
-      <div class="grid-col tablet:grid-col-10"><a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a></div>
-    </div>
-    <h2>How to Register</h2>
-    <div>
-      <p>The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building.</p>
-      <ul>
-        <li>Review the registration options carefully, then sign up for the sessions you plan to attend.</li>
-        <li>You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.</li>
-        <li>NOTICE: Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.</li>
-      </ul>
-
-      <h3 id="virtual-attendance">Virtual Attendance</h3>
-      <p>Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.</p>
-      <p><a href="" class="usa-button" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a></p>
-      
-      <h3 id="in-person-attendance">In-Person Attendance</h3>
-      <p>Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. Please note that registration does not guarantee entry, as all in-person sessions have limited seating. Registration is capacity-limited on a first-come, first-served basis.</p>
-      <ul>
-        <li><strong>General Sessions</strong>&mdash;open to all attendees. Capacity limit 220.
-          <ul>
-            <li>
-              <p>Thursday, May 21 - 8:30am - 5:00pm<br>
-              <a href="" class="usa-button" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a>
-              </p>
-            </li>
-            <li>
-              <p>Friday, May 22 - 8:30am - 12:00pm<br>
-              <a href="" class="usa-button" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a>
-              </p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.</p>
-
-      <h3>Section 508 Program Managers Networking Forum (Invitation Only)</h3>
-      <p>Section 508 Program Manager are invited to join us in person after the 2026 IAAF for an exclusive Networking Session at the GSA Headquarters Building. This session is reserved for registered Federal Section 508 Program Managers and offers a focused opportunity to connect with peers and discuss shared challenges and strategies. Registration is capacity-limited on a first-come, first-served basis.</p>
-      <ul>
-        <li><strong>Closed Session</strong>&mdash;by invitation. Capacity limit 68 invited federal Section 508 Program Managers.
-          <ul>
-            <li><p>Friday, May 22 - 1:00pm - 3:00 pm<br>
-              <a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register: Friday, May 22 Section 508 PM Networking Forum</a></p></li>
-          </ul>
-        </li>
-      </ul>
-      <p>After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.</p>
-    </div>
   </div>
-  <!-- REG NOW RED BADGE -->
-  <!--<div id="reg-badge" class="display-none tablet:display-block tablet:grid-col-3 text-center">
-    <a href="https://gsa.zoomgov.com/webinar/register/" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
-  </div>-->
+  <div class="display:none tablet:grid-col-3 text-center">
+    <a href="#how-to-register"><img src="/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:150px"></a>
+  </div>
 </div>
 
 ## Event Agenda
-<a href="{{site.baseurl}}/iaaf/archives/agenda-2026/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2026 IAAF Agenda" width="75" height="75"/></a>
+<a href="{{site.baseurl}}/iaaf/archives/agenda-2026/"><img style="display: block; float: left; margin-right: 20px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2026 IAAF Agenda" width="75" height="75"/></a>
 
 This year’s IAAF will be held on May 21–22, 2026, and featured a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
@@ -123,14 +87,48 @@ Presenters and panelists covered a wide range of Section 508-related subjects, i
 
 For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a>. 
 
-## Accessibility Accommodations and Services
-American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
+## How to Register
+The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building.
+* Review the registration options carefully, then sign up for the sessions you plan to attend.
+* You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.
+* NOTICE: Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.
 
-If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
+### Virtual Attendance
+Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.<br>
+<a href="" class="usa-button" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
 
+### In-Person Attendance
+Join us in person for the 2026 IAAF at the GSA Headquarters Building and participate in engaging sessions on federal digital accessibility. Please note that registration does not guarantee entry, as all in-person sessions have limited seating. Registration is capacity-limited on a first-come, first-served basis.
+  
+* **General Sessions**&mdash;open to all attendees. Capacity limit 220.
+  * Thursday, May 21 - 8:30am - 5:00pm<br>
+    <a href="" class="usa-button margin-bottom-2" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a>
+  * Friday, May 22 - 8:30am - 12:00pm<br>
+    <a href="" class="usa-button" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a>
+
+After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
+
+### Section 508 Program Managers Networking Forum (Invitation Only)
+Section 508 Program Manager are invited to join us in person after the 2026 IAAF for an exclusive Networking Session at the GSA Headquarters Building. This session is reserved for registered Federal Section 508 Program Managers and offers a focused opportunity to connect with peers and discuss shared challenges and strategies. Registration is capacity-limited on a first-come, first-served basis.
+
+* **Closed Session**&mdash;by invitation. Capacity limit 68 invited federal Section 508 Program Managers.
+  * Friday, May 22 - 1:00pm - 3:00 pm<br>
+    <a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register: Friday, May 22 Section 508 PM Networking Forum</a>
+
+After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
+
+## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   <h3 class="usa-accordion__heading">
-    <button id="traveling-to-gsa-headquaters-building" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b1"
+    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b0"
+    >Accessibility Accommodations and Services</button>
+  </h3>
+  <div id="m-b0" class="usa-accordion__content">
+    <p>American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.</p>
+    <p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
+  </div> 
+  <h3 class="usa-accordion__heading">
+    <button id="travel" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b1"
     >Traveling to GSA Headquaters Building</button>
   </h3>
   <div id="m-b1" class="usa-accordion__content">
@@ -142,34 +140,34 @@ If you require accommodations to participate in IAAF, please indicate your needs
     </ul></p>
   </div>
   <h2 class="usa-accordion__heading">
-    <button id="food-and-refreshments" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
+    <button id="refreshments" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
     >Food and Refreshments</button>
   </h2>
   <div id="m-b2" class="usa-accordion__content">
-    <p>Attendees are responsible for their own lunch. A variety of dining establishments are available in and around the GSA Headquarters Building including:</p>
+    <p>Attendees are responsible for their own lunch. A variety of dining options are available within or near the GSA Headquarters Building, including:</p>
     <ul>
-      <li>An Uncommon Cafe</li>
-      <li>Cafe Aria</li>
-      <li>Carvings</li>
-      <li>Chick-fil-A</li>
-      <li>Chopt</li>
-      <li>Devon and Blakely</li>
-      <li>Dunkin&#39;</li>
-      <li>Founding Farmers</li>
-      <li>GCDC Grilled Cheese Bar</li>
-      <li>Greenberry&#39;s Coffee</li>
-      <li>GSA in-building options<ul>
-      <li>Fooda&mdash;available Thursday only</li>
-      <li>Picnic&mdash;available Thursday only</li>
-      </ul>
+      <li><strong>An Uncommon Cafe</strong> - 1800 G St NW, Washington, DC 20006</li>
+      <li><strong>Cafe Aria</strong> - 1917 F St NW, Washington, DC 20006</li>
+      <li><strong>Carvings</strong> - 2021 F St NW, Washington, DC 20006</li>
+      <li><strong>Chopt Creative Salad Co.</strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong>Devon and Blakely</strong> - 1776 G St NW, Washington, DC 20036</li>
+      <li><strong>Founding Farmers</strong> - 1924 Pennsylvania Ave NW #3607, Washington, DC 20006</li>
+      <li><strong>GCDC Grilled Cheese Bar</strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong>Greenberry&#39;s Coffee</strong> - 1805 E St NW, Washington, DC 20006</li>
+      <li><strong>GSA in-building delivery options:</strong>
+        <ul>
+          <li><strong><a href="" target="_blank" class="usa-link--external">Fooda</a></strong>&mdash;available Thursday only</li>
+          <li><strong><a href="" target="_blank" class="usa-link--external">Picnic</a></strong>&mdash;available Thursday only</li>
+        </ul>
       </li>
-      <li>McDonald&#39;s</li>
-      <li>Met Cafe</li>
-      <li>Panera Bread</li>
-      <li>Potbelly</li>
-      <li>Starbucks Coffee Company</li>
-      <li>Subway</li>
-      <li>The Exchange Saloon</li>
+      <li><strong>McDonald's</strong> - 750 17th St NW, Washington, DC 20006</li>
+      <li><strong>Met Cafe</strong> - 1750 New York Ave NW, Washington, DC 20006</li>
+      <li><strong>Panera Bread</strong> - 1750 H St NW Suite G1, Washington, DC 20006</li>
+      <li><strong>Potbelly</strong> - 1701 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong>Roti Mediterranean Bowls. Salads. Pitas.</strong> - 1747 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong>Starbucks Coffee</strong> - 1959 E St NW Space C, Washington, DC 20052</li>
+      <li><strong>The Exchange Saloon</strong> - 1719 G St NW, Washington, DC 20006</li>
+      <li><strong>Tonic at Quigley's</strong> - 2036 G St NW, Washington, DC 20036</li>
     </ul>
   </div>
   <h2 class="usa-accordion__heading">

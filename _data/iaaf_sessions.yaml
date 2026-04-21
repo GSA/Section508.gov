@@ -1890,7 +1890,18 @@ iaaf_2026:
         time_end: 2026-05-21 16:00:00
         session_id: day1session5
         subtitle: Change Management
-        description: description.
+        description: "<p>Accessibility Debt: A Roadmap
+          Many organizations, particularly in Federal IT, struggle with accessibility debt, a growing backlog of inaccessible systems, documents, and services that create barriers for users with disabilities. This puts agencies at risk of non-compliance (Section 508, WCAG, FAR), legal challenges, and reputational harm. The debt accumulates due to gaps in assessment, procurement, and underdeveloped accessibility programs.
+          Rather than fully resolving these issues, many agencies apply risk management tactics that temporarily mitigate accessibility debt, but fail to address the root causes, leading to greater long-term challenges.</p>
+          <p>This session will present practical, scalable strategies for building a roadmap to reduce accessibility debt, covering:</p>
+          <ul>
+            <li>Conducting gap analyses to identify accessibility deficiencies</li>
+            <li>Developing phased mitigation plans to address barriers over time</li>
+            <li>Refining standard operating procedures (SOPs) to prevent further debt accumulation</li>
+            <li>Introducing an internal auditing program to continuously measure compliance and improvement</li>
+            <li>Strengthening cross-functional collaboration between IT, procurement, and leadership to drive accessibility initiatives</li>
+          </ul>
+          <p>Attendees will leave with actionable strategies to develop a Roadmap toward dealing with accessibility debt by switching from a reactive, risk-based model to a proactive, compliance-driven approach that ensures sustainability and accessibility integration.</p>"
         room:
         roles: 
           - name: Presenters
