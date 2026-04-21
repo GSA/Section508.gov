@@ -74,7 +74,7 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
     </div>
   </div>
   <div class="display:none tablet:grid-col-3 text-center">
-    <a href="#how-to-register"><img src="/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:150px"></a>
+    <a href="#how-to-register"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:150px"></a>
   </div>
 </div>
 
