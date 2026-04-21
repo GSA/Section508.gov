@@ -95,27 +95,25 @@ The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-pe
 
 ### Virtual Attendance
 Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.<br>
-<a href="" class="usa-button" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
+<a href="" class="usa-button margin-top-2" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
 
-### In-Person Attendance
+### In-Person Attendance 
+#### General Sessions
 Join us in person for the 2026 IAAF at the GSA Headquarters Building for engaging sessions on federal digital accessibility; please note that registration does not guarantee entry, as seating is limited and offered on a first-come, first-served basis, and while you are welcome to attend both days, you must register for each day separately.
-  
-* **General Sessions**&mdash;open to all attendees. Capacity limit 220.
-  * Thursday, May 21 - 8:30am - 5:00pm<br>
-    <a href="" class="usa-button margin-bottom-2" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a>
-  * Friday, May 22 - 8:30am - 12:00pm<br>
-    <a href="" class="usa-button" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a>
 
-After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
+<p><strong>Thursday, May 21 - 8:30am - 5:00pm</strong>&mdash;Open to all attendees. Capacity limit 220.<br>
+<a href="" class="usa-button" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a></p>
+<p><strong>Friday, May 22 - 8:30am - 12:00pm</strong>&mdash;Open to all attendees. Capacity limit 220.<br>
+<a href="" class="usa-button margin-bottom-2" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a></p> 
 
-### Section 508 Program Managers Networking Forum (Invitation Only)
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+  After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
+</div>
+
+#### Section 508 Program Managers Networking Forum&mdash;Invitation Only.
 Section 508 Program Manager are invited to join us in person after the 2026 IAAF for an exclusive Networking Session at the GSA Headquarters Building. This session is reserved for registered Federal Section 508 Program Managers and offers a focused opportunity to connect with peers and discuss shared challenges and strategies. Registration is capacity-limited on a first-come, first-served basis.
 
-* **Closed Session**&mdash;by invitation. Capacity limit 68 invited federal Section 508 Program Managers.
-  * Friday, May 22 - 1:00pm - 3:00 pm<br>
-    <a href="" class="usa-button usa-button--accent-warm" rel="noopener noreferrer">Register: Friday, May 22 Section 508 PM Networking Forum</a>
-
-After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
+<strong>Friday, May 22 - 1:00pm - 3:00 pm.</strong>&mdash;Federal Section 508 Program Managers will receive a registration link via an email invitation. Capacity limit 68.
 
 ## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
