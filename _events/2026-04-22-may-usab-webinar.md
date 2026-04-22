@@ -29,7 +29,7 @@ updated:
 Whether you are new to PDF accessibility or struggling to remediate more advanced issues, this webinar is here to help. Join our presenters to become more aware of how people with disabilities use PDFs, discuss the most common and more irregular document accessibility issues, learn how to go beyond the Acrobat Accessibility Checker, and gain insight into the go-to tools they use to speed up remediation workflows. Registrants will be able to submit questions in advance during the registration process.
 
 ### Event Details
-**DATE:** Tuesday, May 19, 2026
+**DATE:** Tuesday, May 19, 2026  
 **TIME:** 1:00 PM - 2:30 PM ET  
 **WHERE:** Virtual webinar
 
