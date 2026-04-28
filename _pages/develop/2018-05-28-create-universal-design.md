@@ -90,7 +90,7 @@ See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/
  [3]: {{site.baseurl}}/blog/Building-Accessibility-into-your-Procurement-Process
  [4]: {{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible
  [5]: {{site.baseurl}}/blog/infographic-the-case-for-universal-design
- [6]: https://assets.section508.gov/assets/files/Copy%20of%20Universal_Design_%20White%20Paper_vFinal_0.pdf
+ [6]: https://www.section508.gov/~assets/files/copy-of-universal_design_-white-paper_vfinal_0.pdf
  [7]: https://www.youtube.com/watch?v=ryfd3fmZHCY
  [8]: https://g3ict.org/publication/the-benefit-of-designing-for-everyone-a-research-report-on-the-importance-of-inclusive-design
  [9]: {{site.baseurl}}/contact-us

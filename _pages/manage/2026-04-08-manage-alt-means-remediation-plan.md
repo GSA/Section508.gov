@@ -55,7 +55,7 @@ The Defect Remediation Plan remains in effect until all defects are resolved and
       <div class="usa-icon-list__icon text-red">
         <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#push_pin"></use></svg>
       </div>
-      <div class="usa-icon-list__content">Use the <a href="{{ site.baseurl }}/assets/files/Section-508-Defect-Remediation-Plan-Template.docx" target="_blank" class="usa-link--external">Section 508 Defect Remediation Plan - Template (DOCX)</a> to standardize documentation across programs.</div>
+      <div class="usa-icon-list__content">Use the <a href="https://www.section508.gov/~assets/files/section-508-defect-remediation-plan-template.docx" target="_blank" class="usa-link--external">Section 508 Defect Remediation Plan - Template (DOCX)</a> to standardize documentation across programs.</div>
     </li>
   </ul>
 </div>
@@ -85,7 +85,7 @@ The AMP remains active until all defects are remediated and validated. If remedi
       <div class="usa-icon-list__icon text-red">
         <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#push_pin"></use></svg>
       </div>
-      <div class="usa-icon-list__content">Use the <a href="{{ site.baseurl }}/assets/files/Section-508-Alternative-Means-Plan-Template.docx" target="_blank" class="usa-link--external">Section 508 Alternative Means Plan - Template (DOCX)</a> to ensure consistent procedures across systems.</div>
+      <div class="usa-icon-list__content">Use the <a href="https://www.section508.gov/~assets/files/section-508-alternative-means-plan-template.docx" target="_blank" class="usa-link--external">Section 508 Alternative Means Plan - Template (DOCX)</a> to ensure consistent procedures across systems.</div>
     </li>
   </ul>
 </div>

@@ -111,20 +111,20 @@ resource-type:
   - White Paper
 
 format:
+  - Audio-Only
+  - CSV
   - Document (DOCX)
   - Document (DOC)
   - Form
   - HTML
+  - Image
+  - JSON
   - Document (PDF)
   - Presentation (PPTX)
   - Presentation (PPT)
-  - Video
-  - Video-Only
   - Spreadsheet (XLSX)
   - Spreadsheet (XLS)
-  - Image
+  - Video
+  - Video-Only
   - YAML
-  - Audio-Only
   - ZIP
-  - CSV
-  - JSON

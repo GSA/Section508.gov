@@ -31,7 +31,7 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
   <div id="a365" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
       <li>
-        <a href="{{site.baseurl}}/assets/files/MS Excel 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (PDF)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-365-basic-authoring-and-testing-guide.pdf" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (PDF)</a>
       </li>
     </ul>
   </div>
@@ -42,10 +42,10 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
   <div id="a2016" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-2016-basic-authoring-and-testing-guide-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2016 Basic Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc" target="_blank" class="usa-link--external">Microsoft Excel 2016 Printable Accessible Testing Checklist (DOC)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-2016-printable-accessibility-checklist-aed-cop.doc" target="_blank" class="usa-link--external">Microsoft Excel 2016 Printable Accessible Testing Checklist (DOC)</a>
       </li>
     </ul>
   </div>
@@ -56,13 +56,13 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
   <div id="a2010" class="usa-accordion__content" hidden>
     <ul>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2010 Basic Authoring Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Authoring Guide (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-2010-basic-authoring-guide-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Authoring Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2010 Printable Accessibility Checklist-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Testing Checklist (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-2010-printable-accessibility-checklist-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Testing Checklist (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS Excel 2010 Baseline Tests-AED COP.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Baseline Tests for Accessible Electronic Documents (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-excel-2010-baseline-tests-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Baseline Tests for Accessible Electronic Documents (DOCX)</a>
       </li>
     </ul>
   </div>
@@ -98,11 +98,11 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Microsoft Accessibility][11]
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://assets.section508.gov/assets/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx
- [3]: https://assets.section508.gov/assets/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc
- [4]: https://assets.section508.gov/assets/files/Section%20508%20Basic%20Authoring%20Guide%20Excel%202010_0.doc
- [5]: https://assets.section508.gov/assets/files/Section%20508%20Basic%20Accessibility%20Checklist_0.doc
- [6]: https://assets.section508.gov/assets/files/Baseline_Tests_for_Docs_MS_Excel_2010_accessibility_v__1.0%20%2012.14.2015%20F..._0.doc
+ [2]: https://www.section508.gov/~assets/files/ms-excel-2016-basic-authoring-and-testing-guide-aed-cop.docx
+ [3]: https://www.section508.gov/~assets/files/ms-excel-2016-printable-accessibility-checklist-aed-cop.doc
+ [4]: https://www.section508.gov/~assets/files/section-508-basic-authoring-guide-excel-2010_0.doc
+ [5]: https://www.section508.gov/~assets/files/section-508-basic-accessibility-checklist_0.doc
+ [6]: https://www.section508.gov/~assets/files/baseline_tests_for_docs_ms_excel_2010_accessibility_v__1-0-12-14-2015-f-_0.doc
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [9]: {{site.baseurl}}/create
  [10]: https://www.w3.org/WAI/train

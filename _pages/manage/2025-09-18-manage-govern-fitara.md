@@ -113,7 +113,7 @@ In short, risk must be assessed, a remediation opportunity must be granted, and 
 ## Relevant Memos and Legislation:
 
 * <a href="https://www.acquisition.gov/far/49.607" target="_blank" class="usa-link--external">49.607 Delinquency notices (Federal Acquisition Regulation) </a>  
-* <a href="https://www.cio.gov/assets/files/FITARA%20Pub%20L%20113-291.pdf" target="_blank" class="usa-link--external">Federal Information Technology Acquisition Reform Act (FITARA)</a>
+* <a href="https://www.cio.gov/assets/files/fitara-pub-l-113-291.pdf" target="_blank" class="usa-link--external">Federal Information Technology Acquisition Reform Act (FITARA)</a>
 * <a href="https://www.congress.gov/bill/113th-congress/senate-bill/2521" target="_blank" class="usa-link--external">Federal Information Security Modernization Act of 2014 (FISMA)</a>  
 * <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf" target="_blank" class="usa-link--external">Management and Oversight of Federal Information Technology (M-15-14)</a>   
 * <a href="https://dodcio.defense.gov/portals/0/documents/ciodesrefvolone.pdf" target="_blank" class="usa-link--external">The Clinger Cohen Act</a>

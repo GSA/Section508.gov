@@ -34,7 +34,7 @@ Learn how to create accessible email messages&mdash;including Microsoft Outlook 
   <div id="a365" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
       <li>
-        <a href="{{site.baseurl}}/assets/files/MS Outlook 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Outlook 365 Basic Authoring and Testing Guide (PDF)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-outlook-365-basic-authoring-and-testing-guide.pdf" target="_blank" class="usa-link--external">Microsoft Outlook 365 Basic Authoring and Testing Guide (PDF)</a>
       </li>
     </ul>
   </div>

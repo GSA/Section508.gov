@@ -81,7 +81,7 @@ Agencies should first identify which [testing methodologies]({{site.baseurl}}/te
 * Training on agency approved testing methodologies. This may include Assistive Technology. Resources include:  
   * <a href="https://www.dhs.gov/508-training" target="_blank" class="usa-link--external"> DHS Trusted Tester for Web Certification Program</a>
   * Training on [document testing]({{site.baseurl}}/test/documents/) and [accessible content creation]({{site.baseurl}}/create/)
-  * <a href="https://assets.section508.gov/assets/files/Using-DevTools-for-Manual-Accessibility-Inspection-2024-AUG-ITACM.pdf" target="_blank" class="usa-link--external">Browser developer tools (PDF)</a>
+  * <a href="https://www.section508.gov/~assets/files/using-devtools-for-manual-accessibility-inspection-2024-aug-itacm.pdf" target="_blank" class="usa-link--external">Browser developer tools (PDF)</a>
 * Training on agency approved testing tools. Resources include:  
   * <a href="https://www.ssa.gov/accessibility/andi/help/howtouse.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI) tutorial</a> and <a href="({{site.baseurl}}/training/web-software/andi-training-videos/">ANDI Overview</a>  
   * [How to Test Color Contrast using the Color Contrast Analyser]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/)  

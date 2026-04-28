@@ -71,7 +71,7 @@ Workshop participants learned how to use the IT Accessibility Playbook to improv
         <ul>
           <li>
             <div>
-              <a href="https://assets.section508.gov/assets/files/Technology-Accessibility-Playbook-2018-Update.docx">Download a copy of the Technology Accessibility Playbook</a> (MS Word, June 2016)
+              <a href="https://www.section508.gov/~assets/files/technology-accessibility-playbook-2018-update.docx">Download a copy of the Technology Accessibility Playbook</a> (MS Word, June 2016)
             </div>
           </li>          
           <li>

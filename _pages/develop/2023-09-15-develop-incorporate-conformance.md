@@ -38,7 +38,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   <li>Specify when accessibility testing will occur. The ideal time is at each step or gate in the life cycle. </li>
   <li>Identify what types of accessibility testing should be performed (manual, automated, or hybrid) and when each methodology should be utilized. Use this to inform the overall Test Plan. See the <a href="https://www.hhs.gov/sites/default/files/ocio/eplc/EPLC%20Archive%20Documents/39-Test%20Plan/eplc_test_plan_practices_guide.pdf" class="usa-link--external" target="_blank">Department of Health and Human Services’ (HHS) Test Plan practices guide</a> for an overview of what to include in a test plan. Two examples of software test plans are the: 
     <ul>
-      <li><a href="https://ussm.gsa.gov/assets/files/M3-Playbook-Test-Plan-Template.docx" class="usa-link--external" target="_blank">General Services Administration’s (GSA) Playbook Test Plan Template</a> and</li>
+      <li><a href="https://ussm.gsa.gov/assets/files/m3-playbook-test-plan-template.docx" class="usa-link--external" target="_blank">General Services Administration’s (GSA) Playbook Test Plan Template</a> and</li>
       <li><a href="https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_Test_Plan_Template.doc" class="usa-link--external" target="_blank">Centers for Disease Control’s (CDC) Test Plan Template</a>.</li>
     </ul>
   </li>

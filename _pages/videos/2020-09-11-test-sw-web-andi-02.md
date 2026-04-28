@@ -26,7 +26,7 @@ exclude-changelog: true
 In Module 2 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI Focusable Elements modules to analyze all focusable [interactive elements][1] with keyboard access and visual focus.<br />
 Note: This ANDI module is not used to test visual focus.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-02-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-02-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">

@@ -25,7 +25,7 @@ exclude-changelog: true
 
 In Module 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">

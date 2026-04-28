@@ -8,7 +8,8 @@ permalink: create/documents/
 description: Learn how to create accessible Microsoft Word documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 description-alt: Added the MS Word 365 Authoring and Testing Guide (PDF).
 redirect_from: 
-- create/documents/authoring-guides/, create/documents/
+- create/documents/authoring-guides/
+- create/documents/
 audience: 
 - Content Creators
 - Designers
@@ -39,7 +40,7 @@ Learn how to create accessible word processing documents&mdash;including Microso
   <div id="a365" class="usa-accordion__content">
     <ul class="usa-list">
       <li>
-        <a href="{{site.baseurl}}/assets/files/MS Word 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Word 365 Basic Authoring and Testing Guide (PDF)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-word-365-basic-authoring-and-testing-guide.pdf" target="_blank" class="usa-link--external">Microsoft Word 365 Basic Authoring and Testing Guide (PDF)</a>
       </li>
     </ul>
   </div>
@@ -50,10 +51,10 @@ Learn how to create accessible word processing documents&mdash;including Microso
   <div id="a2016" class="usa-accordion__content">
     <ul class="usa-list">
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS%20Word%202016%20Basic%20Authoring%20and%20Testing%20Guide-AED%20COP.docx" target="_blank" class="usa-link--external">Microsoft Word 2016 Basic Authoring and Testing Guide (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-word-2016-basic-authoring-and-testing-guide-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Word 2016 Basic Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MSWord2016-Printable-Accessiblility-Checklist.docx" target="_blank" class="usa-link--external">Microsoft Word 2016 Printable Accessible Testing (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/msword2016-printable-accessiblility-checklist.docx" target="_blank" class="usa-link--external">Microsoft Word 2016 Printable Accessible Testing (DOCX)</a>
       </li>
     </ul>
   </div>
@@ -64,16 +65,16 @@ Learn how to create accessible word processing documents&mdash;including Microso
   <div id="a2013" class="usa-accordion__content">
     <ul class="usa-list">
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS%20Word%202013%20Baseline%20Test%20Process.docx" target="_blank" class="usa-link--external">Baseline Test Process (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-word-2013-baseline-test-process.docx" target="_blank" class="usa-link--external">Baseline Test Process (DOCX)</a>
       </li>
       <li>
-        <a aria-label="Basic Authoring and Testing Guide document" href="https://assets.section508.gov/assets/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx">Basic Authoring and Testing Guide (DOCX)</a>
+        <a aria-label="Basic Authoring and Testing Guide document" href="https://www.section508.gov/~assets/files/ms-word-2013-basic-authoring-and-testing-guide.docx">Basic Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS%20Word%202013%20Detailed%20CheckList.docx" target="_blank" class="usa-link--external">Detailed Checklist (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-word-2013-detailed-checklist.docx" target="_blank" class="usa-link--external">Detailed Checklist (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS%20Word%202013%20Printable%20Checklist.docx" target="_blank" class="usa-link--external">Printable Checklist (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-word-2013-printable-checklist.docx" target="_blank" class="usa-link--external">Printable Checklist (DOCX)</a>
       </li>
     </ul>
   </div>
@@ -84,13 +85,13 @@ Learn how to create accessible word processing documents&mdash;including Microso
   <div id="a2010" class="usa-accordion__content">
     <ul class="usa-list">
       <li>
-        <a href="https://assets.section508.gov/assets/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Word%202010%20v%201.0%201.29.2015%20FINAL.docx" target="_blank" class="usa-link--external">Basic Authoring and Testing Guide (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/section-508-basic-authoring-and-testing-guide-word-2010-v-1-0-1-29-2015-final.docx" target="_blank" class="usa-link--external">Basic Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Checklist%20v%201.0%201.29.15%20FINAL.docx" target="_blank" class="usa-link--external">Basic Authoring and Testing Checklist (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/section-508-basic-authoring-and-testing-guide-checklist-v-1-0-1-29-15-final.docx" target="_blank" class="usa-link--external">Basic Authoring and Testing Checklist (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/Baseline_Tests_for_Docs_MS_Word_2010_accessibility_v%20%201.0%202.1.2015%20FINAL.docx" target="_blank" class="usa-link--external">Baseline Tests for Accessible Electronic Documents (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/baseline_tests_for_docs_ms_word_2010_accessibility_v-1-0-2-1-2015-final.docx" target="_blank" class="usa-link--external">Baseline Tests for Accessible Electronic Documents (DOCX)</a>
       </li>
     </ul>
   </div>

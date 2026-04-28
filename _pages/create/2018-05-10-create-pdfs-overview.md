@@ -45,8 +45,8 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
   </h3>
   <div id="pdf1" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
-      <li><a href="https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx" target="_blank" class="usa-link--external">PDF Testing and Remediation Guide (DOCX)</a></li>
-      <li><a href="https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx" target="_blank" class="usa-link--external">PDF Testing Checklist (DOCX)</a></li>
+      <li><a href="https://www.section508.gov/~assets/files/pdf-testing-and-remediation-guide-adobe-acrobat-dc-pro-aed-cop.docx" target="_blank" class="usa-link--external">PDF Testing and Remediation Guide (DOCX)</a></li>
+      <li><a href="https://www.section508.gov/~assets/files/pdf-printable-accessiblility-checklist.docx" target="_blank" class="usa-link--external">PDF Testing Checklist (DOCX)</a></li>
     </ul>
   </div>
   <!-- Adobe Acrobat Pro Older Versions Section - Closed by default -->
@@ -55,9 +55,9 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
   </h3>
   <div id="pdf2" class="usa-accordion__content usa-prose" hidden>
     <ul>
-      <li><a href="https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx" target="_blank" class="usa-link--external">PDF Baseline Test Process (DOCX)</a></li>
-      <li><a href="https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx" target="_blank" class="usa-link--external">PDF Detailed Checklist</a></li>
-      <li><a href="https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx" target="_blank" class="usa-link--external">PDF Printable Checklist (DOCX)</a></li>
+      <li><a href="https://www.section508.gov/~assets/files/pdf-baseline-test-process.docx" target="_blank" class="usa-link--external">PDF Baseline Test Process (DOCX)</a></li>
+      <li><a href="https://www.section508.gov/~assets/files/pdf-detailed-508-accessibility-checklist.docx" target="_blank" class="usa-link--external">PDF Detailed Checklist</a></li>
+      <li><a href="https://www.section508.gov/~assets/files/pdf-printable-checklist.docx" target="_blank" class="usa-link--external">PDF Printable Checklist (DOCX)</a></li>
     </ul>
   </div>
 </div>
@@ -99,11 +99,11 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
- [3]: https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx
- [4]: https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx
- [5]: https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
- [6]:https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx
+ [2]: https://www.section508.gov/~assets/files/pdf-testing-and-remediation-guide-adobe-acrobat-dc-pro-aed-cop.docx
+ [3]: https://www.section508.gov/~assets/files/pdf-printable-accessiblility-checklist.docx
+ [4]: https://www.section508.gov/~assets/files/pdf-baseline-test-process.docx
+ [5]: https://www.section508.gov/~assets/files/pdf-detailed-508-accessibility-checklist.docx
+ [6]:https://www.section508.gov/~assets/files/pdf-printable-checklist.docx
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [8]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [9]: {{site.baseurl}}/create

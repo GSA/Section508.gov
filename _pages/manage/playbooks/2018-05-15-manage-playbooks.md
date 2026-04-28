@@ -35,7 +35,7 @@ Guidance to help federal agencies improve management and delivery of accessible 
 ## Executive Guide to IT Accessibility
 Federal CIO and agency executive support for accessible IT is essential to increase compliance with federal policy, and to help agencies deliver an excellent digital customer experience that is accessible to all. 
 
-  * [**Executive Guide to IT Accessibility**]({{site.baseurl}}/manage/playbooks/exec-guide-accessibility) (<a href="https://assets.section508.gov/assets/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks" target="_blank">PDF, 2018</a>)
+  * [**Executive Guide to IT Accessibility**]({{site.baseurl}}/manage/playbooks/exec-guide-accessibility) (<a href="https://www.section508.gov/~assets/files/executive-guide-to-federal-it-accessibility.pdf#overlay-context=tools/playbooks"-target="_blank">PDF,-2018</a>)
   * [Accessibility of ICT: An Overview for Government Executives]({{site.baseurl}}/training/online-course/accessible-for-executives/) - Online Training (15-minutes)
 
 ## Chatbot Accessibility Playbook

@@ -38,7 +38,7 @@ Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <acces
 
 ## On-Demand Webinars
 
-   * <a href="https://assets.section508.gov/assets/files/Trusted%20Tester%20Awareness%20Webinar_0.pptx" target="_blank" class="usa-link--external">Trusted Tester Awareness Webinar</a>- Overview of the purpose, benefits, and components of the Trusted Tester certification program
+   * <a href="https://www.section508.gov/~assets/files/trusted-tester-awareness-webinar_0.pptx" target="_blank" class="usa-link--external">Trusted Tester Awareness Webinar</a>- Overview of the purpose, benefits, and components of the Trusted Tester certification program
 
 ## Related Resources
 

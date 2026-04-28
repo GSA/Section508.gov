@@ -230,7 +230,7 @@ See the other steps in this process:
 Contact your agency’s [Section 508 Coordinator][15] or email us at <section.508@gsa.gov> with questions.
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
-[2]: https://assets.section508.gov/assets/files/508-standards-applicability-checklist.docx
+[2]: https://www.section508.gov/~assets/files/508-standards-applicability-checklist.docx
 [3]: #0
 [4]: #1
 [5]: #2
