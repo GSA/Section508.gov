@@ -1837,7 +1837,7 @@ iaaf_2026:
         time_end: 2026-05-21 12:00:00
         session_id: day1session2
         subtitle: "Scoring and Evaluating Accessibility Conformance Reports based on the VPAT"
-        description: During this presentation, individuals will learn about VPATS, ACRS, and approach to evaluating and assessing risk of ICT using ACRs in the procurement process.
+        description: During this presentation, individuals will learn about VPATS, ACRs, and approaches to evaluating and assessing risk of ICT using ACRs in the procurement process.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: ghoston-ameenah 
