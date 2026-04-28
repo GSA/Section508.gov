@@ -1952,7 +1952,7 @@ iaaf_2026:
           - name: 
             who: andrew-nielson 
           - name: 
-            who: pomeroy-dan
+            who: pomeroy_daniel
       - name: 'General Session'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
