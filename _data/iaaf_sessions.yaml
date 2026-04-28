@@ -1923,48 +1923,59 @@ iaaf_2026:
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
   - day: 2
-    time_start: 2026-05-22 08:30:00 #YYYY-MM-DD HH:MM:SS
+    time_start: 2026-05-22 09:00:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2026-05-22 12:00:00
     sessions: 
       - name: 'Registration (In-person)'
         type: break
-        time_start: 2026-05-22 08:30:00
-        time_end: 2026-05-22 09:00:00
+        time_start: 2026-05-22 09:00:00
+        time_end: 2026-05-22 09:30:00
         session_id: day2registration
       - name: 'Welcome & Opening Remarks'
         type: welcome
-        time_start: 2026-05-22 09:00:00
-        time_end: 2026-05-22 10:00:00
+        time_start: 2026-05-22 09:30:00
+        time_end: 2026-05-22 09:35:00
         session_id: day2welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person
+      - name: 
+        type: 
+        time_start: 2026-05-22 09:35:00
+        time_end: 2026-05-22 10:00:00
+        session_id: day2
+        subtitle: Keys to Successful Executive Engagement
+        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior leadership to secure buy in for Section 508 initiatives.
+        room: 
+        roles:
+          - name: 
+            who: andrew-nielson, pomeroy-dan
       - name: 'General Session'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 11:00:00
         session_id: day2session1
-        subtitle: Acquisitions and Exceptions
-        description: Description?
+        subtitle: Navigating Section 508 Exceptions: Best Practices
+        description: The Federal Acquisition Lifecycle can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle is achieved, maintained, and documented. This presentation includes sharing best practices on navigating and documenting the applicability of Section 508/digital accessibility standards, including determining Section 508 exceptions.
         room:
         roles: 
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: betsy-sirk #bio_id for this person
+            who: sirk-betsy, chong-owen #bio_id for this person
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-22 11:00:00
-        time_end: 2026-05-22 11:00:00
+        time_end: 2026-05-22 11:15:00
         session_id: day2break1
         description:      
       - name: 'General Session'
         type: general
-        time_start: 2026-05-22 11:00:00
-        time_end: 2026-05-22 11:45:00
+        time_start: 2026-05-22 11:15:00
+        time_end: 2026-05-22 11:55:00
         session_id: day2session2
-        subtitle: "Process of Making an Informational Video."
+        subtitle: "Making a Section 508 Informational Video"
         description: Description
         room:
         roles: 
@@ -1975,24 +1986,24 @@ iaaf_2026:
             file_name: #-IAAF%202026.pptx
       - name: 'Closing Remarks - IAAF'
         type: welcome
-        time_start: 2026-05-22 11:45:00
+        time_start: 2026-05-22 11:55:00
         time_end: 2026-05-22 12:00:00
         session_id: day2close1
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
-      - name: 'Special Session Registration&mdash;<em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
+      - name: 'Closed Session Registration&mdash;<em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
         type: break
-        time_start: 2026-05-22 12:30:00
+        time_start: 2026-05-22 12:45:00
         time_end: 2026-05-22 13:00:00
         session_id: day2registration
       - name: 'Closed Session<br>(In-person Only)'
         type: general
         time_start: 2026-05-22 13:00:00 #YYYY-MM-DD HH:MM:SS
-        time_end: 2026-05-22 14:45:00
+        time_end: 2026-05-22 15:00:00
         session_id: day2session1
-        subtitle: Section 508 Program Manager Networking Forum
+        subtitle: Connections That Move Accessibility Forward: Guided Networking for 508 Program Managers
         description: "<p>Creating accessible digital experiences requires more than policies and tools&colon; it requires people, partnerships, and followthrough. This highly interactive networking session is designed specifically for Section 508 Program Managers to make meaningful connections, exchange resources, and leave with clear next steps.</p>
           <p>Facilitated by Amy Nieves of the U.S. Access Board, participants will take part in three guided networking activities focused on sharing successes, expanding nongovernment partnerships, and scheduling real followup conversations. Whether you are new to your role or a longtime program manager, this session is designed to help you strengthen your network and turn conversations into action.</p>
           <p>Come prepared to participate, connect, and leave with new contacts and meetings on your calendar. Participants are highly encouraged to bring at least 5-10 business cards, or copies of agency resources, or &quot;swag&quot; items from their agency such as pens, or other promotional items if available.</p>"
