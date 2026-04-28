@@ -1799,6 +1799,7 @@ iaaf_2026:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person
+          - name: 
             who: pavithran-sachin #bio_id for this person
       - name: 'Keynote'
         type: keynote
@@ -1945,11 +1946,13 @@ iaaf_2026:
         time_end: 2026-05-22 10:00:00
         session_id: day2
         subtitle: Keys to Successful Executive Engagement
-        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior leadership to secure buy in for Section 508 initiatives.
+        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 initiatives.
         room: 
         roles:
           - name: 
-            who: andrew-nielson, pomeroy-dan
+            who: andrew-nielson 
+          - name: 
+            who: pomeroy-dan
       - name: 'General Session'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1959,8 +1962,10 @@ iaaf_2026:
         description: The Federal Acquisition Lifecycle can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle is achieved, maintained, and documented. This presentation includes sharing best practices on navigating and documenting the applicability of Section 508/digital accessibility standards, including determining Section 508 exceptions.
         room:
         roles: 
-          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sirk-betsy, chong-owen #bio_id for this person
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sirk-betsy 
+          - name: 
+            who: chong-owen
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
@@ -1993,7 +1998,7 @@ iaaf_2026:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
-      - name: 'Closed Session Registration&mdash;<em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
+      - name: 'Closed Session Registration<br><em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
         type: break
         time_start: 2026-05-22 12:45:00
         time_end: 2026-05-22 13:00:00
