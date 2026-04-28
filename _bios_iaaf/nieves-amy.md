@@ -1,5 +1,5 @@
 ---
-title: Amy Nieves
+title: Amy Nieves, MHR, AGSD
 bio_id: nieves-amy #needs to be unique among all in _bios_iaaf collection
 display_name: Amy Nieves
 first_name: Amy 
