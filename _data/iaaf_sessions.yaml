@@ -1794,15 +1794,16 @@ iaaf_2026:
       - name: 'Welcome & Opening Remarks'
         type: welcome
         time_start: 2026-05-21 09:00:00
-        time_end: 2026-05-21 09:30:00
+        time_end: 2026-05-21 09:15:00
         session_id: day1welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person
+            who: pavithran-sachin #bio_id for this person
       - name: 'Keynote'
         type: keynote
-        time_start: 2026-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
-        time_end: 2026-05-21 10:00:00
+        time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-21 09:45:00
         session_id: day1keynote1
         subtitle: "Subtitle"
         description: Description.
@@ -1811,11 +1812,11 @@ iaaf_2026:
             who: rachael-montgomery #bio_id for this person 
       - name: 'General Session'
         type: general
-        time_start: 2026-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
-        time_end: 2026-05-21 11:00:00
+        time_start: 2026-05-21 09:45:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-21 10:45:00
         session_id: day1session1
-        subtitle: "Social Media"
-        description: Description.
+        subtitle: "Advancing Accessibility and Engagement on Social Media"
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government, including X, LinkedIn, and Facebook. Attendees will learn how to evaluate and ensure compliance with the Section 508 Standards using elements such as alt text, accessible color contrast, and plain language. Additionally, the presenter will discuss techniques for boosting engagement on social media, particularly for federal communicators who are new to their roles.
         roles: 
           - name: Presenter
             who: okeefe-david #bio_id for this person 
@@ -1824,38 +1825,38 @@ iaaf_2026:
             file_name: #-IAAF%202026.pptx
       - name: 'Break'
         type: break
-        time_start: 2026-05-21 11:00:00
-        time_end: 2026-05-21 11:15:00
+        time_start: 2026-05-21 10:45:00
+        time_end: 2026-05-21 11:00:00
         session_id: day1break1
         description: 
         room: 
       - name: 'General Session'
         type: general
-        time_start: 2026-05-21 11:15:00
-        time_end: 2026-05-21 12:15:00
+        time_start: 2026-05-21 11:00:00
+        time_end: 2026-05-21 12:00:00
         session_id: day1session2
-        subtitle: "Integrating Solicitation Requirements for ACRs"
-        description: Description.
+        subtitle: "Scoring and Evaluating Accessibility Conformance Reports based on the VPAT"
+        description: During this presentation, individuals will learn about VPATS, ACRS, and approach to evaluating and assessing risk of ICT using ACRs in the procurement process.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person 
+            who: ghoston-ameenah 
         downloads:
         - link_name: #-IAAF 2026 (PPTX) 
           file_name: #-IAAF%202026.pptx
       - name: 'Lunch'
         type: break
-        time_start: 2026-05-21 12:15:00
-        time_end: 2026-05-21 13:15:00
+        time_start: 2026-05-21 12:00:00
+        time_end: 2026-05-21 13:00:00
         session_id: day1break2
         description: 
         room: 
       - name: 'General Session'
         type: general
-        time_start: 2026-05-21 13:15:00
+        time_start: 2026-05-21 13:00:00
         time_end: 2026-05-21 14:00:00
         session_id: day1session3
-        subtitle: "Best Practices for Supporting Documentation for Section 508 Formal Complaints"
-        description: 
+        subtitle: "Tracking and Managing Section 508 Informal Complaints"
+        description: During this presentation, individuals will learn the importance of tracking digital accessibility issues and complaints, and an approach for leveraging critical processes.
         room:
         roles: 
           - name: Presenter
@@ -1868,7 +1869,7 @@ iaaf_2026:
         time_start: 2026-05-21 14:00:00
         time_end: 2026-05-21 15:00:00
         session_id: day1session4
-        subtitle: Department of the Interior (DOI) Video Player
+        subtitle: The NPS.gov Media Player and Media Workflow: An Accessible Option for All Government
         description: description.
         room:
         roles: 
