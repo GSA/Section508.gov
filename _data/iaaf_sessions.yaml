@@ -1989,7 +1989,7 @@ iaaf_2026:
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
-      - name: 'Closing Remarks - IAAF'
+      - name: 'IAAF Closing Remarks'
         type: welcome
         time_start: 2026-05-22 11:55:00
         time_end: 2026-05-22 12:00:00
