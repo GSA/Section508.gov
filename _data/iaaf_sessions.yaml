@@ -1807,7 +1807,7 @@ iaaf_2026:
         time_end: 2026-05-21 09:45:00
         session_id: day1keynote1
         subtitle: "Keynote Address"
-        description: Description.
+        description: 
         roles: 
           - name: Presenter
             who: rachael-montgomery #bio_id for this person 
@@ -1871,7 +1871,7 @@ iaaf_2026:
         time_end: 2026-05-21 15:00:00
         session_id: day1session4
         subtitle: "The NPS.gov Media Player and Media Workflow: An Accessible Option for All Government"
-        description: description.
+        description: 
         room:
         roles: 
           - name: Presenters
@@ -1892,7 +1892,7 @@ iaaf_2026:
         time_end: 2026-05-21 16:00:00
         session_id: day1session5
         subtitle: Change Management
-        description: description.
+        description: 
         room:
         roles: 
           - name: Presenters
@@ -1981,7 +1981,7 @@ iaaf_2026:
         time_end: 2026-05-22 11:55:00
         session_id: day2session2
         subtitle: "Making a Section 508 Informational Video"
-        description: Description
+        description: 
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
