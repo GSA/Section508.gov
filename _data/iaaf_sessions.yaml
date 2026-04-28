@@ -1806,7 +1806,7 @@ iaaf_2026:
         time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-21 09:45:00
         session_id: day1keynote1
-        subtitle: "Subtitle"
+        subtitle: "Keynote Address"
         description: Description.
         roles: 
           - name: Presenter
