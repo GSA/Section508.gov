@@ -4,7 +4,7 @@ bio_id: sachin-pavithran
 display_name: Dr. Sachin Dev Pavithran
 first_name: Sachin
 last_name: Pavithran
-affiliation_long: U.S. Access Board
+affiliation_long: United States Access Board
 affiliation_short: USAB
 position: Executive Director, Office of Executive Director
 office: 
