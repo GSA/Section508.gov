@@ -1870,7 +1870,7 @@ iaaf_2026:
         time_start: 2026-05-21 14:00:00
         time_end: 2026-05-21 15:00:00
         session_id: day1session4
-        subtitle: The NPS.gov Media Player and Media Workflow: An Accessible Option for All Government
+        subtitle: "The NPS.gov Media Player and Media Workflow: An Accessible Option for All Government"
         description: description.
         room:
         roles: 
@@ -1958,7 +1958,7 @@ iaaf_2026:
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 11:00:00
         session_id: day2session1
-        subtitle: Navigating Section 508 Exceptions: Best Practices
+        subtitle: "Navigating Section 508 Exceptions: Best Practices"
         description: The Federal Acquisition Lifecycle can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle is achieved, maintained, and documented. This presentation includes sharing best practices on navigating and documenting the applicability of Section 508/digital accessibility standards, including determining Section 508 exceptions.
         room:
         roles: 
@@ -2008,7 +2008,7 @@ iaaf_2026:
         time_start: 2026-05-22 13:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 15:00:00
         session_id: day2session1
-        subtitle: Connections That Move Accessibility Forward: Guided Networking for 508 Program Managers
+        subtitle: "Connections That Move Accessibility Forward: Guided Networking for 508 Program Managers"
         description: "<p>Creating accessible digital experiences requires more than policies and tools&colon; it requires people, partnerships, and followthrough. This highly interactive networking session is designed specifically for Section 508 Program Managers to make meaningful connections, exchange resources, and leave with clear next steps.</p>
           <p>Facilitated by Amy Nieves of the U.S. Access Board, participants will take part in three guided networking activities focused on sharing successes, expanding nongovernment partnerships, and scheduling real followup conversations. Whether you are new to your role or a longtime program manager, this session is designed to help you strengthen your network and turn conversations into action.</p>
           <p>Come prepared to participate, connect, and leave with new contacts and meetings on your calendar. Participants are highly encouraged to bring at least 5-10 business cards, or copies of agency resources, or &quot;swag&quot; items from their agency such as pens, or other promotional items if available.</p>"
