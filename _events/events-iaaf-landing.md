@@ -89,6 +89,7 @@ For more details on the two-day event or to download presentations, visit the <a
 
 ## How to Register
 The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-person in the U.S. General Services Administration building.
+* Review <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">session details</a> before registering.
 * Review the registration options carefully, then sign up for the sessions you plan to attend.
 * You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.
 * NOTICE: Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.
@@ -152,12 +153,6 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
       <li><strong>Founding Farmers</strong> - 1924 Pennsylvania Ave NW #3607, Washington, DC 20006</li>
       <li><strong>GCDC Grilled Cheese Bar</strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
       <li><strong>Greenberry&#39;s Coffee</strong> - 1805 E St NW, Washington, DC 20006</li>
-      <li><strong>GSA in-building delivery options:</strong>
-        <ul>
-          <li><strong><a href="" target="_blank" class="usa-link--external">Fooda</a></strong>&mdash;available Thursday only</li>
-          <li><strong><a href="" target="_blank" class="usa-link--external">Picnic</a></strong>&mdash;available Thursday only</li>
-        </ul>
-      </li>
       <li><strong>McDonald's</strong> - 750 17th St NW, Washington, DC 20006</li>
       <li><strong>Met Cafe</strong> - 1750 New York Ave NW, Washington, DC 20006</li>
       <li><strong>Panera Bread</strong> - 1750 H St NW Suite G1, Washington, DC 20006</li>
