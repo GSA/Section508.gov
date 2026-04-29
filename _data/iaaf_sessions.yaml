@@ -1800,7 +1800,7 @@ iaaf_2026:
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person
           - name: 
-            who: pavithran-sachin #bio_id for this person
+            who: sachin-pavithran #bio_id for this person
       - name: 'Keynote'
         type: keynote
         time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
@@ -1952,7 +1952,7 @@ iaaf_2026:
           - name: 
             who: andrew-nielson 
           - name: 
-            who: pomeroy_daniel
+            who: daniel-pomeroy
       - name: 'General Session'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1963,7 +1963,7 @@ iaaf_2026:
         room:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sirk-betsy 
+            who: betsy-sirk 
           - name: 
             who: chong-owen
         downloads:

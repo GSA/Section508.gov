@@ -1,6 +1,6 @@
 ---
 title: Owen Chong
-bio_id: owen-chong
+bio_id: chong-owen
 display_name: Owen Chong
 first_name: Owen
 last_name: Chong
