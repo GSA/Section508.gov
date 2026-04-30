@@ -92,7 +92,7 @@ The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-pe
 * Review <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">session details</a> before registering.
 * Review the registration options carefully, then sign up for the sessions you plan to attend.
 * You may combine virtual attendance on one day with in-person attendance on another, but you must register for both separately.
-* NOTICE: Members of the press must self-identify during the registration process and are required to notify press@gsa.gov via email to participate.
+* NOTICE: Members of the press must self-identify during the registration process and are required to notify the Office of Strategic Communication at press@gsa.gov.
 
 ### Virtual Attendance
 Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.<br>
