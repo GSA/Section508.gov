@@ -119,7 +119,7 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
 ## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   <h3 class="usa-accordion__heading">
-    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-access"
+    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="m-access"
     >Accessing the GSA Headquarters Building</button>
   </h3>
   <div id="m-access" class="usa-accordion__content">
@@ -156,7 +156,21 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
   <div id="m-b0" class="usa-accordion__content">
     <p>American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.</p>
     <p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
-  </div> 
+  </div>
+  <h3 class="usa-accordion__heading">
+    <button id="check-your-tech" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b3"
+    >Check Your Tech</button>
+  </h3>
+  <div id="m-b3" class="usa-accordion__content">
+    <p>The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). </p>
+    <p>We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:</p>
+    <ul>
+      <li><a href="https://support.zoom.com/hc/en/getting-started-with-webinars?id=zoom_webinars_guide" target="_blank" class="usa-link--external">Getting started with Zoom Webinar</a></li>
+      <li><a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a></li>
+      <li><a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a></li>
+      <li><a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a></li>
+    </ul>
+  </div>
   <h3 class="usa-accordion__heading">
     <button id="refreshments" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
     >Food and Refreshments</button>
@@ -187,20 +201,6 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
       <li><strong><a href="https://restaurants.subway.com/united-states/dc/washington/1959-e-st-nwspace-cgeorge-washington-university?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=28941&utm_campaign=evergreen-2020</a></strong> - 1959 E St NW, Washington, DC (George Washington University)</li>
       <li><strong><a href="https://www.theexchangesaloon.com/" target="_blank" class="usa-link--enternal">The Exchange Saloon</a></strong> - 1719 G St NW, Washington, DC 20006</li>
       <li><strong><a href="https://www.tonicrestaurantdc.com/" target="_blank" class="usa-link--enternal">Tonic at Quigley's</a></strong> - 2036 G St NW, Washington, DC 20036</li>
-    </ul>
-  </div>
-  <h3 class="usa-accordion__heading">
-    <button id="check-your-tech" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b3"
-    >Check Your Tech</button>
-  </h3>
-  <div id="m-b3" class="usa-accordion__content">
-    <p>The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). </p>
-    <p>We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:</p>
-    <ul>
-      <li><a href="https://support.zoom.com/hc/en/getting-started-with-webinars?id=zoom_webinars_guide" target="_blank" class="usa-link--external">Getting started with Zoom Webinar</a></li>
-      <li><a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a></li>
-      <li><a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a></li>
-      <li><a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a></li>
     </ul>
   </div>
 </div>
