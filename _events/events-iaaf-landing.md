@@ -145,22 +145,29 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
   <div id="m-b2" class="usa-accordion__content">
     <p>Attendees are responsible for their own lunch. A variety of dining options are available within or near the GSA Headquarters Building, including:</p>
     <ul>
-      <li><strong>An Uncommon Cafe</strong> - 1800 G St NW, Washington, DC 20006</li>
-      <li><strong>Cafe Aria</strong> - 1917 F St NW, Washington, DC 20006</li>
-      <li><strong>Carvings</strong> - 2021 F St NW, Washington, DC 20006</li>
-      <li><strong>Chopt Creative Salad Co.</strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
-      <li><strong>Devon and Blakely</strong> - 1776 G St NW, Washington, DC 20036</li>
-      <li><strong>Founding Farmers</strong> - 1924 Pennsylvania Ave NW #3607, Washington, DC 20006</li>
-      <li><strong>GCDC Grilled Cheese Bar</strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
-      <li><strong>Greenberry&#39;s Coffee</strong> - 1805 E St NW, Washington, DC 20006</li>
-      <li><strong>McDonald's</strong> - 750 17th St NW, Washington, DC 20006</li>
-      <li><strong>Met Cafe</strong> - 1750 New York Ave NW, Washington, DC 20006</li>
-      <li><strong>Panera Bread</strong> - 1750 H St NW Suite G1, Washington, DC 20006</li>
-      <li><strong>Potbelly</strong> - 1701 Pennsylvania Ave NW, Washington, DC 20006</li>
-      <li><strong>Roti Mediterranean Bowls. Salads. Pitas.</strong> - 1747 Pennsylvania Ave NW, Washington, DC 20006</li>
-      <li><strong>Starbucks Coffee</strong> - 1959 E St NW Space C, Washington, DC 20052</li>
-      <li><strong>The Exchange Saloon</strong> - 1719 G St NW, Washington, DC 20006</li>
-      <li><strong>Tonic at Quigley's</strong> - 2036 G St NW, Washington, DC 20036</li>
+      <li><strong><a href="https://www.yelp.com/biz/an-uncommon-cafe-washington-2?dd_referrer=https%3A%2F%2Fwww.google.com%2F" target="_blank" class="usa-link--enternal">An Uncommon Cafe</a></strong> - 1800 G St NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.yelp.com/biz/cafe-aria-washington" target="_blank" class="usa-link--enternal">Cafe Aria</a></strong> - 1917 F St NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.carvingsdc.com/location" target="_blank" class="usa-link--enternal">Carvings</a></strong> - 2021 F St NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.choptsalad.com/location/1730-penn" target="_blank" class="usa-link--enternal">Chopt Creative Salad Co.</a></strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.devonandblakely.com/" target="_blank" class="usa-link--enternal">Devon and Blakely</a></strong> - 1776 G St NW, Washington, DC 20036</li>
+      <li><strong><a href="https://www.wearefoundingfarmers.com/location/dc/" target="_blank" class="usa-link--enternal">Founding Farmers</a></strong> - 1924 Pennsylvania Ave NW #3607, Washington, DC 20006</li>
+      <li><strong><a href="https://dc.eater.com/venue/44000/gcdc-grilled-cheese-bar" target="_blank" class="usa-link--enternal">GCDC Grilled Cheese Bar</a></strong> - 1730 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong><a href="https://greenberrys.com/visit/e-st-nw-washington-dc/" target="_blank" class="usa-link--enternal">Greenberry&#39;s Coffee</a></strong> - 1805 E St NW, Washington, DC 20006</li>
+       <li><strong>GSA in-building delivery options:</strong>
+        <ul>
+          <li><strong><a href="https://www.fooda.com/gsa" target="_blank" class="usa-link--external">Fooda</a></strong>&mdash;available Thursday only</li>
+          <li><strong><a href="https://trypicnic.com/locations/gsa" target="_blank" class="usa-link--external">Picnic</a></strong>&mdash;Order by 10:40am and receive lunch between 11:40-12:10</li>
+        </ul>
+      </li>
+      <li><strong><a href="https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/750-17TH-ST-NW/10382.html?cid=RF:YXT:GMB::Clicks" target="_blank" class="usa-link--enternal">McDonald's</a></strong> - 750 17th St NW, Washington, DC 20006</li>
+      <li><strong><a href="http://www.metcafethevenue.com/" target="_blank" class="usa-link--enternal">Met Cafe</a></strong> - 1750 New York Ave NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.panerabread.com/en-us/cafe/locations/" target="_blank" class="usa-link--enternal">Panera Bread</a></strong> - 1750 H St NW Suite G1, Washington, DC 20006</li>
+      <li><strong><a href="https://www.potbelly.com/locations/washington-dc/17th-penn" target="_blank" class="usa-link--enternal">Potbelly</a></strong> - 1701 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong><a href="https://roti.com/" target="_blank" class="usa-link--enternal">Roti Mediterranean Bowls. Salads. Pitas.</a></strong> - 1747 Pennsylvania Ave NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.starbucks.com/store-locator?map=38.891865,-77.04701,13z&place=1959%20e%20st%20nw" target="_blank" class="usa-link--enternal">Starbucks Coffee</a></strong> - 1959 E St NW Space C, Washington, DC 20052</li>
+      <li><strong><a href="https://restaurants.subway.com/united-states/dc/washington/1959-e-st-nwspace-cgeorge-washington-university?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=28941&utm_campaign=evergreen-2020</a></strong> - 1959 E St NW, Washington, DC (George Washington University)</li>
+      <li><strong><a href="https://www.theexchangesaloon.com/" target="_blank" class="usa-link--enternal">The Exchange Saloon</a></strong> - 1719 G St NW, Washington, DC 20006</li>
+      <li><strong><a href="https://www.tonicrestaurantdc.com/" target="_blank" class="usa-link--enternal">Tonic at Quigley's</a></strong> - 2036 G St NW, Washington, DC 20036</li>
     </ul>
   </div>
   <h2 class="usa-accordion__heading">
