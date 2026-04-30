@@ -146,7 +146,7 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
     <p>Key Transportation Options:<br>
     <ul>
       <li><strong>Metro:</strong> The most efficient option is WMATA rail service. Use the WMATA trip planner to reach Foggy Bottom–GWU or Farragut West stations (Blue, Orange, and Silver lines).</li>
-      <li><strong>Parking:</strong> Street parking is limited. Paid garages are available in the surrounding area with the closest option located at 1800 G St NW.</li>
+      <li><strong>Parking:</strong> Street parking is limited. Several <a href="https://www.bestparking.com/destination/1800-F-Street-Northwest-Washington-DC/?lat=38.897203071571425&lng=-77.04262280657429">local public parking garages</a> are available, with the closest options located at 660 18th St. NW, and 521 19th St. NW.</li>
     </ul></p>
   </div>
   <h3 class="usa-accordion__heading">
