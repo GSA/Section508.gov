@@ -119,13 +119,24 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
 ## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   <h3 class="usa-accordion__heading">
-    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b0"
-    >Accessibility Accommodations and Services</button>
+    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-access"
+    >Accessing the GSA Headquarters Building</button>
   </h3>
-  <div id="m-b0" class="usa-accordion__content">
-    <p>American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.</p>
-    <p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
-  </div> 
+  <div id="m-access" class="usa-accordion__content">
+    <p>Federal employees or contractors with an HSPD-12 PIV card enrolled in the access system</p>
+    <ul>
+      <li>Present your HSPD-12 PIV card at the turnstile or courtyard entrance to gain access.</li>
+    </ul>
+    <p>Visitor procedures</p>
+    <ul>
+      <li>Enter the building at E Street or F Street entrance.</li>
+      <li>Be prepared to show your REAL-ID compliant government-issued ID.</li>
+      <li>Approach the screening area and follow the instructions of the protective security officer present.</li>
+      <li>Proceed with security procedures, the magnetometer screening, and collect all belongings.</li>
+      <li>Visitors will be given a visitor&#39;s badge to wear at all times while at the building.</li>
+      <li>Visitors are required to be escorted.</li>
+    </ul>
+  </div>
   <h3 class="usa-accordion__heading">
     <button id="travel" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b1"
     >Traveling to GSA Headquaters Building</button>
@@ -135,13 +146,21 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
     <p>Key Transportation Options:<br>
     <ul>
       <li><strong>Metro:</strong> The most efficient option is WMATA rail service. Use the WMATA trip planner to reach Foggy Bottom–GWU or Farragut West stations (Blue, Orange, and Silver lines).</li>
-      <li><strong>Parking:</strong> Street parking is limited. Paid garages are available along 18th Street NW and Pennsylvania Avenue NW, with the closest option located at 1800 G St NW.</li>
+      <li><strong>Parking:</strong> Street parking is limited. Paid garages are available in the surrounding area with the closest option located at 1800 G St NW.</li>
     </ul></p>
   </div>
-  <h2 class="usa-accordion__heading">
+  <h3 class="usa-accordion__heading">
+    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b0"
+    >Accessibility Accommodations and Services</button>
+  </h3>
+  <div id="m-b0" class="usa-accordion__content">
+    <p>American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.</p>
+    <p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
+  </div> 
+  <h3 class="usa-accordion__heading">
     <button id="refreshments" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b2"
     >Food and Refreshments</button>
-  </h2>
+  </h3>
   <div id="m-b2" class="usa-accordion__content">
     <p>Attendees are responsible for their own lunch. A variety of dining options are available within or near the GSA Headquarters Building, including:</p>
     <ul>
@@ -170,10 +189,10 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
       <li><strong><a href="https://www.tonicrestaurantdc.com/" target="_blank" class="usa-link--enternal">Tonic at Quigley's</a></strong> - 2036 G St NW, Washington, DC 20036</li>
     </ul>
   </div>
-  <h2 class="usa-accordion__heading">
+  <h3 class="usa-accordion__heading">
     <button id="check-your-tech" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-b3"
     >Check Your Tech</button>
-  </h2>
+  </h3>
   <div id="m-b3" class="usa-accordion__content">
     <p>The 2026 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). </p>
     <p>We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:</p>
