@@ -123,11 +123,11 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
     >Accessing the GSA Headquarters Building</button>
   </h3>
   <div id="m-access" class="usa-accordion__content">
-    <p>Federal employees or contractors with an HSPD-12 PIV card enrolled in the access system</p>
+    <p><strong>Federal employees or contractors with an HSPD-12 PIV card enrolled in the access system</strong></p>
     <ul>
       <li>Present your HSPD-12 PIV card at the turnstile or courtyard entrance to gain access.</li>
     </ul>
-    <p>Visitor procedures</p>
+    <p><strong>Visitor procedures</strong></p>
     <ul>
       <li>Enter the building at E Street or F Street entrance.</li>
       <li>Be prepared to show your REAL-ID compliant government-issued ID.</li>
