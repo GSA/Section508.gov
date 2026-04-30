@@ -7,18 +7,18 @@ permalink: manage/developing-a-business-case-for-a-section-508-program/
 description: Learn how to apply business and operations management principles to your Section 508 team in order to develop and employ a convincing business case for a Section 508 Program.
 disclaimer: true
 audience: 
-- 508-pm
-- agency-head
-- cio
-- mgr-exec
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- Executive Leadership (CXO)
 topic: 
-- manage
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage a 508 Program
 resource_type: 
 - article
-format: html
+format: HTML
 created: 2026-03-24
 updated: 2026-04-02
 ---
