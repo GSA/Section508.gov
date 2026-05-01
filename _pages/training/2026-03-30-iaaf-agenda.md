@@ -1,26 +1,34 @@
 ---
-layout: wide
+layout: page
 sidenav: false
-type: page
+type: training
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2026
 permalink: iaaf/archives/agenda-2026/
-redirect_from: iaaf/agenda-2026/
 description: View the agenda for the 2026 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
-audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
-resource-type: "Training"
-format: "HTML (html)"
+redirect_from: 
+- iaaf/agenda-2026/
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+- Section 508 Testers
+- Web Content Managers
+topic: 
+- Events
+- Training
+subtopic: 
+- Best Practices
+- Training
+resource-type: 
+- Training
+format: HTML
 created: 2026-04-01
-
+updated: 
+featured: true
 ---
+
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
