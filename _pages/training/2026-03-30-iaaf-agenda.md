@@ -1,34 +1,42 @@
 ---
 layout: wide
 sidenav: false
-type: page
-title: Interagency Accessibility Forum (IAAF) Event Agenda - 2024
-permalink: iaaf/archives/agenda-2024/
-description: View the agenda for the 2024 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
-redirect_from: iaaf/agenda-2024/
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Content Creators"
-- "Developers"
-topic: "Events"
-sub-topic: "Guidance"
-resource-type: "Training"
-format: "HTML"
-created: 2024-09-23
-updated: 2025-05-06
+type: training
+title: Interagency Accessibility Forum (IAAF) Event Agenda - 2026
+permalink: iaaf/archives/agenda-2026/
+description: View the agenda for the 2026 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
+redirect_from: 
+- iaaf/agenda-2026/
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+- Section 508 Testers
+- Web Content Managers
+topic: 
+- Events
+- Training
+subtopic: 
+- Best Practices
+- Training
+resource-type: 
+- Training
+format: HTML
+created: 2026-04-01
+updated: 
+featured: true
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
-  <b><span class="text-large">PROGRAM</span> Day 1/Wednesday, November 13th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Thursday, November 14th</a></b>
+  <b><span class="text-large">PROGRAM:</span> Day 1/Thursday, May 21st | <a href="#day2" title="Skip to Day 2 Program">Day 2/Friday, May 22nd</a></b>
 </div>
 
-{% for day in site.data.iaaf_sessions.iaaf_2024 %}
+{% for day in site.data.iaaf_sessions.iaaf_2026 %}
   <!-- BEGIN DAY {{ day.day }} -->
   <h2 class="font-body-lg" id="day{{ day.day }}">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
   
@@ -68,7 +76,7 @@ updated: 2025-05-06
                       {% for bio in site.bios_iaaf %}
                         {% if bio.bio_id == bio_id %}
                         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2024#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
+                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
                         </div>
                         {% endif %}
                       {% endfor %}
@@ -81,7 +89,7 @@ updated: 2025-05-06
                     </div>
                     {% for download in track.downloads %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2024/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                        <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                       </div>
                     {% endfor %}
                   {% endif %}
@@ -114,7 +122,7 @@ updated: 2025-05-06
                     {% for bio in site.bios_iaaf %}
                       {% if bio.bio_id == bio_id %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2024#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
                       </div>
                       {% endif %}
                     {% endfor %}
@@ -127,7 +135,7 @@ updated: 2025-05-06
                   </div>
                   {% for download in track.downloads %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2024/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                     </div>
                   {% endfor %}
                 {% endif %}
@@ -152,7 +160,7 @@ updated: 2025-05-06
                   {% for bio in site.bios_iaaf %}
                     {% if bio.bio_id == bio_id %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2024#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
                     </div>
                     {% endif %}
                   {% endfor %}
@@ -166,7 +174,7 @@ updated: 2025-05-06
                 </div>
                 {% for download in session.downloads %}
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2024/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                    <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                   </div>
                 {% endfor %}
               {% endif %}

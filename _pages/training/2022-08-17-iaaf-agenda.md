@@ -31,7 +31,7 @@ updated: 2025-05-06
   <!-- BEGIN DAY {{ day.day }} -->
   <h2 class="font-body-lg" id="day{{ day.day }}">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
   
-  <div class="usa-graphic-list__row container">
+  <div class="usa-graphic-list__row container margin-bottom-6">
     <!-- START AGENDA -->
     {% for session in day.sessions %}
     {% if session.type == "welcome" %}{% assign session-class = "navy" %}{% assign descr-class = "ltblue" %}{% endif %}
@@ -192,9 +192,17 @@ updated: 2025-05-06
 <li><strong><a href='https://youtube.com/channel/UCrbfJznG_DvUZojfyMAgB5Q'>Talking Eye Productions</a></strong>: Turnkey Audio description writing, recording, and post-production for videos for accessibility for the visually impaired. For more information, contact: <a href='mailto:PattiWong12@gmail.com'>Patti Wong</a>.</li>
 <li><strong><a href='https://www.tpgi.com'>TPG Interactive</a></strong> (Find in GSA, SEWP, ITES): TPGi is a full-spectrum accessibility solutions provider. We offer a variety of software products and services intended to support enterprise organizations with their accessibility needs or programs. For more information, contact: <a href='mailto:tbrown@tpgi.com'>Travis Brown</a>.</li>
 </ul>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <p class="text-large"><strong>Thank you</strong></p>
-    <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
-  </div>
+
+{% comment %}
+Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
+{% endcomment %}
+<div class="margin-y-105">   
+{% unless page.hide-date == true %}
+    {% if page.updated %}
+        {% assign input_date = page.updated %}
+    {% else %}
+        {% assign input_date = page.created %}
+    {% endif %} 
+<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
+{% endunless %}
 </div>
