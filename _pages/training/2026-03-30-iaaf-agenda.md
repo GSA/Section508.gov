@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 sidenav: false
 type: training
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2026
