@@ -8,19 +8,19 @@ description: Learn how to think through the different aspects of ICT accessibili
 custom-script: accordion-management.js
 disclaimer: 
 audience: 
-- 508-pm
-- agency-head
-- cio
-- it-prog-proj-mgr
-- mgr-exec
+- Section 508 Program Managers
+- Agency Heads
+- Chief Information Officers (CIO)
+- IT Program & Project Managers
+- Executive Leadership (CXO)
 topic: 
-- manage
+- Manage
 subtopic: 
 - General Info and Best Practices
 - Manage a 508 Program
 resource_type: 
 - article
-format: html
+format: HTML
 created: 2026-03-24
 updated: 2026-04-01
 ---
@@ -310,6 +310,5 @@ This guide identifies categories of costs agencies should consider. It does not 
 </table>  
   </div>
 </div>
-
 
 

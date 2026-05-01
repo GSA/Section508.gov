@@ -29,7 +29,7 @@ redirect_from:
 - /training/create/making-color-usage-accessible/
 format: HTML
 created: 2025-08-07
-updated: 2026-03-03
+updated: 2026-04-14
 exclude-changelog: true
 ---
 In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.
@@ -218,8 +218,9 @@ In this revised example, the answer key indicates the correct answer both by mar
 
 ### Using Color: Links
 Color must not be the only way you convey that a piece of text functions as a link. The commonly accepted best practice is to format your link with an underline and a different text color.
-Inaccessible example: Section 508 website
-Accessible example: Section 508 website
+
+* **Inaccessible example:** <a href="https://www.section508.gov" style="text-decoration:none;">Section 508 website</a>
+* **Accessible example:** <a href="https://www.sectsion508.gov">Section 508 website</a>
 
 ### Using Color: Forms, Buttons, and Interactive Elements
 All forms, buttons, and interactive elements must not require the user to be able to perceive or distinguish between colors.

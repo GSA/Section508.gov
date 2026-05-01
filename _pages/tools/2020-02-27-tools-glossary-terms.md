@@ -21,7 +21,7 @@ audience:
 resource-type: "Tool"
 format: "HTML"
 created: 2020-02-27
-updated: 2026-03-31
+updated: 2026-04-15
 exclude-changelog: true
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
@@ -52,11 +52,11 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
-    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
+    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
     <th scope="row" id="acceptance-criteria">Acceptance Criteria</th>
-    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
   </tr>
   <tr>
     <th scope="row" id="accessibility-implementation">Accessibility Implementation</th>

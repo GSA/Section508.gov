@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: acquisition
 title: 'Accessibility In Procurement II: Solicitation & Post-Solicitation'
-permalink: buy/accessibility-in-procurement-pre-solicitation-2/
+permalink: buy/accessibility-in-procurement-solicitation-post-2/
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-solicitation activities. 
 contributors: proctor, gsatts
 audience:
@@ -17,6 +17,8 @@ resource-type: "Process & How-To"
 format: "HTML"
 created: 2023-09-25 
 updated: 2026-03-31
+redirect_from:
+- buy/accessibility-in-procurement-pre-solicitation-2/
 ---
 
 ## Requests for Quotes (RFQs)/Request for Proposals (RFPs) - “Solicitations”
@@ -72,7 +74,7 @@ This phase is one that may be overlooked, especially in terms of Accessibility. 
 ## Contractor Performance Assessment Report System (CPARS)
 Since Accessibility is a requirement for the product, it is important to include this as a performance factor in CPARS and other means of past performance tracking.
 
-The Contracting Officer’s Representative (COR) should follow the [Quality Assurance Surveillance Plan (QASP)]({{site.baseurl}}/acquisition/buy/integrate-section-508-in-qasps/) provided by the Government or the Quality Control Plan (QCP) provided by the contractor. Either is sufficient, depending on what the Acquisition Planning team determined at the beginning of the process.
+The Contracting Officer’s Representative (COR) should follow the [Quality Assurance Surveillance Plan (QASP)]({{site.baseurl}}/buy/integrate-section-508-in-qasps/) provided by the Government or the Quality Control Plan (QCP) provided by the contractor. Either is sufficient, depending on what the Acquisition Planning team determined at the beginning of the process.
 
 Acceptable Quality Levels (AQLs) are included in the relevant Quality Plan. What does success look like for Accessibility? How often will the COR do spot checks on the product? What are the incentives or considerations for products that exceed expectations or are broken?
 

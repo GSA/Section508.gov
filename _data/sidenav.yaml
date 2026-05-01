@@ -509,6 +509,8 @@ test:
         url: 'test/conformance-of-prototypes-and-pilots/'
       - name: Essential Elements of an Accessibility Test Report
         url: 'test/elements-of-an-accessibility-test-report/'
+      - name: ICT Accessibility Testing in the Development Process
+        url:  test/ict-testing-activities-by-lifecycle-phase/
       - name: Remediation and Accommodation Planning
         url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
@@ -567,7 +569,7 @@ acquisition:
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
       - name: Including Section 508 in Quality Assurance Surveillance Plans
-        url: '/acquisition/buy/integrate-section-508-in-qasps/' 
+        url: 'buy/integrate-section-508-in-qasps/' 
       - name: Understanding Section 508 Exceptions
         url: 'buy/understanding-section-508-exceptions/'
       - name: Section 508 Standards and Exceptions Chart & Examples
@@ -599,7 +601,7 @@ acquisition:
           - name: "Accessibility In Procurement I: Pre-Soliciation"
             url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
           - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
+            url: 'buy/accessibility-in-procurement-solicitation-post-2/'         
   - name: Sell
     url: '#'
     children:
