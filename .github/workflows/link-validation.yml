@@ -1,0 +1,45 @@
+name: Link Validation
+
+on:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      online_validation:
+        description: "Check external links in addition to local links"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+          cache: npm
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Validate local links
+        if: ${{ github.event_name != 'workflow_dispatch' || !inputs.online_validation }}
+        run: npm run check:links:pr
+
+      - name: Validate all links
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.online_validation }}
+        run: npm run check:links:online
