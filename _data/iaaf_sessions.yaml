@@ -1981,13 +1981,11 @@ iaaf_2026:
         time_end: 2026-05-22 11:55:00
         session_id: day2session2
         subtitle: "From Inaccessible to Compliant: FTA's Video Accessibility Remediation Demo"
-        description: "<p>Making Information and Communications Technology (ICT) accessible is a core requirement of Section 508, yet ensuring video content meets compliance standards remains a significant challenge for many federal agencies. In this practical, insight-driven session, the Federal Transit Administration (FTA) Section 508 Compliance Officer, Kimberly Castillo, and video production expert, Mike Gower, will share and demonstrate the detailed, hands-on process FTA implemented to remediate their informational videos for full Section 508 conformance."
+        description: Making Information and Communications Technology (ICT) accessible is a core requirement of Section 508, yet ensuring video content meets compliance standards remains a significant challenge for many federal agencies. In this practical, insight-driven session, the Federal Transit Administration (FTA) Section 508 Compliance Officer, Kimberly Castillo, and video production expert, Mike Gower, will share and demonstrate the detailed, hands-on process FTA implemented to remediate their informational videos for full Section 508 conformance.
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: castillo-kimberly #bio_id for this person
-          - name: 
-            who: gower-mike
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
