@@ -96,16 +96,16 @@ The 2026 IAAF is a hybrid event with two ways you can attend: virtually or in-pe
 
 ### Virtual Attendance
 Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.<br>
-<a href="https://gsa.zoomgov.com/webinar/register/WN_4H6k3VB4SeeUJzuu7EhxaQ" class="usa-button margin-top-2" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
+<a href="https://gsa.zoomgov.com/webinar/register/WN_4H6k3VB4SeeUJzuu7EhxaQ" target="_blank" class="usa-button margin-top-2" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
 
 ### In-Person Attendance 
 #### General Sessions
 Join us in person for the 2026 IAAF at the GSA Headquarters Building for engaging sessions on federal digital accessibility; please note that registration does not guarantee entry, as seating is limited and offered on a first-come, first-served basis, and while you are welcome to attend both days, you must register for each day separately.
 
 <p><strong>Thursday, May 21 - 8:30am - 5:00pm</strong>&mdash;Open to all attendees. Capacity limit 200.<br>
-<a href="https://gsa.zoomgov.com/webinar/register/WN_gCL90agbQ5m2_SxeYSl8VQ" class="usa-button" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a></p>
+<a href="https://gsa.zoomgov.com/webinar/register/WN_gCL90agbQ5m2_SxeYSl8VQ" target="_blank" class="usa-button" rel="noopener noreferrer">Register: Thursday, May 21 General Sessions (In-person)</a></p>
 <p><strong>Friday, May 22 - 8:30am - 12:00pm</strong>&mdash;Open to all attendees. Capacity limit 200.<br>
-<a href="https://gsa.zoomgov.com/webinar/register/WN_CS3a7ljnS0O7XGVunApFTg" class="usa-button margin-bottom-2" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a></p> 
+<a href="https://gsa.zoomgov.com/webinar/register/WN_CS3a7ljnS0O7XGVunApFTg" target="_blank" class="usa-button margin-bottom-2" rel="noopener noreferrer">Register: Friday, May 22 General Sessions (In-person)</a></p> 
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
   After you complete your in-person registration, a confirmation email will be sent with details. Please note that <strong>registration does not guarantee entry</strong>, as all in-person sessions have limited seating.
