@@ -8,17 +8,26 @@ redirect_from: iaaf/biographies-2026/
 description: View speaker and presenter biographies for the 2026 Interagency Accessibility Forum.
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
-audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "N/A"
-resource-type: "Training"
-format: "HTML (html)"
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+- Section 508 Testers
+- Web Content Managers
+topic: 
+- Events
+- Training
+subtopic: 
+- Best Practices
+- Training
+resource-type: 
+- Training
+format: HTML
 created: 2026-04-01
+updated: 
+featured: true
 ---
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
