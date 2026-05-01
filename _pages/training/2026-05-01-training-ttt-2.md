@@ -23,13 +23,22 @@ resource-type:
 format: HTML
 custom-script: 
 - accordion-management.js
-created: 2026-04-30
+created: 2026-05-01
 updated: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our accessibility workshop kits are designed to help you deliver instructor-led training on common document accessibility topics. Each kit includes ready-to-use materials you can download and use to teach others in your organization.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You do not need to create your own curriculum. Use these resources to lead structured sessions, support group learning, and reinforce accessibility practices that align with Section 508 requirements.
+
+Each workshop kit may include:
+* Instructor guidance
+* Presentation slides
+* Demonstration examples
+* Practice activities
+* Reference materials
+
+You can use these materials as-is, adapt them to fit your audience, or combine multiple workshops to create focused training sessions tailored to your organization’s needs.
 
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   
