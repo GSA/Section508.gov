@@ -109,8 +109,8 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * [How People with Disabilities Used the Web](https://www.w3.org/WAI/people-use-web/) (W3C WCAG)
   * [Making Meetings Accessible](https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf) (CDC.gov)
   * [NYC Accessible Virtual Meetings Guide](https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf) (NYC.gov)
-  * [How to Make Your Presentations and Meetings Accessible to All | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
-  * [Accessibility of Remote Meetings | W3C](https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings)
+  * [How to Make Your Presentations and Meetings Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
+  * [Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings)
 * Meeting Platform Accessibility Guides
     * [Adobe Connect Accessibility Features](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html)
     * [Keyboard shortcuts for Adobe Connect Classic](https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html)
