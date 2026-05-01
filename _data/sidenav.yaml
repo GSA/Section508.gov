@@ -234,8 +234,6 @@ training:
         url: 'training-home#federal-acquisition-institute'
       - name: "Add GSA’s Training to Your LMS"
         url: 'training/online-training/add-our-training-to-your-lms/'
-  - name: 'Accessibility Training Toolkits for Instructors'
-    url: 'training/workshops-1/'
   - name: Training Videos Library
     url: '#'
     children:
@@ -403,6 +401,8 @@ training:
         url: 'training/create/making-color-usage-accessible/webaim-contrast-checker/'
       - name: 'What is Alternative Text?'
         url: 'training/alt-text/what-is-alternative-text/'
+  - name: 'Accessibility Training Toolkits for Instructors'
+    url: 'training/workshops-1/'
   - name: Events
     url: 'events/'
   - name: IAAF 
