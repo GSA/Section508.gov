@@ -5,16 +5,16 @@ permalink: 'manage/section-508-assessment/2023/recommendations/'
 type: report2023
 title: "Recommendations"
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents recommendations to Congress and federal agencies to strengthen ICT accessibility and Section 508 compliance.
-topic: Law (law)
-sub-topic: Reporting
+topic: Law
+sub-topic: Annual Assessment
 audience:
-- 508 Program Manager (508pm)
-- Agency Head (head)
-- Public (public)
-- Lawmakers and Policy Officials (law-policy)
-- Federal employee (fedemp)
-resource-type: White paper
-format: HTML (html)
+- Section 508 Program Managers
+- Agency Heads
+- Members of the Public
+- Policy and Law Makers
+- Federal Employees
+resource-type: White Paper
+format: HTML
 ---
 This section incorporates findings presented throughout this document along with contextual considerations to provide recommendations to enhance Section 508 implementation and improve Section 508 compliance across the federal government. The below recommendations do not include logistical implications – such as resourcing requirements or timelines – but are intended as high-level considerations that would improve the state of accessibility throughout the federal government. Feasibility assessments and prioritization based on impact, level of effort, return on investment and other considerations should be a factor in prioritizing investment across the recommendations, particularly those that would involve significant resource investment to execute.
 

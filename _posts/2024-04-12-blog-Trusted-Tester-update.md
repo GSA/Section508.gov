@@ -7,16 +7,16 @@ tags: Testing #choose one or more: Acquisition, Content-Creation, Design-and-Dev
 created: 2024-04-12
 description: DHS recently announced the launch of the Trusted Tester for Web Certification courses version 5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more accessible and streamlined learning experience for participants.
 contributors:
-topic: Testing (test)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+topic: Testing
+sub-topic: Training
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Information Technology Program and Project Managers (itpm)
-- Chief Information Officer (cio)
-resource-type: Blog article (blog)
-format: HTML (html)
+- Federal Employees
+- Section 508 Program Managers
+- Developers
+- IT Program & Project Managers
+- Chief Information Officers (CIO)
+resource-type: Blog
+format: HTML
 ---
 DHS recently announced the launch of the Trusted Tester for Web Certification courses version
 5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more

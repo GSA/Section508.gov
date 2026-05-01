@@ -7,26 +7,26 @@ permalink: test/software/
 description: Explore Section 508 software accessibility requirements for federal ICT, including desktop, mobile, and cloud apps that must work with assistive technologies.
 disclaimer: 
 audience: 
-- 508-pm
-- content-creator
-- designer
-- dev-tester
-- fed-emp
-- it-prog-proj-mgr
-- public
-- requirement-ba
-- web-content-mgr
-topic: "Testing (test)"
+- Section 508 Program Managers
+- Content Creators
+- Designers
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Members of the Public
+- Requirements & Business Analysts
+- Web Content Managers
+topic: "Testing"
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Design, Develop, Testing for Accessibility Training or Tools
 - Software
-resource_type: 
-- process-how-to
-format: html
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2025-08-18
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
+updated: 2026-4-15
+exclude-changelog:
 ---
 Federal agencies rely on software applications—desktop, mobile, or cloud-based—for task completion and service delivery. Section 508 of the Rehabilitation Act requires that all such software, whether developed, used, maintained, or procured, be accessible to individuals with disabilities. This ensures users can operate and interact with software effectively using assistive technologies.
 
@@ -47,23 +47,37 @@ Per <a href="https://www.access-board.gov/ict/#E207-software" target="_blank" cl
 
 **EXCEPTIONS:**
 <ol>
-<li>Software that is assistive technology and that supports the accessibility services of the platform shall not be required to conform to E207.2.</li> 
-<li>Non-Web software shall not be required to conform to the following four Success Criteria in WCAG 2.0:</li>
+  <li>Software that is assistive technology and that supports the accessibility services of the platform shall not be required to conform to E207.2.
+  </li> 
+  <li>Non-Web software shall not be required to conform to the following four Success Criteria in WCAG 2.0:
     <ol>
- <li> <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#bypass-blocks" target="_blank" class="usa-link--external">2.4.1 Bypass Blocks</a>—A mechanism is available to bypass blocks of content that are repeated on multiple web pages,</li> 
-  <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#multiple-ways" target="_blank" class="usa-link--external">2.4.5 Multiple Ways</a>—More than one way is available to locate a web page within a set of web pages except where the web page is the result of, or a step in, a process,</li>  
-  <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#consistent-navigation" target="_blank" class="usa-link--external">3.2.3 Consistent Navigation</a>—Navigational mechanisms that are repeated on multiple web pages within a set of web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user, and </li> 
-  <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#consistent-identification" target="_blank" class="usa-link--external">3.2.4 Consistent Identification</a>—Components that have the same functionality within a set of web pages are identified consistently.</li></ol>  
-<li>Non-Web software shall not be required to conform to Conformance Requirement 3 Complete Processes in WCAG 2.0.</li></ol>
+      <li> <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#bypass-blocks" target="_blank" class="usa-link--external">2.4.1 Bypass Blocks</a>—A mechanism is available to bypass blocks of content that are repeated on multiple web pages,
+      </li> 
+      <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#multiple-ways" target="_blank" class="usa-link--external">2.4.5 Multiple Ways</a>—More than one way is available to locate a web page within a set of web pages except where the web page is the result of, or a step in, a process,
+      </li>  
+      <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#consistent-navigation" target="_blank" class="usa-link--external">3.2.3 Consistent Navigation</a>—Navigational mechanisms that are repeated on multiple web pages within a set of web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user, and 
+      </li> 
+      <li><a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#consistent-identification" target="_blank" class="usa-link--external">3.2.4 Consistent Identification</a>—Components that have the same functionality within a set of web pages are identified consistently.
+      </li>
+    </ol>
+  </li>
+  <li>Non-Web software shall not be required to conform to Conformance Requirement 3 Complete Processes in WCAG 2.0.
+  </li>
+</ol>
 
 Per <a href="https://www.access-board.gov/ict/#e207-2-1-word-substitution-when-applying-wcag-to-non-web-software" target="_blank" class="usa-link--external">E207.2.1 Word Substitution when Applying WCAG to Non-Web Software:</a> “For non-Web software, wherever the term “Web page” or “page” appears in WCAG 2.0 Level A and AA Success Criteria and Conformance Requirements, the term “software” shall be substituted for the terms “Web page” and “page”. In addition, in Success Criterion in 1.4.2, the phrase “in software” shall be substituted for the phrase “on a Web page.”"
 
-In addition to WCAG 2.0 AA criterion, Section 508 also includes requirements that software be accessible to users with disabilities by supporting assistive technologies and adopting user accessibility settings. If the software includes authoring tools, it must support the creation and preservation of accessible content.
+In addition to WCAG 2.0 AA criterion, Section 508 also includes <a href="https://www.access-board.gov/ict/#501-general" target="_blank" class="usa-link--external">Chapter 5</a> requirements that software be accessible to users with disabilities by supporting assistive technologies and adopting user accessibility settings. If the software includes authoring tools, it must support the creation and preservation of accessible content.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Note:</strong>
-<ul>
-<li>Applications that open outside a web browser or require desktop or mobile installation may be software.</li>  
-<li>Some ICT may combine both hardware and software; multiple test methodologies may be necessary to fully test ICT.</li></ul></p></div>
+EXCEPTION: Where Web applications do not have access to platform accessibility services and do not include components that have access to platform accessibility services, they shall not be required to conform to 502 or 503 provided that they conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
+
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+  <p><strong>Note:</strong></p>
+  <ul>
+    <li>Applications that open outside a web browser or require desktop or mobile installation may be software.</li>  
+    <li>Some ICT may combine both hardware and software; multiple test methodologies may be necessary to fully test ICT.</li>
+  </ul>
+</div>
 
 ## Examples
 

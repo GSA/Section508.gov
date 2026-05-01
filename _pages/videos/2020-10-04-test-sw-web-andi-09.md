@@ -9,16 +9,16 @@ redirect_from:
 description: In Module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI Structures module to ensure that all written content, regardless of how many (human) languages are used, is programmatically identified correctly to ensure that user agents (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 disclaimer: 
 audience:
-- federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-topic: Training (train)
+- Federal Employees
+- Web Content Managers
+- Content Creators
+- Developers
+topic: Training
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
-resource_type: Training
-format: Video & Synchronized Media (video)
+resource-type: Training
+format: Video
 created: 2020-10-05
-updated: 2026-03-03
+updated: 2026-04-14
 exclude-changelog: true
 ---
 
@@ -96,7 +96,7 @@ In Module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>

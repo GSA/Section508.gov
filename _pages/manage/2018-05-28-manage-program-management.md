@@ -5,15 +5,15 @@ type: manage
 title: " IT Accessibility Program Management"
 permalink: manage/program-management/
 description: Explore Section 508 program management guidance, best practices, and roles to help federal teams plan, implement, and sustain effective accessibility compliance.
-topic: "Manage (program)"
-sub-topic: "Manage a 508 Program"
+topic: "Manage"
+sub-topic: "Manage a Section 508 Program"
 audience:
-- "508 Program Manager (508pm)"
-- "Manager/Exec (exec)"
-- "Information Technology Program and Project Managers (itpm)"
-- "Product Managers (prodmgr)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Manager & Supervisor"
+- "IT Program & Project Managers"
+- "Service & System Owners"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-28
 ---
 

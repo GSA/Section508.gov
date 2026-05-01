@@ -3,7 +3,6 @@ layout: post
 permalink: blog/how-gsa-developed-and-tested-e-learning-training/
 type: article
 title: 'How the General Services Administration Developed and Tested Accessible E-Learning Training'
-description: 
 disclaimer: true
 tags: Design-and-Develop #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
 social_img:
@@ -93,4 +92,3 @@ This collaboration was an important win for this Section 508 team, showcasing th
 * [Designing Digital Content For Users With Cognitive Disabilities]({{site.baseurl}}/design/digital-content-users-with-cognitive-disabilities/)
 * [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/)
 * [Universal Design and Accessibility]({{site.baseurl}}/develop/universal-design/)
-

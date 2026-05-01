@@ -6,16 +6,16 @@ description: "Drive incremental improvement by measuring and reporting 508 confo
 type: manage
 title: 'Track and Report Conformance'
 created: 2018-05-29
-topic: Manage (program)
-sub-topic: Manage a 508 Program
+topic: Manage
+sub-topic: Manage a Section 508 Program
 audience:
-- 508 Program Manager (508pm)
-- Website Managers/Content Managers (wcm)
-- Information Technology Program and Project Managers (itpm)
-- Chief Information Officer (cio)
-- Developers and Testers (dev-test)
-resource-type: Long form article
-format: HTML (html)
+- Section 508 Program Managers
+- Web Content Managers
+- IT Program & Project Managers
+- Chief Information Officers (CIO)
+- Developers
+resource-type: Article
+format: HTML
 ---
 
 Drive incremental improvement by measuring and reporting 508 conformance issues.

@@ -5,19 +5,19 @@ permalink: manage/section-508-assessment/2023/findings/summary/
 type: report2023
 title: "Governmentwide Findings: Findings Summary"
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents governmentwide accessibility findings, including agency implementation, testing, and conformance outcomes.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
-The following findings are <strong>based on self-reported data from 249 reporting entities</strong> related to information and activities between June 1, 2022 and May 31, 2023.<sup><a href="#fn6" id="fr2">6</a></sup> GSA did not verify the data nor conduct independent testing for this year's Assessment. Refer to the [Methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) section for a detailed description of data validation flags and calculations used to balance each reporting entity's reported conformance with maturity. The [Observations]({{site.baseurl}}/manage/section-508-assessment/2023/observations/) section highlights misunderstandings of terminology, incongruous results and data validation issues. Additionally, not all criteria were statistically significant for this inaugural year, but GSA expects that year-to-year analysis will be revealing in future years. As a result, the [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/summary/) section does not summarize every data point; however, all response data is publicly available in the [Assessment Data]({{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/) section.
+The following findings are <strong>based on self-reported data from 249 reporting entities</strong> related to information and activities between June 1, 2022 and May 31, 2023.<sup><a href="#fn6" id="fr6">6</a></sup> GSA did not verify the data nor conduct independent testing for this year's Assessment. Refer to the [Methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) section for a detailed description of data validation flags and calculations used to balance each reporting entity's reported conformance with maturity. The [Observations]({{site.baseurl}}/manage/section-508-assessment/2023/observations/) section highlights misunderstandings of terminology, incongruous results and data validation issues. Additionally, not all criteria were statistically significant for this inaugural year, but GSA expects that year-to-year analysis will be revealing in future years. As a result, the [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/summary/) section does not summarize every data point; however, all response data is publicly available in the [Assessment Data]({{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/) section.
 
 ### Findings Summary
 
@@ -105,4 +105,3 @@ The [Observations ]({{site.baseurl}}/manage/section-508-assessment/2023/observat
         <li id="fn9">Criteria are <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q61'>Q61</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q71'>Q71</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q82'>Q82</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q83'>Q83</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q84'>Q84</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q85'>Q85</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q87'>Q87</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q88'>Q88</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q89'>Q89</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q90'>Q90</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q91'>Q91</a>, and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q92'>Q92</a>. <a href="#fr9" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
-

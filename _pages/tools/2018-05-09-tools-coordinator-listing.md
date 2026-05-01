@@ -9,16 +9,16 @@ redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
 - content/coordinator-listing/
-topic: "Training (train)"
-sub-topic: "Manage a 508 Program"
+topic: "Training"
+sub-topic: "Manage a Section 508 Program"
 audience:
-- "Federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2018-05-08
-updated: 2026-03-04
+updated: 2026-04-14
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -52,7 +52,7 @@ At the discretion of the agency CIO (or designee), components may maintain a Sec
 [Social Security Administration][24]
 
 ## Small and Independent Agencies
-Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][30] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topJ" ></span> [J][34] |<span id="topL" ></span> [L][36] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
+Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][30] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
 
 <hr>
 
@@ -150,18 +150,18 @@ Todd McKeever - <tmckeever@ntis.gov>
 
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - <mark.reumann@uspto.gov>  
-Maureen Brown - <maureen.brown@uspto.gov>  
-Patricia Kless - <patricia.kless@uspto.gov>  
+Yuting Sun (Deputy) - <yuting.sun@uspto.gov>  
+Michael Jennings (Deputy) - <michael.jennings1@uspto.gov>  
 
 ---
-## <span id ="usdod" ></span>Department of War (DOW)
+## <span id ="usdow" ></span>Department of War (DOW)
 ### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>    
 
 ### Air Force
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
-Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
+Mohamed Eltahir (Deputy) - <mohamed.eltahir.1.ctr@us.af.mil>
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Joleen Horton - <joleen.horton@us.af.mil>  
@@ -274,6 +274,7 @@ Sandra Logan - <doesection508coordinator@hq.doe.gov>
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Agencywide
+Shannon Howard - <shannon.howard@hhs.gov>  
 HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
@@ -716,7 +717,7 @@ FEC Helpdesk - <508coordinator@fec.gov>
 
 ---
 ### Federal Energy Regulatory Commission (FERC)
-Dornesia Webster - <dornesia.webster@ferc.gov>  
+Juno Park - <jun.park@ferc.gov>. 
 
 ---
 ### Federal Housing Finance Agency (FHFA)
@@ -911,10 +912,10 @@ Gregory G. Jackson - <ggjackson@tva.gov>
 
 <span id="U" ></span>
 
-<!-- ### U.S. Access Board (USAB) 
-<> -->
----
+### U.S. Access Board (USAB) 
+Mannan Dasti - <dasti@access-board.gov>  
 
+---
 ### U.S. Agency for Global Media (USAGM)
 J.R. Reeves - <jreeves@usagm.gov>  
 

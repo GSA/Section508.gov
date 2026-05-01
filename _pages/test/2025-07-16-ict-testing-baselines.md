@@ -5,19 +5,18 @@ permalink: test/ict-testing-baseline-portfolio/
 type: test
 title: 'ICT Testing Baseline Portfolio'
 description: The ICT Testing Baselines provide a standardized set of components for evaluating Section 508 conformance. Incorporating the Baseline tests into a test process ensures that necessary elements are tested, reducing the risk of overlooking important requirements.
-created: 2025-07-16
 contributors: usab
-topic: Testing (test)
+topic: Testing
 sub-topic: Websites
 audience:
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
-- Chief Information Officer (cio)
-resource-type: Long form article
-format: HTML (html)
-created: 2018-05-22
+- Section 508 Program Managers
+- Developers
+- IT Program & Project Managers
+- Federal Employees
+- Chief Information Officers (CIO)
+resource-type: Article
+format: HTML
+created: 2025-07-16
 updated: 2025-07-16
 ---
 

@@ -5,14 +5,14 @@ type: create
 title: 'Accessibility Training for Developers'
 permalink: create/developer-training/
 description: Find Section 508 developer training resources, courses, certifications, and tools to improve accessibility skills and build digital tools compliant with accessibility standards.
-topic: "Content creation (create)"
-sub-topic: "Content Creation Training or Tools"
+topic: "Create"
+sub-topic: "Training"
 audience:
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "508 Program Manager (508pm)"
+- "Developers"
+- "Content Creators"
+- "Section 508 Program Managers"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2018-05-21
 ---
 

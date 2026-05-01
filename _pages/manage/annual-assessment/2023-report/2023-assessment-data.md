@@ -7,16 +7,16 @@ permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 redirect_from:
 - 2023-congressional-report-downloads/
 description: The FY 2023 Governmentwide Section 508 Assessment provides assessment data and downloads to support transparency into agency responses across key ICT accessibility measures.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-12-29
 updated: 2025-01-16
 ---
@@ -25,7 +25,7 @@ To enhance the transparency of this report and respondent data, we have made the
 ## Report
 
 * <a href="https://assets.section508.gov/assets/files/assessment/2023/FY%2023%20Governmentwide%20Section%20508%20Assessment%20Report.pdf" target="_blank" class="usa-link--external">FY 2023 Governmentwide Section 508 Assessment (PDF)</a>
-* <a href="manage/section-508-assessment/2023/message-from-gsa-administrator/">FY 2023 Governmentwide Section 508 Assessment (HTML)</a>
+* <a href="{{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/">FY 2023 Governmentwide Section 508 Assessment (HTML)</a>
 
 
 ## Assessment Criteria and Reporting Entity Responses

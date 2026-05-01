@@ -7,17 +7,17 @@ description: Learn about Section 508 accessibility requirements for electronic d
 disclaimer: true
 title: Electronic Documents Overview
 created: 2018-05-22
-topic: "Testing (test)"
+topic: "Testing"
 sub-topic: "Documents"
 audience:
-- "Developers and Testers (dev-test)"
-- "508 Program Manager (508pm)"
-- "Content Creators (creator)"
-- "Designer (design)"
-- "Website Managers/Content Managers (wcm)"
-resource-type: "Process/How-to"
+- "Developers"
+- "Section 508 Program Managers"
+- "Content Creators"
+- "Designers"
+- "Web Content Managers"
+resource-type: "Process & How-To"
 updated: 2025-08-18
-format: "HTML (html)"
+format: "HTML"
 ---
 
 Electronic documents like PDFs, editable document files (e.g., MS Word, Google Docs), spreadsheets, and presentations are frequently used for information and data sharing. Federal agencies are mandated by Section 508 of the Rehabilitation Act to ensure these documents are accessible to individuals with disabilities. Consequently, content authors must create electronic documents that are accessible to everyone.

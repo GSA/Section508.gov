@@ -5,16 +5,16 @@ type: report2024
 title: "Observations and Acknowledgements"
 permalink: manage/section-508-assessment/2024/observations/
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, shares observations on reported data and acknowledges contributors to the assessment.
-topic: Law (law)
-sub-topic: Reporting
+topic: Law
+sub-topic: Annual Assessment
 audience:
-- 508 Program Manager (508pm)
-- Agency Head (head)
-- Public (public)
-- Lawmakers and Policy Officials (law-policy)
-- Federal employee (fedemp)
-resource-type: White paper
-format: HTML (html)
+- Section 508 Program Managers
+- Agency Heads
+- Members of the Public
+- Policy and Law Makers
+- Federal Employees
+resource-type: White Paper
+format: HTML
 created: 2024-12-20
 ---
 Out of the 245 reporting entities this year, we welcomed 15 new entities who submitted data. Some of these are new components within a department or agency, while others are small and independent agencies reporting for the first time. Additionally, 19 entities that submitted in FY 2023 did not submit in FY 2024 due to the following reasons:

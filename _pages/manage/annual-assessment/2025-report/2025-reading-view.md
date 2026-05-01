@@ -5,16 +5,16 @@ type: report2025
 title: "FY 2025 Section 508 Assessment Report&mdash;Reading View"
 permalink: manage/section-508-assessment/2025/reading/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared and submitted by the General Services Administration to Congress in coordination with OMB and the U.S. Access Board, presents federal ICT accessibility findings, highlights agency implementation and conformance, and outlines strategic opportunities to enhance digital accessibility and IT modernization. The report is presented here in a single-page format for ease of reading and printing.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2026-03-02
 updated: 
 exclude-changelog: true
@@ -195,7 +195,7 @@ exclude-changelog: true
     </div>
   </li>
 </ul>
-<h3 id="recommendations-to-congress"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-congress">Recommendations to Congress</a></h3>
+<h3 id="executive-summary-recommendations-to-congress"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-congress">Recommendations to Congress</a></h3>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
@@ -216,7 +216,7 @@ exclude-changelog: true
     </div>
   </li>
 </ol>
-<h3 id="recommendations-to-federal-agencies"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-federal-agencies">Recommendations to Federal Agencies</a></h3>
+<h3 id="executive-summary-recommendations-to-federal-agencies"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-federal-agencies">Recommendations to Federal Agencies</a></h3>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
@@ -766,7 +766,7 @@ The following describes upcoming GSA efforts to help improve federal ICT accessi
     </tr>
     <tr>
       <th scope="row">Medium (1,000-9,999 employees)</th>
-      <td class="bg-blueish-7">7</td>
+      <td class="bg-blueish-7" style="color: #060606;">7</td>
       <td class="bg-blueish-2">2</td>
       <td class="bg-blueish-1">1</td>
       <td class="bg-blueish-2">2</td>
@@ -1596,12 +1596,12 @@ Significant challenges remain due to fragmented policy structures and limited in
   <div class="itad-card__body padding-2">
     <h4 id="total-authorized-fundamental-alteration-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Fundamental Alteration Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="fund-alt-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">34<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="fund-alt-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">57<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 9 components</span>
       </span>
     </div>
@@ -1614,12 +1614,12 @@ Significant challenges remain due to fragmented policy structures and limited in
 <div class="itad-card__body padding-2">
     <h4 id="total-authorized-undue-burden-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Undue Burden Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="und-burden-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">45<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="und-burden-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">10<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 1 components</span>
       </span>
     </div>
@@ -1632,19 +1632,19 @@ Significant challenges remain due to fragmented policy structures and limited in
 <div class="itad-card__body padding-2">
     <h4 id="total-authorized-best-meets-exceptions" class="usa-card__heading font-family-sans font-sans-sm">Total Authorized Best Meets Exceptions</h4>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="best-agency" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">979<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 agencies</span>
       </span>
     </div>
     <div class="margin-top-2">
-      <span id="complaints-received" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
+      <span id="best-comp" class="radius-lg padding-1 padding-x-2 display-flex flex-align-center flex-justify-center" style="border:2px solid #481441">
         <span class="font-sans-md text-bold" style="color:#93348c;">417<span class="text-base padding-1" style="color: #481441"> | </span></span><span class="text-uppercase">authorized from 8 components</span>
       </span>
     </div>
   </div>
 </div>
 
-<h6 id="best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h6>
+<h6 id="acquisition-best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h6>
 <p>Over the past year, some agencies strengthened the integration of Section 508 requirements into acquisition processes by updating contract language, improving exception and exemption documentation, and formalizing request evaluation procedures. Agencies that integrated accessibility reviews into <a href="https://www.congress.gov/113/statute/STATUTE-128/STATUTE-128-Pg3292.pdf" target="_blank" class="usa-link--external">Federal Information Technology Acquisition Reform Act (FITARA)</a> processes, authorization to operate (ATO) workflows, and software request procedures gained significantly improved early visibility into accessibility risks. Centralizing IT acquisition reviews, automating Section 508 checklists, and strengthening market research using accessibility conformance reports (ACRs) supported more consistent oversight. These practices strengthen day-one accessibility expectations, help identify non-compliant solutions earlier, and support more effective vendor engagement.</p>
 <p>However, substantial challenges remain. Agencies reported inconsistent adoption of Section 508 contract language and uneven leadership support for enforcement. Vendor accessibility claims remain difficult to validate, and limited shared guidance and tools hinder more uniform implementation. Many digital services and IT systems still enter production without required accessibility testing, increasing remediation costs and compliance risks. Limited capacity, growing review demands, and tooling needs continue to strain acquisition and compliance teams. Strengthening accountability, standardizing post-award controls, and improving vendor oversight are essential next steps to ensure accessible technology acquisitions.</p>
 
@@ -1829,7 +1829,7 @@ Significant challenges remain due to fragmented policy structures and limited in
 
 <p>Automated testing follows a similar pattern, with lower and inconsistent use on internal web content and electronic documents. These patterns indicate that many agencies lack standardized, enterprise-wide testing prior to deployment. Overall, testing and remediation practices remain uneven and underdeveloped, constraining improvements in Section 508 conformance across the federal ICT portfolio.</p>
 
-<h6 id="best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h6>
+<h6 id="program-management-best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h6>
 <p>Over the past year, several agencies strengthened their Section 508 programs by embedding accessibility more consistently into governance, development, and testing workflows. Agencies improved the efficiency and consistency of accessibility evaluations by automated and hybrid testing approaches and aligning defect tracking with enterprise inventory systems. Many agencies embedded accessibility earlier in the ICT lifecycle by integrating Section 508 requirements into software development processes, establishing standardized templates, and requiring accessibility review of documents and applications prior to release. Collaboration between accessibility teams and developers further strengthened lifecycle integration by embedding conformance checks into common tools and platforms.</p>
 <p>Agencies also strengthened remediation and maintenance processes and expanded the evaluation of online training materials. Several agencies increased scalability through internal tools that support conformance reporting, tracking, and remediation. Training initiatives expanded, with some agencies training more than 1,000 personnel and participating in regular accessibility communities of practice.</p>
 <p>Despite this progress, significant structural challenges continue to limit consistent Section 508 implementation. Limited staffing, constrained resources, and gaps in specialized expertise hinder agencies’ ability to sustain comprehensive testing, evidence tracking and remediation at scale. Agencies report that vendor-provided accessibility conformance reports remain inconsistent or unreliable, increasing the burden on agencies to independently validate conformance. Programs also report challenges integrating accessibility early in development and deploying automated testing tools within secure enterprise environments.</p>
@@ -2167,7 +2167,7 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
   </li>
 </ul>
 
-<h5 id="best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h5>
+<h5 id="testing-best-practices-and-remaining-challenges">Best Practices and Remaining Challenges</h5>
 <p>Over the past year, some agencies reported progress in advancing Section 508 compliance through targeted Section 508 policy updates, expanded training, and stronger governance structures. Several agencies appointed full-time Section 508 PMs, updated or issued agency-wide accessibility policies, and launched strategic plans to guide implementation. Agencies also expanded internal guidance, including updated Web Content Accessibility Guidelines 2.2 interpretation materials, self-service resources and centralized knowledge libraries. The use of data-driven metrics, dashboards, and early-stage testing practices improved agencies’ ability to identify accessibility issues sooner and reduce downstream defects. Increased role-based training and broader adoption of mandatory courses further supported enterprise-wide awareness and implementation.</p>
 <p>Despite this progress, agencies continue to face significant constraints. Limited funding, staffing shortages, and workforce turnover reduce the capacity to conduct systematic testing and sustain institutional knowledge. In decentralized environments, insufficient coordination and staffing at both agency and component levels hinder consistent and effective ICT implementation across the federal government. Agencies also report cultural and governance challenges, including uneven leadership support, limited accountability mechanisms, and difficulty keeping pace with evolving accessibility standards. Without sustained investment, clearer governance, and centralized support, agencies will continue to struggle to scale accessibility efforts and deliver consistently accessible digital services.</p>
 
@@ -3039,4 +3039,3 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
 
 </div>
 <!-- END reading-view page wrapper -->
-

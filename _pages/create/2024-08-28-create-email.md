@@ -2,36 +2,59 @@
 layout: page
 sidenav: true
 type: create
-title: 'Email Messages'
+title: Accessible Email Messages
 permalink: create/email-messages/
-description: "Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology."
-contributors: frith-chet, va
-audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Content creation (create)"
-sub-topic: "Email"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+description: Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology.
+description-alt: Added the MS Outlook 365 Authoring and Testing Guide (PDF).
+audience: 
+- Content Creators
+- Federal Employees
+- Members of the Public
+- Section 508 Testers
+topic: 
+- Create
+subtopic: 
+- Documents
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2024-08-28
-updated: 
+updated: 2026-04-16
 ---
+
+
+Learn how to create accessible email messages&mdash;including Microsoft Outlook documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
+
+## Authoring Guides 
+<div class="usa-accordion usa-accordion--bordered">
+  <!-- Excel 365 Section - Open by default -->
+  <h3 class="usa-accordion__heading">
+    <button id="365" class="usa-accordion__button" aria-expanded="true" aria-controls="a365">Microsoft Outlook 365</button>
+  </h3>
+  <div id="a365" class="usa-accordion__content usa-prose" hidden="false">
+    <ul>
+      <li>
+        <a href="{{site.baseurl}}/assets/files/MS Outlook 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft Outlook 365 Basic Authoring and Testing Guide (PDF)</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+## Creating Accessible Email Messages
 Email is a vital communication tool for federal employees to transmit [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). To ensure all federal employees have access to information contained within and attached to email messages, we must ensure the emails meet Section 508 Standards. Below are easy steps to create accessible email messages so all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 
 It’s important to note that modern email software increasingly offers users the ability to format messages using styles and tools similar to those found in document authoring tools. For example, Microsoft Outlook offers an HTML format similar to Word. 
 Some email messages use plain text format and do not allow for images or other design features, therefore the tips outlined in this guidance may not apply in all circumstances. 
 
-## Step 1: Write your email
+### Step 1: Write your email
 The subject and body of email messages should clearly and concisely state the purpose of the message. The author should use <a href="https://www.plainlanguage.gov/" target="_blank" class="usa-link--external">plain language</a> appropriate for the intended audience.
 
-### Know Your Audience
+#### Know Your Audience
 One of the most popular plain language myths is that you have to “dumb down” your content so everyone can read it. That’s not true. The first rule of plain language is to write for your audience. Use language your audience knows and easily understands. Take your audience’s current level of knowledge into account. Don’t write for an eighth-grade class if your audience is composed of doctoral candidates, small business owners, working parents, or immigrants. Only write for eighth graders if your audience is, in fact, an eighth grade class.
 
 However, because you may be communicating with agency staff members or members of the public, do not assume they know what you are talking about or are familiar with jargon you may use daily. 
 
-### Writing Styles
+#### Writing Styles
 Plain language improves accessibility and works with whatever style you follow. Below is a summary of the <a href="https://digital.gov/style-guide/" target="_blank" class="usa-link--external">Digital.gov Style Guide</a> and <a href="https://guides.18f.gov/content-guide/our-style/" target="_blank" class="usa-link--external">18F Style Guide</a> used at the General Services Administration (GSA); they are similar to many of the <a href="https://www.plainlanguage.gov/resources/guides/" target="_blank" class="usa-link--external">federal government style guides</a> and other writing guidelines available on <a href="http://www.plainlanguage.gov" target="_blank" class="usa-link--external">plainlanguage.gov</a>. These guidelines show employees how to write electronic content such as email messages, documents, and web pages.
 
 - <a href="https://guides.18f.gov/content-guide/our-style/abbreviations-and-acronyms/" target="_blank" class="usa-link--external">Abbreviations and acronyms</a> - Acronyms often confuse readers. Avoid them whenever possible. If an acronym is necessary for future reference, spell the full word and follow with the acronym in parentheses on the first reference. For example, the General Services Administration (GSA).
@@ -47,7 +70,7 @@ Plain language improves accessibility and works with whatever style you follow. 
 - <a href="https://webaim.org/techniques/hypertext/#link_to_link" target="_blank" class="usa-link--external">URLs and filenames</a> - It’s important to remember users of screen readers will often <a href="https://webaim.org/techniques/hypertext/#link_to_link" target="_blank" class="usa-link--external">skip from one link to another</a>, skipping the text in between, as a way of skimming for the content they need. For filenames, use hyphens to separate words, just as with URLs. Lowercase filenames are better because it’s easier to type and to remember.
 - <a href="https://guides.18f.gov/content-guide/our-style/voice-and-tone/" target="_blank" class="usa-link--external">Voice and tone</a> - Our voice is our unique personality. You should think of your written voice as analogous to your actual tone of voice. Tone is more like attitude—the emotional context of a piece. 
 
-### Things to Avoid
+#### Things to Avoid
 * Generic or nondescriptive message subject that is not searchable 
 * Passive voice
 * Abbreviations and acronyms unless the full word is followed with the acronym in parentheses on the first reference
@@ -59,7 +82,7 @@ Plain language improves accessibility and works with whatever style you follow. 
 * Images in the signature block, other than required by policy
 * Email stationery, as with Microsoft Outlook, or layouts, as with Google Gmail
 
-## Step 2: Use the Accessibility Checker
+### Step 2: Use the Accessibility Checker
 Microsoft Office authoring tools, including Outlook, have a built-in Accessibility Checker under the “Review” tab in the navigation ribbon. Enable this tool at the outset of creating your email and frequently check for and resolve errors.
 
 The Accessibility Checker helps create accessible emails by identifying potential issues for people with disabilities in reading content or using the document. Regardless of the recipient, all failures must be remediated before sending the email. If you generate a great deal of email, you may want to add the “Check Accessibility” button to the <a href="" target="_blank" class="usa-link--external">main authoring ribbon</a> or <a href="https://support.office.com/en-us/article/customize-the-ribbon-in-office-00f24ca7-6021-48d3-9514-a31a460ecb31" target="_blank" class="usa-link--external">quick tools</a> section.
@@ -86,7 +109,7 @@ The online version of Outlook also allows you to check accessibility.
 1. In the main toolbar, click more actions, which is visually represented above with three dots
 2. At the bottom of the options, click “Check for accessibility issues.”
 
-## Step 3: Ensure Text and Images Provide Sufficient Contrast
+### Step 3: Ensure Text and Images Provide Sufficient Contrast
 An important aspect of color for both low vision and colorblind users is sufficient contrast between the foreground text and the background.
 
 Federal government electronic content must meet Section 508 Standards, which incorporates <a href="https://www.w3.org/WAI/intro/wcag" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG)</a> version 2.0 A and AA criteria. All government emails, documents, and websites must meet a minimum AA rating, and should meet AAA wherever possible.
@@ -95,20 +118,20 @@ By default, email messages use a style of black text on a white background. Unle
 
 Never use color as the only method of meaning or emphasis. If your audience has certain color blindness, they may not be able to see the color you chose. Also make sure to bold text or use text or symbols in addition to color in images and tables to ensure your information and meaning is clear to all.
 
-### Additional Color Resources
+#### Additional Color Resources
 * <a href="https://designsystem.digital.gov/design-tokens/color/overview/" target="_blank" class="usa-link--external">Using Color | U.S. Web Design System (USWDS)</a>
 * <a href="http://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM: Color Contrast Tool | WebAIM</a>
 * <a href="https://toolness.github.io/accessible-color-matrix/" target="_blank" class="usa-link--external">Accessible Palette Builder | Toolness.github.io</a>
 * <a href="http://contrast-grid.eightshapes.com/?background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact" target="_blank" class="usa-link--external">Contrast Grid | Eightshapes.com</a>
 
-## Step 4: Add Alternative (alt) Text to Images
+### Step 4: Add Alternative (alt) Text to Images
 Images are a wonderful way to draw attention, build on a story, and provide visual reinforcement to a concept you are trying to explain. However, if your audience has a vision impairment that prevents them from seeing the image clearly or at all, you need to provide a text description of that image.
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. When a person uses assistive technology such as a screen reader, the screen reader will read the onscreen text aloud.
 
-### Alt Text
+#### Alt Text
 To minimize the frustration and increase understanding, images intended to convey meaning must have a textual equivalent. Fortunately, documents created in email can take advantage of an alternative text attribute—commonly referred to as alt text. Alt text is intended to provide the textual equivalent of the image, which then allows screen readers to convey the meaning to the user.
 
-#### General Guidance for Alt Text
+##### General Guidance for Alt Text
 * All images must have alt text or be marked as decorative.
 * Images intended to convey meaning must have a textual equivalent available.
 * Avoid text on images and do not use images that are just text.
@@ -122,16 +145,15 @@ To minimize the frustration and increase understanding, images intended to conve
 * For Microsoft Word, place any alt text in the Description field, not the Title field of the Format Picture dialog.
 * Manually check that all alt text is entered correctly. Microsoft auto-generates alt text for images, but it should not be used unless it has been verified to be correct.
 
-### Other Resources
+#### Other Resources
 * [Authoring Meaningful Alternative Text]({{site.baseurl}}//create/alternative-text/)
 * <a href="https://w3c.github.io/alt-techniques/" target="_blank" class="usa-link--external">World Wide Web Consortium (W3C) Alt Techniques</a>
 * <a href="http://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM Alternative Text</a>
 
-## Step 5: Provide Descriptive Links and Hypertext
+### Step 5: Provide Descriptive Links and Hypertext
 Hyperlinks should tell people what action to take, where to go next, or what information to expect when they select the link. 
 
-### General Guidance for Hyperlinks
-
+#### General Guidance for Hyperlinks
 * Avoid generic terms and phrases such as “Click here,” “Learn more” and “Read more.”
 * Create link text that’s as specific as possible. For example, use “Download the FY24 annual report” instead of using “Click here.”
 * Create hyperlink using the most relevant word or phrase. 
@@ -140,12 +162,12 @@ Hyperlinks should tell people what action to take, where to go next, or what inf
 * Make sure the voice and tone of your link text match those of the rest of the content to create a more consistent experience. 
 * Include information about what a link leads to; this is especially important for mobile device users. For example, if you’re linking to a PDF, use “Download the FY24 annual report (PDF)” instead of “Download the FY24 annual report.”
 
-### Link and Hypertext Resources
+#### Link and Hypertext Resources
 * [Accessibility Bytes No. 4: Descriptive Links and Hypertext]({{site.baseurl}}/blog/accessibility-bytes/descriptive-links-and-hypertext/)
 * <a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all" target="_blank" class="usa-link--external">1.1.1 Non-text Content</a>
 * <a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs" target="_blank" class="usa-link--external">2.4.4 Link Purpose (In Context)</a>
 
-## Step 6: Use Proper Text Formatting and Styles
+### Step 6: Use Proper Text Formatting and Styles
 When creating emails, use approved agency fonts—not background images or stationery—and heading levels to break up sections of text.
 
 Neither WCAG or Section 508 specifies typefaces or a minimum font size for email messages. However, government email needs to have clear and consistent headings and highly legible text. 
@@ -159,16 +181,16 @@ In general, when using built-in features, we recommend:
 * Paragraph text that is left justified. Full justification should be avoided.
 * Where Heading styles are used, apply the proper Heading level for the content structure, such as  Heading 1, Heading 2, or Heading 3, and not how the heading looks.
 
-### Additional Text Resources
+#### Additional Text Resources
 * [Understanding Accessible Fonts and Typography for Section 508 Compliance]({{site.baseurl}}/develop/fonts-typography/)
 * <a href="https://designsystem.digital.gov/design-tokens/typesetting/font/" target="_blank" class="usa-link--external">Font | U.S. Web Design System</a>
 
-## Step 7: Accessible Tables in Email
+### Step 7: Accessible Tables in Email
 Tables can be very difficult for screen readers to understand unless there is a clear relationship between the header and data cells. Not all email software offers built-in tools to create tables.
 
 Where available, use the built-in “Table” tool to insert simple data tables with one row of column headers and no nested rows, columns, or merged cells, and indicate header and row columns. Avoid blank rows, columns, and cells, or using tables for layout or formatting purposes, such as formatting a numbered list.
 
-## Step 8: Simplify Your Signature Block
+### Step 8: Simplify Your Signature Block
 A signature block that does not contain images or hyperlinks are more accessible than those with images and hyperlinks.
 
 Federal agencies typically have a policy regarding staff email signature blocks. Locate and follow this policy. If your agency does not have such a policy, your email should include your name, the name of your agency, your government telephone number, and government email address, and be used for all new and response messages.
@@ -177,13 +199,13 @@ If you place an image in your signature block, such as the <a href="https://www.
 
 Images with hyperlinks are acceptable as long as the alt text associated with the image describes the meaning or intent of the image so the reader knows what to expect if the link is activated. For example, the alt text for the Facebook logo linked to the Department of Veterans Affairs’s Facebook page is ”Visit the VA Facebook page.”
 
-### Things to Avoid Placing in Your Signature Block
+#### Things to Avoid Placing in Your Signature Block
 Government emails signatures blocks should refrain from using:
 
 * Cursive or fancy typefaces and fonts
 * Slogans and personal or extraneous messages
 
-## Step 9: Verify email attachments are accessible
+### Step 9: Verify email attachments are accessible
 Documents attached to email messages that are public facing or [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications) must conform with applicable electronic document standards.
 
 Attachments should use a unique and descriptive file name.
@@ -203,7 +225,7 @@ Where an accessible attachment is not technically possible, use the methods belo
 1. Attach a nonconformant document such as a scanned .tif or .pdf file and insert the text of the memo in the body of the email message to match the .tif or .pdf file. Include a description of the attachment at the bottom of the email, such as “Attachment — Veterans Day Scanned Memo.”
 2. In addition to a scanned document, provide an additional attachment that is Section 508 conformant. Include a description of the attachments at the bottom of the email, such as “Attachment 1 – Accessible Veterans Day Memo, Attachment 2 — Scanned Veterans Day Memo.”
 
-### Things to Avoid When Attaching Files to Email
+#### Things to Avoid When Attaching Files to Email
 Urgency and lack of planning are not sufficient reasons for sending or distributing inaccessible attachments.
 
 * Not drafting and creating electronic content with accessibility in mind. 
@@ -212,4 +234,4 @@ Urgency and lack of planning are not sufficient reasons for sending or distribut
 * [Checklist for Accessible Email]({{site.baseurl}}/test/checklist/email-messages/)
 * <a href="https://www.plainlanguage.gov/guidelines/words/minimize-abbreviations/" target="_blank" class="usa-link--external">Minimize Abbreviations | plainlanguage.gov</a>  
 * <a href="https://www.plainlanguage.gov/resources/articles/keep-it-jargon-free/" target="_blank" class="usa-link--external">Keep It Jargon-free | plainlanguage.gov</a>
-
+* <a href="https://www.microsoft.com/en-us/accessibility/" target="_blank" class="usa-link--external">Microsoft Accessibility</a>

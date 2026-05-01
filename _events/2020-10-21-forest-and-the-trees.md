@@ -5,6 +5,7 @@ start-date:  #only fill in start date if the events spans multiple days (YYYY-MM
 end-date: 2020-10-21 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/forest-and-trees-scaling-enterprise-level-digital-accessibility/
 description: Learn how higher education is advancing digital accessibility in response to legal, regulatory, and global standards—covering policies, testing, training, and procurement impacts.
+topic: Events
 image:
 image-alt: 
 created: 2020-10-21

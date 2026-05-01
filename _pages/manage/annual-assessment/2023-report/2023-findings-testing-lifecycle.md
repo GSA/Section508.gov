@@ -5,16 +5,16 @@ permalink: manage/section-508-assessment/2023/findings/testing-lifecycle/
 type: report2023
 title: "Governmentwide Findings: Accessibility Conformance Testing and Technology Lifecycle"
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines ICT accessibility testing practices and how testing integrates into the technology lifecycle.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
 ## Accessibility Conformance Testing and Technology Lifecycle
@@ -194,7 +194,6 @@ be coupled with a strategic manual testing and remediation plan to track, fix, a
         <li id="fn21">Taken together, the independent variables yielded the regression equation <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a> = 0.084 + 0.11(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a>) + 0.015(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q29'>Q29</a>) - 0.042(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q59'>Q59</a>). The overall relationship was highly statistically significant (***), and independent variables (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q29'>Q29</a>, and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q59'>Q59</a>) could explain 12% of the differences in <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a>. Both <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a> and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q59'>Q59</a> significantly predicted <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a> (*** and **, respectively). Asterisks refer statistical significance at the following levels: *** 0.01 ≥ p-value; ** 0.05 ≥ p-value; * 0.1 p-value > 0.05. <a href="#fr21" aria-label="Back to content">↩</a></li>
         <li id="fn22">The regression equation <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a> = 0.093 + 0.12(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a>) + 0.022(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q29'>Q29</a>) - 0.057(<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a>) resembled that for Regression 29. Again, the overall relationship was highly statistically significant (***), and independent variables (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q29'>Q29</a>, and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a>) could explain 12% of the differences in <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a>. Both <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a> and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a> significantly predicted <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a> (*** and **, respectively). Asterisks refer statistical significance at the following levels: *** 0.01 ≥ p-value; ** 0.05 ≥ p-value; * 0.1 p-value > 0.05. <a href="#fr22" aria-label="Back to content">↩</a></li>
         <li id="fn23">Regressions 37 to 42. <a href="#fr23" aria-label="Back to content">↩</a></li>
-        <li id="fn23">51 reporting entities (20%) noted they do not engage in technology lifecycle activities and were removed from the calculation of overall percentage. <a href="#fr24" aria-label="Back to content">↩</a></li>
+        <li id="fn24">51 reporting entities (20%) noted they do not engage in technology lifecycle activities and were removed from the calculation of overall percentage. <a href="#fr24" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
-

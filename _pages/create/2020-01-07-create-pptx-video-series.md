@@ -6,16 +6,16 @@ description: "This series of videos explain and demonstrate the minimum steps ne
 type: create
 title: 'Presentations Training Videos'
 created: 2020-01-07
-topic: Content creation (create)
+topic: Create
 sub-topic: Presentations
 audience:
-- Content Creators (creator)
-- Developers and Testers (dev-test)
-- Federal employee (fedemp)
-- Information Technology Program and Project Managers (itpm)
-- 508 Program Manager (508pm)
+- Content Creators
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
 resource-type: Training
-format: Video & Synchronized Media (video)
+format: Video
 ---
 
 # How to Author and Test Microsoft PowerPoint Presentations for Accessibility

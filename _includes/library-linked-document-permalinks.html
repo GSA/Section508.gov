@@ -1,0 +1,15 @@
+{%- assign pages_posts = site.pages | concat: site.posts -%}
+{%- for content_page in pages_posts -%}
+  {%- unless content_page.exclude-library -%}
+    {%- for document in site.data.content-library-documents -%}
+      {%- assign document_permalink = document.permalink | default: "" | strip -%}
+      {%- assign document_filename = document.filename | default: "" | strip -%}
+      {%- assign document_absolute_permalink = document_permalink -%}
+      {%- unless document_permalink contains "://" -%}
+        {%- capture document_absolute_permalink -%}{{ site.url }}{{ site.baseurl }}{{ document_permalink }}{%- endcapture -%}
+      {%- endunless -%}
+      {%- if document_permalink != "" and (content_page.content contains document_permalink or content_page.content contains document_absolute_permalink or content_page.content contains document_filename) -%}
+||{{ document_permalink }}||{%- endif -%}
+    {%- endfor -%}
+  {%- endunless -%}
+{%- endfor -%}

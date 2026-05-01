@@ -5,16 +5,16 @@ permalink: manage/laws-and-policies/quick-reference-guide/
 description: "This guide highlights the changes you need to make to your agency’s 508 Program, to transition to the Revised 508 Standards."
 type: manage
 title: 'Laws and Policy Quick Reference Guide'
-topic: "Law (law)"
-sub-topic: "Accessibility Law & Policy"
+topic: "Law"
+sub-topic: "Statute & Regulation"
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Chief Information Officer (cio)"
-- "Information Technology Program and Project Managers (itpm)"
-resource-type: "Long form article"
-format: "HTML (html)"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Policy and Law Makers"
+- "Chief Information Officers (CIO)"
+- "IT Program & Project Managers"
+resource-type: "Article"
+format: "HTML"
 created: 2018-05-29
 updated: 2024-10-01
 ---

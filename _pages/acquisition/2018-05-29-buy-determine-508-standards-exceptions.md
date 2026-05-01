@@ -6,12 +6,12 @@ title: 'Determine Section 508 Standards and Exceptions'
 permalink: buy/determine-508-standards-exceptions/
 description: Step‑by‑step guidance on how to determine which Section 508 standards apply and when exceptions are allowable for federal ICT procurements and development.
 audience:
-- "Contracting Officer’s Representative (cor)"
-- "Designer (design)"
-topic: "Acquisition/Buy (buy)"
-sub-topic: "Acquisition Tools"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Contracting Officers (CO & COR)"
+- "Designers"
+topic: "Buy"
+sub-topic: "Tools"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-29
 updated: 2026-03-16
 exclude-changelog: true

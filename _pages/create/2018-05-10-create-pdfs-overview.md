@@ -8,14 +8,14 @@ redirect_from:
 - content/pdfs/
 - create/pdfs/authoring-guides/
 description: Learn how to create accessible Portable Document Format (PDF) documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "PDFs"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
@@ -23,16 +23,18 @@ exclude-changelog: true
 Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-gold" style="display: flex; align-items: center; justify-content: center; width:20rem;">
-      <svg class="usa-icon" aria-hidden="true" style="width:3em; height:3em;" role="img">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">
-    PDFs are still used across government, but they are often not the most accessible or mobile-friendly option. <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#anchorD" target="_blank" class="usa-link--external">Federal policy</a> requires agencies to prioritize HTML and use PDFs only when necessary. Choose formats that support accessibility, responsiveness, mobile-friendliness, and a digital-first user experience.
-    </div>
-  </li>
+  <ul class="margin-0 padding-0">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-gold" style="display: flex; align-items: center; justify-content: center; width:20rem;">
+        <svg class="usa-icon" aria-hidden="true" style="width:3em; height:3em;" role="img">
+          <use href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+        </svg>
+      </div>
+      <div class="usa-icon-list__content">
+      PDFs are still used across government, but they are often not the most accessible or mobile-friendly option. <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#anchorD" target="_blank" class="usa-link--external">Federal policy</a> requires agencies to prioritize HTML and use PDFs only when necessary. Choose formats that support accessibility, responsiveness, mobile-friendliness, and a digital-first user experience.
+      </div>
+    </li>
+  </ul>
 </div>
 
 ## Authoring Guides

@@ -9,15 +9,15 @@ social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
 redirect_from: iaaf/agenda-2023/
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Public (public)"
-- "Content Creators (creator)"
-- "Developers and Testers (dev-test)"
-topic: "Events (events)"
-sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+- "Federal Employees"
+- "Section 508 Program Managers"
+- "Members of the Public"
+- "Content Creators"
+- "Developers"
+topic: "Events"
+sub-topic: "Guidance"
 resource-type: "Training"
-format: "HTML (html)"
+format: "HTML"
 created: 2023-09-23
 updated: 2025-05-06
 ---
@@ -47,7 +47,7 @@ updated: 2025-05-06
       </div>
       {% else %}
         <div class="grid-row">
-          <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="{{ session.session_id }}">
+          <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="day{{ day.day }}-{{ session.session_id }}">
             {{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br>
             <span class="session-type">{{ session.name }}{% if session.type != "breakout" %}{% if session.room != nil %} - {{ session.room }}{% endif %}{% endif %}</span>
           </div>

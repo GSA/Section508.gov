@@ -9,17 +9,17 @@ redirect_from:
 description: In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the Color Contrast Analyzer's (CCA) built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot programmatically determined by ANDI.
 disclaimer: 
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Public (public)
-topic: Training (train)
+- Federal Employees
+- Section 508 Program Managers
+- Developers
+- Content Creators
+- Members of the Public
+topic: Training
 subtopic: Design, Develop, Testing for Accessibility Training or Tools
-resource_type: Training
-format: Video & Synchronized Media (video)
+resource-type: Training
+format: Video
 created: 2020-10-05
-updated: 2026-03-03
+updated: 2026-04-14
 exclude-changelog: true
 ---
 
@@ -103,7 +103,7 @@ exclude-changelog: true
          <div class="views-field views-field-title">        <span class="field-content">Module 14: Color Contrast Analyzer</span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>

@@ -12,16 +12,17 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
-sub-topic: "General Info and Best Practices"
+sub-topic: "Best Practices"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-- "Agency Head (head)"
-resource-type: "Tool (tool)"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+- "Agency Heads"
+resource-type: "Tool"
+format: "HTML"
 created: 2020-02-27
-updated: 2026-02-24
+updated: 2026-04-15
+exclude-changelog: true
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -51,11 +52,11 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
-    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
+    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
-    <th scope="row" id="acr-repository">Acceptance Criteria</th>
-    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
+    <th scope="row" id="acceptance-criteria">Acceptance Criteria</th>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
   </tr>
   <tr>
     <th scope="row" id="accessibility-implementation">Accessibility Implementation</th>
@@ -294,7 +295,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Closed captions are on-screen text that represents the audio in a video. Viewers can turn them on or off as needed. They help make videos accessible for people who are deaf or hard of hearing and are also useful in noisy places or when watching without sound. See <a href="#open-captions">Open Captions</a>.</td>
   </tr>
   <tr>
-    <th scope="row" id="closed-function">Closed Functionality</th>
+    <th scope="row" id="closed-functionality">Closed Functionality</th>
     <td> Features that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so users may not adjust settings due to a policy such as Desktop Core Configuration.</td>
   </tr>
   <tr>
@@ -348,6 +349,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>An individual or entity contracted by the government to provide services, material, equipment, or supplies. IT accessibility contractors may perform services such as testing, remediation, development, and training. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies.</td>
   </tr>
   <tr>
+   <th scope="row" id="contractor-performance-report">Contractor Performance Assessment Report (CPAR)</th>
+   <td>An official record of a contractor’s performance, documented in <a href="http://www.CPARS.gov" target="_blank" class="usa-link--external">CPARS.gov</a> and used to inform future source selections.</td>
+ </tr>
+  <tr>
     <th scope="row" id="coordinator">Coordinator (Section 508 Coordinator)</th>
     <td>Previously used to refer to a Section 508 Program Manager. See <a href="#section-508-program-manager">Section 508 Program Manager</a>.</td>
   </tr>
@@ -379,7 +384,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A table with information organized into categories.</td>
   </tr>
   <tr>
-    <th scope="row" id="data-table">Design Considerations</th>
+    <th scope="row" id="design-considerations">Design Considerations</th>
     <td>Needs and preferences of different user types, represented through personas, that guide development and ensure accessibility for people with varied abilities.</td>
   </tr>
   <tr>
@@ -731,14 +736,14 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="kiosk">Kiosk</th>
-    <td>A <a href="#closed-function">closed functionality</a> device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.</td>
+    <td>A <a href="#closed-functionality">closed functionality</a> device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.</td>
   </tr>
 </tbody>
 </table>
   
 &nbsp;
 ## L
-<table id="TableL" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableL" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table L. Terms and definitions</caption>
 <thead>
   <tr>
@@ -772,7 +777,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## M  
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableM" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
@@ -835,7 +840,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## N
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
+<table id="TableN" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
@@ -995,6 +1000,11 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="quality-assurance">Quality Assurance (QA)</th>
     <td>An activity to ensure an organization provides the best possible product or service to customers, often based on standardized testing methods.</td>
   </tr>
+  <tr>
+   <th scope="row" id="quality-assurance-plan">Quality Assurance Surveillance Plan (QASP)</th>
+   <td>A government plan that outlines how contractor performance will be monitored and measured against contract requirements.
+  </td>
+ </tr>
   <tr>
     <th scope="row" id="questions">Question</th>
     <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>

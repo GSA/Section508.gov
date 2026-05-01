@@ -8,13 +8,13 @@ redirect_from:
 - content/requiring-business-partners-provide-accessible-documents/
 description: Learn how to require business partners to provide accessible documents. Get Section 508 guidance, sample language, and best practices for compliance.
 audience:
-- Contracting Officer’s Representative (cor)
-- Requiring Officials (ro)
-- Vendor (vendor)
-topic: Content creation (create)
+- Contracting Officers (CO & COR)
+- Requirements & Business Analysts
+- Vendors
+topic: Create
 sub-topic: Documents
-resource-type: Process/How-to
-format: HTML (html)
+resource-type: Process & How-To
+format: HTML
 created: 2019-05-09
 updated: 2025-03-05
 ---

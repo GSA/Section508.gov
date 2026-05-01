@@ -7,21 +7,20 @@ description: Learn best practices for creating accessible social media content. 
 permalink: create/social-media/
 redirect_from:
 - social-media/
-description: 
 disclaimer: true
 contributors: usab
 social_img: 
 hide-date: 
-topic: "Content creation (create)"
+topic: "Create"
 sub-topic: "Social Media"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2024-05-29
-updated: 2025-05-07
+updated: 2026-03-31
 ---
 Accessible social media content is crucial for fostering inclusivity and ensuring equal participation for all individuals, regardless of ability. By implementing accessibility features such as alt text for images and closed captions for videos, creators can make their content more accessible to people with disabilities.
 
@@ -37,11 +36,11 @@ Below are a few digital accessibility terms that are important to know when crea
 
 * **[Color contrast]({{site.baseurl}}/blog/accessibility-bytes/color-contrast/)** is the difference between the color of text and the color of the background behind it. Certain color contrast ratios can result in the text of a graphic or image being difficult to read. Excluding logos or brand names, it is best to maintain a contrast ratio of 4.5:1 for regular text and 3:1 for large text. This ratio is the minimum required for federal content creators. Use a [color contrast analyzer]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/) to determine the ratio of your graphic. There are various [free versions of these tools]({{site.baseurl}}/test/color-contrast-in-nonweb-documents-images/#manual-contrast-checkers) available online.
 
-* **Emojis** can help make social media posts more engaging for users. However, having too many emojis in one post can be confusing or annoying for users using screen readers, as these programs will individually describe each emoji, which can take a lot of time. Additionally, using several emojis in a row can cause the same problems. Therefore, it is best to limit your overall use of emojis and avoid using several emojis in a row.
+* **Emojis** can help make social media posts more engaging for users. However, having too many emojis in one post can be confusing or annoying for users using screen readers, as these programs will individually describe each emoji, which can take a lot of time. Using several emojis in a row can cause the same problems. Therefore, it is best to limit your overall use of emojis and avoid using several emojis in a row. Additionally, placing emojis in between sentences in the text of a post can be disorienting and distracting. It is best to place emojis at natural stopping points in the text of a post, such as at the end of a paragraph or prior to a link that concludes a post. Accessible emoji use is demonstrated in <a href="https://www.linkedin.com/feed/update/urn:li:activity:7361010661847420929" target="_blank" class="usa-link--external">this LinkedIn post from the U.S. Access Board</a>.
 
 * **GIF** stands for Graphics Interchange Format. It's a type of file that can show still images or animations. GIFs are popular on social media for reactions without words, usually as continuously looping animations. As these animations don't have user controls to pause, stop or hide the animation, and may include harmful flashing or blinking, we do not recommend using GIFs in social media. Also, if your GIF contains text, then [check its color contrast ratio]({{site.baseurl}}/test/color-contrast-in-nonweb-documents-images/#manual-contrast-checkers); if it is not accessible, then do not use the GIF.
 
-* **Hashtags** are useful in directing users to your posts.  However, hashtags containing multiple words can present accessibility issues for users of screen readers. These programs may see a multiword hashtag as being one word and they will read it as such, which can result in a confusing or unintelligible pronunciation. Therefore, always capitalize each word in a multiword hashtag. For example: #FourthOfJuly.
+* **Hashtags** are useful in directing users to your posts. However, hashtags containing multiple words can present accessibility issues for users of screen readers. These programs may see a multiword hashtag as being one word and they will read it as such, which can result in a confusing or unintelligible pronunciation. Therefore, always capitalize each word in a multiword hashtag. For example: #FourthOfJuly.
 
 * **Open captions (OC)** are [captions]({{site.baseurl}}/create/captions-transcripts/) that are always enabled or present in a video. Some platforms allow users to upload captions and have them be permanently enabled for all viewers. If this isn't an option but you want your video to have OC, insert the captions as subtitles into the video during the editing process.
 
@@ -51,15 +50,15 @@ Below are a few digital accessibility terms that are important to know when crea
 
 * **Special characters** are letters or symbols that don't appear on the QWERTY keyboard. Screen readers may struggle to properly identify special characters, so it is best to avoid using them in social media posts. An example of a special character is the section symbol, which is often found in legal documents and legislation.
 
-* **Videos** are a type of "synchronized media," a term used within accessibility standards,  that presents information using both vision and hearing. For people with limited hearing or who are blind or have low vision, we provide an alternative means of accessing the information by including captions and audio descriptions.
+* **Videos** are a type of "[synchronized media]({{site.baseurl}}/create/synchronized-media/)," a term used within accessibility standards, that presents information using both vision and hearing. For people with limited hearing or who are blind or have low vision, we provide an alternative means of accessing the information by including captions and audio descriptions.
 
-## Best Practices for Commonly Used Platforms  
+## Best Practices for Commonly Used Platforms
 Using this terminology, below are some best practices for creating accessible social media content on a few of the more common platforms used within the federal government.
 
 ### X (formerly Twitter)*
-Use plain language when writing your X posts------don't assume all users will understand your industry's jargon. This especially can be a problem for federal agencies that use a lot of acronyms, as X posts have a character limit and long agency names can take up space. One remedy is to tag any agencies or organizations you reference as opposed to spelling out the full name; this saves character space and links users to the respective agency if they want to learn more.
+Use plain language when writing your X posts---don't assume all users will understand your industry's jargon. This especially can be a problem for federal agencies that use a lot of acronyms, as X posts have a character limit and long agency names can take up space. One remedy is to tag any agencies or organizations you reference as opposed to spelling out the full name; this saves character space and links users to the respective agency if they want to learn more.
 
-Always double check that you have limited your use of emojis and have not placed several emojis next to each other. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
+Always double check that you have limited your use of emojis, have not placed several emojis next to each other, and have placed your emojis at natural stopping points in the text of the post. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
 
 Additionally, keep the following in mind when implementing different formatting or media into your posts:
 
@@ -73,7 +72,7 @@ Additionally, keep the following in mind when implementing different formatting 
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-black"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#x"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="https://x.com/AccessBoard/status/1830983691566219580" target="_blank" class="usa-link--external">View an example of an accessible X post by the U.S. Access Board</a></div>
+        <div class="usa-icon-list__content"><a href="https://x.com/AccessBoard/status/1949077243294015510?s=20" target="_blank" class="usa-link--external">View an example of an accessible X post by the U.S. Access Board</a></div>
     </li>
   </ol>
 </div>
@@ -81,7 +80,7 @@ Additionally, keep the following in mind when implementing different formatting 
 ### LinkedIn*
 Use plain language when writing LinkedIn posts---don't assume all users understand your industry's jargon. Remember LinkedIn does not have a character limit on posts, so make sure to avoid highly technical words and spell out uncommon acronyms or abbreviations.
 
-Always double check that you have limited your use of emojis and have not placed several emojis next to each other. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
+Always double check that you have limited your use of emojis, have not placed several emojis next to each other, and have placed your emojis at natural stopping points in the text of the post. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
 
 Additionally, keep the following in mind when implementing different formatting or media into your posts:
 
@@ -99,7 +98,7 @@ Additionally, keep the following in mind when implementing different formatting 
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#linkedin"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7244687214373142528" target="_blank" class="usa-link--external">View an example of an accessible LinkedIn post by the U.S. Access Board</a></div>
+        <div class="usa-icon-list__content"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7368976103639662592" target="_blank" class="usa-link--external">View an example of an accessible LinkedIn post by the U.S. Access Board</a></div>
     </li>
   </ol>
 </div>
@@ -109,7 +108,7 @@ Use plain language when writing your Facebook posts---don't assume all users wil
 
 In addition to regular text posts, Facebook allows users to customize the background color and design of posts. If you use this feature, ensure there is still an accessible contrast between the text and background colors. Furthermore, some users may struggle to read posts that contain background graphics or patterns as opposed to backgrounds with solid colors. Ensure color contrast accessibility at all points where text overlays the background. If there is doubt as to whether a more complicated background design is accessible, it is best to avoid it altogether. 
 
-Always double check that you have limited your use of emojis and have not placed several emojis next to each other. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
+Always double check that you have limited your use of emojis, have not placed several emojis next to each other, and have placed your emojis at natural stopping points in the text of the post. Additionally, ensure each word in a multiword hashtag has been capitalized, and that you have avoided the use of any special characters.
 
 Additionally, keep the following in mind when implementing different formatting or media into your posts:
 
@@ -125,7 +124,7 @@ Additionally, keep the following in mind when implementing different formatting 
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#facebook"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="https://www.facebook.com/share/p/rZJ1sijURLJAJ2p7/" target="_blank" class="usa-link--external">View an example of an accessible Facebook post by the U.S. Access Board</a></div>
+        <div class="usa-icon-list__content"><a href="https://www.facebook.com/share/p/1CbwptcjQ5/" target="_blank" class="usa-link--external">View an example of an accessible Facebook post by the U.S. Access Board</a></div>
     </li>
   </ol>
 </div>
@@ -149,4 +148,4 @@ Below is the social media policy for other platforms not currently used by the U
 * <a href="https://www.plainlanguage.gov/" target="_blank" class="usa-link--external">PlainLanguage.gov</a> contains many guides, examples, and trainings on plain language composition.
 * <a href="https://digital.gov/topics/accessibility/" target="_blank" class="usa-link--external">Digital.gov</a> houses various resources, articles, and blog posts on digital accessibility topics.
 * <a href="https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/" target="_blank" class="usa-link--external">Federal Social Media Accessibility Toolkit Hackpad</a>
-* <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds [bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).
+* <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).

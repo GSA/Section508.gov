@@ -6,14 +6,14 @@ type: create
 title: Captions and Transcripts
 description: Create accessible videos with captions and transcripts. Learn technical standards, legal requirements, tools, and best practices from Section508.gov. 
 contributors: 
-topic: "Content creation (create)"
-sub-topic: "Video/Audio/Multimedia"
+topic: "Create"
+sub-topic: "Audio, Video and Multimedia"
 audience:
-- "Federal employee (fedemp)"
-- "Public (public)"
-- "Designer (design)"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Federal Employees"
+- "Members of the Public"
+- "Designers"
+resource-type: "Process & How-To"
+format: "HTML"
 created: 2024-05-29
 updated: 2025-08-21
 exclude-changelog: true

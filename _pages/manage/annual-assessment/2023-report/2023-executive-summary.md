@@ -5,16 +5,16 @@ type: report2023
 title: "Executive Summary"
 permalink: manage/section-508-assessment/2023/executive-summary/
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, presents executive findings on federal ICT accessibility, including key outcomes and recommendations.
-topic: "Law (law)"
-sub-topic: "Reporting"
+topic: "Law"
+sub-topic: "Annual Assessment"
 audience:
-- "508 Program Manager (508pm)"
-- "Agency Head (head)"
-- "Public (public)"
-- "Lawmakers and Policy Officials (law-policy)"
-- "Federal employee (fedemp)"
-resource-type: "White paper"
-format: "HTML (html)"
+- "Section 508 Program Managers"
+- "Agency Heads"
+- "Members of the Public"
+- "Policy and Law Makers"
+- "Federal Employees"
+resource-type: "White Paper"
+format: "HTML"
 created: 2023-03-28
 ---
 Over the past five decades, federal law and policy concerning the accessibility of information and communications technology (ICT) have undergone significant advances to ensure equitable access for persons with disabilities (PWD). Crucial governmentwide initiatives and resources have emerged as a result of collaborative efforts by the legislative and executive branches to advance ICT accessibility within the federal government. Federal agencies including the Office of Management and Budget (OMB), the Department of Justice (DOJ), the General Services Administration (GSA), the White House Office of Science and Technology Policy (OSTP), and the U.S. Access Board (Access Board) have continued advancing digital accessibility along with many partnering agencies throughout the government.

@@ -5,6 +5,9 @@ start-date: #only fill in start date if the events spans multiple days (YYYY-MM-
 end-date: 2025-07-23 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/gwaa-demo-23july2024/
 description: "General Services Administration (GSA) will be hosting short demo sessions of the Assessment submission tool. This will give your reporting entity point of contact a chance to preview the tool and learn best practices for navigation."
+topic: Events
+sub-topic: 
+- Annual Assessment
 image:
 image-alt: 
 event-registration: https://gsa.zoomgov.com/meeting/register/vJItcOqqqjItHArXYKUpFhP8JpCLkdL8NOc

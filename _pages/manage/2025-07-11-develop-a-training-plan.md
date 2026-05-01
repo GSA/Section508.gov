@@ -5,16 +5,16 @@ type: manage
 title: "Considerations for Developing a Section 508 Training Plan"
 permalink: manage/developing-a-section-508-training-plan/
 description: "Learn how to develop a Section 508 agency training program to help staff understand their roles in complying with Section 508, reduce the risk of costly remediation, and support consistent application of ICT standards across roles, content, systems, and procurement processes." 
-topic: "Manage (program)"
-sub-topic: "Manage a 508 Program"
+topic: "Manage"
+sub-topic: "Manage a Section 508 Program"
 audience:
-- "Manager/Exec (exec)"
-- "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
-- "agency-head"
-- "hr-chco"
-resource-type: "Process/How-to"
-format: "HTML (html)"
+- "Manager & Supervisor"
+- "Section 508 Program Managers"
+- "Federal Employees"
+- "Agency Heads"
+- "Chief Human Capital Officers (CHCO)"
+resource-type: "Process & How-To"
+format: "HTML"
 redirect_from:
 created: 2025-07-15
 ---

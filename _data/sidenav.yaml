@@ -108,6 +108,10 @@ manage:
         grandchildren:
           - name: Manage a Section 508 Program Overview
             url: manage/section-508-program/
+          - name: Developing a Business Case for a Section 508 Program
+            url: manage/developing-a-business-case-for-a-section-508-program/
+          - name: Developing a Budget for a Section 508 Program
+            url: manage/developing-a-budget-for-a-section-508-program/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
           - name: Publish Accessible Content
@@ -141,6 +145,8 @@ manage:
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
         url: manage/how-508-standards-benefit-pwd/
+      - name: Understanding Relationship Between Sections 501, 504, and 508
+        url: /manage/relationship-between-sections-508-504-and-501/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -148,6 +154,8 @@ manage:
             url: manage/program-management/
           - name: Identify User Needs
             url: manage/identify-user-needs/
+          - name: Remediation and Accommodation Planning
+            url: manage/remediation-alternative-means-planning/
           - name: Support Development of Accessible Content
             url: manage/support-accessible-content/
           - name: Understand Content Scope and Technical Requirements
@@ -406,6 +414,8 @@ training:
     children:
       - name: Tools Overview
         url: 'tools/'
+      - name: Accessibility Playbooks
+        url: 'manage/playbooks/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
       - name: ART API Server
@@ -419,10 +429,10 @@ training:
         url: 'accessibility-conformance-reports/' 
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
+      - name: 'Section508.gov Content Library'
+        url: 'content-library/'
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
-      - name: Accessibility Playbooks
-        url: 'manage/playbooks/'
       - name: Tools for Testing ICT
         url: 'tools/tools-for-testing-ict/'
       - name: 'Terms, Definitions, and Acronyms'
@@ -495,10 +505,14 @@ test:
     children:
       - name: Testing Lifecycle Overview
         url: 'test/testing-lifecycle-overview/'
-      - name: Essential Elements of an Accessibility Test Report
-        url: 'test/elements-of-an-accessibility-test-report/'
       - name: Conformance of ICT Prototypes and Pilots
         url: 'test/conformance-of-prototypes-and-pilots/'
+      - name: Essential Elements of an Accessibility Test Report
+        url: 'test/elements-of-an-accessibility-test-report/'
+      - name: ICT Accessibility Testing in the Development Process
+        url:  test/ict-testing-activities-by-lifecycle-phase/
+      - name: Remediation and Accommodation Planning
+        url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
     url: '#'
     children:
@@ -554,6 +568,8 @@ acquisition:
         url: 'art/'
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
+      - name: Including Section 508 in Quality Assurance Surveillance Plans
+        url: 'buy/integrate-section-508-in-qasps/' 
       - name: Understanding Section 508 Exceptions
         url: 'buy/understanding-section-508-exceptions/'
       - name: Section 508 Standards and Exceptions Chart & Examples
@@ -585,7 +601,7 @@ acquisition:
           - name: "Accessibility In Procurement I: Pre-Soliciation"
             url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
           - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
+            url: 'buy/accessibility-in-procurement-solicitation-post-2/'         
   - name: Sell
     url: '#'
     children:
