@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-title: Accessibility Workshops
+title: 'Accessibility Training Toolkit for Instructors'
 permalink: training/workshops-2/
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 audience: 
