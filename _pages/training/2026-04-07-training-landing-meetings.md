@@ -89,6 +89,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </li>  
 </ol>
 
+<!--
 ## Key Terms and References 
 * Law & Policy 
   * [Section 504 of the Rehabilitation Act](https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/statutes/section-504-rehabilitation-act-of-1973)
@@ -133,6 +134,85 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * Vocabulary
   * [CART (Communication Access Realtime Translation or CART)](https://www.section508.gov/content/glossary/#cart)&mdash;real-time captioning services 
   * [American Sign Language (ASL) interpreter]()
+
+-->
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+
+
+
+
+<ul>
+  <li>Law &amp; Policy
+    <ul>
+      <li><a href="https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/statutes/section-504-rehabilitation-act-of-1973" target="_blank" class="usa-link--external">Section 504 of the Rehabilitation Act</a></li>
+      <li><a href="https://www.access-board.gov/about/law/aba.html" target="_blank" class="usa-link--external">Architectural Barriers Act (ABA)</a></li>
+      <li><a href="https://www.ada.gov/law-and-regs/ada/" target="_blank" class="usa-link--external">Americans with Disabilities Act (ADA)</a></li>
+    </ul>
+  </li>
+
+  <li><a href="https://www.section508.gov/create/alternative-text/">Authoring Meaningful Alternative Text</a></li>
+  <li><a href="https://www.section508.gov/create/accessible-meetings/">Create Accessible Meetings</a></li>
+  <li><a href="https://www.section508.gov/create/email-messages/">Creating Accessible Email Messages</a></li>
+  <li><a href="https://www.section508.gov/buy/">Buy Accessible Products and Services</a></li>
+  <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
+  <li><a href="https://www.section508.gov/create/synchronized-media/">Video and Other Synchronized Media</a></li>
+  <li><a href="https://www.section508.gov/tools/program-manager-listing/">Section 508 Program Manager</a></li>
+  <li><a href="https://www.access-board.gov/" target="_blank" class="usa-link--external">U.S. Access Board</a></li>
+
+  <li>In-Course Resources
+    <ul>
+      <li><a href="https://www.section508.gov/create">Create Accessible Digital Products</a></li>
+      <li><a href="https://www.section508.gov/create/universal-design">Universal Design and Accessibility</a></li>
+      <li><a href="https://www.w3.org/WAI/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Used the Web</a></li>
+      <li><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf" target="_blank" class="usa-link--external">Making Meetings Accessible</a></li>
+      <li><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf" target="_blank" class="usa-link--external">NYC Accessible Virtual Meetings Guide</a></li>
+      <li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/" target="_blank" class="usa-link--external">How to Make Your Presentations and Meetings Accessible to All</a></li>
+      <li><a href="https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings" target="_blank" class="usa-link--external">Accessibility of Remote Meetings</a></li>
+    </ul>
+  </li>
+
+  <li>Meeting Platform Accessibility Guides
+    <ul>
+      <li><a href="https://helpx.adobe.com/adobe-connect/using/accessibility-features.html" target="_blank" class="usa-link--external">Adobe Connect Accessibility Features</a></li>
+      <li><a href="https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html" target="_blank" class="usa-link--external">Keyboard shortcuts for Adobe Connect Classic</a></li>
+      <li><a href="https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" target="_blank" class="usa-link--external">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting</a></li>
+      <li><a href="https://www.webex.com/accessibility.html" target="_blank" class="usa-link--external">Cisco WebEx Accessibility</a></li>
+      <li><a href="https://help.webex.com/en-us/84har3/Webex-Meetings-and-Webex-Events-Accessibility-Features" target="_blank" class="usa-link--external">Webex Meetings and Webex Events Accessibility Features</a></li>
+      <li><a href="https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions" target="_blank" class="usa-link--external">How Do I Enable Closed Captions in Webex?</a></li>
+      <li><a href="https://support.google.com/meet/answer/7313544?hl=en" target="_blank" class="usa-link--external">Google Meet Accessibility</a></li>
+      <li><a href="https://support.goto.com/meeting/help/what-accessbility-features-are-available-in-gotomeeting" target="_blank" class="usa-link--external">GoToMeeting Accessibility Features</a></li>
+      <li><a href="https://support.goto.com/meeting" target="_blank" class="usa-link--external">Use Keyboard Shortcuts from the Desktop App (Windows Only)</a></li>
+      <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Microsoft Teams Accessibility</a></li>
+      <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Accessibility overview of Microsoft Teams</a></li>
+      <li><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>
+      <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf" target="_blank" class="usa-link--external">Accessible and Inclusive Telework Practices Using Microsoft Teams</a></li>
+      <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf" target="_blank" class="usa-link--external">5 Tips on Holding Accessible Microsoft Team Meetings</a></li>
+      <li><a href="https://zoom.us/accessibility" target="_blank" class="usa-link--external">Zoom Accessibility</a></li>
+      <li><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" target="_blank" class="usa-link--external">Hot keys and keyboard shortcuts for Zoom</a></li>
+      <li><a href="https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning" target="_blank" class="usa-link--external">Getting started with closed captioning in Zoom</a></li>
+      <li><a href="https://zoom.us/test" target="_blank" class="usa-link--external">Join a Test Zoom Meeting</a></li>
+    </ul>
+  </li>
+
+  <li>Vocabulary
+    <ul>
+      <li><a href="https://www.section508.gov/content/glossary/#cart">CART (Communication Access Realtime Translation or CART)</a> &mdash; real-time captioning services</li>
+      <li>American Sign Language (ASL) interpreter</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+    
+  </div>
+</div>
+
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
