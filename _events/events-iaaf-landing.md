@@ -198,7 +198,7 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
       <li><strong><a href="https://www.potbelly.com/locations/washington-dc/17th-penn" target="_blank" class="usa-link--enternal">Potbelly</a></strong> - 1701 Pennsylvania Ave NW, Washington, DC 20006</li>
       <li><strong><a href="https://roti.com/" target="_blank" class="usa-link--enternal">Roti Mediterranean Bowls. Salads. Pitas.</a></strong> - 1747 Pennsylvania Ave NW, Washington, DC 20006</li>
       <li><strong><a href="https://www.starbucks.com/store-locator?map=38.891865,-77.04701,13z&place=1959%20e%20st%20nw" target="_blank" class="usa-link--enternal">Starbucks Coffee</a></strong> - 1959 E St NW Space C, Washington, DC 20052</li>
-      <li><strong><a href="https://restaurants.subway.com/united-states/dc/washington/1959-e-st-nwspace-cgeorge-washington-university?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=28941&utm_campaign=evergreen-2020</a></strong> - 1959 E St NW, Washington, DC (George Washington University)</li>
+      <li><strong><a href="https://restaurants.subway.com/united-states/dc/washington/1959-e-st-nwspace-cgeorge-washington-university?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=28941&utm_campaign=evergreen-2020">Subway</a></strong> - 1959 E St NW, Washington, DC (George Washington University)</li>
       <li><strong><a href="https://www.theexchangesaloon.com/" target="_blank" class="usa-link--enternal">The Exchange Saloon</a></strong> - 1719 G St NW, Washington, DC 20006</li>
       <li><strong><a href="https://www.tonicrestaurantdc.com/" target="_blank" class="usa-link--enternal">Tonic at Quigley's</a></strong> - 2036 G St NW, Washington, DC 20036</li>
     </ul>
