@@ -234,6 +234,8 @@ training:
         url: 'training-home#federal-acquisition-institute'
       - name: "Add GSA’s Training to Your LMS"
         url: 'training/online-training/add-our-training-to-your-lms/'
+  - name: 'Accessibility Training Toolkit for Instructors'
+    url: 'training/workshops-1/'
   - name: Training Videos Library
     url: '#'
     children:
