@@ -1998,6 +1998,13 @@ iaaf_2026:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
+      - name: 'Lunch'
+        type: break
+        time_start: 2026-05-22 12:00:00
+        time_end: 2026-05-22 13:00:00
+        session_id: day2break2
+        description: 
+        room: 
       - name: 'Closed Session Registration<br><em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
         type: break
         time_start: 2026-05-22 12:45:00
