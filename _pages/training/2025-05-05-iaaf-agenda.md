@@ -31,7 +31,7 @@ social_img_alt: "IAAF: Interagency Accessibility Forum"
   <!-- BEGIN DAY {{ day.day }} -->
   <h2 class="font-body-lg" id="day{{ day.day }}">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
   
-  <div class="usa-graphic-list__row container">
+  <div class="usa-graphic-list__row container margin-bottom-6">
     <!-- START AGENDA -->
     {% for session in day.sessions %}
     {% if session.type == "welcome" %}{% assign session-class = "navy" %}{% assign descr-class = "ltblue" %}{% endif %}
@@ -178,12 +178,16 @@ social_img_alt: "IAAF: Interagency Accessibility Forum"
   </div>
 {% endfor %}
 
-<!-- 
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <p class="text-large"><strong>Thank you</strong></p>
-    <p>To this year's keynote speakers, presenters, panelists and moderators, our many attendees, exhibitors and volunteers, and to the FDIC's friendly and dedicate staff. Thank you!</p>
-  </div>
+{% comment %}
+Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
+{% endcomment %}
+<div class="margin-y-105">   
+{% unless page.hide-date == true %}
+    {% if page.updated %}
+        {% assign input_date = page.updated %}
+    {% else %}
+        {% assign input_date = page.created %}
+    {% endif %} 
+<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
+{% endunless %}
 </div>
--->
-
