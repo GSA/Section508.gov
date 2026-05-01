@@ -1891,8 +1891,8 @@ iaaf_2026:
         time_start: 2026-05-21 15:15:00
         time_end: 2026-05-21 16:00:00
         session_id: day1session5
-        subtitle: Change Management
-        description: 
+        subtitle: Managing Change, Sustaining Accessibility
+        description: Change can weaken accessibility and/or create an opportunity to strengthen it. This presentation explores how Section 508 program managers can use change management concepts to keep accessibility integrated through leadership changes, contractor turnover, centralization, shifting priorities, and other transitions. Using the Section508.gov playbook, roadmap development, and culture-building strategies, the session highlights practical ways to reduce accessibility debt, clarify ownership, and help accessibility survive change.
         room:
         roles: 
           - name: Presenters
@@ -1980,12 +1980,20 @@ iaaf_2026:
         time_start: 2026-05-22 11:15:00
         time_end: 2026-05-22 11:55:00
         session_id: day2session2
-        subtitle: "Making a Section 508 Informational Video"
-        description: 
+        subtitle: "From Inaccessible to Compliant: FTA's Video Accessibility Remediation Demo"
+        description: "<p>Making Information and Communications Technology (ICT) accessible is a core requirement of Section 508, yet ensuring video content meets compliance standards remains a significant challenge for many federal agencies. In this practical, insight-driven session, the Federal Transit Administration (FTA) Section 508 Compliance Officer, Kimberly Castillo, and video production expert, Mike Gower, will share and demonstrate the detailed, hands-on process FTA implemented to remediate their informational videos for full Section 508 conformance.</p>
+          <p>Attendees will learn how FTA managed the remediation process, focusing on:
+              *The Compliance Workflow: A step-by-step process for identifying and fixing accessibility issues in synchronized media.
+              *Technical Deep Dive: Addressing essential compliance elements such as audio description, closed captions, and descriptive text for non-speech sounds and music, as required by federal law and WCAG 2.1 AA standards.
+              * Vendor Collaboration: The importance of integrating accessibility requirements with external video production teams early in the development lifecycle.
+              *A Disability-First Approach: Applying "pure attention to detail and logic" by putting oneself "in the shoes of a person with different disabilities" to ensure improved clarity and usability across various impairments.</p>
+            <p>This session offers a valuable, candid look at a successful program and is ideal for 508 coordinators, content creators, and acquisition professionals seeking proven strategies to advance digital equity within their own agencies.</p>"
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: castillo-kimberly #bio_id for this person 
+            who: castillo-kimberly #bio_id for this person
+          - name: 
+            who: gower-mike
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
