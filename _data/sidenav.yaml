@@ -218,10 +218,14 @@ training:
   - name: Online Training Courses
     url: '#'
     children:
+      - name: 'Accessible Meetings'
+        url: 'training/online-course/accessible-meetings/'
       - name: "Accessibility of ICT for Government Executives"
         url: 'training/online-course/accessible-for-executives/'
-      - name: "Microsoft Word & Accessibility Best Practices"
-        url: 'training/online-course/ms-word-best-practices/'
+      - name: "Microsoft Word Accessibility Overview"
+        url: 'training/online-course/microsoft-word-accessibility-overview/'
+      - name: 'Microsoft Word Accessibility for Document Designers'
+        url: 'training/online-course/microsoft-word-accessibility-for-document-designers/'
       - name: "Micro-Purchases and Section 508 Requirements"
         url: 'training/online-course/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
@@ -232,7 +236,7 @@ training:
         url: 'training/online-course/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
         url: 'training-home#federal-acquisition-institute'
-      - name: "Add GSA’s Training to Your LMS"
+      - name: "Add GSA’s Training to Your Agency LMS"
         url: 'training/online-training/add-our-training-to-your-lms/'
   - name: Training Videos Library
     url: '#'
