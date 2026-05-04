@@ -38,6 +38,8 @@ Each workshop kit may include:
 * Practice activities
 * Reference materials
 
+This workshop is a type of “turn-key training,” which means that it allows anyone to use the materials provided to run the workshop themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in this guide. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
+
 You can use these materials as-is, adapt them to fit your audience, or combine multiple workshops to create focused training sessions tailored to your organization’s needs.
 
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
@@ -50,21 +52,21 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <ul class="usa-icon-list">
       <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
         <div class="usa-icon-list__content">
           <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
         </div>
       </li>
       <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
         <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
       </li>
       <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#download"></use></svg></div>
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
         <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
       </li>
       <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
         <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
       </li>    
     </ul>
