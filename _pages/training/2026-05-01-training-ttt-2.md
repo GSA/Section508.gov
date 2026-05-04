@@ -85,7 +85,7 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
     <h4>Downloads</h4>
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6">
-        <div class="padding-2 bg-base-lightest">
+        <div class="padding-2">
           <ul class="usa-icon-list">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
@@ -102,7 +102,7 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
       </div>
     
       <div class="tablet:grid-col-6">
-        <div class="padding-2 bg-base-lightest">
+        <div class="padding-2">
           <ul class="usa-icon-list">
             <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
