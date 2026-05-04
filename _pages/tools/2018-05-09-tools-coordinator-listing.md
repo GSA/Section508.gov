@@ -427,9 +427,7 @@ Imran Lodi (Deputy) - <imran.Lodi@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
-Carlos Cruz - <carlos.cruz3@usdoj.gov>  
-### Community Relations Service
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Carlos Cruz - <carlos.cruz3@usdoj.gov>    
 ### Drug Enforcement Administration (DEA)
 Thomas (Tom) Schlauch - <thomas.e.schlauch@usdoj.gov>  
 Lisa Walbert - <lisa.k.walbert@usdoj.gov>  
@@ -447,19 +445,15 @@ FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Scott Jenkins - <scott.jenkins@usdoj.gov>
 ### Foreign Claims Settlement Commission
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Interpol
-Heather Kowalski - <heather.kowalski@usdoj.gov>  
-### Justice Management Division
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
+### Justice Management Division
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+### National Fraud Enforcement Division
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### National Institute of Corrections
 Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
-Nilesh  Bhut - <nilesh.bhut@usdoj.gov>
-### Office for Access to Justice
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Office for Organized Crime Drug Enforcement Task Force
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Nilesh  Bhut - <nilesh.bhut@usdoj.gov>    
 ### Office of Information Policy
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
@@ -468,7 +462,7 @@ Bruce W. Whitlock - <bruce.w.whitlock@usdoj.gov>
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Legislative Affairs
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Office of Pardon Atorney
+### Office of Pardon Attorney
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Professional Responsibility
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
