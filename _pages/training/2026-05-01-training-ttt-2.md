@@ -48,11 +48,26 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-links" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+    <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
+    </ul>
   </div>
   
   <h3 class="usa-accordion__heading">
@@ -61,11 +76,40 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-color" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-primary">
+          <svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg>
+        </div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-primary">
+          <svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#file_download"></use></svg>
+        </div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-primary">
+          <svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#file_download"></use></svg>
+        </div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-primary">
+          <svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#file_download"></use></svg>
+        </div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a>
+        </div>
+      </li>    
+    </ul>
   </div>
 
   <h3 class="usa-accordion__heading">
@@ -74,10 +118,25 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-filenames" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
     </ul> 
   </div>
 
@@ -87,11 +146,26 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-alt" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
+    </ul>
   </div>
 
   <h3 class="usa-accordion__heading">
@@ -100,11 +174,26 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-tables" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
+    </ul>
   </div>
 
   <h3 class="usa-accordion__heading">
@@ -113,11 +202,26 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-checkers" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
+    </ul>
   </div>
   
   <h3 class="usa-accordion__heading">
@@ -126,11 +230,26 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3> 
   <div id="m-pitfalls" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <ul>
-      <li>Download 1</li>
-      <li>Download 2</li>
-      <li>Download 3</li>
-    </ul> 
+     <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content">
+          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+        </div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#download"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+      </li>    
+    </ul>
   </div>
 
 </div>
