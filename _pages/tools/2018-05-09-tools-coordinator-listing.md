@@ -190,8 +190,8 @@ Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>
 ### Defense Human Resources Agency (DHRA)
 Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
-Fariba Beg - <fariba.beg.civ@mail.mil>  
-Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
+Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
+Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
 Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
