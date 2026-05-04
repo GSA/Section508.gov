@@ -402,7 +402,7 @@ training:
       - name: 'What is Alternative Text?'
         url: 'training/alt-text/what-is-alternative-text/'
   - name: 'Accessibility Training Toolkits for Instructors'
-    url: 'training/workshops-1/'
+    url: 'training/workshops-2/'
   - name: Events
     url: 'events/'
   - name: IAAF 
