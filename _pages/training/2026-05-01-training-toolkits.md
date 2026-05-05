@@ -33,20 +33,36 @@ Our accessibility workshop kits are designed to help you deliver instructor-led 
 You do not need to create your own curriculum. Use these resources to lead structured sessions, support group learning, and reinforce accessibility practices that align with Section 508 requirements.
 
 Each workshop kit may include:
-* Instructor guidance
-* Presentation slides
-* Demonstration examples
-* Practice activities
-* Reference materials
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use></svg></div>
+    <div class="usa-icon-list__content"><strong>Instructor guidance</strong></div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use></svg></div>
+    <div class="usa-icon-list__content"><strong>Presentation slides</strong></div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use></svg></div>
+    <div class="usa-icon-list__content"><strong>Demonstration examples</strong></div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use></svg></div>
+    <div class="usa-icon-list__content"><strong>Practice activities</strong></div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use></svg></div>
+    <div class="usa-icon-list__content"><strong>Reference materials</strong></div>
+  </li>
+</ul>
 
 The workshops are targeted at teams that create federal government documents, who are required to meet Section 508 Standards for digital accessibility. However, the workshops can also be used by other teams that value document accessibility or have other accessibility requirements related to creating documents.
 
 The workshops are a type of “turn-key training,” which means that they allow anyone to use the materials provided to run workshops themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in intructor guide within each workshop. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
-
+## General Instructions
 <div id="accordion-group-a" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
-  <h2 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h2>
+  <h3 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h3>
   <div id="a1" class="usa-accordion__content">
-
     <p>Review the information in this section to accomplish all tasks that must be completed before you can run your workshop.</p>
     <h3 id="list-of-required-materials">List of Required Materials</h3>
     <ul>
@@ -91,7 +107,7 @@ The workshops are a type of “turn-key training,” which means that they allow
     <p>For guidance on making different types of meetings accessible, review the <a href="https://www.section508.gov/create/accessible-meetings/">Accessible Meetings</a> resource.</p>
   </div>
   <!-- -->
-  <h2 class="usa-accordion__heading"><button id="running-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Running the Workshop</button></h2>
+  <h3 class="usa-accordion__heading"><button id="running-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Running the Workshop</button></h3>
   <div id="a2" class="usa-accordion__content">
     <p>As the person running the workshop, you are the workshop&#39;s &quot;facilitator.&quot; Your purpose as the facilitator is to help the workshop participants change a specific behavior and start implementing a new habit that will help them make more accessible documents. </p>
     <p>This workshop can work with almost any size group, but is best suited for group sizes of around twelve participants. If you have more than that number, it may help to assign one or more additional facilitators to assist with answering learner questions and keeping the session organized.</p>
