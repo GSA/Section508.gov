@@ -82,16 +82,32 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-tables" class="usa-accordion__content">
     <p>After completing the “Data Tables” workshop, learners will be able to:</p>
-    <ul>
-      <i>Create accessible simple data tables in Microsoft Word and similar programs</i>li>
+    
+    <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Create accessible simple data tables in Microsoft Word and similar programs</div>
+      </li>
     </ul>
+    
     <p>The practice document for this workshop is a Microsoft Word text file. However, the workshop also presents how to apply these same accessibility principles to all digital documents and online content. You can also customize your workshop to include whichever program (or programs) your team uses.</p>
     <p>This workshop does not include guidance on how to create complex data tables in programs like Excel and PDF. It only covers how to make simple data tables, which are typically used for displaying and presenting data rather than analyzing it.</p>
-    <p>Training Details<br>
-      <strong>Preparation Time:</strong> 60-90 minutes<br>
-      <strong>Workshop Time:</strong> 45 minutes<br>
-      <strong>Prerequisites:</strong> None
-    </p>
+    
+    <h4>Training Details</h4>
+    <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Preparation Time: 60–90 minutes</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Workshop Time: 45 minutes</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Prerequisites: None</div>
+      </li>
+    </ul>
 
     <p>Included in this toolkit for instructors and learners:</p>
     <div class="usa-icon-list">
