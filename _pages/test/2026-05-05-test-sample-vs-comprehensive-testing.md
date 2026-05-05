@@ -33,6 +33,7 @@ resource-type:
 format: HTML
 custom-script: 
 - accordion-management.js
+- sample-size-calculator.js
 created: 2026-05-04
 updated: 
 ---
@@ -487,5 +488,3 @@ Online "statistical sample size” calculators can assist in determining the nec
 <li> <a href="{{site.baseurl}}/test/testing-overview/">Testing Methods Overview</a></li>
 <li> <a href="https://www.gao.gov/assets/pemd-10.1.6.pdf#page=59" target="_blank" class="usa-link--external">Using Statistical Sampling</a></li>
 </ul>
-
-<script src="/scripts/sample-size-calculator.js"></script>
