@@ -138,8 +138,8 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
     </div>
     <p>This workshop is part of a series designed to allow teams to run their own hands-on sessions where they can learn about and practice specific accessibility techniques. If you would like to facilitate one of these workshops for your own team, follow the instructions in this guide.</p>
 
-    <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
     <H4>Additional Resources</h4>
+    <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
     <p>Refer to the following resources for additional information:</p>
     <ul>
       <li>Running the workshop
