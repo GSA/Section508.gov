@@ -1,0 +1,165 @@
+{% assign calc_suffix = include.id_suffix | default: "default" %}
+
+<form
+  id="cochran-calculator-{{ calc_suffix }}"
+  class="sample-size-calculator margin-top-2"
+  data-id-suffix="{{ calc_suffix }}"
+  novalidate
+>
+  <fieldset class="usa-fieldset">
+    <legend class="usa-legend usa-legend--large">
+      Calculate a sample size using Cochran’s formula
+    </legend>
+
+    <p class="text-base margin-top-1">
+      This calculator uses Cochran’s sample size formula with a conservative
+      proportion estimate of <strong>p = 0.5</strong> and applies the
+      finite population correction for smaller populations.
+    </p>
+
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-6">
+        <label class="usa-label" for="confidence-level-{{ calc_suffix }}">
+          Confidence level
+        </label>
+        <div
+          id="confidence-level-hint-{{ calc_suffix }}"
+          class="usa-hint"
+        >
+          Choose the degree of certainty for the estimate.
+        </div>
+        <select
+          class="usa-select"
+          id="confidence-level-{{ calc_suffix }}"
+          name="confidence-level"
+          aria-describedby="confidence-level-hint-{{ calc_suffix }}"
+        >
+          <option value="90">90%</option>
+          <option value="95" selected>95%</option>
+          <option value="99">99%</option>
+        </select>
+      </div>
+
+      <div class="tablet:grid-col-6">
+        <label class="usa-label" for="margin-of-error-{{ calc_suffix }}">
+          Margin of error (%)
+        </label>
+        <div
+          id="margin-of-error-hint-{{ calc_suffix }}"
+          class="usa-hint"
+        >
+          Enter the acceptable range of error, such as 5 for ±5%.
+        </div>
+        <input
+          class="usa-input"
+          id="margin-of-error-{{ calc_suffix }}"
+          name="margin-of-error"
+          type="number"
+          min="0.1"
+          max="99.9"
+          step="0.1"
+          value="5"
+          inputmode="decimal"
+          aria-describedby="margin-of-error-hint-{{ calc_suffix }}"
+        />
+      </div>
+
+      <div class="tablet:grid-col-6">
+        <label class="usa-label" for="population-size-{{ calc_suffix }}">
+          Population size
+        </label>
+        <div
+          id="population-size-hint-{{ calc_suffix }}"
+          class="usa-hint"
+        >
+          Enter the total number of items in the population you want to assess.
+        </div>
+        <input
+          class="usa-input"
+          id="population-size-{{ calc_suffix }}"
+          name="population-size"
+          type="number"
+          min="1"
+          step="1"
+          value="1000"
+          inputmode="numeric"
+          aria-describedby="population-size-hint-{{ calc_suffix }}"
+        />
+      </div>
+
+      <div class="tablet:grid-col-6">
+        <label class="usa-label" for="sample-size-{{ calc_suffix }}">
+          Sample size
+        </label>
+        <div
+          id="sample-size-hint-{{ calc_suffix }}"
+          class="usa-hint"
+        >
+          Enter a sample size to estimate the implied population size using the
+          same confidence level and margin of error.
+        </div>
+        <input
+          class="usa-input"
+          id="sample-size-{{ calc_suffix }}"
+          name="sample-size"
+          type="number"
+          min="1"
+          step="1"
+          value="278"
+          inputmode="numeric"
+          aria-describedby="sample-size-hint-{{ calc_suffix }}"
+        />
+      </div>
+    </div>
+
+    <div class="margin-top-3">
+      <button
+        type="button"
+        id="reset-calculator-{{ calc_suffix }}"
+        class="usa-button usa-button--outline"
+      >
+        Reset to defaults
+      </button>
+    </div>
+  </fieldset>
+
+  <section
+    class="margin-top-4 padding-3 border-left-05 border-primary bg-primary-lighter radius-md"
+    aria-labelledby="calculator-results-heading-{{ calc_suffix }}"
+  >
+    <h5
+      id="calculator-results-heading-{{ calc_suffix }}"
+      class="margin-top-0 margin-bottom-1"
+    >
+      Results
+    </h5>
+
+    <p
+      id="calculator-summary-{{ calc_suffix }}"
+      class="text-bold font-sans-md margin-top-0 margin-bottom-1"
+    >
+      Recommended sample size: 278 items
+    </p>
+
+    <p
+      id="calculator-details-{{ calc_suffix }}"
+      class="margin-top-0 margin-bottom-1"
+    >
+      Based on a population size of 1,000, 95% confidence level, and ±5%
+      margin of error.
+    </p>
+
+    <p
+      id="calculator-formula-{{ calc_suffix }}"
+      class="font-body-2xs text-base-dark margin-top-0 margin-bottom-0"
+    >
+      Uses Cochran’s formula with finite population correction and p = 0.5.
+    </p>
+
+    <div
+      id="calculator-message-{{ calc_suffix }}"
+      class="margin-top-2 font-body-sm text-base-darkest"
+      aria-live="polite"
+    ></div>
+  </section>
+</form>
