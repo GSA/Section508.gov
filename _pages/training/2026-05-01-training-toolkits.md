@@ -113,16 +113,16 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
     <p>Included in this toolkit for instructors and learners:</p>
     <div class="usa-icon-list">
       <div class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Presentation</a></div>
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content">Workshop - Data Tables - Presentation</div>
       </div>
       <div class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Presentation Outline</a></div>
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content">Workshop - Data Tables - Presentation Outline</div>
       </div>
       <div class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Practice Document</a></div>
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content">Workshop - Data Tables - Practice Document</div>
       </div>
     </div>
     
