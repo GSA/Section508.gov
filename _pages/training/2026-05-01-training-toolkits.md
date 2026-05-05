@@ -39,13 +39,9 @@ Each workshop kit may include:
 * Practice activities
 * Reference materials
 
-<!-- This workshop is a type of “turn-key training,” which means that it allows anyone to use the materials provided to run the workshop themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in this guide. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines. -->
+The workshops are targeted at teams that create federal government documents, who are required to meet Section 508 Standards for digital accessibility. However, the workshops can also be used by other teams that value document accessibility or have other accessibility requirements related to creating documents.
 
-## What type of teams should take this workshop?
-This workshop is targeted at teams that create federal government documents, who are required to meet Section 508 Standards for digital accessibility. However, this workshop can also be used by other teams that value document accessibility or have other accessibility requirements related to creating documents.
-
-## Who can run this workshop?
-This workshop is a type of “turn-key training,” which means that it allows anyone to use the materials provided to run the workshop themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in this guide. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
+The workshops are a type of “turn-key training,” which means that they allow anyone to use the materials provided to run workshops themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in intructor guide within each workshop. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
 
 <div id="accordion-group-a" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   <h2 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h2>
