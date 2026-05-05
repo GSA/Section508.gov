@@ -50,29 +50,7 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-links" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <h4>Downloads</h4>
-    <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Full Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
-    </div>
+    
   </div>
   
   <h3 class="usa-accordion__heading">
@@ -81,204 +59,77 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3>
   <div id="m-color" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    
-    <h4>Downloads</h4>
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-    </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-            <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
-        </div>
-      </div>
-    </div>
-    
+        
   </div>
 
   <h3 class="usa-accordion__heading">
-    <button id="b-filenames" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-filenames">Filenames and Saving to PDF</button>
-  </h3>
+    <button id="b-filenames" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-filenames">Filenames and Saving to PDF</button></h3>
   <div id="m-filenames" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <h4>Downloads</h4>
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-          </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-    </ul>
-    </div>
-      </div>
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-            <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+    
   </div>
 
   <h3 class="usa-accordion__heading">
-    <button id="b-alt" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-alt"
-    >Alt Text</button>
+    <button id="b-alt" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-alt">Alt Text</button>
   </h3>
   <div id="m-alt" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<h4>Downloads</h4>
-<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-    </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-            <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-    
+        
   </div>
 
   <h3 class="usa-accordion__heading">
-    <button id="b-tables" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-tables"
-    >Tables</button>
+    <button id="b-tables" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-tables">Tables</button>
   </h3>
   <div id="m-tables" class="usa-accordion__content">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<h4>Downloads</h4>
-<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
+    <p>After completing the “Data Tables” workshop, learners will be able to:</p>
+    <ul>
+      <i>Create accessible simple data tables in Microsoft Word and similar programs</i>li>
     </ul>
-        </div>
+    <p>The practice document for this workshop is a Microsoft Word text file. However, the workshop also presents how to apply these same accessibility principles to all digital documents and online content. You can also customize your workshop to include whichever program (or programs) your team uses.</p>
+    <p>This workshop does not include guidance on how to create complex data tables in programs like Excel and PDF. It only covers how to make simple data tables, which are typically used for displaying and presenting data rather than analyzing it.</p>
+    <p>Training Details<br>
+      <strong>Preparation Time:</strong> 60-90 minutes<br>
+      <strong>Workshop Time:</strong> 45 minutes<br>
+      <strong>Prerequisites:</strong> None
+    </p>
+
+    <p>Included in this toolkit for instructors and learners:</p>
+    <div class="usa-icon-list">
+      <div class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Presentation</a></div>
       </div>
-      <div class="tablet:grid-col-6">
-        <div class="padding-2">
-          <ul class="usa-icon-list">
-            <li class="usa-icon-list__item">
-              <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-              <div class="usa-icon-list__content"><a href="" target="_blank" download>Instructor Kit (ZIP)</a></div>
-            </li>    
-          </ul>
+      <div class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Presentation Outline</a></div>
+      </div>
+      <div class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumbs_up_alt"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="" class="usa-link">Workshop - Data Tables - Practice Document</a></div>
+      </div>
+    </div>
+    
+    <div class="usa-icon-list">
+      <div class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-primary">
+          <svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg>
+        </div>
+        <div class="usa-icon-list__content">
+          <a href="" download class="usa-link">Download: Data Tables Toolkit (ZIP)</a>
         </div>
       </div>
     </div>
+    <p>This workshop is part of a series designed to allow teams to run their own hands-on sessions where they can learn about and practice specific accessibility techniques. If you would like to facilitate one of these workshops for your own team, follow the instructions in this guide.</p>
   </div>
-
-
-
-    
-  </div>
-
+  
+  <!-- -->
   <h3 class="usa-accordion__heading">
     <button id="b-checkers" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-checkers"
     >Using the Accessibility Checker</button>
   </h3>
   <div id="m-checkers" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h4>Downloads</h4>
-    <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
+    
   </div>
   
   <h3 class="usa-accordion__heading">
@@ -287,27 +138,7 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
   </h3> 
   <div id="m-pitfalls" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h4>Downloads</h4>
-    <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
-        </div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
-      </li>    
-    </ul>
+    
   </div>
 
 </div>
