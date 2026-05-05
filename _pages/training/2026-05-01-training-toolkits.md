@@ -229,20 +229,20 @@ Finally, you can use these materials as-is, adapt them to fit your audience, or 
     <ul>
       <li>Running the workshop
         <ul>
-          <li>Accessible Meetings</li>
+          <li><a href="{{site.baseurl}}/create/accessible-meetings/">Accessible Meetings</a></li>
         </ul>
       </li>
       <li>Document Accessibility Resources
         <ul>
-          <li>Create Accessible Documents</li>
-          <li>Create Accessible Spreadsheets</li>
+          <li><a href="{{site.baseurl}}/create/documents/">Create Accessible Documents</a></li>
+          <li><a href="{{site.baseurl}}/create/spreadsheets/">Create Accessible Spreadsheets</a></li>
         </ul>
       </li>
       <li>Courses
         <ul>
-          <li>Section 508: What Is It and Why Is It Important?</li>
-          <li>Microsoft Word Accessibility Overview</li>
-          <li>Microsoft Word Accessibility for Document Designers</li>
+          <li><a href="{{site.baseurl}}/training/online-course/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></li>
+          <li><a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a></li>
+          <li><a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-for-document-designers/">Microsoft Word Accessibility for Document Designers</a></li>
         </ul>
       </li>
     </ul>
