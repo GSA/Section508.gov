@@ -40,13 +40,15 @@ Each workshop kit may include:
 * Reference materials
 
 <!-- This workshop is a type of “turn-key training,” which means that it allows anyone to use the materials provided to run the workshop themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in this guide. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines. -->
+
 ## What type of teams should take this workshop?
 This workshop is targeted at teams that create federal government documents, who are required to meet Section 508 Standards for digital accessibility. However, this workshop can also be used by other teams that value document accessibility or have other accessibility requirements related to creating documents.
+
 ## Who can run this workshop?
 This workshop is a type of “turn-key training,” which means that it allows anyone to use the materials provided to run the workshop themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in this guide. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
 
 <div id="accordion-group-a" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
-  <h3 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h3>
+  <h2 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h2>
   <div id="a1" class="usa-accordion__content">
 
     <p>Review the information in this section to accomplish all tasks that must be completed before you can run your workshop.</p>
@@ -92,9 +94,8 @@ This workshop is a type of “turn-key training,” which means that it allows a
     </ul>
     <p>For guidance on making different types of meetings accessible, review the <a href="https://www.section508.gov/create/accessible-meetings/">Accessible Meetings</a> resource.</p>
   </div>
-
   <!-- -->
-  <h3 class="usa-accordion__heading"><button id="running-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Running the Workshop</button></h3>
+  <h2 class="usa-accordion__heading"><button id="running-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Running the Workshop</button></h2>
   <div id="a2" class="usa-accordion__content">
     <p>As the person running the workshop, you are the workshop&#39;s &quot;facilitator.&quot; Your purpose as the facilitator is to help the workshop participants change a specific behavior and start implementing a new habit that will help them make more accessible documents. </p>
     <p>This workshop can work with almost any size group, but is best suited for group sizes of around twelve participants. If you have more than that number, it may help to assign one or more additional facilitators to assist with answering learner questions and keeping the session organized.</p>
