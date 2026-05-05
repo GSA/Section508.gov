@@ -220,16 +220,16 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
         <div class="usa-icon-list__content">
-          <a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Guide (DOCX)</a>
+          <a href="" target="_blank" download>Instructor Guide (DOCX)</a>
         </div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Practice Document (PPTX)</a></div>
+        <div class="usa-icon-list__content"><a href="" target="_blank" download>Practice Document (PPTX)</a></div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-        <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Presentation (PPTX)</a></div>
+        <div class="usa-icon-list__content"><a href="" target="_blank" download>Presentation (PPTX)</a></div>
       </li>
     </ul>
         </div>
@@ -239,7 +239,7 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
           <ul class="usa-icon-list">
             <li class="usa-icon-list__item">
               <div class="usa-icon-list__icon text-base"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg></div>
-              <div class="usa-icon-list__content"><a href="" class="usa-link usa-link--external" target="_blank" download>Instructor Kit (ZIP)</a></div>
+              <div class="usa-icon-list__content"><a href="" target="_blank" download>Instructor Kit (ZIP)</a></div>
             </li>    
           </ul>
         </div>
