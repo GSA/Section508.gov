@@ -6,7 +6,7 @@ first_name: Florence
 last_name: Iglesias
 affiliation_long: Federal Transit Administration
 affiliation_short: FTA
-position: Deputy Section 508 Program Manager
+position: Federal Lead for Data and AI Engineering
 office: 
 location: Washington, D.C.
 email: 
