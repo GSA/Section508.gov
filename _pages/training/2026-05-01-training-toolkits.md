@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-title: 'Accessibility Training Toolkit for Instructors'
+title: 'Accessibility Training Toolkits'
 permalink: 'training/accessibility-training-toolkits/'
 redirect_from: 'training/workshops/'
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -125,14 +125,14 @@ You can use these materials as-is, adapt them to fit your audience, or combine m
         <div class="usa-icon-list__content">Workshop - Data Tables - Practice Document</div>
       </div>
     </div>
-    
+    <h4>Downloads</h4>
     <div class="usa-icon-list">
       <div class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-primary">
           <svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg>
         </div>
         <div class="usa-icon-list__content">
-          <a href="" download class="usa-link">Download: Data Tables Toolkit (ZIP)</a>
+          <a href="" download class="usa-link">Accessibility Training Toolkit for Data Tables (ZIP)</a>
         </div>
       </div>
     </div>
