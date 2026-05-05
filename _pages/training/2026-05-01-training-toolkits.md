@@ -50,89 +50,84 @@ This workshop is a type of “turn-key training,” which means that it allows a
   <div id="a1" class="usa-accordion__content">
 
     <p>Review the information in this section to accomplish all tasks that must be completed before you can run your workshop.</p>
-<h3 id="list-of-required-materials">List of Required Materials</h3>
-<ul>
-<li><p>Downloadable Resources: Download all of the resources listed at the beginning of this guide. These resources include this Instructor Guide in Microsoft Word formata Microsoft Word version of this Instructor Guide, a slideshow presentation, and a practice document for learners.</p>
-</li>
-<li><p>Presentation Screen: Make sure you have a way to display the workshop presentation and workshop practice document, like a projector screen or a video conferencing software that allows screen sharing.</p>
-</li>
-<li><p>Learner Computers: During the workshop, all learners will need access to a laptop or desktop computer that has Microsoft Word installed. They will participate in all of the workshop practice activities on these computers.</p>
-</li>
-</ul>
-<h3 id="pre-training-tasks">Pre-Training Tasks</h3>
-<p>Before running your workshop, complete the following tasks:</p>
-<ul>
-<li><p>Schedule the Workshop. Arrange scheduling and time away from other tasks for all workshop participants. If you need to reserve a meeting room, do it as early as possible to avoid schedule conflicts.</p>
-</li>
-<li><p>Invite Attendees. Email an invitation to all workshop participants. Attach a copy of the workshop presentation and the practice document so that anyone with a disability has access to an accessible copy of the materials in advance. In the invitation, include a way for participants to request additional accommodations, like materials in an alternative format, or a sign language interpreter. You can use the Meeting Invitation Template later in this guide to help you.</p>
-</li>
-<li><p>Review the Materials. Read all of the content in the Instructor Guide, the Workshop Presentation, and the Practice Document. Practice the steps of the processes demonstrated in the workshop materials.</p>
-</li>
-<li><p>Test Your Technology. For this workshop, you will need to be able to display the PowerPoint presentation to all learners, and also share your screen where you demonstrate how to complete the tasks they will need to practice in Microsoft Word. Ensure that all projectors, meeting software, and other teaching tools are functioning properly to allow learners to see and hear the workshop content.</p>
-</li>
-</ul>
-<h3 id="accessibility-considerations">Accessibility Considerations</h3>
-<p>To ensure your workshop is accessible to all learners, follow these guidelines:</p>
-<ul>
-<li><p>In the meeting invitation, always provide a means for attendees to request a specific disability accommodation.</p>
-</li>
-<li><p>Send all attendees a copy of the workshop&#39;s presentation and practice document in advance.</p>
-</li>
-<li><p>Ensure your meeting space is well-lit, that the presentation will be visible for all learners, and that there are as few distractions as possible.</p>
-</li>
-</ul>
-<h3 id="in-person-virtual-and-hybrid-meeting-considerations">In-Person, Virtual, and Hybrid Meeting Considerations</h3>
-<p>Many teams collaborate across offices and workspaces, and may need to run this workshop as a virtual workshop, or as a hybrid workshop with both in-person and virtual attendees.</p>
-<p>If your workshop has any virtual attendees, keep the following considerations in mind:</p>
-<ul>
-<li><p>Ensure that your meeting software meets all Section 508 Standards.</p>
-</li>
-<li><p>Test video, audio, screen sharing, and chat functionality to ensure all participants can follow along and participate in the workshop.</p>
-</li>
-</ul>
-<p>For guidance on making different types of meetings accessible, review the <a href="https://www.section508.gov/create/accessible-meetings/">Accessible Meetings</a> resource.</p>
-
-    
+    <h3 id="list-of-required-materials">List of Required Materials</h3>
+    <ul>
+    <li><p>Downloadable Resources: Download all of the resources listed at the beginning of this guide. These resources include this Instructor Guide in Microsoft Word formata Microsoft Word version of this Instructor Guide, a slideshow presentation, and a practice document for learners.</p>
+    </li>
+    <li><p>Presentation Screen: Make sure you have a way to display the workshop presentation and workshop practice document, like a projector screen or a video conferencing software that allows screen sharing.</p>
+    </li>
+    <li><p>Learner Computers: During the workshop, all learners will need access to a laptop or desktop computer that has Microsoft Word installed. They will participate in all of the workshop practice activities on these computers.</p>
+    </li>
+    </ul>
+    <h3 id="pre-training-tasks">Pre-Training Tasks</h3>
+    <p>Before running your workshop, complete the following tasks:</p>
+    <ul>
+    <li><p>Schedule the Workshop. Arrange scheduling and time away from other tasks for all workshop participants. If you need to reserve a meeting room, do it as early as possible to avoid schedule conflicts.</p>
+    </li>
+    <li><p>Invite Attendees. Email an invitation to all workshop participants. Attach a copy of the workshop presentation and the practice document so that anyone with a disability has access to an accessible copy of the materials in advance. In the invitation, include a way for participants to request additional accommodations, like materials in an alternative format, or a sign language interpreter. You can use the Meeting Invitation Template later in this guide to help you.</p>
+    </li>
+    <li><p>Review the Materials. Read all of the content in the Instructor Guide, the Workshop Presentation, and the Practice Document. Practice the steps of the processes demonstrated in the workshop materials.</p>
+    </li>
+    <li><p>Test Your Technology. For this workshop, you will need to be able to display the PowerPoint presentation to all learners, and also share your screen where you demonstrate how to complete the tasks they will need to practice in Microsoft Word. Ensure that all projectors, meeting software, and other teaching tools are functioning properly to allow learners to see and hear the workshop content.</p>
+    </li>
+    </ul>
+    <h3 id="accessibility-considerations">Accessibility Considerations</h3>
+    <p>To ensure your workshop is accessible to all learners, follow these guidelines:</p>
+    <ul>
+    <li><p>In the meeting invitation, always provide a means for attendees to request a specific disability accommodation.</p>
+    </li>
+    <li><p>Send all attendees a copy of the workshop&#39;s presentation and practice document in advance.</p>
+    </li>
+    <li><p>Ensure your meeting space is well-lit, that the presentation will be visible for all learners, and that there are as few distractions as possible.</p>
+    </li>
+    </ul>
+    <h3 id="in-person-virtual-and-hybrid-meeting-considerations">In-Person, Virtual, and Hybrid Meeting Considerations</h3>
+    <p>Many teams collaborate across offices and workspaces, and may need to run this workshop as a virtual workshop, or as a hybrid workshop with both in-person and virtual attendees.</p>
+    <p>If your workshop has any virtual attendees, keep the following considerations in mind:</p>
+    <ul>
+    <li><p>Ensure that your meeting software meets all Section 508 Standards.</p>
+    </li>
+    <li><p>Test video, audio, screen sharing, and chat functionality to ensure all participants can follow along and participate in the workshop.</p>
+    </li>
+    </ul>
+    <p>For guidance on making different types of meetings accessible, review the <a href="https://www.section508.gov/create/accessible-meetings/">Accessible Meetings</a> resource.</p>
   </div>
+
   <!-- -->
   <h3 class="usa-accordion__heading"><button id="running-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a2">Running the Workshop</button></h3>
   <div id="a2" class="usa-accordion__content">
-
     <p>As the person running the workshop, you are the workshop&#39;s &quot;facilitator.&quot; Your purpose as the facilitator is to help the workshop participants change a specific behavior and start implementing a new habit that will help them make more accessible documents. </p>
-<p>This workshop can work with almost any size group, but is best suited for group sizes of around twelve participants. If you have more than that number, it may help to assign one or more additional facilitators to assist with answering learner questions and keeping the session organized.</p>
-<h3 id="using-the-workshop-resources">Using the Workshop Resources</h3>
-<p>Download all of the resources listed at the beginning of this guide. Each of them will help your workshop run as smoothly as possible.</p>
-<p>Here is the purpose of each workshop resource:</p>
-<ul>
-<li><p>Workshop Presentation: The presentation has the information you will display to the learners, along with notes that will help you as the facilitator explain the content. The slide notes contain information on how much time each slide should take to cover, how to explain the content on the screen, and how to answer common questions the learners may have.</p>
-</li>
-<li><p>Workshop Presentation Outline: This document has the same content as the presentation slides and notes, except that this document is formatted as a plain, text-only list of bullet points. This alternative format of the presentation is for those that want to reference the slide notes without navigating to them in the presentation, or who may want to print out a text-only version of the content. This document is optimized for screen reader users.</p>
-</li>
-<li><p>Practice Document: The practice document is what you will use to demonstrate the techniques in the training, and it is what the learners will use to practice those steps. All workshop attendees should have a copy of this document downloaded before the workshop begins.</p>
-</li>
-</ul>
-<h3 id="trainer-tips">Trainer Tips</h3>
-<p>Whether this is your first or thousandth time running a workshop, here are some tips to help your workshop run smoothly.</p>
-<ul>
-<li><p>Speak slowly and clearly. Make sure that learners can hear and understand you, and can easily follow along with the content. If your workshop involves audio transcription or sign language interpretation, speaking clearly is especially important.</p>
-</li>
-<li><p>Stay positive. Reassure learners that this workshop is to practice a new skill together (or review it for those that have learned about it before), and that they are not expected to perform the task perfectly right away. There are no tests or quizzes, and there are no penalties for making mistakes or asking questions. All they need to do is be willing to try.</p>
-</li>
-<li><p>Encourage collaboration. Allow learners to work together, ask each other questions, and support each other, just like they can in a typical work setting.</p>
-</li>
-<li><p>Advocate for accessibility. When you are enthusiastic about making materials accessible to all, you invite your learners to share your enthusiasm and find greater motivation to participate in the workshop.</p>
-</li>
-<li><p>Allow learners to ask questions. Answer them as best you can using the resources provided. If you are unsure of the answer, offer to work with the learner later to find the answer together.</p>
-</li>
-</ul>
-<p>Keep the topic focused. Accessibility is a broad topic, and learning about it is an ongoing process. It&#39;s great for learners to be curious and have questions about various aspects of accessibility, but encourage them to investigate off-topic concepts after the workshop so that all learners can accomplish the goal of the workshop within the time you have available.</p>
-
-
-    
+    <p>This workshop can work with almost any size group, but is best suited for group sizes of around twelve participants. If you have more than that number, it may help to assign one or more additional facilitators to assist with answering learner questions and keeping the session organized.</p>
+    <h3 id="using-the-workshop-resources">Using the Workshop Resources</h3>
+    <p>Download all of the resources listed at the beginning of this guide. Each of them will help your workshop run as smoothly as possible.</p>
+    <p>Here is the purpose of each workshop resource:</p>
+    <ul>
+    <li><p>Workshop Presentation: The presentation has the information you will display to the learners, along with notes that will help you as the facilitator explain the content. The slide notes contain information on how much time each slide should take to cover, how to explain the content on the screen, and how to answer common questions the learners may have.</p>
+    </li>
+    <li><p>Workshop Presentation Outline: This document has the same content as the presentation slides and notes, except that this document is formatted as a plain, text-only list of bullet points. This alternative format of the presentation is for those that want to reference the slide notes without navigating to them in the presentation, or who may want to print out a text-only version of the content. This document is optimized for screen reader users.</p>
+    </li>
+    <li><p>Practice Document: The practice document is what you will use to demonstrate the techniques in the training, and it is what the learners will use to practice those steps. All workshop attendees should have a copy of this document downloaded before the workshop begins.</p>
+    </li>
+    </ul>
+    <h3 id="trainer-tips">Trainer Tips</h3>
+    <p>Whether this is your first or thousandth time running a workshop, here are some tips to help your workshop run smoothly.</p>
+    <ul>
+    <li><p>Speak slowly and clearly. Make sure that learners can hear and understand you, and can easily follow along with the content. If your workshop involves audio transcription or sign language interpretation, speaking clearly is especially important.</p>
+    </li>
+    <li><p>Stay positive. Reassure learners that this workshop is to practice a new skill together (or review it for those that have learned about it before), and that they are not expected to perform the task perfectly right away. There are no tests or quizzes, and there are no penalties for making mistakes or asking questions. All they need to do is be willing to try.</p>
+    </li>
+    <li><p>Encourage collaboration. Allow learners to work together, ask each other questions, and support each other, just like they can in a typical work setting.</p>
+    </li>
+    <li><p>Advocate for accessibility. When you are enthusiastic about making materials accessible to all, you invite your learners to share your enthusiasm and find greater motivation to participate in the workshop.</p>
+    </li>
+    <li><p>Allow learners to ask questions. Answer them as best you can using the resources provided. If you are unsure of the answer, offer to work with the learner later to find the answer together.</p>
+    </li>
+    </ul>
+    <p>Keep the topic focused. Accessibility is a broad topic, and learning about it is an ongoing process. It&#39;s great for learners to be curious and have questions about various aspects of accessibility, but encourage them to investigate off-topic concepts after the workshop so that all learners can accomplish the goal of the workshop within the time you have available.</p>
   </div>
-</div>div>
+</div>
 
-You can use these materials as-is, adapt them to fit your audience, or combine multiple workshops to create focused training sessions tailored to your organization’s needs.
+Finally, you can use these materials as-is, adapt them to fit your audience, or combine multiple workshops to create focused training sessions tailored to your organization’s needs.
 
 ## List of Workshops
 <div id="accordion-group-b" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
