@@ -21,6 +21,7 @@ resource-type: "Training"
 format: "HTML"
 created: 2025-08-12 
 updated: 2026-05-06
+exclude-changelog: true
 ---
 
 Web designers, developers, and content managers play a key role in ensuring websites and digital services are accessible, and conform to the <A href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
