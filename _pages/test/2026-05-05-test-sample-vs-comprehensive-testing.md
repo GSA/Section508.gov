@@ -421,7 +421,7 @@ Some items to consider when selecting a representative sample set include:
   </li>
   <li class="usa-icon-list__item">
      <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content">Using the same sample set to track improvements over time and use consistent testing methodologies.</div>
+    <div class="usa-icon-list__content">Using the same sample set to track improvements over time and use consistent <a href="{{site.baseurl}}/test/">testing methodologies</a>.</div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
