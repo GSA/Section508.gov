@@ -49,15 +49,15 @@ Use comprehensive testing when:
 
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">The system or ICT inventory is small enough to test every item practically.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">Section 508 conformance failures are considered high-risk.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">Precise results are required for Section 508 compliance reporting.</div>
   </li>
 </ul>
@@ -66,18 +66,18 @@ Use representative sample testing when:
 
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">The system or ICT inventory is too large for a complete review.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">The goal is to establish a baseline of Section 508 conformance across a broad range of assets.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">There is a need to balance precision with available resources.</div>
   </li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
     <div class="usa-icon-list__content">Ongoing improvements are being monitored over time.</div>
   </li>
 </ul>
@@ -192,7 +192,7 @@ Margin of error is the range within which the true value is likely to fall. A sm
 
 <div class="usa-accordion usa-accordion--bordered usa-accordion--multiselectable margin-top-4" data-allow-multiple>
   <h2 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">
+    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1" id="sample-size-formula">
       Sample Size Formula</button>
   </h2>
   <div id="a1" class="usa-accordion__content ">
@@ -302,7 +302,7 @@ To determine the z value for a given confidence level:
 
 <p> In practice, standard z-values are typically used, as shown in Table 2.</p>
 
-<table id="table-confidence" class="usa-table usa-table--borderless usa-table--striped">
+<table id="table-confidence" class="usa-table usa-table--borderless usa-table--striped width-full" >
 <caption>Table 2. Common confidence levels and associated z-value</caption>
   <thead>
     <tr>

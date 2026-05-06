@@ -20,6 +20,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2025-08-12 
+updated: 2026-05-06
 ---
 
 Web designers, developers, and content managers play a key role in ensuring websites and digital services are accessible, and conform to the <A href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
@@ -56,6 +57,17 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
       <strong>Color Contrast Analyzer (CCA)</strong> is a free open-source tool that displays the contrast ratio for two selected colors. It is especially useful when contrast cannot be programmatically identified by ANDI.  
       <div>
         <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Download CCA for Windows or macOS</a>
+      </div>
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Sample Size Calculator</strong>, assists in determining the necessary sample size by factoring in population, confidence intervals, and margin of error.  
+      <div>
+        Use the <a href="{{site.pageurl}}/test/sample-vs-comprehensive-testing//#sample-size-calculator" target="_blank" class="usa-link--external">Sample Size Calculator</a>
       </div>
     </div>
   </li>
