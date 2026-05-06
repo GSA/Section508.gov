@@ -47,16 +47,40 @@ The decision between these two approaches depends on the return on investment (R
 
 Use comprehensive testing when:
 
-* The system or ICT inventory is small enough to test every item practically.  
-* Section 508 conformance failures are considered high-risk.  
-* Precise results are required for Section 508 compliance reporting.
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">The system or ICT inventory is small enough to test every item practically.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">Section 508 conformance failures are considered high-risk.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">Precise results are required for Section 508 compliance reporting.</div>
+  </li>
+</ul>
 
 Use representative sample testing when:
 
-* The system or ICT inventory is too large for a complete review.  
-* The goal is to establish a baseline of Section 508 conformance across a broad range of assets.  
-* There is a need to balance precision with available resources.  
-* Ongoing improvements are being monitored over time.
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">The system or ICT inventory is too large for a complete review.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">The goal is to establish a baseline of Section 508 conformance across a broad range of assets.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">There is a need to balance precision with available resources.</div>
+  </li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg></div>
+    <div class="usa-icon-list__content">Ongoing improvements are being monitored over time.</div>
+  </li>
+</ul>
 
 ## Illustrative Example: Website Testing
 
@@ -131,7 +155,8 @@ The reliability and precision of your findings depends on sample size, confidenc
       type="button"
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="sample-size-calculator-panel-1">
+      aria-controls="sample-size-calculator-panel-1"
+      id="sample-size-calculator">
       Sample size calculator
     </button>
   </h3>
@@ -377,13 +402,31 @@ If the population size is known (for example, N = 1,000 web pages), the adjusted
 Determining your sample size depends on available resources, project scope, and the risk associated with Section 508 defects, which will help inform the best approach for sampling.
 
 Some items to consider when selecting a representative sample set include:
-<ul>
-<li>Prioritizing high traffic and high risk products.</li>
-<li>Prioritizing critical functions and user paths to ensure testing of content users need most.</li>
-<li>Ensuring different content types, components, and elements are included, such as text, forms, documents, dynamic pages, media, navigation, and tables. For instance, identify content variations across web pages and test a representative variety of those pages.</li> 
-<li>Avoiding repetitive testing of the same content type, as this may not accurately reflect your entire ICT inventory.</li>
-<li>Using the same sample set to track improvements over time and use consistent <a href="{{site.baseurl}}/test/"> testing methodologies</a>.</li> 
-<li>Clearly record how you selected the sample and what confidence level and margin of error apply.</li>
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Prioritizing high traffic and high risk products.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Prioritizing critical functions and user paths to ensure testing of content users need most.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Ensuring different content types, components, and elements are included, such as text, forms, documents, dynamic pages, media, navigation, and tables. For instance, identify content variations across web pages and test a representative variety of those pages.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Avoiding repetitive testing of the same content type, as this may not accurately reflect your entire ICT inventory.</div>
+  </li>
+  <li class="usa-icon-list__item">
+     <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Using the same sample set to track improvements over time and use consistent testing methodologies.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__content">Clearly record how you selected the sample and what confidence level and margin of error apply.</div>
+  </li>
 </ul>
 
 <table id="table-approaches-to-confidence" class="usa-table usa-table--borderless usa-table--striped">
