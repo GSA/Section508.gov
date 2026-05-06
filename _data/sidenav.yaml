@@ -520,6 +520,8 @@ test:
         url: 'test/testing-overview/'
       - name: ICT Testing Baseline Portfolio
         url: 'test/ict-testing-baseline-portfolio/'
+      - name: Sample vs Comprehensive Section 508 Conformance Testing
+        url: test/sample-vs-comprehensive-testing/
       - name: Trusted Tester
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
