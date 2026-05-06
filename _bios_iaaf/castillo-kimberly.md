@@ -6,7 +6,7 @@ first_name: Kimberly
 last_name: Castillo
 affiliation_long: Federal Transit Administration
 affiliation_short: FTA
-position: Section 508 Program Manager
+position: Section 508 Compliance Officer
 office: 
 location: Washington, D.C.
 email: 
