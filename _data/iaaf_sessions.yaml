@@ -1911,6 +1911,9 @@ iaaf_2026:
         roles: 
           - name: Presenter
             who: iglesias-florence
+        roles: 
+          - name: Presenter
+            who: fleetwood-michael
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
@@ -1986,6 +1989,8 @@ iaaf_2026:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: castillo-kimberly #bio_id for this person
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: gower-michael #bio_id for this person  
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
