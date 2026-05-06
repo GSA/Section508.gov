@@ -68,7 +68,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
     <div class="usa-icon-list__content">
       <strong>Sample Size Calculator</strong>, assists in determining the necessary sample size by factoring in population, confidence intervals, and margin of error.  
       <div>
-        Use the <a href="{{site.pageurl}}/test/sample-vs-comprehensive-testing/#sample-size-calculator" target="_blank" class="usa-link--external">Sample Size Calculator</a>
+        Use the <a href="{{site.baseurl}}/test/sample-vs-comprehensive-testing/#sample-size-calculator" target="_blank" class="usa-link--external">Sample Size Calculator</a>
       </div>
     </div>
   </li>
