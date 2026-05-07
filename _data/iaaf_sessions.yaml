@@ -1910,7 +1910,9 @@ iaaf_2026:
         room:
         roles: 
           - name: Presenter
-            who: iglesias-florence
+            who: iglesias-florence  
+          - name: Presenter
+            who: fleetwood-matthew  
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
@@ -1946,7 +1948,7 @@ iaaf_2026:
         time_end: 2026-05-22 10:00:00
         session_id: day2
         subtitle: Keys to Successful Executive Engagement
-        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 initiatives.
+        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 Programs and initiatives.
         room: 
         roles:
           - name: 
@@ -1985,7 +1987,9 @@ iaaf_2026:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: castillo-kimberly #bio_id for this person
+            who: castillo-kimberly   #bio_id for this person
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: gower-michael #bio_id for this person  
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
             file_name: #-IAAF%202026.pptx
