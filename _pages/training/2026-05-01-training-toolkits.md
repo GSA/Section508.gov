@@ -145,7 +145,7 @@ The workshops are a type of “turn-key training,” which means that they allow
 Finally, you can use these materials as-is, adapt them to fit your audience, or combine multiple workshops to create focused training sessions tailored to your organization’s needs.
 
 ## List of Workshops
-<div id="accordion-group-b" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
+<div id="accordion-group-b" class="usa-accordion usa-accordion--bordered" data-allow-multiple>
   <h3 class="usa-accordion__heading"><button id="links-list" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b1">Lists and Links</button></h3>
   <div id="b1" class="usa-accordion__content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
