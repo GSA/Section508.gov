@@ -62,7 +62,7 @@ The workshops are targeted at teams that create federal government documents, wh
 
 The workshops are a type of “turn-key training,” which means that they allow anyone to use the materials provided to run workshops themselves, regardless of experience or expertise. You do not need to be a supervisor, accessibility expert, or professional trainer to facilitate this workshop. All of the resources, answers, and steps are included in intructor guide within each workshop. If you have a willingness to put in the effort and support your team, you can help them implement real accessibility practices into their workplace routines.
 ## General Instructions
-<div id="accordion-group-a" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
+<div id="accordion-group-a" class="usa-accordion usa-accordion--bordered">
   <h3 class="usa-accordion__heading"><button id="prepping-workshop" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Preparing to Run Your Workshop</button></h3>
   <div id="a1" class="usa-accordion__content">
     <p>Review the information in this section to accomplish all tasks that must be completed before you can run your workshop.</p>
