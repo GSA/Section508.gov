@@ -224,9 +224,10 @@ Finally, you can use these materials as-is, adapt them to fit your audience, or 
         </div>
       </div>
     </div>
-    <p>This workshop is part of a series designed to allow teams to run their own hands-on sessions where they can learn about and practice specific accessibility techniques. If you would like to facilitate one of these workshops for your own team, follow the instructions in this guide.</p>
-    <H4>Additional Resources</h4>
     <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+      <p>This workshop is part of a series designed to allow teams to run their own hands-on sessions where they can learn about and practice specific accessibility techniques. If you would like to facilitate one of these workshops for your own team, follow the instructions in this guide.</p>
+    </div>
+    <H4>Additional Resources</h4>
     <p>Refer to the following resources for additional information:</p>
     <ul>
       <li>Running the workshop
@@ -248,7 +249,6 @@ Finally, you can use these materials as-is, adapt them to fit your audience, or 
         </ul>
       </li>
     </ul>
-    </div>
   </div>
   <!-- -->
   <h3 class="usa-accordion__heading">
