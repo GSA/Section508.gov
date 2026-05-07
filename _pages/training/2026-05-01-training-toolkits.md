@@ -37,23 +37,23 @@ You do not need to create your own curriculum. Use these resources to lead struc
 Each workshop kit may include:
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up-alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content"><strong>Instructor guidance</strong></div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up-alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content"><strong>Presentation slides</strong></div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up-alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content"><strong>Demonstration examples</strong></div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up-alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content"><strong>Practice activities</strong></div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up-alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content"><strong>Reference materials</strong></div>
   </li>
 </ul>
