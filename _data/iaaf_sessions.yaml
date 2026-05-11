@@ -1941,7 +1941,7 @@ iaaf_2026:
         session_id: day2welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: horton_michael #bio_id for this person
+            who: michael-horton #bio_id for this person
       - name: 
         type: 
         time_start: 2026-05-22 09:35:00
