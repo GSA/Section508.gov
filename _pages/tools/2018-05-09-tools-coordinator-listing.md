@@ -174,7 +174,8 @@ Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Anita Walker - <anita.walker@darpa.mil>    
+Tabatha Thompson - <tabatha.thompson@darpa.mil>  
+Tom Sakell (Deputy) - <thomas.sakell.ctr@darpa.mil>  
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -443,7 +444,7 @@ Alisha Hurtado - <alisha.hurtado@usdoj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
-Scott Jenkins - <scott.jenkins@usdoj.gov>
+Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
 ### Justice Management Division
