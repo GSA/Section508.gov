@@ -123,7 +123,7 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
 ## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
   <h3 class="usa-accordion__heading">
-    <button id="accommodations" type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="m-access"
+    <button id="access" type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="m-access"
     >Accessing the GSA Headquarters Building</button>
   </h3>
   <div id="m-access" class="usa-accordion__content">
