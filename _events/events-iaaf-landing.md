@@ -73,7 +73,7 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <div class="grid-col tablet:grid-col-10">Attendance to this event is offered at no cost</div>
     </div>
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-2"><strong>Accommodation: </strong></div>
+      <div class="grid-col tablet:grid-col-2"><strong>Access: </strong></div>
       <div class="grid-col tablet:grid-col-10">ASL and CART available for this fregrance-free event. See <a href="#accommodations">Accessibility Accommodations and Services</a> for more information.</div>
     </div>
   </div>
