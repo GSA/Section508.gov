@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-04-14
+updated: 2026-05-11
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -551,8 +551,8 @@ Michael Jones - <jonesmw@cdfi.treas.gov>
 ### Financial Crimes Enforcement Network (FINCEN)
 Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
-Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
-Terri A. Triggs - <terri.a.triggs@irs.gov>  
+Jarrad	J.	Davenport	<jarrad.j.davenport@irs.gov>  
+Pamela	L.	Shavers	<pamela.l.shavers@irs.gov>  
 ### Office of the Inspector General
 Tracy George - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
