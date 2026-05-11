@@ -82,13 +82,13 @@ exclude-changelog: true
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 id="resources-for-captions" dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
-<li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
-<li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-<ul>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
-</ul>
-<li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
+    <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
+    <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
+    <ul>
+        <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
+        <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
+    </ul>
+    <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 </div>
 <br />
@@ -285,10 +285,9 @@ exclude-changelog: true
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
 <ul>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
+    <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
+    <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
 </ul>
-</li>
 <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 <p dir="ltr"><strong>Audio Description</strong></p>
