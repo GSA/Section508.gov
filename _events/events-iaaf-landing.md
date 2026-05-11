@@ -72,6 +72,10 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
       <div class="grid-col tablet:grid-col-2"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-10">Attendance to this event is offered at no cost</div>
     </div>
+    <div class="grid-row">
+      <div class="grid-col tablet:grid-col-2"><strong>Accommodation: </strong></div>
+      <div class="grid-col tablet:grid-col-10">ASL and CART available for this fregrance-free event. See <a href="#accommodations">Accessibility Accommodations and Services</a> for more information.</div>
+    </div>
   </div>
   <div class="display:none tablet:grid-col-3 text-center">
     <a href="#how-to-register"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:150px"></a>
@@ -154,7 +158,12 @@ Section 508 Program Manager are invited to join us in person after the 2026 IAAF
     >Accessibility Accommodations and Services</button>
   </h3>
   <div id="m-b0" class="usa-accordion__content">
-    <p>American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.</p>
+    <p>To support an accessible experience for all attendees, the following accommodations and resources will be provided:</p>
+    <ul>
+      <li>American Sign Language (ASL) interpretation and Real-Time Captioning (CART) will be available in all sessions.</li>
+      <li>Electronic documents will be available for download from the <a href="">agenda</a> prior to the day of the session.</li>
+      <li>This event is fragrance-free. Attendees are encouraged to avoid wearing scented products, such as perfumes, colognes, and strongly scented personal care products.</li>
+    </ul>
     <p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
   </div>
   <h3 class="usa-accordion__heading">
