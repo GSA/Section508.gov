@@ -13,3 +13,4 @@ email:
 image_url: /assets/images/bio-images/fleetwood-matthew.jpg
 iaaf_years: 2026
 ---
+Matt Fleetwood is a Senior Software Developer at ICF. His career spans embedded systems, computer vision, and AI/ML. He holds a B.S. in Computer Engineering from Portland State University.
