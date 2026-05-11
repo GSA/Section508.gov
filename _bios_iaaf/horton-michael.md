@@ -13,8 +13,8 @@ email: michael.horton@gsa.gov
 image_url: /assets/images/bio-images/horton-michael.jpg
 iaaf_years: 2022, 2023, 2024, 2025, 2026
 ---
-Michael Horton is a Senior ICT Accessibility Specialist with the Office of Government-wide Policy at the General Services Administration (GSA) providing technical assistance to federal agencies on Section 508. He also serves as the Co-chair of the CIO Council (CIOC) Accessibility Community of Practice (ACOP) Best-Practices Subcommittee.
- 
-Mr. Horton is an accessibility and technology professional with nearly 30 years of experience in web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and digital accessibility advocate who joined the General Services Administration, Government-wide IT Accessibility Program in 2018 to support agencies in their efforts to ensure independence and the dignity of work for people with disabilities.
- 
-Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and as a software engineer, front-end web developer, partner advocate, and online policy and compliance specialist at America Online.
+Michael Horton is a Senior ICT Accessibility Specialist within the Office of Government-wide Policy at the U.S. General Services Administration (GSA), where he provides technical assistance and strategic guidance to federal agencies on Section 508 compliance and digital accessibility.
+
+He is an experienced accessibility and technology professional with over 30 years of expertise in web-based application development, accessibility engineering, and digital policy compliance. A compliance subject matter expert and DHS Certified Trusted Tester, Michael is a long-standing advocate for digital inclusion and joined GSA’s Government-wide IT Accessibility Program in 2018 to help agencies advance equitable access, independence, and dignity in federal services and workplaces for people with disabilities.
+
+Prior to GSA, Michael served for eight years as the Section 508 Program Manager at the Federal Emergency Management Agency (FEMA), where he led agency-wide accessibility compliance efforts. Earlier in his career, he held roles as a software engineer, front-end web developer, partner advocate, and online policy and compliance specialist at America Online (AOL), building a foundation that bridges technical implementation with accessibility governance and user-centered design.
