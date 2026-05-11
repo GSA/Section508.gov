@@ -84,10 +84,6 @@ exclude-changelog: true
 <ul>
     <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
     <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-    <ul>
-        <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-        <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
-    </ul>
     <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 </div>
@@ -277,17 +273,13 @@ exclude-changelog: true
 <p dir="ltr">Below is a consolidated list of the resources referenced on this page along with some additional resources.&nbsp;</p>
 <p dir="ltr"><strong>General/Additional</strong></p>
 <ul>
-<li dir="ltr"><a href="{{site.baseurl}}/content/guide-accessible-web-design-development#synchronized_media">Guide to Accessible Web Design &amp; Development: Synchronized Media</a></li>
+<li dir="ltr"><a href="{{site.baseurl}}/develop/guide-accessible-web-design-development#synchronized_media">Guide to Accessible Web Design &amp; Development: Synchronized Media</a></li>
 <li dir="ltr"><a class="ext" href="https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&amp;currentsidebar=%23col_overview&amp;levels=aaa#principle1">How to Meet WCAG (Quick Reference)</a> - W3C</li>
 <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
 </ul>
 <p dir="ltr"><strong>Captions</strong></p>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
-<ul>
-    <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-    <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
-</ul>
 <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 <p dir="ltr"><strong>Audio Description</strong></p>
