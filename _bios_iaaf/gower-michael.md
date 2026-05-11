@@ -4,8 +4,8 @@ bio_id: gower-michael
 display_name: Michael Gower
 first_name: Michael
 last_name: Gower
-affiliation_long: Federal Transit Administration
-affiliation_short: FTA
+affiliation_long: Guidehouse
+affiliation_short: 
 position: Video Production
 office: 
 location: 
