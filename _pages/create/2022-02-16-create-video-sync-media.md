@@ -88,7 +88,6 @@ exclude-changelog: true
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
 </ul>
-</li>
 <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 </div>
