@@ -1822,7 +1822,7 @@ iaaf_2026:
           - name: Presenter
             who: okeefe-david #bio_id for this person 
         downloads:
-          - link_name: Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX) 
+          - link_name: "Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx
       - name: 'Break'
         type: break
@@ -1842,7 +1842,7 @@ iaaf_2026:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: ghoston-ameenah 
         downloads:
-        - link_name: Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)
+        - link_name: "Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
           file_name: https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
       - name: 'Lunch'
         type: break
@@ -1877,7 +1877,7 @@ iaaf_2026:
           - name: Presenters
             who: sharma-siddhartha
         downloads:
-          - link_name: The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)
+          - link_name: "The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx
       - name: 'Break'
         type: break
@@ -1905,7 +1905,7 @@ iaaf_2026:
         time_start: 2026-05-21 16:00:00
         time_end: 2026-05-21 16:45:00
         session_id: day1session6
-        subtitle: "Beyond the Checklist&colon; Revolutionizing PDF Accessibility with Generative AI"
+        subtitle: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI"
         description: Accessibility shouldn’t be an afterthought, but manual remediation is a notorious bottleneck. In this session, we’ll go behind the scenes of a new AI-powered tool designed to automatically detect and fix Section 508 compliance issues in PDF documents. We will explore how we moved from a traditional deterministic approach to leveraging AWS Bedrock to handle complex ICT baselines like reading order, sensory characteristics, and data tables. Discover the "Why" behind this initiative, how we secured leadership buy-in, and how we integrated these capabilities directly into the FTAi portal to ensure digital equity at scale.
         room:
         roles: 
@@ -1914,7 +1914,7 @@ iaaf_2026:
           - name: Presenter
             who: fleetwood-matthew  
         downloads:
-          - link_name: Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)
+          - link_name: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
       - name: 'Closing Remarks - Day 1' 
         type: welcome
@@ -1947,7 +1947,7 @@ iaaf_2026:
         time_start: 2026-05-22 09:35:00
         time_end: 2026-05-22 10:00:00
         session_id: day2
-        subtitle: Keys to Successful Executive Engagement
+        subtitle: "Keys to Successful Executive Engagement"
         description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 Programs and initiatives.
         room: 
         roles:
@@ -1969,7 +1969,7 @@ iaaf_2026:
           - name: Presenter
             who: chong-owen
         downloads:
-          - link_name: Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)
+          - link_name: "Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx
       - name: 'Break'
         type: break
@@ -1991,7 +1991,7 @@ iaaf_2026:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: gower-michael #bio_id for this person  
         downloads:
-          - link_name: Beyond the Checklist&colon; Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX) 
+          - link_name: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
       - name: 'IAAF Closing Remarks'
         type: welcome
