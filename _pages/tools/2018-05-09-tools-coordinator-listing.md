@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-title: 'Find Your Section 508 Program Manager'
+title: "Find Your Section 508 Program Manager"
 permalink: tools/program-manager-listing/
 description: "Find your agency’s Section 508 Program Manager using this official U.S. government directory. Connect with accessibility leads to support IT compliance with federal accessibility standards."
 redirect_from:
@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-05-11
+updated: 2026-05-12
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -851,7 +851,7 @@ Shola	Kalejaiye - <skalejaiye@osc.gov>
 <span id="P"></span>
 
 ### Peace Corps (PC)
-Jennifer Hawkins - <accessibility@peacecorps.gov>  
+Karen Barbuschak - <kbarbuschak@peacecorps.gov>  
 
 ---
 ### Pension Benefit Guaranty Corporation (PBGC)

@@ -1737,7 +1737,7 @@ iaaf_2025:
         time_start: 2025-05-21 14:15:00
         time_end: 2025-05-21 15:15:00
         session_id: day2session4
-        subtitle: Navigating Federal Acquisitions&colon; Buying Accessible Tech
+        subtitle: "Navigating Federal Acquisitions: Buying Accessible Tech"
         description: Federal acquisitions can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle. Learn practices that mutually benefit Government and Industry when buying accessible technology.
         room:
         roles: 
@@ -1822,8 +1822,8 @@ iaaf_2026:
           - name: Presenter
             who: okeefe-david #bio_id for this person 
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 10:45:00
@@ -1842,8 +1842,8 @@ iaaf_2026:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: ghoston-ameenah 
         downloads:
-        - link_name: #-IAAF 2026 (PPTX) 
-          file_name: #-IAAF%202026.pptx
+        - link_name: #"Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)"
+          file_name: #https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
       - name: 'Lunch'
         type: break
         time_start: 2026-05-21 12:00:00
@@ -1863,8 +1863,8 @@ iaaf_2026:
           - name: Presenter
             who: ghoston-ameenah
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 14:00:00
@@ -1877,8 +1877,8 @@ iaaf_2026:
           - name: Presenters
             who: sharma-siddhartha
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 15:00:00
@@ -1898,8 +1898,8 @@ iaaf_2026:
           - name: Presenters
             who: antonio-haileselassie
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 16:00:00
@@ -1914,8 +1914,8 @@ iaaf_2026:
           - name: Presenter
             who: fleetwood-matthew  
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
       - name: 'Closing Remarks - Day 1' 
         type: welcome
         time_start: 2026-05-21 16:45:00
@@ -1947,7 +1947,7 @@ iaaf_2026:
         time_start: 2026-05-22 09:35:00
         time_end: 2026-05-22 10:00:00
         session_id: day2
-        subtitle: Keys to Successful Executive Engagement
+        subtitle: "Keys to Successful Executive Engagement"
         description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 Programs and initiatives.
         room: 
         roles:
@@ -1964,13 +1964,13 @@ iaaf_2026:
         description: The Federal Acquisition Lifecycle can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle is achieved, maintained, and documented. This presentation includes sharing best practices on navigating and documenting the applicability of Section 508/digital accessibility standards, including determining Section 508 exceptions.
         room:
         roles: 
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: betsy-sirk 
-          - name: 
+          - name: Presenter
             who: chong-owen
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #"Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-22 11:00:00
@@ -1991,8 +1991,8 @@ iaaf_2026:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: gower-michael #bio_id for this person  
         downloads:
-          - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+          - link_name: #" - IAAF 2026 (PPTX)"
+            file_name: #.pptx
       - name: 'IAAF Closing Remarks'
         type: welcome
         time_start: 2026-05-22 11:55:00
