@@ -78,7 +78,7 @@ For more information, contact <section.508@gsa.gov>
  [4]: {{site.baseurl}}/buy/request-accessibility-information
  [5]: https://www.section508.gov/~assets/files/guidance-on-acquisition-for-accessible-eit-20150921.docx
  [6]: {{site.baseurl}}/buy/define-accessibility-criteria
- [7]: https://www.section508.gov/~assets/files/revised-508-standards-applicability-checklist-%287%29.docx
+ [7]: https://www.section508.gov/~assets/files/revised-508-standards-applicability-checklist.docx
  [8]: {{site.baseurl}}/buy/standards-exceptions
  [9]: https://www.peatworks.org/
  [10]: http://www.peatworks.org/Buy-IT

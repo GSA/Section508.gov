@@ -2568,8 +2568,8 @@
   resource-type: "Process & How-To"
   format: "Document (DOCX)"
 
-- filename: "ms-word-accessibility-checklist-(alternate-description).pdf"
-  permalink: "https://www.section508.gov/~assets/files/ms-word-accessibility-checklist-%28alternate-description).pdf"
+- filename: "ms-word-accessibility-checklist-alternate-description.pdf"
+  permalink: "https://www.section508.gov/~assets/files/ms-word-accessibility-checklist-alternate-description.pdf"
   title: "MS Word Accessibility Checklist (Alternate Description)"
   description: "Use this resource to create, test, or remediate accessible documents."
   topic: "Create"
@@ -2648,8 +2648,8 @@
   resource-type: "Tool"
   format: "Spreadsheet (XLSX)"
 
-- filename: "pdf-accessibility-checklist-(alternate-description).pdf"
-  permalink: "https://www.section508.gov/~assets/files/pdf-accessibility-checklist-%28alternate-description).pdf"
+- filename: "pdf-accessibility-checklist-alternate-description.pdf"
+  permalink: "https://www.section508.gov/~assets/files/pdf-accessibility-checklist-alternate-description.pdf"
   title: "PDF Accessibility Checklist (Alternate Description)"
   description: "Use this resource to create, test, or remediate accessible pdfs."
   topic: "Create"
@@ -2868,18 +2868,8 @@
   resource-type: "Tool"
   format: "Document (PDF)"
 
-- filename: "sections-of-the-rehabilitation-act-of-1973-(itacm-aug_2020).pptx"
+- filename: "sections-of-the-rehabilitation-act-of-1973-itacm-aug_2020.pptx"
   permalink: "https://www.section508.gov/~assets/files/sections-of-the-rehabilitation-act-of-1973-itacm-aug_2020.pptx"
-  title: "Sections of the Rehabilitation Act of 1973 (ITACM Aug 2020)"
-  description: "Download the IT Accessibility Community Meeting material for Sections of the Rehabilitation Act of 1973 (ITACM Aug 2020)."
-  topic: "Events"
-  sub-topic: "IT Accessibility Community Meeting"
-  audience: "Section 508 Program Managers"
-  resource-type: "Training"
-  format: "Presentation (PPTX)"
-
-- filename: "sections-of-the-rehabilitation-act-of-1973-(itacm-aug_2020).pptx"
-  permalink: "https://www.section508.gov/~assets/files/sections-of-the-rehabilitation-act-of-1973-%28itacm-aug_2020).pptx"
   title: "Sections of the Rehabilitation Act of 1973 (ITACM Aug 2020)"
   description: "Download the IT Accessibility Community Meeting material for Sections of the Rehabilitation Act of 1973."
   topic: "Events"
@@ -3228,8 +3218,8 @@
   resource-type: "Process & How-To"
   format: "Document (PDF)"
 
-- filename: "web-based-information,-documentation-and-support.pdf"
-  permalink: "https://www.section508.gov/~assets/files/web-based-information%2C-documentation-and-support.pdf"
+- filename: "web-based-information-documentation-and-support.pdf"
+  permalink: "https://www.section508.gov/~assets/files/web-based-information-documentation-and-support.pdf"
   title: "Web Based Information, Documentation and Support"
   description: "Use this guidance to consider Section 508 requirements for web based information, documentation and support."
   topic: "Buy"
@@ -3367,7 +3357,7 @@
   format: "DOCX"
 
 - filename: "accessibility-of-ict-for-government-executives-v2-0-1-report-1.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/accessibility-of-ict-for-government-executives-v2-0-1-report-1.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/accessibility-of-ict-for-government-executives-v2-0-1-report-1.yaml"
   title: "ACR for ACR for Accessibility of ICT for Government Executives (YAML)"
   description: "Access the machine-readable YAML version of the Accessibility Conformance Report for the Accessibility of ICT for Government Executives course."
   topic: "Buy"
@@ -3378,7 +3368,7 @@
   format: "YAML"
 
 - filename: "accessibility-of-ict-for-government-executives-v2-0-1-report-1.html"
-  permalink: "https://www.section508.gov/~assets/acr/accessibility-of-ict-for-government-executives-v2-0-1-report-1.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/accessibility-of-ict-for-government-executives-v2-0-1-report-1.html"
   title: "ACR for Accessibility of ICT for Government Executives (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Accessibility Conformance Report for the Accessibility of ICT for Government Executives course."
   topic: "Buy"
@@ -3389,7 +3379,7 @@
   format: "ZIP"
 
 - filename: "acr-editor-v1-0-report-2.html"
-  permalink: "https://www.section508.gov/~assets/acr/acr-editor-v1-0-report-2.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/acr-editor-v1-0-report-2.html"
   title: "ACR for ACR for ACR Editor v1.0 Report 2 (HTML)"
   description: "View a readable, structured HTML version of the Accessibility Conformance Report for the ACR Editor, a web-based authoring tool that helps accessibility professionals create machine-readable OpenACR reports aligned with WCAG 2.1 and Revised Section 508 standards."
   topic: "Buy"
@@ -3400,7 +3390,7 @@
   format: "HTML"
 
 - filename: "acr-editor-v1-0-report-2.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/acr-editor-v1-0-report-2.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/acr-editor-v1-0-report-2.yaml"
   title: "ACR for ACR Editor v1.0 Report 2 (YAML)"
   description: "Access the machine-readable YAML version of the Accessibility Conformance Report for the ACR Editor, a web-based authoring tool that helps accessibility professionals create OpenACR reports aligned with WCAG 2.1 and Revised Section 508 standards."
   topic: "Buy"
@@ -3411,7 +3401,7 @@
   format: "YAML"
 
 - filename: "acr-editor-v1-0-report-2.zip"
-  permalink: "https://www.section508.gov/~assets/acr/acr-editor-v1-0-report-2.zip"
+  permalink: "https://www.section508.gov/~assets/files/acr/acr-editor-v1-0-report-2.zip"
   title: "ACR for ACR Editor v1.0 Report 2 (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Accessibility Conformance Report for the ACR Editor, a web-based authoring tool that helps accessibility professionals create machine-readable OpenACR reports aligned with WCAG 2.1 and Revised Section 508 standards."
   topic: "Buy"
@@ -3422,7 +3412,7 @@
   format: "ZIP"
 
 - filename: "micro-purchases-and-section-508-requirements-v3-0-report-3.html"
-  permalink: "https://www.section508.gov/~assets/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.html"
   title: "ACR for Micro-Purchases and Section 508 Requirements (HTML)"
   description: "View a readable, structured HTML version of the Accessibility Conformance Report for the Micro-Purchases and Section 508 Requirements course."
   topic: "Buy"
@@ -3433,7 +3423,7 @@
   format: "HTML"
 
 - filename: "micro-purchases-and-section-508-requirements-v3-0-report-3.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.yaml"
   title: "ACR for Micro-Purchases and Section 508 Requirements (YAML)"
   description: "Access the machine-readable YAML version of the Accessibility Conformance Report for the Micro-Purchases and Section 508 Requirements course."
   topic: "Buy"
@@ -3444,7 +3434,7 @@
   format: "YAML"
 
 - filename: "micro-purchases-and-section-508-requirements-v3-0-report-3.zip"
-  permalink: "https://www.section508.gov/~assets/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.zip"
+  permalink: "https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-report-3.zip"
   title: "ACR for Micro-Purchases and Section 508 Requirements (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Accessibility Conformance Report for the Micro-Purchases and Section 508 Requirements course."
   topic: "Buy"
@@ -3455,7 +3445,7 @@
   format: "ZIP"
 
 - filename: "ACR for Procuring Section 508 Conformant ICT Products and Services (HTML)"
-  permalink: "https://www.section508.gov/~assets/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.html"
   title: "ACR for Procuring Section 508 Conformant ICT Products and Services (HTML)"
   description: "View a readable, structured HTML version of the Procuring Section 508 Conformant ICT Products and Services course."
   topic: "Buy"
@@ -3466,7 +3456,7 @@
   format: "HTML"
 
 - filename: "procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.yaml"
   title: "ACR for Procuring Section 508 Conformant ICT Products and Services (YAML)"
   description: "Access the machine-readable YAML version of the Procuring Section 508 Conformant ICT Products and Services course."
   topic: "Buy"
@@ -3477,7 +3467,7 @@
   format: "YAML"
 
 - filename: "procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.zip"
-  permalink: "https://www.section508.gov/~assets/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.zip"
+  permalink: "https://www.section508.gov/~assets/files/acr/procuring-section-508-conformant-ict-products-and-services-v1-0-report-3.zip"
   title: "ACR for Procuring Section 508 Conformant ICT Products and Services (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Procuring Section 508 Conformant ICT Products and Services course."
   topic: "Buy"
@@ -3488,7 +3478,7 @@
   format: "ZIP"
 
 - filename: "section-508-what-is-it-and-why-is-it-important-v4-1-report-4.html"
-  permalink: "https://www.section508.gov/~assets/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.html"
   title: "ACR for Section 508: What Is It and Why Is It Important? (HTML)"
   description: "View a readable, structured HTML version of the Section 508: What Is It and Why Is It Important course."
   topic: "Buy"
@@ -3499,7 +3489,7 @@
   format: "HTML"
 
 - filename: "section-508-what-is-it-and-why-is-it-important-v4-1-report-4.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.yaml"
   title: "ACR for Section 508: What Is It and Why Is It Important? (YAML)"
   description: "Access the machine-readable YAML version of the Section 508: What Is It and Why Is It Important course."
   topic: "Buy"
@@ -3510,7 +3500,7 @@
   format: "YAML"
 
 - filename: "section-508-what-is-it-and-why-is-it-important-v4-1-report-4.zip"
-  permalink: "https://www.section508.gov/~assets/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.zip"
+  permalink: "https://www.section508.gov/~assets/files/acr/section-508-what-is-it-and-why-is-it-important-v4-1-report-4.zip"
   title: "ACR for Section 508: What Is It and Why Is It Important? (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Section 508: What Is It and Why Is It Important course."
   topic: "Buy"
@@ -3521,7 +3511,7 @@
   format: "ZIP"
 
 - filename: "soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.html"
-  permalink: "https://www.section508.gov/~assets/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.html"
+  permalink: "https://www.section508.gov/~assets/files/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.html"
   title: "ACR for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement (HTML)"
   description: "View a readable, structured HTML version of the Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement course."
   topic: "Buy"
@@ -3532,7 +3522,7 @@
   format: "HTML"
 
 - filename: "soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.yaml"
-  permalink: "https://www.section508.gov/~assets/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.yaml"
+  permalink: "https://www.section508.gov/~assets/files/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.yaml"
   title: "ACR for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement (YAML)"
   description: "View a readable, structured HTML version of the Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement course."
   topic: "Buy"
@@ -3543,7 +3533,7 @@
   format: "YAML"
 
 - filename: "soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.zip"
-  permalink: "https://www.section508.gov/~assets/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.zip"
+  permalink: "https://www.section508.gov/~assets/files/acr/soliciting-and-evaluating-acrs-in-federal-ict-procurement-v1-0-report-5.zip"
   title: "ACR for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement (ZIP)"
   description: "View a readable, structured HTML version of the Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement course."
   topic: "Buy"
