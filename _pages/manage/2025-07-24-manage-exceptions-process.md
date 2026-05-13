@@ -845,13 +845,13 @@ Agencies that currently use business process or workflow automation tools may co
 
 Agencies that do not utilize such systems may opt for a forms-based approach, such as creating an online form or a fillable PDF that can be routed to the appropriate stakeholders for review and approval. For these cases, the following sample forms are provided for consideration:
 
-* <a href="https://www.section508.gov/~assets/files/e202-2-legacy-ict-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.2 Legacy ICT Exception Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-3-national-security-systems-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.3 National Security Exception Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-4-federal-contracts-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.4 Federal Contracts Exception Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-5-ict-functions-located-in-maintenance-or-monitoring-spaces-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.5 ICT Functions Located in Maintenance/Monitoring Spaces Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-6-fundamental-alteration-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.6 Fundamental Alteration Exception Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-6-undue-burden-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.6 Undue Burden Exception Request Form (DOCX)</a>
-* <a href="https://www.section508.gov/~assets/files/e202-7-best-meets-exception-request-and-authorization-form-%28sample).docx" target="_blank" class="usa-link--external">E202.7 Best Meets Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-2-legacy-ict-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.2 Legacy ICT Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-3-national-security-systems-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.3 National Security Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-4-federal-contracts-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.4 Federal Contracts Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-5-ict-functions-located-in-maintenance-or-monitoring-spaces-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.5 ICT Functions Located in Maintenance/Monitoring Spaces Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-6-fundamental-alteration-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.6 Fundamental Alteration Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-6-undue-burden-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.6 Undue Burden Exception Request Form (DOCX)</a>
+* <a href="https://www.section508.gov/~assets/files/e202-7-best-meets-exception-request-and-authorization-form-sample.docx" target="_blank" class="usa-link--external">E202.7 Best Meets Exception Request Form (DOCX)</a>
 
 ## Related Resources
 

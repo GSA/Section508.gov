@@ -59,9 +59,6 @@ Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel d
         <a href="https://www.section508.gov/~assets/files/ms-excel-2010-basic-authoring-guide-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Authoring Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://www.section508.gov/~assets/files/ms-excel-2010-printable-accessibility-checklist-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Basic Testing Checklist (DOCX)</a>
-      </li>
-      <li>
         <a href="https://www.section508.gov/~assets/files/ms-excel-2010-baseline-tests-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft Excel 2010 Baseline Tests for Accessible Electronic Documents (DOCX)</a>
       </li>
     </ul>
@@ -101,8 +98,8 @@ The resources in this section were developed by Federal agencies, and shared her
  [2]: https://www.section508.gov/~assets/files/ms-excel-2016-basic-authoring-and-testing-guide-aed-cop.docx
  [3]: https://www.section508.gov/~assets/files/ms-excel-2016-printable-accessibility-checklist-aed-cop.doc
  [4]: https://www.section508.gov/~assets/files/section-508-basic-authoring-guide-excel-2010_0.doc
- [5]: https://www.section508.gov/~assets/files/section-508-basic-accessibility-checklist_0.doc
- [6]: https://www.section508.gov/~assets/files/baseline_tests_for_docs_ms_excel_2010_accessibility_v__1-0-12-14-2015-f-_0.doc
+ [5]: https://www.section508.gov/~assets/files/section-508-basic-accessibility-checklist.doc
+ [6]: https://www.section508.gov/~assets/files/ms-excel-2010-baseline-tests-aed-cop.docx
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [9]: {{site.baseurl}}/create
  [10]: https://www.w3.org/WAI/train

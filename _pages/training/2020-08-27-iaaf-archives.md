@@ -28,12 +28,12 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 
 ### Presentations & Workshops
 * [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/gsa-section-508-activities-update-iaaf-2024.pptx)
-* [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/that-doesn't-Need-to-be-a-PDF---IAAF-2024.pptx)
+* [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/that-doesnt-need-to-be-a-pdf-iaaf-2024.pptx)
 * [Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF)](https://www.section508.gov/~assets/files/iaaf/2024/using-devtools-for-manual-accessibility-inspection-iaaf-2024.pdf)
-* [Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/exceptions-in-section-508-regulatory-language-%28usab)%20-%20IAAF%202024.pptx)
+* [Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/exceptions-in-section-508-regulatory-language-usab-iaaf-2024.pptx)
 * [Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/social-media-presentation-and-webinar-slides-iaaf-2024.pptx)
 * Meet ANDI - Coming soon.
-* [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/section-508-playbook-%28draft)%20-%20IAAF%202024.pptx)
+* [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/section-508-playbook-draft-iaaf-2024.pptx)
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
@@ -78,7 +78,7 @@ For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-202
 
 ### General Sessions
 * [Accessibility Maturity Models - IAAF 2022 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2022/accessibility-maturity-models-iaaf-2022.pptx)  
-* [Chair and Committee Members - IAAF 2022 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2022/chair-and-committee-members-iaaf-2022.pptx-)
+* [Chair and Committee Members - IAAF 2022 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2022/chair-and-committee-members-iaaf-2022.pptx)
 
 ### Breakout Sessions
 * **Track A: Lead Our Agencies Towards Access**

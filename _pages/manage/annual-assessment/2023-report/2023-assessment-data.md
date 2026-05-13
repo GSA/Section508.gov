@@ -31,7 +31,7 @@ To enhance the transparency of this report and respondent data, we have made the
 ## Assessment Criteria and Reporting Entity Responses
  * <a href="https://www.section508.gov/~assets/files/assessment/2023/fy23-governmentwide-section-508-assessment-data-dictionary-excel.xlsx" target="_blank" class="usa-link--external">FY 2023 Assessment Criteria and Data Dictionary (XLSX)</a>
 * <a href="https://www.section508.gov/~assets/files/assessment/2023/reporting-entity-response-data-for-fy23-government-wide-section-508-assessment.csv" target="_blank" class="usa-link--external">FY 2023 Reporting Entity Response Data (CSV)</a>
-* <a href="https://www.section508.gov/~assets/files/assessment/2023/reporting%2Bentity%2Bresponse%2Bdata%2Bjson%2Bfor%2Bfy23%2Bgovernment-wide%2Bsection%2B508%2Bassessment.json" target="_blank" class="usa-link--external">FY 2023 Reporting Entity Response Data (JSON)</a>
+* <a href="https://www.section508.gov/~assets/files/assessment/2023/reporting-entity-response-data-json-for-fy23-government-wide-section-508-assessment.json" target="_blank" class="usa-link--external">FY 2023 Reporting Entity Response Data (JSON)</a>
 
 ## Supplemental Analysis 
 

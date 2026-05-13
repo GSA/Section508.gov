@@ -24,7 +24,7 @@ The methods outlined in this section are the result of detailed discussions and 
 ## Development and Dissemination of Assessment Criteria
 OMB and GSA collaborated with Access Board and OSTP to refine the original pool of 150 criteria into a final, more targeted set of 105 Assessment criteria across 11 dimensions. See [Table C1](#table-c1) for a description of the 11 Assessment dimensions. We collectively determined the selected criteria best represented the current state of Section 508 compliance across the federal government and, through the establishment of a new baseline, presented an opportunity to analyze trends in future years. While some criteria were informed by the previous <a href="https://www.justice.gov/crt/page/file/1569331/download" target="_blank">Section 508 Report to the President and Congress: Accessibility of the Federal Electronic and Information Technology</a>, none were lifted verbatim. To help ascertain Section 508 Program maturity based on typical reporting entity practices, the team consulted four maturity models for the nine middle dimensions (i.e., those excluding General Information and Conformance Metrics):
 
-* [Intelligence Community IT Accessibility Program Maturity Model (PPTX)](https://www.section508.gov/~assets/files/iaaf/accessibility-maturity-models-iaaf-2022.pptx)
+* [Intelligence Community IT Accessibility Program Maturity Model (PPTX)](https://www.section508.gov/~assets/files/iaaf/2022/accessibility-maturity-models-iaaf-2022.pptx)
 
 * World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) <a href="https://www.w3.org/TR/maturity-model/" target="_blank">W3C Accessibility Maturity Model</a>
 

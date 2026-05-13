@@ -99,6 +99,7 @@ audience:
   - Web Content Managers
 
 resource-type:
+  - ACR
   - Article
   - Blog
   - Infographic
