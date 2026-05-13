@@ -988,16 +988,6 @@
   resource-type: "Training"
   format: "Document (DOCX)"
 
-- filename: "captioned-text-(itacm-apr2021)-(1).docx"
-  permalink: "https://www.section508.gov/~assets/files/captioned-text-%28itacm-apr2021)-(1).docx"
-  title: "Captioned Text (ITACM Apr 2021) (1)"
-  description: "Read the captioned text transcript for the IT Accessibility Community Meeting session (ITACM Apr 2021)."
-  topic: "Events"
-  sub-topic: "IT Accessibility Community Meeting"
-  audience: "Section 508 Program Managers"
-  resource-type: "Training"
-  format: "Document (DOCX)"
-
 - filename: "captioned-text-itacm-apr2022.docx"
   permalink: "https://www.section508.gov/~assets/files/captioned-text-itacm-apr2022.docx"
   title: "Captioned Text (ITACM Apr 2022)"
@@ -1128,8 +1118,8 @@
   resource-type: "Training"
   format: "Document (DOCX)"
 
-- filename: "captioned-text-(itacm-jun2024).docx"
-  permalink: "https://www.section508.gov/~assets/files/captioned-text-%28itacm-jun2024).docx"
+- filename: "captioned-text-itacm-jun2024.docx"
+  permalink: "https://www.section508.gov/~assets/files/captioned-text-itacm-jun2024.docx"
   title: "Captioned Text (ITACM Jun 2024)"
   description: "Read the captioned text transcript for the IT Accessibility Community Meeting session ."
   topic: "Events"
@@ -1529,7 +1519,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt1.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf-2020-accessibility-international-scale-pt1.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt1.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 1"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Part 1."
   topic: "Events"
@@ -1539,7 +1529,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt2.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf-2020-accessibility-international-scale-pt2.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt2.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 2"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Pt. 2."
   topic: "Events"
@@ -1549,7 +1539,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt3.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf-2020-accessibility-international-scale-pt3.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt3.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 3"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Pt. 3."
   topic: "Events"
