@@ -1,0 +1,202 @@
+---
+layout: wide
+sidenav: false
+type: training
+title: Interagency Accessibility Forum (IAAF) Event Agenda - 2026
+permalink: iaaf/archives/agenda-2026/
+description: View the agenda for the 2026 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
+redirect_from: 
+- iaaf/agenda-2026/
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+- Section 508 Testers
+- Web Content Managers
+topic: 
+- Events
+- Training
+subtopic: 
+- Best Practices
+- Training
+resource-type: 
+- Training
+format: HTML
+created: 2026-04-01
+updated: 
+featured: true
+---
+
+
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Future-Ready Accessibility: Preparing Government for What's Next. Logo and Seals for IAAF, GSA and the U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2026.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+
+<div class="program-header margin-bottom-2" style="margin-top: 2em;">
+  <b><span class="text-large">PROGRAM:</span> Day 1/Thursday, May 21st | <a href="#day2" title="Skip to Day 2 Program">Day 2/Friday, May 22nd</a></b>
+</div>
+
+{% for day in site.data.iaaf_sessions.iaaf_2026 %}
+  <!-- BEGIN DAY {{ day.day }} -->
+  <h2 class="font-body-lg" id="day{{ day.day }}">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
+  
+  <div class="usa-graphic-list__row container margin-bottom-6">
+    <!-- START AGENDA -->
+    {% for session in day.sessions %}
+    {% if session.type == "welcome" %}{% assign session-class = "navy" %}{% assign descr-class = "ltblue" %}{% endif %}
+    {% if session.type == "breakout" %}{% assign session-class = "brown-breakout" %}{% assign descr-class = "tan-breakout" %}{% endif %}
+    {% if session.type == "general" %}{% assign session-class = "olive" %}{% assign descr-class = "lt-olive" %}{% endif %}
+    {% if session.type == "keynote" %}{% assign session-class = "brown" %}{% assign descr-class = "lt-olive" %}{% endif %}
+    {% if session.type == "panel" %}{% assign session-class = "olive" %}{% assign descr-class = "lt-olive" %}{% endif %}
+          <!-- START SESSION ROW -->
+      {% if session.type == "break" %}
+      <div class="grid-row break">
+        <div class="grid-col-12 cell dark padding-1">{{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br><span class="session-type">{{ session.name }} {% if session.room != nil %} - {{ session.room }}{% endif %}</span></div>
+      </div>
+      {% else %}
+        <div class="grid-row">
+          <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="{{ session.session_id }}">
+            {{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br>
+            <span class="session-type">{{ session.name }}{% if session.type != "breakout" %}{% if session.room != nil %} - {{ session.room }}{% endif %}{% endif %}</span>
+          </div>
+            {% if session.type == "breakout" %}
+              <!-- BREAKOUT TRACK -->
+              {% for track in session.tracks %}
+                <div class="desktop:grid-col tablet:grid-col cell tan-breakout padding-1 agenda-description" id="{{ track.track_id }}">
+                  <div class="brown-breakout-header bbh-65">{{ track.name }}</div>
+                  <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ track.name_breakout }}</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ track.description }}</span>
+                  {% assign track_roles = track.roles | map: "name" | uniq %}
+                  {% for role in track_roles %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="session-type text-highlight">{{ role }}:</span>
+                    </div>
+                    {% assign this_role = track.roles | where: "name", role %}
+                    {% for item in this_role %}
+                      {% assign bio_id = item.who %}
+                      {% for bio in site.bios_iaaf %}
+                        {% if bio.bio_id == bio_id %}
+                        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
+                        </div>
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                  {% endfor %}
+                  {% if track.downloads[0].link_name != nil %}
+                  <!-- DOWNLOADS -->
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="session-type text-highlight margin-top-3">Downloads:</span>
+                    </div>
+                    {% for download in track.downloads %}
+                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                        <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      </div>
+                    {% endfor %}
+                  {% endif %}
+                  <!-- LOCATION -->
+                  {% if track.room != nil %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="session-type text-highlight margin-top-3">Location:</span>
+                    </div>
+                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                        <span class="speaker-name">{{ track.room }}</span>
+                      </div>                  
+                  {% endif %}
+                </div>
+              {% endfor %}
+            {% elsif session.type == "panel" %}
+            <!-- PANEL SESSION -->
+              <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
+                <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
+                <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
+                {% assign session_roles = session.roles | map: "name" | uniq %}
+                {% for role in session_roles %}
+                  {% if role != nil %}
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                    <span class="session-type text-highlight">{{ role }}:</span>
+                  </div>
+                  {% endif %}
+                  {% assign this_role = session.roles | where: "name", role %}
+                  {% for item in this_role %}
+                    {% assign bio_id = item.who %}
+                    {% for bio in site.bios_iaaf %}
+                      {% if bio.bio_id == bio_id %}
+                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                      </div>
+                      {% endif %}
+                    {% endfor %}
+                  {% endfor %}
+                {% endfor %}
+                {% if track.downloads[0].link_name != nil %}
+                  <!-- DOWNLOADS -->
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                    <span class="session-type text-highlight margin-top-3">Downloads:</span>
+                  </div>
+                  {% for download in track.downloads %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                    </div>
+                  {% endfor %}
+                {% endif %}
+              </div>
+            {% elsif session.roles and session.type != "panel" %}
+            <!-- GENERAL SESSION -->
+              <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
+              {% if session.subtitle %}
+                <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
+                <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
+              {% endif %}
+              {% assign session_roles = session.roles | map: "name" | uniq %}
+              {% for role in session_roles %}
+                {% if role != nil %}
+                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                  <span class="session-type text-highlight">{{ role }}:</span>
+                </div>
+                {% endif %}
+                {% assign this_role = session.roles | where: "name", role %}
+                {% for item in this_role %}
+                  {% assign bio_id = item.who %}
+                  {% for bio in site.bios_iaaf %}
+                    {% if bio.bio_id == bio_id %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2026#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                    </div>
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              {% endfor %}
+
+              {% if session.downloads[0].link_name != nil %}
+                <!-- DOWNLOADS -->
+                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                  <span class="session-type text-highlight margin-top-3">Downloads:</span>
+                </div>
+                {% for download in session.downloads %}
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                    <span class="speaker-name"><a href="{{site.baseurl}}/assets/files/iaaf/2026/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                  </div>
+                {% endfor %}
+              {% endif %}
+
+              </div>
+            {% endif %}           
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}
+
+{% comment %}
+Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
+{% endcomment %}
+<div class="margin-y-105">   
+{% unless page.hide-date == true %}
+    {% if page.updated %}
+        {% assign input_date = page.updated %}
+    {% else %}
+        {% assign input_date = page.created %}
+    {% endif %} 
+<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
+{% endunless %}
+</div>

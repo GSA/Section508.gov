@@ -10,15 +10,15 @@ custom-script: accordion-management.js
 contributors: 
 disclaimer: true
 audience: 
-- 508-pm
-- buyer
-- buyer-senior-exec
-- fed-emp
-- it-prog-proj-mgr
-- requirement-ba
+- Section 508 Program Managers
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Federal Employees
+- IT Program & Project Managers
+- Requirements & Business Analysts
 topic: 
-- buy
-- manage
+- Buy
+- Manage
 subtopic: 
 - Accessibility Standards, Procedures, Guidance, Best Practices
 - Accessible Acquisition Info, Guidance & Best Practices
@@ -26,8 +26,7 @@ subtopic:
 - New Contracting (RFP, RFI, etc.)
 resource_type: 
 - article
-format: html
-created: 
+format: HTML
 updated: 2026-03-31
 exclude-changelog: 
 ---

@@ -1,0 +1,24 @@
+{
+  "recurse": true,
+  "checkCss": true,
+  "checkFragments": true,
+  "cleanUrls": true,
+  "serverRoot": "_site",
+  "localOrigins": [
+    "https://www.section508.gov",
+    "https://section508.gov"
+  ],
+  "concurrency": 15,
+  "timeout": 15000,
+  "verbosity": "warning",
+  "redirects": "warn",
+  "requireHttps": "warn",
+  "retry": true,
+  "retryErrors": true,
+  "retryErrorsCount": 2,
+  "retryErrorsJitter": 1000,
+  "statusCodes": {
+    "403": "warn",
+    "429": "warn"
+  }
+}
