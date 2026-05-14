@@ -1509,7 +1509,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt1.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt1.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020/iaaf-2020-accessibility-international-scale-pt1.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 1"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Part 1."
   topic: "Events"
@@ -1519,7 +1519,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt2.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt2.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020/iaaf-2020-accessibility-international-scale-pt2.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 2"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Pt. 2."
   topic: "Events"
@@ -1529,7 +1529,7 @@
   format: "Presentation (PPTX)"
 
 - filename: "iaaf-2020-accessibility-international-scale-pt3.pptx"
-  permalink: "https://www.section508.gov/~assets/files/iaaf/2020iaaf-2020-accessibility-international-scale-pt3.pptx"
+  permalink: "https://www.section508.gov/~assets/files/iaaf/2020/iaaf-2020-accessibility-international-scale-pt3.pptx"
   title: "IAAF 2020 Accessibility International Scale, Part 3"
   description: "Download the Interagency Accessibility Forum (IAAF) material for IAAF 2020 Accessibility International Scale, Pt. 3."
   topic: "Events"
@@ -3330,7 +3330,7 @@
     - "Risk Managers"
     - "Section 508 Program Managers"
   resource-type: "Process & How-To"
-  format: "DOCX"
+  format: "Document (DOCX)"
 
 - filename: "Section-508-Alternative-Means-Plan-Template.docx"
   permalink: "https://www.section508.gov/~assets/files/section-508-alternative-means-plan-template.docx"  
@@ -3344,7 +3344,7 @@
     - "Risk Managers"
     - "Section 508 Program Managers"
   resource-type: "Process & How-To"
-  format: "DOCX"
+  format: "Document (DOCX)"
 
 - filename: "accessibility-of-ict-for-government-executives-v2-0-1-report-1.yaml"
   permalink: "https://www.section508.gov/~assets/files/acr/accessibility-of-ict-for-government-executives-v2-0-1-report-1.yaml"
@@ -3395,7 +3395,7 @@
   title: "ACR for ACR Editor v1.0 Report 2 (ZIP)"
   description: "Download the readable, structured HTML and machine-readable YAML versions of the Accessibility Conformance Report for the ACR Editor, a web-based authoring tool that helps accessibility professionals create machine-readable OpenACR reports aligned with WCAG 2.1 and Revised Section 508 standards."
   topic: "Buy"
-  sub-topic: "AGuidance"
+  sub-topic: "Guidance"
   audience:
   - "Buyers"
   resource-type: "ACR"
