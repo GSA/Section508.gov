@@ -1122,7 +1122,7 @@ iaaf_2023:
                 who: proctor-justen #bio_id for this person                              
             downloads:
               - link_name: Accessibility in Procurement Guide - IAAF 2023 (DOCX)
-                file_name: Accessibility in Procurement Guide - IAAF 2023.docx
+                file_name: accessibility-in-procurement-guide-iaaf-2023.docx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'AI-generated Alt-text: The future of Image Accessibility?'
             track_id: day3breakout1b

@@ -443,7 +443,7 @@ The following examples show how to complete the chart for different ICT items.
 * [Determine Section 508 Standards and Exceptions][3]
 * [Request Accessibility Information from Vendors and Contractors][4] to learn more about standards and exceptions for ICT items.
 
-[1]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
+[1]: https://www.section508.gov/~assets/files/standards-exceptions-chart.docx
 [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
 [3]: {{site.baseurl}}/buy/understanding-section-508-exceptions/
 [4]: {{site.baseurl}}/buy/request-accessibility-information

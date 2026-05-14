@@ -112,7 +112,7 @@ The purpose of this document is to provide example language you can use when dev
 </ul>
 
 <div class="display-flex flex-justify-center margin-y-4">
-  <a href="{{site.baseurl}}/assets/files/managing-accessible-information-and-communications-technology-template.docx" target="_blank" class="usa-button"><span>
+  <a href="https://www.section508.gov/~assets/files/managing-accessible-information-and-communications-technology-template.docx" target="_blank" class="usa-button"><span>
     <svg class="usa-icon" aria-hidden="true" role="img" style="margin-top:-3px; margin-bottom:-3px; margin-right:13px;"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg>
     Download: Notional Best Practice Section 508 Policy Template (DOCX)
   </span></a>
@@ -120,7 +120,7 @@ The purpose of this document is to provide example language you can use when dev
 
 ## Agency Examples
 * <a href="https://www.hhs.gov/web/governance/digital-strategy/it-policy-archive/hhs-policy-section-508-compliance-accessibility-information-communications-technology.html" target="_blank" class="usa-link--external">Department of Health and Human Services (HHS) Policy for Section 508 Compliance and Accessibility of ICT</a>
-* <a href="https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc" target="_blank" class="usa-link--external">Department of Homeland (DHS) Security Section 508 Directive (DOC)</a>
+* <a href="https://www.section508.gov/~assets/files/directive_139-2_final_10-28-2008.doc" target="_blank" class="usa-link--external">Department of Homeland (DHS) Security Section 508 Directive (DOC)</a>
 * <a href="https://www.doi.gov/sites/doi.gov/files/elips/documents/375-dm-8_0.pdf" target="_blank" class="usa-link--external">Department of the Interior (DOI) Section 508 Departmental Policy Example (PDF)</a>
 * <a href="https://www.opm.gov/information-management/accessibility/OPMSection508Policy2021.pdf" target="_blank" class="usa-link--external">Office of Personnel Management (OPM) Section 508 Policy (PDF)</a>
 * <a href="https://www.dfc.gov/sites/default/files/media/documents/Section%20508%20Policy%2004-01-2024.pdf" target="_blank" class="usa-link--external">U.S. International Development Finance Corporation (DFC) Office of Information Technology (OIT) Section 508 Policy (PDF)</a>

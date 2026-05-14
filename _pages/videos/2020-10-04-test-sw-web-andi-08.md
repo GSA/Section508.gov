@@ -24,7 +24,7 @@ exclude-changelog: true
 
 In Module 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-08-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-08-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
