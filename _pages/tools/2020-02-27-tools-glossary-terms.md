@@ -21,7 +21,8 @@ audience:
 resource-type: "Tool"
 format: "HTML"
 created: 2020-02-27
-updated: 2026-03-31
+updated: 2026-04-15
+exclude-changelog: true
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -51,11 +52,11 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
-    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
+    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
     <th scope="row" id="acceptance-criteria">Acceptance Criteria</th>
-    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities. </td>
   </tr>
   <tr>
     <th scope="row" id="accessibility-implementation">Accessibility Implementation</th>
@@ -202,7 +203,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="business-function-maturity">Business Function Maturity</th>
-    <td>Or simply “maturity,” as it is referenced throughout this document, approximates the level of development and advancement of a reporting entity’s Section 508 Program as well as other functions across the organization, or business, that are relevant to digital accessibility. It assesses the reporting entity’s responses to the criteria within 9 maturity dimensions (Q29-Q66 See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>). These questions cover different aspects of their Section 508 Program or equivalent as well as accessibility-related activities across the organization. Business function maturity, or “maturity,” is evaluated by the maturity index or “m-index” and utilizes a scale ranging from 0 to 5, with 0 indicating a very low maturity level and 5 indicating a very high maturity level.</td>
+    <td>Or simply “maturity,” as it is referenced throughout this document, approximates the level of development and advancement of a reporting entity’s Section 508 Program as well as other functions across the organization, or business, that are relevant to digital accessibility. It assesses the reporting entity’s responses to the criteria within 9 maturity dimensions (Q29-Q66 See <a href="https://www.section508.gov/~assets/files/assessment/2024/data-dictionary-for-fy24-governmentwide-section-508-assessment-final.xlsx"-target="_blank"-class="usa-link--external">FY24-Data-Dictionary-(XLSX)</a>). These questions cover different aspects of their Section 508 Program or equivalent as well as accessibility-related activities across the organization. Business function maturity, or “maturity,” is evaluated by the maturity index or “m-index” and utilizes a scale ranging from 0 to 5, with 0 indicating a very low maturity level and 5 indicating a very high maturity level.</td>
   </tr>
   <tr>
     <th scope="row" id="business-needs">Business Needs</th>

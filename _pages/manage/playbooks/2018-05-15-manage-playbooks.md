@@ -19,7 +19,8 @@ redirect_from:
 - tools/playbooks/
 - playbooks/
 created: 2018-05-15
-updated: 2025-03-19
+updated: 2026-04-14
+exclude-changelog: true
 ---
 Guidance to help federal agencies improve management and delivery of accessible information and communication technology (ICT).
 
@@ -28,14 +29,13 @@ Guidance to help federal agencies improve management and delivery of accessible 
   <p>The Technology Accessibility Playbook helps Section 508 Program Managers build an effective IT accessibility program and provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities.</p>
   <ul>
     <li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook/"><strong>Technology Accessibility Playbook</strong></a></li>
-    <li><a href="{{ site.baseurl }}/manage/playbooks/accessibility-playbook-quick-guide">Quick Guide to IT Accessibility for Program Managers</a>.</li>
   </ul>
 </div>
 
 ## Executive Guide to IT Accessibility
 Federal CIO and agency executive support for accessible IT is essential to increase compliance with federal policy, and to help agencies deliver an excellent digital customer experience that is accessible to all. 
 
-  * [**Executive Guide to IT Accessibility**]({{site.baseurl}}/manage/playbooks/exec-guide-accessibility) (<a href="https://assets.section508.gov/assets/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks" target="_blank">PDF, 2018</a>)
+  * [**Executive Guide to IT Accessibility**]({{site.baseurl}}/manage/playbooks/exec-guide-accessibility) (<a href="https://www.section508.gov/~assets/files/executive-guide-to-federal-it-accessibility.pdf#overlay-context=tools/playbooks"-target="_blank">PDF,-2018</a>)
   * [Accessibility of ICT: An Overview for Government Executives]({{site.baseurl}}/training/online-course/accessible-for-executives/) - Online Training (15-minutes)
 
 ## Chatbot Accessibility Playbook

@@ -2,21 +2,24 @@
 layout: page
 sidenav: true
 type: create
-title: 'Common PDF Tags and Their Usage'
+title: Common PDF Tags and Their Usage
 permalink: create/pdfs/common-tags-and-usage/
-description: "Learn about common PDF tags, what they mean, and how to use them to create more accessible PDF documents for people who use assistive technology."
-contributors: mcgland-denise, ed 
-topic: "Create"
-sub-topic: "PDFs"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Content Creators"
-- "Developers"
-resource-type: "Process & How-To"
-format: "HTML"
+description: Learn about common PDF tags, what they mean, and how to use them to create more accessible PDF documents for people who use assistive technology.
+audience: 
+- Content Creators
+topic: 
+- Create
+subtopic: 
+- Documents
+- Electronic Documents
+resource-type: 
+- Article
+format: HTML
 created: 2024-08-22
+updated: 2026-05-14
+exclude-changelog: true
 ---
+
 As with all types of data, structure is crucial to how readers navigate, access, and comprehend information. Tags are the structural foundation of an accessible Portable Document File (PDF). Each piece of content has a corresponding <span class="code-text"><strong>tag</strong></span> that dictates how it is understood and read by assistive technology. This guide helps document authors understand why and how each commonly used tag is used in making an accessible PDF.
 
 ## Root Tag
@@ -155,9 +158,9 @@ Block-level text tags designate the main text components of a document, like bod
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;LBody></span></th>
-      <td>Label Body</td>
+      <td>List Item Body</td>
       <td>Text of a bulleted list item</td>
-      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is the parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is the parent element to a 'Lbl' and 'LBody' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TOC></span></th>

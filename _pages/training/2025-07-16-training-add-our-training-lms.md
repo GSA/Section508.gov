@@ -49,7 +49,7 @@ For more information or to request access to the course materials, contact **Sec
 ## Related Resources
 
 * [Considerations for Developing a Section 508 Training Plan]({{site.baseurl}}/manage/developing-a-section-508-training-plan/)    
-* [Mandatory Section 508 Training Justification Template (DOCX)](https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Template.docx)  
-* [Mandatory Section 508 Training Justification Example (DOCX)](https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx)  
+* [Mandatory Section 508 Training Justification Template (DOCX)](https://www.section508.gov/~assets/files/new-required-course-justification-template.docx)  
+* [Mandatory Section 508 Training Justification Example (DOCX)](https://www.section508.gov/~assets/files/new-required-course-justification-example.docx)  
 * [Technology Accessibility Playbook—Play 12: Educate the Workforce]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/12)
 

@@ -1122,7 +1122,7 @@ iaaf_2023:
                 who: proctor-justen #bio_id for this person                              
             downloads:
               - link_name: Accessibility in Procurement Guide - IAAF 2023 (DOCX)
-                file_name: Accessibility in Procurement Guide - IAAF 2023.docx
+                file_name: accessibility-in-procurement-guide-iaaf-2023.docx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'AI-generated Alt-text: The future of Image Accessibility?'
             track_id: day3breakout1b
@@ -1737,7 +1737,7 @@ iaaf_2025:
         time_start: 2025-05-21 14:15:00
         time_end: 2025-05-21 15:15:00
         session_id: day2session4
-        subtitle: Navigating Federal Acquisitions&colon; Buying Accessible Tech
+        subtitle: "Navigating Federal Acquisitions: Buying Accessible Tech"
         description: Federal acquisitions can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle. Learn practices that mutually benefit Government and Industry when buying accessible technology.
         room:
         roles: 
@@ -1781,3 +1781,252 @@ iaaf_2025:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
+iaaf_2026: 
+  - day: 1
+    time_start: 2026-05-21 08:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2026-05-21 17:00:00
+    sessions: 
+      - name: 'Registration (In-person)'
+        type: break
+        time_start: 2026-05-21 08:30:00
+        time_end: 2026-05-21 09:00:00
+        session_id: day1registration
+      - name: 'Welcome & Opening Remarks'
+        type: welcome
+        time_start: 2026-05-21 09:00:00
+        time_end: 2026-05-21 09:15:00
+        session_id: day1welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person
+          - name: 
+            who: sachin-pavithran #bio_id for this person
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-21 09:45:00
+        session_id: day1keynote1
+        subtitle: "Keynote Address"
+        description: 
+        roles: 
+          - name: Presenter
+            who: rachael-montgomery #bio_id for this person 
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 09:45:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-21 10:45:00
+        session_id: day1session1
+        subtitle: "Advancing Accessibility and Engagement on Social Media"
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government, including X, LinkedIn, and Facebook. Attendees will learn how to evaluate and ensure compliance with the Section 508 Standards using elements such as alt text, accessible color contrast, and plain language. Additionally, the presenter will discuss techniques for boosting engagement on social media, particularly for federal communicators who are new to their roles.
+        roles: 
+          - name: Presenter
+            who: okeefe-david #bio_id for this person 
+        downloads:
+          - link_name: #"Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2026-05-21 10:45:00
+        time_end: 2026-05-21 11:00:00
+        session_id: day1break1
+        description: 
+        room: 
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 11:00:00
+        time_end: 2026-05-21 12:00:00
+        session_id: day1session2
+        subtitle: "Scoring and Evaluating Accessibility Conformance Reports based on the VPAT"
+        description: During this presentation, individuals will learn about VPATS, ACRs, and approaches to evaluating and assessing risk of ICT using ACRs in the procurement process.
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: ghoston-ameenah 
+        downloads:
+        - link_name: #"Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)"
+          file_name: #https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2026-05-21 12:00:00
+        time_end: 2026-05-21 13:00:00
+        session_id: day1break2
+        description: 
+        room: 
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 13:00:00
+        time_end: 2026-05-21 14:00:00
+        session_id: day1session3
+        subtitle: "Tracking and Managing Section 508 Informal Complaints"
+        description: During this presentation, individuals will learn the importance of tracking digital accessibility issues and complaints, and an approach for leveraging critical processes.
+        room:
+        roles: 
+          - name: Presenter
+            who: ghoston-ameenah
+        downloads:
+          - link_name: #"Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 14:00:00
+        time_end: 2026-05-21 15:00:00
+        session_id: day1session4
+        subtitle: "The NPS.gov Media Player and Media Workflow: An Accessible Option for All Government"
+        description: The Revised Section 508 Standards include a requirement (503.4) where a digital product displays video with synchronized audio, the product shall provide user controls for closed captions and audio descriptions at the same menu level as the user controls for volume or program selection. The National Park Service (NPS) within the Department of the Interior (DOI) has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls.<br><br>Over several years, the National Park Service has customized a media player which aims to be as accessible as possible. It supports multi-track audio and video, allowing a user to toggle between standard, described, and American Sign Language versions of a single video; it supports captioning in over 10 languages; and has been through several rounds of user testing with people who are blind / low vision. The code for this player is available on GitHub.
+        room:
+        roles: 
+          - name: Presenters
+            who: sharma-siddhartha
+        downloads:
+          - link_name: #"The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2026-05-21 15:00:00
+        time_end: 2026-05-21 15:15:00
+        session_id: day1break4
+        description: 
+        room:    
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 15:15:00
+        time_end: 2026-05-21 16:00:00
+        session_id: day1session5
+        subtitle: "Managing Change, Sustaining Accessibility"
+        description: "Change can weaken accessibility and/or create an opportunity to strengthen it. This presentation explores how Section 508 program managers can use change management concepts to keep accessibility integrated through leadership changes, contractor turnover, centralization, shifting priorities, and other transitions. Using the Section508.gov playbook, roadmap development, and culture-building strategies, the session highlights practical ways to reduce accessibility debt, clarify ownership, and help accessibility survive change."
+        room:
+        roles: 
+          - name: Presenters
+            who: antonio-haileselassie
+        downloads:
+          - link_name: #"Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-21 16:00:00
+        time_end: 2026-05-21 16:45:00
+        session_id: day1session6
+        subtitle: "Beyond the Checklist: Revolutionizing PDF Accessibility with Generative AI"
+        description: Accessibility shouldn’t be an afterthought, but manual remediation is a notorious bottleneck. In this session, we’ll go behind the scenes of a new AI-powered tool designed to automatically detect and fix Section 508 compliance issues in PDF documents. We will explore how we moved from a traditional deterministic approach to leveraging AWS Bedrock to handle complex ICT baselines like reading order, sensory characteristics, and data tables. Discover the "Why" behind this initiative, how we secured leadership buy-in, and how we integrated these capabilities directly into the FTAi portal to ensure digital equity at scale.
+        room:
+        roles: 
+          - name: Presenter
+            who: iglesias-florence  
+          - name: Presenter
+            who: fleetwood-matthew  
+        downloads:
+          - link_name: #"Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
+      - name: 'Closing Remarks - Day 1' 
+        type: welcome
+        time_start: 2026-05-21 16:45:00
+        time_end: 2026-05-21 17:00:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 2
+    time_start: 2026-05-22 09:00:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2026-05-22 12:00:00
+    sessions: 
+      - name: 'Registration (In-person)'
+        type: break
+        time_start: 2026-05-22 09:00:00
+        time_end: 2026-05-22 09:30:00
+        session_id: day2registration
+      - name: 'Welcome & Opening Remarks'
+        type: welcome
+        time_start: 2026-05-22 09:30:00
+        time_end: 2026-05-22 09:35:00
+        session_id: day2welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: michael-horton #bio_id for this person
+      - name: 
+        type: 
+        time_start: 2026-05-22 09:35:00
+        time_end: 2026-05-22 10:00:00
+        session_id: day2
+        subtitle: "Keys to Successful Executive Engagement"
+        description: Andrew Nielson interviews GSA Deputy Associate Administrator Dan Pomeroy on best practices for engaging with senior and executive leadership to secure buy in for Section 508 Programs and initiatives.
+        room: 
+        roles:
+          - name: 
+            who: andrew-nielson 
+          - name: 
+            who: daniel-pomeroy
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-22 11:00:00
+        session_id: day2session1
+        subtitle: "Navigating Section 508 Exceptions: Best Practices"
+        description: The Federal Acquisition Lifecycle can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle is achieved, maintained, and documented. This presentation includes sharing best practices on navigating and documenting the applicability of Section 508/digital accessibility standards, including determining Section 508 exceptions.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: betsy-sirk 
+          - name: Presenter
+            who: chong-owen
+        downloads:
+          - link_name: #"Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2026-05-22 11:00:00
+        time_end: 2026-05-22 11:15:00
+        session_id: day2break1
+        description:      
+      - name: 'General Session'
+        type: general
+        time_start: 2026-05-22 11:15:00
+        time_end: 2026-05-22 11:55:00
+        session_id: day2session2
+        subtitle: "From Inaccessible to Compliant: FTA's Video Accessibility Remediation Demo"
+        description: "<p>Making Information and Communications Technology (ICT) accessible is a core requirement of Section 508, yet ensuring video content meets compliance standards remains a significant challenge for many federal agencies. In this practical, insight-driven session, the Federal Transit Administration (FTA) Section 508 Compliance Officer, Kimberly Castillo, and video production expert, Mike Gower, will share and demonstrate the detailed, hands-on process FTA implemented to remediate their informational videos for full Section 508 conformance.</p><p>Attendees will learn how FTA managed the remediation process, focusing on:</p><ul><li>The Compliance Workflow&colon; A step-by-step process for identifying and fixing accessibility issues in synchronized media.</li><li>Technical Deep Dive&colon; Addressing essential compliance elements such as audio description, closed captions, and descriptive text for non-speech sounds and music, as required by federal law and WCAG 2.1 AA standards.</li><li>Vendor Collaboration: The importance of integrating accessibility requirements with external video production teams early in the development lifecycle.</li><li>A Disability-First Approach&colon; Applying \"pure attention to detail and logic\" by putting oneself \"in the shoes of a person with different disabilities\" to ensure improved clarity and usability across various impairments.</li></ul><p>This session offers a valuable, candid look at a successful program and is ideal for 508 coordinators, content creators, and acquisition professionals seeking proven strategies to advance digital equity within their own agencies.</p>"
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: castillo-kimberly   #bio_id for this person
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: gower-michael #bio_id for this person  
+        downloads:
+          - link_name: #" - IAAF 2026 (PPTX)"
+            file_name: #.pptx
+      - name: 'IAAF Closing Remarks'
+        type: welcome
+        time_start: 2026-05-22 11:55:00
+        time_end: 2026-05-22 12:00:00
+        session_id: day2close1
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+      - name: 'Lunch'
+        type: break
+        time_start: 2026-05-22 12:00:00
+        time_end: 2026-05-22 13:00:00
+        session_id: day2break2
+        description: 
+        room: 
+      - name: 'Closed Session Registration<br><em>Participation is limited to Registered Federal Section 508 Program Managers Only</em>'
+        type: break
+        time_start: 2026-05-22 12:45:00
+        time_end: 2026-05-22 13:00:00
+        session_id: day2registration
+      - name: 'Closed Session<br>(In-person Only)'
+        type: general
+        time_start: 2026-05-22 13:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2026-05-22 15:00:00
+        session_id: day2session1
+        subtitle: "Connections That Move Accessibility Forward: Guided Networking for 508 Program Managers"
+        description: "<p>Creating accessible digital experiences requires more than policies and tools&colon; it requires people, partnerships, and followthrough. This highly interactive networking session is designed specifically for Section 508 Program Managers to make meaningful connections, exchange resources, and leave with clear next steps.</p>
+          <p>Facilitated by Amy Nieves of the U.S. Access Board, participants will take part in three guided networking activities focused on sharing successes, expanding nongovernment partnerships, and scheduling real followup conversations. Whether you are new to your role or a longtime program manager, this session is designed to help you strengthen your network and turn conversations into action.</p>
+          <p>Come prepared to participate, connect, and leave with new contacts and meetings on your calendar. Participants are highly encouraged to bring at least 5-10 business cards, or copies of agency resources, or &quot;swag&quot; items from their agency such as pens, or other promotional items if available.</p>"
+        room:
+        roles: 
+          - name: Facilitator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist, Facilitator 
+            who: nieves-amy #bio_id for this person
+        downloads:
+          - link_name: #-IAAF 2026 (PPTX) 
+            file_name: #-IAAF%202026.pptx

@@ -1,0 +1,17 @@
+{
+  "recurse": true,
+  "checkCss": true,
+  "checkFragments": true,
+  "cleanUrls": true,
+  "serverRoot": "_site",
+  "localOrigins": [
+    "https://www.section508.gov",
+    "https://section508.gov"
+  ],
+  "concurrency": 25,
+  "timeout": 10000,
+  "verbosity": "warning",
+  "skip": [
+    "^https?://(?!localhost(?::\\d+)?/|127\\.0\\.0\\.1(?::\\d+)?/)"
+  ]
+}

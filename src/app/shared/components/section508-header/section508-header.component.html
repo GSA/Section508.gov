@@ -33,19 +33,23 @@ END ALERT -->
         <div class="usa-nav__secondary">
           <ul class="usa-nav__secondary-links usa-icon-list">
             <li class="usa-nav__secondary-item usa-icon-list__item display-flex flex-align-center" style="color:#71767a;">
-              <div class="usa-icon-list__icon"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#campaign"></use></svg></div>
+              <div class="usa-icon-list__icon">
+                <svg class="usa-icon" aria-hidden="true" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M18 11v2h4v-2h-4zm-2 6.61c.96.71 2.21 1.65 3.2 2.39.4-.53.8-1.07 1.2-1.6-.99-.74-2.24-1.68-3.2-2.4-.4.54-.8 1.08-1.2 1.61zM20.4 5.6c-.4-.53-.8-1.07-1.2-1.6-.99.74-2.24 1.68-3.2 2.4.4.53.8 1.07 1.2 1.6.96-.72 2.21-1.65 3.2-2.4zM4 9c-1.1 0-2 .9-2 2v2c0 1.1.9 2 2 2h1v4h2v-4h1l5 3V6L8 9H4zm11.5 3c0-1.33-.58-2.53-1.5-3.35v6.69c.92-.81 1.5-2.01 1.5-3.34z" />
+                </svg>
+              </div>
               <div class="usa-icon-list__content"><a href="https://www.section508.gov/whats-new/">What's New!</a></div>
             </li>
             <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/tools/coordinator-listing/">My Agency’s 508 PM</a></li>
-            <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/about-us/">About Us</a></li>
+            <li class="usa-nav__secondary-item display-flex flex-align-center"><a href="https://www.section508.gov/content-library/">Content Library</a></li>
           </ul>
     
         <form id="search_form" class="usa-search usa-search--small" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
           <input name="utf8" type="hidden" value="✓">
           <input name="affiliate" type="hidden" value="gsa-section508-accessibility">
-          <div role="search">
+          <div role="search" style="max-width: none;">
             <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-            <input class="usa-input usagov-search-autocomplete" style="margin-left:-45px" id="extended-search-field-small" type="search" name="query" autocomplete="off">
+            <input class="usa-input usagov-search-autocomplete" id="extended-search-field-small" type="search" name="query" autocomplete="off">
             <button class="usa-button primary-background-color" type="submit"><img src="{{url}}/assets/icons/search-white.svg" class="usa-search__submit-icon" alt="Search"></button>
           </div>
         </form>

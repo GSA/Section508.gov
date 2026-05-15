@@ -19,13 +19,13 @@ subtopic: "Design, Develop, Testing for Accessibility Training or Tools"
 resource-type: "Training"
 format: "Video"
 created: 2020-10-05
-updated: 2026-03-03
+updated: 2026-04-14
 exclude-changelog: true
 ---
 
 In Module 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-11-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-11-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
@@ -101,7 +101,7 @@ In Module 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>

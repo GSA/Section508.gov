@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-title: 'Find Your Section 508 Program Manager'
+title: "Find Your Section 508 Program Manager"
 permalink: tools/program-manager-listing/
 description: "Find your agency’s Section 508 Program Manager using this official U.S. government directory. Connect with accessibility leads to support IT compliance with federal accessibility standards."
 redirect_from:
@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-03-04
+updated: 2026-05-12
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -150,8 +150,8 @@ Todd McKeever - <tmckeever@ntis.gov>
 
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - <mark.reumann@uspto.gov>  
-Maureen Brown - <maureen.brown@uspto.gov>  
-Patricia Kless - <patricia.kless@uspto.gov>  
+Yuting Sun (Deputy) - <yuting.sun@uspto.gov>  
+Michael Jennings (Deputy) - <michael.jennings1@uspto.gov>  
 
 ---
 ## <span id ="usdow" ></span>Department of War (DOW)
@@ -161,7 +161,7 @@ Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>
 
 ### Air Force
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
-Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
+Mohamed Eltahir (Deputy) - <mohamed.eltahir.1.ctr@us.af.mil>
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Joleen Horton - <joleen.horton@us.af.mil>  
@@ -174,7 +174,8 @@ Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Anita Walker - <anita.walker@darpa.mil>    
+Tabatha Thompson - <tabatha.thompson@darpa.mil>  
+Tom Sakell (Deputy) - <thomas.sakell.ctr@darpa.mil>  
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -190,8 +191,8 @@ Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>
 ### Defense Human Resources Agency (DHRA)
 Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
-Fariba Beg - <fariba.beg.civ@mail.mil>  
-Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
+Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
+Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
 Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
@@ -274,6 +275,7 @@ Sandra Logan - <doesection508coordinator@hq.doe.gov>
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Agencywide
+Shannon Howard - <shannon.howard@hhs.gov>  
 HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
@@ -426,9 +428,7 @@ Imran Lodi (Deputy) - <imran.Lodi@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
-Carlos Cruz - <carlos.cruz3@usdoj.gov>  
-### Community Relations Service
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Carlos Cruz - <carlos.cruz3@usdoj.gov>    
 ### Drug Enforcement Administration (DEA)
 Thomas (Tom) Schlauch - <thomas.e.schlauch@usdoj.gov>  
 Lisa Walbert - <lisa.k.walbert@usdoj.gov>  
@@ -444,21 +444,17 @@ Alisha Hurtado - <alisha.hurtado@usdoj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
-Scott Jenkins - <scott.jenkins@usdoj.gov>
+Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Interpol
-Heather Kowalski - <heather.kowalski@usdoj.gov>  
-### Justice Management Division
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
+### Justice Management Division
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+### National Fraud Enforcement Division
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### National Institute of Corrections
 Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
-Nilesh  Bhut - <nilesh.bhut@usdoj.gov>
-### Office for Access to Justice
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Office for Organized Crime Drug Enforcement Task Force
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Nilesh  Bhut - <nilesh.bhut@usdoj.gov>    
 ### Office of Information Policy
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
@@ -467,7 +463,7 @@ Bruce W. Whitlock - <bruce.w.whitlock@usdoj.gov>
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Legislative Affairs
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Office of Pardon Atorney
+### Office of Pardon Attorney
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Professional Responsibility
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
@@ -555,8 +551,8 @@ Michael Jones - <jonesmw@cdfi.treas.gov>
 ### Financial Crimes Enforcement Network (FINCEN)
 Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
-Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
-Terri A. Triggs - <terri.a.triggs@irs.gov>  
+Jarrad	J.	Davenport	<jarrad.j.davenport@irs.gov>  
+Pamela	L.	Shavers	<pamela.l.shavers@irs.gov>  
 ### Office of the Inspector General
 Tracy George - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
@@ -582,7 +578,7 @@ Mohammad Islam - <mohammad.islam@gsa.gov>
 
 ---
 ## <span id="usnasa" ></span>National Aeronautics and Space Administration (NASA)
-Phillip A. Gross - <phillip.a.gross@nasa.gov>  
+Allison Thompson (Acting) - <allison.thompson@nasa.gov>  
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - <betsy.sirk-1@nasa.gov>
 
@@ -716,7 +712,7 @@ FEC Helpdesk - <508coordinator@fec.gov>
 
 ---
 ### Federal Energy Regulatory Commission (FERC)
-Dornesia Webster - <dornesia.webster@ferc.gov>  
+Juno Park - <jun.park@ferc.gov>. 
 
 ---
 ### Federal Housing Finance Agency (FHFA)
@@ -855,7 +851,7 @@ Shola	Kalejaiye - <skalejaiye@osc.gov>
 <span id="P"></span>
 
 ### Peace Corps (PC)
-Jennifer Hawkins - <accessibility@peacecorps.gov>  
+Karen Barbuschak - <kbarbuschak@peacecorps.gov>  
 
 ---
 ### Pension Benefit Guaranty Corporation (PBGC)
@@ -911,11 +907,10 @@ Gregory G. Jackson - <ggjackson@tva.gov>
 
 <span id="U" ></span>
 
-<!-- ### U.S. Access Board (USAB) 
-<>
----
--->
+### U.S. Access Board (USAB) 
+Mannan Dasti - <dasti@access-board.gov>  
 
+---
 ### U.S. Agency for Global Media (USAGM)
 J.R. Reeves - <jreeves@usagm.gov>  
 

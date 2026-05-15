@@ -229,4 +229,4 @@ Before final acceptance of any ICT item, including updates and replacements, if 
 [2]: https://www.dhs.gov/compliance-test-processes
 [3]: {{site.baseurl}}/sell/vpat
 [4]: http://www.itic.org/policy/accessibility
-[5]: {{site.baseurl}}/acquisition/buy/integrate-section-508-in-qasps/
+[5]: {{site.baseurl}}/buy/integrate-section-508-in-qasps/

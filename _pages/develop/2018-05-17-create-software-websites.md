@@ -2,21 +2,29 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Create Accessible Software & Websites'
+title: Create Accessible Software & Websites
 permalink: develop/software-websites/
-redirect_from:
+description: Guidance and best practices from Section508.gov to help federal teams plan, develop, and remediate accessible software and websites in compliance with Section 508 accessibility standards.
+redirect_from: 
 - create/software-websites/
-description: 
-topic: "Develop"
-sub-topic: "Software"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
+audience: 
+- Designers
+- Developers
+- Federal Employees
+- Members of the Public
+topic: 
+- Create
+- Develop
+- Testing
+subtopic: 
+- Software
+- Websites
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2018-05-17
-updated: 2024-07-11
+updated: 2026-04-08
+exclude-changelog: true
 ---
 
 If you’re an author or developer of electronic documents, software applications, web content, operating systems, accessibility platforms, assistive technology, mobile environments, and modern development frameworks, you need to understand how the [Revised 508 Standards][1] (36 C.F.R. Part 1194) apply to your work.
@@ -32,6 +40,7 @@ The resources in this section will help you:
   * Use automated tools, manual testing, and assistive technology-based testing;
   * Examine best practices for mobile applications and web environments; and
   * Implement popular development frameworks.
+  * Document remediation and accommodation planning for defects identified during testing.
 
 Navigate through the sections below to learn more:
 
@@ -39,7 +48,8 @@ Navigate through the sections below to learn more:
   * [Testing Guidance for Developers][3] 
   * [Authoring Tool Requirements][4] 
   * [Accessibility Training for Developers][5] 
-  * [Develop Accessible Web Content][6] 
+  * [Develop Accessible Web Content][6]
+  * [Remediation and Accommodation Planning]({{ site.baseurl }}/manage/remediation-alternative-means-planning/)
 
 ## Additional Resources
 

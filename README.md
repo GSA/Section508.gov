@@ -1,325 +1,159 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+# Section508.gov
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+Section508.gov is the official U.S. government resource for guidance on Section 508 of the Rehabilitation Act. The site helps federal agencies, vendors, program managers, acquisition professionals, content creators, designers, developers, testers, and training teams understand and apply accessibility requirements for information and communication technology.
 
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
+This repository contains the source code and content for [www.section508.gov](https://www.section508.gov). It began from the Federalist USWDS Jekyll template, but is now organized around the Section508.gov information architecture, content model, and tools.
 
-# Federalist + U.S. Web Design System + Jekyll
+## What This Repository Contains
 
-This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
+- A Jekyll static site for Section508.gov content, navigation, layouts, and assets.
+- U.S. Web Design System assets and site-specific styling.
+- Markdown content for guidance pages, events, posts, contributor pages, training pages, videos, and related resources.
+- YAML data files used for navigation, alerts, content library records, FAQs, and other structured content.
+- An Angular application for the Accessibility Requirements Tool (ART), built into the `/art/` path.
+- JavaScript and CSS for external header and footer blocks that other sites can use to include Section508.gov branding elements.
 
-This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby. If you prefer to use Javascript, check out [federalist-uswds-gatsby](https://github.com/18F/federalist-uswds-gatsby), which uses [Gatsby](https://gatsbyjs.org) site engine.
+## Technology Overview
 
-This project strives to be compliant with requirements set by [21st Century IDEA Act](https://www.meritalk.com/articles/senate-passes-idea-act/). The standards require that a website or digital service:
+The main website is built with [Jekyll](https://jekyllrb.com/docs/), a Ruby-based static site generator. Jekyll turns Markdown, HTML, Liquid templates, layouts, includes, Sass, and YAML data into the static files that are published to the web.
 
-- is accessible to individuals with disabilities;
-- has a consistent appearance;
-- does not duplicate any legacy websites (the legislation also requires agencies to ensure that legacy websites are regularly reviewed, removed, and consolidated);
-- has a search function;
-- uses an industry standard secure connection;
-- “is designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;”
-- allows for user customization; and
-- is mobile-friendly.
+The Accessibility Requirements Tool is built with [Angular](https://angular.dev/) and lives in the `src/` application directory. Angular build output is written to `art/`, which allows the tool to be served from `https://www.section508.gov/art/` alongside the Jekyll site.
 
-## Comparison with [uswds-jekyll](https://github.com/18F/uswds-jekyll)
+The site is published through the Federalist/cloud.gov Pages build flow. The production build runs `npm run federalist`, which builds the Angular ART application with the correct base URL for production or preview branches.
 
-Both start off looking very similar, but differ in what use cases they are best for. Are you:
+## Repository Structure
 
-- Wanting to have a starter template that you can highly customize?
-- Comfortable editing HTML and CSS source code?
+- `_pages/`: Primary Section508.gov guidance pages, organized by site section.
+- `_posts/`: News and update posts.
+- `_events/`: Event content.
+- `_contributors/`: Contributor and organization pages.
+- `_bios_iaaf/`: IAAF speaker biography source content.
+- `_data/`: YAML files for structured content, navigation, alerts, FAQs, and content library records.
+- `_includes/`: Reusable Liquid partials such as header, footer, navigation, alerts, search, cards, and event lists.
+- `_layouts/`: Page templates used by Jekyll content.
+- `assets/`: Site images, JavaScript, styles, documents, and other static assets.
+- `src/`: Angular source code for ART.
+- `art/`: Angular build output served at `/art/`.
+- `scripts/`: Maintenance and validation scripts.
+- `_config.yml`: Jekyll site configuration, collections, navigation, Search.gov, analytics, and build settings.
 
-use federalist-uswds-jekyll (this repository). If you:
+If you build the site locally using Jekyll, you will also generate other directories, such as `node-modules` and the `_site/` direcotory. Do not edit `_site/` directly. It is generated by Jekyll and overwritten during builds.
 
-- Want to use a theme that you can set and forget
-- Are ok with sticking with the general look and feel provided
+## Content Basics
 
-use uswds-jekyll.
+Most site pages are Markdown files in `_pages/`. Each page starts with front matter, which tells Jekyll how to build the page.
 
-## Key Functionality
-This repository contains the following examples and functionality:
- 
-✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
-
-✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
-
-✅  Publish data (for example: job listings, links, references), you can use the template `_layouts/data.html`. Just create a file in you `_pages` folder with the following options:
-
-```
+```yaml
 ---
-title: Collections Page
-layout: data
-permalink: /collections
-datafile: collections
----
-```
-
-The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
-
-✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
-
-```
----
-title: Document with Sidenav
+title: Example Page
 layout: page
+permalink: /example/
 sidenav: true
-permalink: /document-with-sidenav
 ---
 ```
 
-✅ [Search.gov](https://search.gov) integration - Once you have registered and configured Search.gov for your site by following [these instructions](https://federalist.18f.gov/documentation/search/), add your "affiliate" and "access key" to `_config.yml`. Ex.
+Common front matter fields include:
 
-```
-searchgov:
+- `title`: The page title.
+- `layout`: The template in `_layouts/` used to render the page.
+- `permalink`: The public URL path.
+- `sidenav`: Enables the section side navigation when set to `true`.
+- `redirect_from`: Optional legacy URL paths handled by `jekyll-redirect-from`.
 
-  # You should not change this.
-  endpoint: https://search.usa.gov
+Use `_data/` when content needs to be reused, filtered, or rendered consistently across multiple pages. For example, the content library and navigation rely on structured YAML files.
 
-  # replace this with your search.gov account
-  affiliate: federalist-uswds-example
+## Jekyll Building Blocks
 
-  # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+Jekyll uses a few core concepts throughout this repository:
 
-  # this renders the results within the page instead of sending to user to search.gov
-  inline: true
-```
+- Front matter controls page metadata and template behavior.
+- Layouts in `_layouts/` define page-level structure.
+- Includes in `_includes/` provide reusable components.
+- Collections in `_config.yml` group related content such as pages, events, contributors, and IAAF bios.
+- Data files in `_data/` expose YAML content to Liquid templates.
+- Sass and static assets in `assets/` define the site presentation and supporting files.
 
-The logic for using Search.gov can be found in `_includes/searchgov/form.html` and supports displaying the results inline or sending the user to Search.gov the view the results. This setting defaults to "inline" but can be changed by setting
-```
-searchgov:
-  inline: false
-```
-in `_config.yml`.
+When changing site structure, start by checking `_config.yml`, `_data/sidenav.yaml`, `_includes/`, and the layout used by the relevant page.
 
-✅ [Digital Analytics Program (DAP)](https://digital.gov/services/dap/) integration - Once you have registered your site with DAP add your "agency" and optionally, `subagency` to `_config.yml` and uncomment the appropriate lines. Ex.
+## Angular ART Basics
 
-```
-dap:
-  # agency: your-agency
+The Accessibility Requirements Tool is the only Angular application in this repository. Its source files are in `src/`, with Angular configuration in `angular.json` and TypeScript configuration in the `tsconfig*.json` files.
 
-  # Optional
-  # subagency: your-subagency
-```
+Useful commands:
 
-✅ [Google Analytics](https://analytics.google.com/analytics/web/) integration - If you have a Google Analytics account to use, add your "ua" to `_config.yml` and uncomment the appropriate lines. Ex.
-
-```
-ga:
-  # ua: your-ua
+```sh
+npm run start:ang
+npm run build:ang
+npm run build:art:local
+npm run test:ang
 ```
 
-## How to edit
-- Non-developers should focus on editing markdown content in the `_posts` and `_pages` folder
+`npm run build:art:local` builds ART with `/art/` as the base path. The Federalist/cloud.gov Pages build uses `angular-build.sh` to choose the correct base path for production and preview branches.
 
-- We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
+## Local Development
 
-- The contents inside `assets/` folder store your Javascript, SCSS/CSS, images, and other media assets are managed by  [jekyll-assets](https://github.com/envygeeks/jekyll-assets).  Assets are combined, compressed, and automatically available in your theme
+Install dependencies:
 
-- If you look at `package.json` you will see that the `npm run federalist` command that will run when running on the Federalist platform.
-
-- Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
-
-- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and logos.
-
-- `index.html` may not require much editing, depending on how you customize `hero.html` and `highlights.html`.
-
-- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
-
-- `blog/index.html` can be edited, but be careful. It will impact the pagination system for the posts. If you do edit the file, be prepared to edit `_config.yml`.  For example, you may need go change configurations for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
-
-- `search/index.html` is used by search.gov.
-
-## Getting Started
-
-### Easy mode
-
-#### From Federalist
-This will create a copy of this repo in a Github repository of your choice and add it to your Federalist dashboard.
-
-- From [Federalist](https://federalistapp.18f.gov/sites) click the "+ Add Site" button.
-- Click the "Use this template" button for the appropriate template
-- Follow the instructions
-
-#### From Github
-This will create a copy of this repo in a Github repository of your choice but you will need to add it your [Federalist dashboard](https://federalistapp.18f.gov/sites/new).
-
-- Click the "Use this template" button above or [here](https://github.com/18F/federalist-uswds-jekyll/generate).
-- Follow the instructions
-- Return to [Federalist](https://federalistapp.18f.gov/sites/new) and add the repository.
-
-### Hard mode
-
-#### With `npx` (requires node)
-    $ npx degit https://github.com/18F/federalist-uswds-jekyll <destination-folder>
-    $ cd <destination-folder>
-
-#### Push to your Github repository
-- [Create a new Github repository](https://help.github.com/en/github/getting-started-with-github/create-a-repo).
-- Follow the instructions form Github or
-```
-    $ git init
-    $ git symbolic-ref HEAD refs/heads/main
-    $ git add . && git commit -m 'Initial commit'
-    $ git remote add origin git@github.com:<your-org>/<your-repo>.git
-    (Make sure to replace `<your-org>` and `<your-repo>` above with the correct values)
-    $ git push -u origin main
+```sh
+npm install
+bundle install
 ```
 
-### Installation for development
-    $ git clone https://github.com/18F/federalist-uswds-jekyll
-    $ cd federalist-uswds-jekyll
+Run the Jekyll site locally:
 
-### Running the application
-
-#### With locally installed `node` and `ruby`
-    $ npm install
-    $ bundle install
-    $ npm start 
-    OR
-    $ bundle exec jekyll serve
-
-To build but not serve the site, run `npm run build` or `bundle exec jekyll build`.
-
-#### With Docker
-    $ docker-compose run node npm install
-    $ docker-compose build
-    $ docker-compose up
-
-To build but not serve the site, run:
+```sh
+npm start
 ```
-docker-compose run ruby bundle exec jekyll build
+
+Then open [http://localhost:4000](http://localhost:4000).
+
+Build the Jekyll site without serving it:
+
+```sh
+npm run build
 ```
-.
 
-Note that when built by Federalist, `npm run federalist` is used instead of
-`npm run build`.
+## Content Library Validation
 
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
+The repository includes validation scripts for content library data:
 
-### Testing
+```sh
+npm run validate:library
+npm run validate:library:offline
+npm run validate:library:documents
+npm run validate:library:frontmatter
+```
 
-#### With locally installed `node` and `ruby`
-    $ npm test
-    OR
-    $ bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
+Use these when changing content library YAML files or related page front matter.
 
-#### With Docker
-    $ docker-compose run ruby bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
+## External Blocks
 
-## Technologies you should be familiarize yourself with
+Section508.gov provides reusable header and footer blocks for external projects published on the Section508.gov domain.
 
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
-
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
-
-## Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright
-> and related rights in the work worldwide are waived through the [CC0 1.0
-> Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication.
-> By submitting a pull request, you are agreeing to comply with this waiver of
-> copyright interest.
-
-# External Blocks Integration Documentation
-
-## Overview
-
-The External Blocks feature provided by Section 508 offers functionality to seamlessly integrate the header and footer elements from the Section 508 website into external projects. This documentation outlines the steps required to incorporate these elements into your website.
-
-## Integration Steps
-
-To integrate the Section 508 header and footer into your website, follow these steps:
-
-### 1. Include Stylesheet and JavaScript Files
-
-Add the following stylesheet and JavaScript files to your website's HTML code:
+Add these files to the external site's HTML:
 
 ```html
 <script src="https://www.section508.gov/assets/js/external-508-blocks.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.section508.gov/assets/css/external-blocks.css">
 ```
 
-### 2. Place Div Elements
-Place the following div elements within your HTML where you want the Section 508 blocks to appear:
-
-- `<div id="header-508"></div>`: This div will display the Section 508 header.
-- `<div id="footer-508"></div>`: This div will display the Section 508 footer.
-
-### Example
-
-Here's an example of how to integrate the Section 508 header and footer into your HTML code:
+Add these elements where the blocks should render:
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <!-- Include Section 508 stylesheet and JavaScript -->
-    <script src="https://www.section508.gov/assets/js/external-508-blocks.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://www.section508.gov/assets/css/external-blocks.css">
-</head>
-<body>
-    <!-- Section 508 Header -->
-    <div id="header-508"></div>
-    
-    <!-- Your Website Content Goes Here -->
-    
-    <!-- Section 508 Footer -->
-    <div id="footer-508"></div>
-</body>
-</html>
-
+<div id="header-508"></div>
+<div id="footer-508"></div>
 ```
 
-### Notes
+Make sure the consuming site allows enough space for the inserted header and footer and tests the result at mobile and desktop widths.
 
-- Ensure that your website's design accommodates the integration of the Section 508 header and footer appropriately.
+## Contributing
 
-# ART
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution expectations, review guidance, public domain licensing, and links to GSA open source policy.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+## Security
 
-## Development server
+See [SECURITY.md](SECURITY.md) for vulnerability reporting guidance.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Public Domain
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build Locally
-
-Run `ng build:dev` to build the project. The build artifacts will be stored in the `art/` directory.
-
-## Dev Build
-
-Run `npm run build:dev` to build the project with configurations for the development environment. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project is in the worldwide [public domain](LICENSE.md). Contributions are released under the CC0 1.0 Universal public domain dedication, as described in [CONTRIBUTING.md](CONTRIBUTING.md).

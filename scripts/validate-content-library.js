@@ -6,7 +6,7 @@ const yaml = require("js-yaml");
 const matter = require("gray-matter");
 
 const REPO_ROOT = process.cwd();
-const ASSETS_ORIGIN = "https://assets.section508.gov";
+const ASSETS_ORIGIN = "https://www.section508.gov";
 const DEFAULT_REMOTE_VALIDATION_CONCURRENCY = 10;
 
 const TAXONOMY_FILE = path.join(REPO_ROOT, "_data", "content-library-taxonomy.yml");
@@ -140,7 +140,7 @@ function getAssetsValidationUrl(permalink) {
     return url.toString();
   }
 
-  if (!cleanPermalink.startsWith("/assets/files/")) {
+  if (!cleanPermalink.startsWith("/~assets/files/")) {
     return null;
   }
 
