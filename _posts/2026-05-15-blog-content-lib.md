@@ -32,14 +32,14 @@ format: HTML
 tags: Acquisition Content-Creation Design-and-Develop Policy-and-Management Testing
 social_img: "assets/images/social-media-og-image-bytes.jpg"
 social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
-created: 2026-04-15
+created: 2026-05-19
 updated: 
 ---
 Finding the right accessibility guidance just got easier.
 We’re excited to announce the launch of the Section508.gov Content Library, a centralized, searchable collection of every page and document across the site. Designed to support federal practitioners at every stage of their work, the Content Library makes it faster and simpler to locate the guidance you need—without navigating through multiple sections of the website.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/post-figure-content-library.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/blog-content-library.jpg" alt="" aria-describedby="figure-1" class="border-0px border-base-light padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong>Section508.gov Content Library.</span>
    </div>
