@@ -41,7 +41,7 @@ We’re excited to announce the launch of the Section508.gov Content Library, a 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/post-figure-content-library.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
    </div>
-   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> .</span>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong>Section508.gov Content Library.</span>
    </div>
 </div>
 
