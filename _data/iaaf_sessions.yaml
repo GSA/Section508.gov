@@ -16,7 +16,7 @@ iaaf_2022:
         description:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: yvette-gibson #bio_id for this person 
+            who: gibson-yvette #bio_id for this person 
       - name: 'Workshop'
         type: breakout
         time_start: 2022-10-11 12:10:00
@@ -31,7 +31,7 @@ iaaf_2022:
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: mcgowan-brianna #bio_id for this person 
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: wendy-cheng #bio_id for this person 
+                who: cheng-wendy #bio_id for this person 
             downloads:
               - link_name: Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
                 file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
@@ -41,11 +41,11 @@ iaaf_2022:
             description: While video and multimedia can be great vehicles to communicate with the public and with internal audiences, making those videos fully accessible can be a challenge! This workshop will offer tips and tricks for generating audio described videos, including strategies for developing audio descriptions for both technical and general audiences.
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who:  lesley-earl #bio_id for this person 
+                who:  earl-lesley #bio_id for this person 
               - name: Presenter
-                who: alison-lemon
+                who: lemon-alison
               - name: Presenter
-                who: andrew-wiley
+                who: wiley-andrew
             downloads:
               - link_name: Videos for All - IAAF 2022 (PPTX)
                 file_name: Videos%20for%20All%20-%20IAAF%202022.pptx
@@ -67,9 +67,9 @@ iaaf_2022:
             description: Presenters will introduce foundational accessibility concepts, such as ableism, disability, social vs. medical models of disability, and societal benefits of accessibility.
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: angie-fuoco #bio_id for this person 
+                who: fuoco-angie #bio_id for this person 
               - name: Presenter
-                who: andrew-nielson
+                who: nielson-andrew
             downloads:
               - link_name: The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)
                 file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx
@@ -79,7 +79,7 @@ iaaf_2022:
             description: While captioning might seem straightforward - it's as simple as typing out what you hear, right? And auto-captioning is available everywhere - providing good captioning takes a little something extra. In this workshop, you’ll learn about captioning types for prerecorded media, best practices for grammar and editing, captioning workflows, and some of the latest tools to quickly and correctly caption your videos, no matter what platform you want to load them into.
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: lesley-earl #bio_id for this person 
+                who: earl-lesley #bio_id for this person 
             downloads:
               - link_name: Captioning Multimedia - IAAF 2022 (PPTX)
                 file_name: Captioning%20Multimedia%20-%20IAAF%202022.pptx
@@ -101,9 +101,9 @@ iaaf_2022:
             description: Presenters will build on Part 1, foundational concepts of accessibility, to explore with attendees how we can help remove environmental, institutional, and attitudinal barriers to an accessible workplace.  
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: angie-fuoco #bio_id for this person 
+                who: fuoco-angie #bio_id for this person 
               - name: Presenter
-                who: andrew-nielson
+                who: nielson-andrew
             downloads:
               - link_name: The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)
                 file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx
@@ -113,11 +113,11 @@ iaaf_2022:
             description: New to managing a 508 program? Not sure where to start? Feeling a bit overwhelmed? Remember, you don’t need to know everything on day one. In this session get inspired by hearing how Accessibility Programs, across agencies, use the Section 508 Playbook to learn, grow, and adapt it to their cultural and technical environment.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: michael-horton #bio_id for this person 
+                who: horton-michael #bio_id for this person 
               - name: Presenter
-                who: gary-morin
+                who: morin-gary
               - name: Presenter
-                who: angela-watkins
+                who: watkins-angela
             downloads:
               - link_name: Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
                 file_name: Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
@@ -141,7 +141,7 @@ iaaf_2022:
               - name: Moderator
                 who: sharma-siddhartha
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: regina-wendling #bio_id for this person 
+                who: wendling-regina #bio_id for this person 
             downloads:
               - link_name: Creating Accessible PDF Forms - IAAF 2022 (PPTX)
                 file_name: Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
@@ -151,15 +151,15 @@ iaaf_2022:
             description: "Building on the previous session, Section508 PMs - What You Need to Know, panelists will discuss using best practices in the real world, baselining, and moving forward."
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: michael-horton #use bio_id 
+                who: horton-michael #use bio_id 
               - name: Panelist
-                who: tim-creagan
+                who: creagan-tim
               - name: Panelist
-                who: lolita-horne
+                who: horne-lolita-horne
               - name: Panelist
-                who: gary-morin
+                who: morin-gary
               - name: Panelist
-                who: angela-watkins
+                who: watkins-angela
             downloads:
               - link_name: 
                 file_name: #This file was rejected. Please confirm is in S3 before making live #
@@ -171,9 +171,9 @@ iaaf_2022:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: yvette-gibson #use bio_id
+            who: gibson-yvette #use bio_id
           - name: 
-            who: stephen-harding
+            who: harding-stephen
   - day: 2
     time_start: 2022-10-12 10:00:00
     time_end: 2022-10-12 16:00:00
@@ -186,7 +186,7 @@ iaaf_2022:
         description: 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: gary-morin #bio_id for this person 
+            who: morin-gary #bio_id for this person 
       - name: 'General Session'
         type: general
         time_start: 2022-10-12 10:05:00
@@ -196,15 +196,15 @@ iaaf_2022:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: Moderator
-            who: dennis-papula
+            who: papula-dennis
           - name: Panelist
-            who: jason-hitchcock
+            who: hitchcock-jason
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: antoinette-johnson #bio_id for this person 
+            who:  johnson-antoinette
           - name: Panelist 
-            who: kate-sweeney
+            who: sweeney-kate
           - name: Panelist 
-            who: mark-urban
+            who: urban-mark
       - name: 'Transition'
         type: break
         time_start: 2022-10-12 11:00:00
@@ -218,9 +218,9 @@ iaaf_2022:
         session_id: day2keynote
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: kimberly-knackstedt #bio_id for this person 
+            who: knackstedt-kimberly #bio_id for this person 
           - name: Moderator
-            who: andrew-nielson
+            who: nielson-andrew
         downloads:
           - link_name: 
             file_name:
@@ -239,15 +239,15 @@ iaaf_2022:
         description: Neurodiversity/Neurodivergence has been defined the range of differences in individual brain function and behavioral traits, regarded as part of normal variation in the human population.  Neurodiversity also describes the idea that people experience and interact with the world around them in many different ways; there is no one "right" way of thinking, learning, and behaving, and differences are not viewed as deficits ( Singer 2016, Mottron 2004, Harvard 2022). As more companies broaden their investment in programs, more leaders are adding neuodiversity/neurodivergence to their business vocabularies and programming (DICE, 2021). However, while a growing number of companies are still refining HR processes to hire and retain neurodivere talent; at present, however,  there are still many barriers and more work needs to be done. This panel will briefly discuss what intersectional neurodiversity means, the business case for neurodiversity, how each panelist is expanding accessibility though technology for Neurodiverse people with the workplace, how success is measured, best practices and next steps to create  holistic inclusive workplaces.
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: rhonda-moore #bio_id for this person 
+            who: moore-rhonda #bio_id for this person 
           - name: Panelist
-            who: susan-daniels
+            who: daniels-susan
           - name: Panelist
-            who: paula-escuadra
+            who: escuadra-paula
           - name: Panelist
-            who: lawrence-fung
+            who: fung-lawrence
           - name: Panelist
-            who: jim-hogan
+            who: hogan-jim
         downloads:
           - link_name: 
             file_name:
@@ -271,9 +271,9 @@ iaaf_2022:
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: wilson-alex #bio_id for this person 
               - name: Presenter 
-                who: macey-cox 
+                who: cox-macey 
               - name: Presenter
-                who: emily-follit
+                who: follit-emily
             downloads:
               - link_name: Workplace Mental Health - IAAF 2022 (PPTX)
                 file_name: Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
@@ -285,7 +285,7 @@ iaaf_2022:
               - name: Moderator
                 who: joyce-katie
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who:  lorena-bradford #use bio_id 
+                who:  bradford-lorena #use bio_id 
               - name: Presenter
                 who: deanna-wood
             downloads:
@@ -313,7 +313,7 @@ iaaf_2022:
               - name: Presenter
                 who: lindsay-goldstein
               - name: Presenter
-                who: christine-thomas
+                who: thomas-christine
             downloads:
               - link_name: Beyond 508 Compliance - A Four-Point Hybrid Testing Approach - IAAF 2022 (PPTX)
                 file_name: Beyond%20508%20Compliance%20-%20A%20Four-Point%20Hybrid%20Testing%20Approach%20-%20IAAF%202022.pptx
@@ -323,9 +323,9 @@ iaaf_2022:
             description: "Mission Accessible, inspired by Mission Impossible, consists of five daily missions delivered via email. Each mission, usually no more than 5 minutes, is focused on one of the following areas ':' Vision, Hearing, Mobility, Speech, and Cognitive. Those participating report out if they completed it and any other observations. It can help people walk in someone else's shoe while learning about features they may not have been aware of (e.g., dictation, and using short cut keys)."
             roles: #list each roles as you intend the display on the page
               - name: Moderator
-                who: tim-creagan
+                who: creagan-tim
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: angela-watkins #use bio_id
+                who: watkins-angela #use bio_id
             downloads:
               - link_name: Mission Accessible - IAAF 2022 (PPTX)
                 file_name: Mission%20Accessible%20-%20IAAF%202022.pptx
@@ -347,11 +347,11 @@ iaaf_2022:
             description: "Sharing Phases of \"Advancing Accessibility\": <ul><li>Awareness - People learn about the topic of accessibility</li><li>Acknowledgment - People accept that accessibility is important or how it impacts them and the way they work</li><li>Adaption - People start to change their behavior about accessibility</li><li>Adoption - People's changed behavior becomes habit when considering accessibility</li><li>Advocacy - People help and encourage others to adhere to and apply better behaviors regarding accessibility</li></ul>"
             roles: #list each roles as you intend the display on the page
               - name: Moderator
-                who: avis-ryan
+                who: ryan-avis
               - name: Presenter
-                who: marcelle-salley-owens
+                who: salley-owens-marcelle
               - name: Presenter
-                who: angela-watkins  
+                who: watkins-angela  
             downloads:
               - link_name: Advancing Accessibility within a Small Agency - IAAF 2022 (PPTX)
                 file_name: Advancing%20Accessibility%20within%20a%20Small%20Agency%20-%20IAAF%202022.pptx
@@ -363,11 +363,11 @@ iaaf_2022:
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: wilkes-martha #use bio_id
               - name: Presenter 
-                who: michelle-hartley 
+                who: hartley-michelle 
               - name: Presenter
-                who: brett-oppegaard
+                who: oppegaard-brett
               - name: Presenter
-                who: patrick-sheehan
+                who: sheehan-patrick
             downloads:
               - link_name: The UniDescription Project - IAAF 2022 (PPTX)
                 file_name: The%20UniDescription%20Project%20-%20IAAF%202022.pptx
@@ -379,7 +379,7 @@ iaaf_2022:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
   - day: 3
     time_start: 2022-10-13 10:00:00
     time_end: 2022-10-13 16:30:00
@@ -392,7 +392,7 @@ iaaf_2022:
         description:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: daniel-pomeroy #bio_id for this person 
+            who: pomeroy-daniel #bio_id for this person 
       - name: 'Welcome'
         type: welcome
         time_start: 2022-10-13 10:10:00
@@ -402,7 +402,7 @@ iaaf_2022:
         subtitle: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: katy-kale #bio_id for this person
+            who: kale-katy #bio_id for this person
         downloads:
           - link_name: 
             file_name:
@@ -415,7 +415,7 @@ iaaf_2022:
         subtitle: "Government-wide IT Accessibility Program Update"
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: andrew-nielson #bio_id for this person
+            who: nielson-andrew #bio_id for this person
         downloads:
           - link_name: 
             file_name:
@@ -434,7 +434,7 @@ iaaf_2022:
         subtitle: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: krystal-brumfield #bio_id for this person
+            who: brumfield-krystal #bio_id for this person
         downloads:
           - link_name: 
             file_name:
@@ -447,7 +447,7 @@ iaaf_2022:
           - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: day-al-mohamed #bio_id for this person 
           - name: Moderator
-            who: andrea-oneal
+            who: oneal-andrea
         downloads:
           - link_name: 
             file_name:
@@ -466,13 +466,13 @@ iaaf_2022:
         subtitle: 'Accessibility Maturity Models'
         roles: #list each roles as you intend the display on the page
           - name: Moderator
-            who: michael-horton
+            who: horton-michael
           - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: nancy-casper #bio_id for this person 
+            who: casper-nancy #bio_id for this person 
           - name: Presenter
-            who: shannon-paschel
+            who: paschel-shannon
           - name: Presenter
-            who: rosemary-speers
+            who: speers-rosemary
         downloads:
               - link_name: Accessibility Maturity Models - IAAF 2022 (PPTX)
                 file_name: Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx
@@ -494,9 +494,9 @@ iaaf_2022:
             description: "The Accessibility Guidelines Working Group is working on WCAG 3, the next generation of digital accessibility standards. This presentation will:<ol><li>Review the goals for WCAG 3</li><li>Discuss the current status of the work</li><li>Provide an opportunity for immediate feedback</li><li>Review ways to keep up to date and provide ongoing feedback.</li></ol>"
             roles: #list each roles as you intend the display on the page
               - name: Moderator
-                who: bruce-bailey
+                who: bailey-bruce
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: rachael-montgomery #use bio_id 
+                who: montgomery-rachael #use bio_id 
             downloads:
               - link_name: WCAG 3 - IAAF 2022 (PPTX) 
                 file_name: WCAG%203%20-%20IAAF%202022.pptx
@@ -508,7 +508,7 @@ iaaf_2022:
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: small-elizabeth #use bio_id
               - name: Presenter
-                who: betsy-sirk
+                who: sirk-betsy
             downloads:
               - link_name: Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
                 file_name: Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
@@ -532,7 +532,7 @@ iaaf_2022:
               - name: Moderator
                 who: wilkes-martha
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: annette-carr #bio_id for this person
+                who: carr-annette #bio_id for this person
             downloads:
               - link_name: A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
                 file_name: A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
@@ -542,11 +542,11 @@ iaaf_2022:
             description: The US Federal Government buys more information and communication technology (ICT) than it builds. To ensure the most accessible ICT is purchased, the Government relies on Industry to provide Accessibility Conformance Reports (ACRs). This presentation shows how ACR creation is a win-win situation for Industry and Government. NASA shares its guide to help industry develop ACRs and promote an understanding of Section 508 by both Industry and Government. Best practices in ACR evaluation are shared.
             roles: #list each roles as you intend the display on the page
               - name: Moderator
-                who: angela-watkins
+                who: watkins-angela
               - name: Panelist #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: antonio-haileselassie #use bio_id 
+                who: haileselassie-antonio #use bio_id 
               - name: Panelist
-                who: betsy-sirk
+                who: sirk-betsy
             downloads:
               - link_name: Demystifying Section 508 - IAAF 2022 (PPTX) 
                 file_name: Demystifying%20Section%20508%20-%20IAAF%202022.pptx
@@ -564,13 +564,13 @@ iaaf_2022:
         subtitle: "Unlocking The Power Of Accessibility - Recognizing & Embracing Your Superpower" 
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: yvette-gibson #bio_id for this person 
+            who: gibson-yvette #bio_id for this person 
           - name: Panelist
-            who: anjali-forber-pratt
+            who: forber-pratt-anjali
           - name: Panelist
-            who: sachin-pavithran
+            who: pavithran-sachin
           - name: Panelist
-            who: taryn-williams
+            who: williams-taryn
         downloads:
           - link_name:
             file_name:
@@ -582,9 +582,9 @@ iaaf_2022:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: yvette-gibson #use bio_id
+            who: gibson-yvette #use bio_id
           - name: 
-            who: stephen-harding
+            who: harding-stephen
         downloads:
           - link_name: Chair and Committee Members - IAAF 2022 (PPTX) 
             file_name: Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx            
@@ -618,7 +618,7 @@ iaaf_2023:
         room: 'Bair Auditorium and via Webex'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: daniel-pomeroy #bio_id for this person 
+            who: pomeroy-daniel #bio_id for this person 
       - name: 'Break'
         type: break
         time_start: 2023-11-07 10:20:00
@@ -639,7 +639,7 @@ iaaf_2023:
             room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: gary-morin #bio_id for this person 
+                who: morin-gary #bio_id for this person 
               - name: Presenter
                 who: dansby-dee
             downloads:
@@ -772,7 +772,7 @@ iaaf_2023:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: frith-chet #bio_id for this person
               - name: Presenter 
-                who: patrick-sheehan
+                who: sheehan-patrick
             downloads:
               - link_name: Creating Accessible PDF Documents with Signatures - IAAF 2023 (PPTX)
                 file_name: Creating%20Accessible%20PDF%20Documents%20with%20Signatures%20-%20IAAF%202023.pptx
@@ -783,7 +783,7 @@ iaaf_2023:
             room: Bair Auditorium Room and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: angela-watkins #use bio_id 
+                who: watkins-angela #use bio_id 
               - name: Panelist
                 who: rodriguez-karla
             downloads:
@@ -883,9 +883,9 @@ iaaf_2023:
             room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: andrew-nielson #bio_id for this person 
+                who: nielson-andrew #bio_id for this person 
               - name: Presenter
-                who: michael-horton
+                who: horton-michael
               - name: Presenter
                 who: smith-oconnor-kristen
               - name: Presenter
@@ -1003,13 +1003,13 @@ iaaf_2023:
         room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: betsy-sirk
+            who: sirk-betsy
           - name: Panelist 
             who: ritz-courtney
           - name: Panelist
             who: sharma-siddhartha
           - name: Panelist 
-            who: mark-urban
+            who: urban-mark
         downloads:
           - link_name: Real Talk - A Conversation with Section 508 Program Managers - IAAF 2023 (PPTX)
             file_name: Real%20Talk%20-%20A%20Conversation%20with%20Section%20508%20Program%20Managers%20-%20IAAF%202023.pptx
@@ -1053,7 +1053,7 @@ iaaf_2023:
         room: 'Bair Auditorium and via Webex' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sachin-pavithran #bio_id for this person 
+            who: pavithran-sachin #bio_id for this person 
       - name: 'Keynote'
         type: keynote
         time_start: 2023-11-09 10:15:00
@@ -1068,11 +1068,11 @@ iaaf_2023:
           - name: Panelist
             who: brewer-judy
           - name: Panelist
-            who: katy-kale
+            who: kale-katy
           - name: Panelist
             who: mathis-jennifer
           - name: Panelist
-            who: sachin-pavithran
+            who: pavithran-sachin
         downloads:
           - link_name: 
             file_name:
@@ -1098,7 +1098,7 @@ iaaf_2023:
           - name: Panelist
             who: larson-merissa
           - name: Panelist
-            who: patrick-sheehan         
+            who: sheehan-patrick         
       - name: 'Lunch/Exhibits'
         type: break
         time_start: 2023-11-09 12:30:00
@@ -1170,7 +1170,7 @@ iaaf_2023:
             room: 'Bair Auditorium and Virtual Presentation via Webex'
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: kate-sweeney #bio_id for this person
+                who: sweeney-kate #bio_id for this person
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
@@ -1181,9 +1181,9 @@ iaaf_2023:
             room: Room B3022 and Virtual Presentation via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: tim-creagan #bio_id for this person 
+                who: creagan-tim #bio_id for this person 
               - name: Presenter
-                who: bruce-bailey
+                who: bailey-bruce
               - name: Presenter
                 who: bradley-montgomery-rachael
             downloads:
@@ -1221,7 +1221,7 @@ iaaf_2023:
         room: 'Bair Auditorium and via Webex' 
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrea-oneal
+            who: oneal-andrea
           - name: Panelist
             who: croft-jennifer
           - name: Panelist
@@ -1241,7 +1241,7 @@ iaaf_2023:
           - name: 
             who: aiken-brooke
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id          
+            who: nielson-andrew #use bio_id          
       - name: 'IAAF "After Party"' 
         type: welcome
         time_start: 2023-11-09 16:45:00
@@ -1264,9 +1264,9 @@ iaaf_2024:
         session_id: day1welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: daniel-pomeroy #bio_id for this person
+            who: pomeroy-daniel #bio_id for this person
           - name: Introduction 
-            who: andrew-nielson #bio_id for this person
+            who: nielson-andrew #bio_id for this person
       - name: 'General Session'
         type: general
         time_start: 2024-11-13 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1276,13 +1276,13 @@ iaaf_2024:
         description: Accessibility experts from the U.S. Access Board (USAB) and the General Services Administration (GSA) will update attendees on current developments in the implementation and interpretation of the Section 508 Standards, including activities, achievements, milestones, and progress in assessing conformance across government.
         roles: 
           - name: Presenter
-            who: michael-horton #bio_id for this person 
+            who: horton-michael #bio_id for this person 
           - name: Presenter
             who: krause-merrick
           - name: Presenter
             who: miller-laura
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person 
+            who: nielson-andrew #bio_id for this person 
           - name: Presenter
             who: smith-oconnor-kristen #bio_id for this person 
           - name: Presenter
@@ -1308,9 +1308,9 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: eng-kathy #bio_id for this person 
           - name: Presenter
-            who: gillick-larry
+            who: larry-gillick
           - name: Presenter
-            who: michael-horton 
+            who: horton-michael 
         downloads:
         - link_name: That Doesn't Need to be a PDF - IAAF 2024 (PPTX) 
           file_name: That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx
@@ -1370,7 +1370,7 @@ iaaf_2024:
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: letalien-bethany #bio_id for this person       
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: kate-sweeney #bio_id for this person         
+            who: sweeney-kate #bio_id for this person         
           - name: Panelist
             who: whittington-david
         downloads:
@@ -1384,7 +1384,7 @@ iaaf_2024:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
   - day: 2
     time_start: 2024-11-14 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2024-11-14 16:30:00
@@ -1396,7 +1396,7 @@ iaaf_2024:
         session_id: day2welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sachin-pavithran #bio_id for this person
+            who: pavithran-sachin #bio_id for this person
           - name: Introduction 
             who: levy-alison #bio_id for this person
       - name: 'General Session'
@@ -1502,7 +1502,7 @@ iaaf_2024:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
           - name: 
             who: otts-katherine
 iaaf_2025: 
@@ -1517,9 +1517,9 @@ iaaf_2025:
         session_id: day1welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: daniel-pomeroy #bio_id for this person
+            who: pomeroy-daniel #bio_id for this person
           - name: Introduction 
-            who: andrew-nielson #bio_id for this person
+            who: nielson-andrew #bio_id for this person
       - name: 'General Session'
         type: general
         time_start: 2025-05-20 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1529,11 +1529,11 @@ iaaf_2025:
         description: Experts from the General Services Administration (GSA) will provide an update on current and upcoming government-wide accessibility efforts. The session will highlight key activities, achievements, milestones, and progress in assessing conformance across agencies, with a specific focus on GSA's planned initiatives for FY25 and FY26.
         roles: 
           - name: Presenter
-            who: michael-horton #bio_id for this person 
+            who: horton-michael #bio_id for this person 
           - name: Presenter
             who: miller-laura
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person 
+            who: nielson-andrew #bio_id for this person 
           - name: Presenter
             who: smith-oconnor-kristen #bio_id for this person 
           - name: Presenter
@@ -1638,7 +1638,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person
+            who: nielson-andrew #bio_id for this person
         downloads:
           - link_name: Digital Accessibility Acquisition Solutions (PPTX)
             file_name: IAAF-2025-Digital-Accessibility-Acquisition-Solutions.pptx                
@@ -1650,7 +1650,7 @@ iaaf_2025:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
   - day: 2
     time_start: 2025-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2025-05-21 16:30:00
@@ -1662,7 +1662,7 @@ iaaf_2025:
         session_id: day2welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sachin-pavithran #bio_id for this person
+            who: pavithran-sachin #bio_id for this person
           - name: Introduction 
             who: levy-alison #bio_id for this person    
       - name: 'Roundtable'
@@ -1724,9 +1724,9 @@ iaaf_2025:
         room:
         roles: 
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: michael-horton #bio_id for this person
+            who: horton-michael #bio_id for this person
           - name: Panelist 
-            who: antonio-haileselassie
+            who: haileselassie-antonio
           - name: Panelist
             who: wilcox-lisa       
         downloads:
@@ -1742,7 +1742,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Prersenter
-            who: betsy-sirk
+            who: sirk-betsy
         downloads:
           - link_name: Navigating Federal Acquisitions (PPTX)
             file_name: IAAF-2025-Navigating-Federal-Acquisitions.pptx   
@@ -1762,7 +1762,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: michael-horton #bio_id for this person 
+            who: horton-michael #bio_id for this person 
           - name: Presenter
             who: miller-laura
           - name: Presenter
@@ -1780,7 +1780,7 @@ iaaf_2025:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
 iaaf_2026: 
   - day: 1
     time_start: 2026-05-21 08:30:00 #YYYY-MM-DD HH:MM:SS
@@ -1798,9 +1798,9 @@ iaaf_2026:
         session_id: day1welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person
+            who: nielson-andrew #bio_id for this person
           - name: 
-            who: sachin-pavithran #bio_id for this person
+            who: pavithran-sachin #bio_id for this person
       - name: 'Keynote'
         type: keynote
         time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
@@ -1810,7 +1810,7 @@ iaaf_2026:
         description: 
         roles: 
           - name: Presenter
-            who: rachael-montgomery #bio_id for this person 
+            who: montgomery-rachael #bio_id for this person 
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 09:45:00 #YYYY-MM-DD HH:MM:SS
@@ -1896,7 +1896,7 @@ iaaf_2026:
         room:
         roles: 
           - name: Presenters
-            who: antonio-haileselassie
+            who: haileselassie-antonio
         downloads:
           - link_name: "Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
@@ -1924,7 +1924,7 @@ iaaf_2026:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
   - day: 2
     time_start: 2026-05-22 09:00:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2026-05-22 12:00:00
@@ -1941,7 +1941,7 @@ iaaf_2026:
         session_id: day2welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: michael-horton #bio_id for this person
+            who: horton-michael #bio_id for this person
       - name: 
         type: 
         time_start: 2026-05-22 09:35:00
@@ -1952,9 +1952,9 @@ iaaf_2026:
         room: 
         roles:
           - name: 
-            who: andrew-nielson 
+            who: nielson-andrew 
           - name: 
-            who: daniel-pomeroy
+            who: pomeroy-daniel
       - name: 'General Session'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1965,7 +1965,7 @@ iaaf_2026:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: betsy-sirk 
+            who: sirk-betsy 
           - name: Presenter
             who: chong-owen
         downloads:
@@ -2001,7 +2001,7 @@ iaaf_2026:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id
+            who: nielson-andrew #use bio_id
       - name: 'Lunch'
         type: break
         time_start: 2026-05-22 12:00:00

@@ -1,6 +1,6 @@
 ---
 title: Michael Horton
-bio_id: michael-horton #needs to be unique among all in _bios_iaaf collection
+bio_id: horton-michael #needs to be unique among all in _bios_iaaf collection
 display_name: Michael Horton
 first_name: Michael
 last_name: Horton

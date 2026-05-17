@@ -1,6 +1,6 @@
 ---
 title: Lolita Horne
-bio_id: lolita-horne
+bio_id: horne-lolita
 display_name: Lolita Horne
 first_name: Lolita
 last_name: Horne

@@ -1,6 +1,6 @@
 ---
 title: Katy Kale
-bio_id: katy-kale
+bio_id: kale-katy
 display_name: Katy Kale
 first_name: Katy
 last_name: Kale

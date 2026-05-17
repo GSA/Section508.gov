@@ -1,6 +1,6 @@
 ---
 title: Deanna Wood
-bio_id: deanna-wood
+bio_id: wood-deanna
 display_name: Deanna Wood
 first_name: Deanna
 last_name: Wood

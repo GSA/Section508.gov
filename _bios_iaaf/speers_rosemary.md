@@ -1,6 +1,6 @@
 ---
 title: Rosemary Speers
-bio_id: rosemary-speers
+bio_id: speers-rosemary
 display_name: Dr. Rosemary Speers
 first_name: Rosemary
 last_name: Speers

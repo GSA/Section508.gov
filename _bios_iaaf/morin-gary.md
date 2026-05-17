@@ -1,6 +1,6 @@
 ---
 title: Gary Morin
-bio_id: gary-morin
+bio_id: morin-gary
 display_name: Gary Morin
 first_name: Gary
 last_name: Morin

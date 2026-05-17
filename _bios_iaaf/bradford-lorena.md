@@ -1,6 +1,6 @@
 ---
 title: Lorena Bradford
-bio_id: lorena-bradford
+bio_id: bradford-lorena
 display_name: Lorena Bradford
 first_name: Lorena
 last_name: Bradford

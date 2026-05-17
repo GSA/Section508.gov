@@ -1,6 +1,6 @@
 ---
 title: Marcelle Salley-Owens
-bio_id: marcelle-salley-owens
+bio_id: salley-owens-marcelle
 display_name: Marcelle Salley-Owens
 first_name: Marcelle
 last_name: Salley-Owens

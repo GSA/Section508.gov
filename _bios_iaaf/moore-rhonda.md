@@ -1,6 +1,6 @@
 ---
 title: Rhonda Moore
-bio_id: rhonda-moore
+bio_id: moore-rhonda
 display_name: Rhonda Moore
 first_name: Rhonda
 last_name: Moore

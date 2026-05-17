@@ -1,6 +1,6 @@
 ---
 title: Krystal Brumfield
-bio_id: krystal-brumfield
+bio_id: brumfield-krystal
 display_name: Krystal Brumfield
 first_name: Krystal
 last_name: Brumfield

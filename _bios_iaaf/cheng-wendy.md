@@ -1,6 +1,6 @@
 ---
 title: Wendy Cheng
-bio_id: wendy-cheng
+bio_id: cheng-wendy
 display_name: Wendy Cheng
 first_name: Wendy
 last_name: Cheng

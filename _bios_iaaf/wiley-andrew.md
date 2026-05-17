@@ -1,6 +1,6 @@
 ---
 title: Andrew Wiley
-bio_id: andrew-wiley
+bio_id: wiley-andrew
 display_name: Andrew Wiley
 first_name: Andrew
 last_name: Wiley

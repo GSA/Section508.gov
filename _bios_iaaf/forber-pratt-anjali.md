@@ -1,6 +1,6 @@
 ---
 title: Anjali Forber-Pratt
-bio_id: anjali-forber-pratt
+bio_id: forber-pratt-anjali
 display_name: Dr. Anjali Forber-Pratt
 first_name: Anjali
 last_name: Forber-Pratt

@@ -1,6 +1,6 @@
 ---
 title: Kate Sweeney
-bio_id: kate-sweeney
+bio_id: sweeney-kate
 display_name: Kate Sweeney
 first_name: Kate
 last_name: Sweeney

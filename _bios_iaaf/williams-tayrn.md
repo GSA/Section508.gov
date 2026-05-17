@@ -1,6 +1,6 @@
 ---
 title: Taryn Williams
-bio_id: taryn-williams
+bio_id: williams-taryn
 display_name: Taryn M. Williams
 first_name: Taryn
 last_name: Williams
