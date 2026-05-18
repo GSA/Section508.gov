@@ -6,7 +6,7 @@ first_name: David
 last_name: O'Keefe
 affiliation_short: USAB
 affiliation_long: United States Access Board
-position: Events and Communication Specialist
+position: Communication Specialist
 office: 
 location: Washington, D.C.
 email: o'keefe@access-board.gov
