@@ -1,6 +1,6 @@
 ---
 title: Bruce Bailey
-bio_id: bruce-bailey
+bio_id: bailey-bruce
 display_name: Bruce Bailey
 first_name: Bruce
 last_name: Bailey

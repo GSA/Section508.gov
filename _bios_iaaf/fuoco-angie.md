@@ -1,6 +1,6 @@
 ---
 title: Angie Fuoco
-bio_id: angie-fuoco
+bio_id: fuoco-angie
 display_name: Angie Fuoco
 first_name: Angie
 last_name: Fuoco

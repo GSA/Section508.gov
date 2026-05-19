@@ -1,6 +1,6 @@
 ---
 title: Shannon Paschel
-bio_id: shannon-paschel
+bio_id: paschel-shannon
 display_name: Shannon L. Paschel
 first_name: Shannon
 last_name: Paschel

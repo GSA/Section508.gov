@@ -1,6 +1,6 @@
 ---
 title: Kimberly Knackstedt
-bio_id: kimberly-knackstedt
+bio_id: knackstedt-kimberly
 display_name: Kimberly Knackstedt
 first_name: Kimberly
 last_name: Knackstedt

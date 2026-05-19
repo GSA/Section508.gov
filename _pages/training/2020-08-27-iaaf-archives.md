@@ -16,16 +16,34 @@ sub-topic: "Guidance"
 resource-type: "Training"
 format: "HTML"
 created: 2020-08-27
-updated: 2026-04-20
+updated: 2026-05-19
 exclude-changelog: true
 --- 
+
+## 2026 Interagency Accessibility Forum
+The 2026 Interagency Accessibility Forum (IAAF), built on the theme <strong>Future-Ready Accessibility: Preparing Government for What’s Next</strong>, and held on Thursday, May 21 and Friday, May 22, 2026. The event offered limited in-person attendance at the GSA Headquarters building, along with virtual attendance for those unable to join us in-person. The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with the Federal Deposit Insurance Corporation (FDIC) and other federal agencies.
+
+Presenters and panelists covered a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access to government information.
+
+### Presentations Materials
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx" target="_blank" class="usa-link--external">Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx" target="_blank" class="usa-link--external">Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx" target="_blank" class="usa-link--external">Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx" target="_blank" class="usa-link--external">The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx" target="_blank" class="usa-link--external">Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)</a>
+
+For event details, visit: [2026 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2026/) and [2026 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2026/).
+
+---
 
 ## 2025 Interagency Accessibility Forum
 The 2025 Interagency Accessibility Forum (IAAF) was a two-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
 
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board, with support from other federal agencies and ICT professionals.
 
-### Presentations & Workshops
+### Presentations Materials
 * [GSA's Government-wide IT Accessibility Division - Yearly Activities Update (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-GSA-Yearly-Activities-Update.pptx)
 * [Project Management for the Section 508 Annual Assessment: A Structured Approach (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Enhancing-Your-Section-508-Assessment.pptx)
 * [Project Managing Accessibility Compliance: The Section 508 Assessment from a Project Management Perspective (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Project-Managing-Accessibility-Compliance.pptx)
@@ -46,7 +64,7 @@ The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference featuri
 
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board and the Federal Chief Information Officer Council’s Accessibility Community of Practice , with support from other federal agencies and ICT professionals.
 
-### Presentations & Workshops
+### Presentations Materials
 * [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/gsa-section-508-activities-update-iaaf-2024.pptx)
 * [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://www.section508.gov/~assets/files/iaaf/2024/that-doesnt-need-to-be-a-pdf-iaaf-2024.pptx)
 * [Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF)](https://www.section508.gov/~assets/files/iaaf/2024/using-devtools-for-manual-accessibility-inspection-iaaf-2024.pdf)

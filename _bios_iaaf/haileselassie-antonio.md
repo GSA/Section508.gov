@@ -1,6 +1,6 @@
 ---
 title: Antonio Haileselassie
-bio_id: antonio-haileselassie
+bio_id: haileselassie-antonio
 display_name: Antonio Haileselassie
 first_name: Antonio
 last_name: Haileselassie

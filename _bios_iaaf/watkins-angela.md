@@ -1,6 +1,6 @@
 ---
 title: Angela Watkins
-bio_id: angela-watkins
+bio_id: watkins-angela
 display_name: Angela Watkins
 first_name: Angela
 last_name: Watkins

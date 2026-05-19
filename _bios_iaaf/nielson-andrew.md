@@ -1,6 +1,6 @@
 ---
 title: Andrew Nielson
-bio_id: andrew-nielson
+bio_id: nielson-andrew
 display_name: Andrew Nielson
 first_name: Andrew
 last_name: Nielson

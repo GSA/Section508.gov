@@ -1,6 +1,6 @@
 ---
 title: Michelle Hartley
-bio_id: michelle-hartley
+bio_id: hartley-michelle
 display_name: Michelle Hartley
 first_name: Michelle
 last_name: Hartley
