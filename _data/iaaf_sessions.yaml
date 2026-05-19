@@ -1843,7 +1843,7 @@ iaaf_2026:
             who: ghoston-ameenah 
         downloads:
         - link_name: "Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)"
-          file_name: https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
+          file_name: https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
       - name: 'Lunch'
         type: break
         time_start: 2026-05-21 12:00:00
@@ -1864,7 +1864,7 @@ iaaf_2026:
             who: ghoston-ameenah
         downloads:
           - link_name: "Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
+            file_name: https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
       - name: 'General Session'
         type: general
         time_start: 2026-05-21 14:00:00

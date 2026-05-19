@@ -31,8 +31,8 @@ Presenters and panelists covered a wide range of Section 508-related subjects, i
 * <a href="https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx" target="_blank" class="usa-link--external">Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)</a>
 * <a href="https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx" target="_blank" class="usa-link--external">The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)</a>
 * <a href="https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx" target="_blank" class="usa-link--external">Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)</a>
-* <a href="https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)</a>
-* <a href="https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx" target="_blank" class="usa-link--external">Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)</a>
 
 For event details, visit: [2026 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2026/) and [2026 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2026/).
 
