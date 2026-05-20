@@ -89,7 +89,6 @@ To download presentations from this two-day event, visit the <a href="{{site.bas
   </div>-->
 </div>
 
-{% comment %}
 ## Event Agenda
 <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/"><img style="display: block; float: left; margin-right: 20px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2026 IAAF Agenda" width="75" height="75"/></a>
 
@@ -99,6 +98,7 @@ Presenters and panelists covered a wide range of Section 508-related subjects, i
 
 For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2026/">2026 IAAF Agenda</a>. 
 
+{% comment %}
 ## How to Register
 Attending the 2026 IAAF virtually gives you access to all open sessions on Thursday, May 21, and Friday, May 22. Simply register to join online for one or both days. After completing your registration, a unique link to access the virtual event will be emailed directly to you.<br>
 <a href="https://gsa.zoomgov.com/webinar/register/WN_4H6k3VB4SeeUJzuu7EhxaQ" target="_blank" class="usa-button margin-top-2" rel="noopener noreferrer">Register: IAAF Two-Day Virtual Event</a>
@@ -106,6 +106,7 @@ Attending the 2026 IAAF virtually gives you access to all open sessions on Thurs
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
   NOTICE: Members of the press must self-identify during the registration process and are required to notify the Office of Strategic Communication at press@gsa.gov.
 </div>
+{% endcomment %}
 
 ## Additional Information
 <div id="accordion-group" class="usa-accordion usa-accordion--multiselectable usa-accordion--bordered" data-allow-multiple>
@@ -200,8 +201,6 @@ Attending the 2026 IAAF virtually gives you access to all open sessions on Thurs
     </ul>
   </div>
 </div>
-{% endcomment %}
-
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
