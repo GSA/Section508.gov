@@ -54,6 +54,7 @@ To download presentations from this two-day event, visit the <a href="{{site.bas
     <a href="{{ site.baseurl }}/assets/calendar/calendar-2026-05-21-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
   </div>
 </div> 
+{% endcomment %}
 
 ## Event Details
 <div class="grid-row">
@@ -72,22 +73,21 @@ To download presentations from this two-day event, visit the <a href="{{site.bas
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>Where: </strong></div>
-      <div class="grid-col tablet:grid-col-10">1800 F St. NW, Washington, D.C. 20405, and<br>Virtually via Zoom for Government</div>
+      <div class="grid-col tablet:grid-col-10"><strong>Jess Larson Auditorium</strong><br>1800 F St. NW, Washington, D.C. 20405, and<br>Virtually via Zoom for Government</div>
     </div>
-    <div class="grid-row">
+    <!-- <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-10">Attendance to this event is offered at no cost</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>Access: </strong></div>
       <div class="grid-col tablet:grid-col-10">ASL and CART available for this fragrance-free event.<br>See <a href="#accommodations">Accessibility Accommodations and Services</a> for more information.</div>
-    </div>
+    </div> -->
   </div>
   <!--<div class="display:none tablet:grid-col-3 text-center">
     <a href="#how-to-register"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:150px"></a>
   </div>-->
 </div>
-{% endcomment %}
 
 {% comment %}
 ## Event Agenda

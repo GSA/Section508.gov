@@ -1786,12 +1786,12 @@ iaaf_2026:
     time_start: 2026-05-21 08:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2026-05-21 17:00:00
     sessions: 
-      - name: 'Registration (In-person)'
+      - name: 'Registration (In-person)<br>1800 F St. NW Lobby'
         type: break
         time_start: 2026-05-21 08:30:00
         time_end: 2026-05-21 09:00:00
         session_id: day1registration
-      - name: 'Welcome & Opening Remarks'
+      - name: 'Welcome & Opening Remarks<br>Jess Larson Auditorium'
         type: welcome
         time_start: 2026-05-21 09:00:00
         time_end: 2026-05-21 09:15:00
@@ -1801,7 +1801,7 @@ iaaf_2026:
             who: nielson-andrew #bio_id for this person
           - name: 
             who: pavithran-sachin #bio_id for this person
-      - name: 'Keynote'
+      - name: 'Keynote<br>Jess Larson Auditorium'
         type: keynote
         time_start: 2026-05-21 09:15:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-21 09:45:00
@@ -1811,7 +1811,7 @@ iaaf_2026:
         roles: 
           - name: Presenter
             who: montgomery-rachael #bio_id for this person 
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 09:45:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-21 10:45:00
@@ -1831,7 +1831,7 @@ iaaf_2026:
         session_id: day1break1
         description: 
         room: 
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 11:00:00
         time_end: 2026-05-21 12:00:00
@@ -1851,7 +1851,7 @@ iaaf_2026:
         session_id: day1break2
         description: 
         room: 
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 13:00:00
         time_end: 2026-05-21 14:00:00
@@ -1865,7 +1865,7 @@ iaaf_2026:
         downloads:
           - link_name: "Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 14:00:00
         time_end: 2026-05-21 15:00:00
@@ -1886,7 +1886,7 @@ iaaf_2026:
         session_id: day1break4
         description: 
         room:    
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 15:15:00
         time_end: 2026-05-21 16:00:00
@@ -1900,7 +1900,7 @@ iaaf_2026:
         downloads:
           - link_name: "Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 16:00:00
         time_end: 2026-05-21 16:45:00
@@ -1916,7 +1916,7 @@ iaaf_2026:
         downloads:
           - link_name: "Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
             file_name: https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
-      - name: 'Closing Remarks - Day 1' 
+      - name: 'Closing Remarks - Day 1<br>Jess Larson Auditorium' 
         type: welcome
         time_start: 2026-05-21 16:45:00
         time_end: 2026-05-21 17:00:00
@@ -1929,12 +1929,12 @@ iaaf_2026:
     time_start: 2026-05-22 09:00:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2026-05-22 12:00:00
     sessions: 
-      - name: 'Registration (In-person)'
+      - name: 'Registration (In-person)<br>1800 F St. NW Lobby'
         type: break
         time_start: 2026-05-22 09:00:00
         time_end: 2026-05-22 09:30:00
         session_id: day2registration
-      - name: 'Welcome & Opening Remarks'
+      - name: 'Welcome & Opening Remarks<br>Jess Larson Auditorium'
         type: welcome
         time_start: 2026-05-22 09:30:00
         time_end: 2026-05-22 09:35:00
@@ -1942,8 +1942,8 @@ iaaf_2026:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: horton-michael #bio_id for this person
-      - name: 
-        type: 
+      - name: 'Fireside Chat<br>Jess Larson Auditorium'
+        type: panel
         time_start: 2026-05-22 09:35:00
         time_end: 2026-05-22 10:00:00
         session_id: day2
@@ -1955,7 +1955,7 @@ iaaf_2026:
             who: nielson-andrew 
           - name: 
             who: pomeroy-daniel
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-22 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 11:00:00
@@ -1977,7 +1977,7 @@ iaaf_2026:
         time_end: 2026-05-22 11:15:00
         session_id: day2break1
         description:      
-      - name: 'General Session'
+      - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-22 11:15:00
         time_end: 2026-05-22 11:55:00
@@ -1993,7 +1993,7 @@ iaaf_2026:
         downloads:
           - link_name: #" - IAAF 2026 (PPTX)"
             file_name: #.pptx
-      - name: 'IAAF Closing Remarks'
+      - name: 'IAAF Closing Remarks<br>Jess Larson Auditorium'
         type: welcome
         time_start: 2026-05-22 11:55:00
         time_end: 2026-05-22 12:00:00
@@ -2014,7 +2014,7 @@ iaaf_2026:
         time_start: 2026-05-22 12:45:00
         time_end: 2026-05-22 13:00:00
         session_id: day2registration
-      - name: 'Closed Session<br>(In-person Only)'
+      - name: 'Closed Session<br>(In-person Only)<br>GSA Conference Center'
         type: general
         time_start: 2026-05-22 13:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2026-05-22 15:00:00
