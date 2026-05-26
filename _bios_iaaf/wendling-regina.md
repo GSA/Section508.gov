@@ -1,6 +1,6 @@
 ---
 title: Regina Wendling
-bio_id: regina-wendling
+bio_id: wendling-regina
 display_name: Regina Wendling
 first_name: Regina
 last_name: Wendling

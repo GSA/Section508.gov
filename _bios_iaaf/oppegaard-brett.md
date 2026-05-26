@@ -1,6 +1,6 @@
 ---
 title: Brett Oppegaard
-bio_id: brett-oppegaard
+bio_id: oppegaard-brett
 display_name: Dr. Brett Oppegaard
 first_name: Brett
 last_name: Oppegaard

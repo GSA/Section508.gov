@@ -1,6 +1,6 @@
 ---
 title: Jason Hitchcock
-bio_id: jason-hitchcock
+bio_id: hitchcock-jason
 display_name: Jason Hitchcock
 first_name: Jason
 last_name: Hitchcock

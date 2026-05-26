@@ -25,7 +25,7 @@ exclude-changelog: true
 
 In Module 13 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <em>Color Contrast</em> module to <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> whether text in a webpage has enough contrast with its background to be readable by people with moderately low vision—especially those who do not typically use contrast-enhancing assistive technology.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-13-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-13-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">

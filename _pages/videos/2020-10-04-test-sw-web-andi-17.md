@@ -25,7 +25,7 @@ exclude-changelog: true
 
 In Module 17 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-17-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-17-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">

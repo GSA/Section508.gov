@@ -1,6 +1,6 @@
 ---
 title: Andrea O’Neal
-bio_id: andrea-oneal
+bio_id: oneal-andrea
 display_name: Andrea M. O’Neal
 first_name: Andrea
 last_name: O’Neal

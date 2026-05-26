@@ -1,6 +1,6 @@
 ---
 title: Christine Thomas
-bio_id: christine-thomas
+bio_id: thomas-christine
 display_name: Christine Thomas
 first_name: Christine
 last_name: Thomas

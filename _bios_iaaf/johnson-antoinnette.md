@@ -1,6 +1,6 @@
 ---
 title: Antoinette Johnson
-bio_id: antoinette-johnson
+bio_id: johnson-antoinette
 display_name: Antoinette Johnson
 first_name: Antoinette
 last_name: Johnson

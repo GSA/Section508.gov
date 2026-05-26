@@ -10,7 +10,7 @@ updated: 2025-01-09
 ---
 This episode explains how to upload a report file to resume using ART or modify an existing report to generate a list of Section 508 requirements for the [information and communication technology (ICT)][6] you want to procure.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-art-poster-05.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/assets/videos/art-introduction-05-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-art-poster-05.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/art-introduction-05-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
