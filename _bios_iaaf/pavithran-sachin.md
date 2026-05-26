@@ -1,6 +1,6 @@
 ---
 title: Sachin Pavithran
-bio_id: sachin-pavithran
+bio_id: pavithran-sachin
 display_name: Dr. Sachin Dev Pavithran
 first_name: Sachin
 last_name: Pavithran

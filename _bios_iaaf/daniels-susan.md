@@ -1,6 +1,6 @@
 ---
 title: Susan Daniels
-bio_id: susan-daniels
+bio_id: daniels-susan
 display_name: Susan Daniels
 first_name: Susan
 last_name: Daniels

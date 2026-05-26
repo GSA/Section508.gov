@@ -4,10 +4,10 @@ sidenav: true
 type: create
 title: Accessible Presentations
 permalink: create/presentations/
-description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
-description-alt: Added the MS PowerPoint 365 Authoring and Testing Guide (PDF).
 redirect_from: 
 - create/presentations/authoring-guides/
+description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
+description-alt: Added the MS PowerPoint 365 Authoring and Testing Guide (PDF).
 audience: 
 - Content Creators
 - Designers
@@ -38,7 +38,7 @@ Learn how to create accessible presentation&mdash;including Microsoft PowerPoint
   <div id="a365" class="usa-accordion__content" hidden="false">
     <ul>
       <li>
-        <a href="{{site.baseurl}}/assets/files/MS PowerPoint 365 Basic Authoring and Testing Guide.pdf" target="_blank" class="usa-link--external">Microsoft PowerPoint 365 Authoring and Testing Guide (PDF)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-powerpoint-365-basic-authoring-and-testing-guide.pdf" target="_blank" class="usa-link--external">Microsoft PowerPoint 365 Authoring and Testing Guide (PDF)</a>
       </li>
     </ul>
   </div>
@@ -49,10 +49,10 @@ Learn how to create accessible presentation&mdash;including Microsoft PowerPoint
   <div id="a2016" class="usa-accordion__content" hidden="false">
     <ul>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx" target="_blank" class="usa-link--external">Microsoft PowerPoint 2016 Authoring and Testing Guide (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-powerpoint-2016-basic-authoring-and-testing-guide-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft PowerPoint 2016 Authoring and Testing Guide (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/assets/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx" target="_blank" class="usa-link--external">Microsoft PowerPoint 2016 Testing Checklist (DOCX)</a>
+        <a href="https://www.section508.gov/~assets/files/ms-powerpoint-2016-printable-accessibility-checklist-aed-cop.docx" target="_blank" class="usa-link--external">Microsoft PowerPoint 2016 Testing Checklist (DOCX)</a>
       </li>
     </ul>
   </div>
@@ -127,8 +127,8 @@ The resources in this section were developed by federal agencies and shared here
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
   * [Microsoft Accessibility][11] -- Microsoft.com
 
- [1]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
- [2]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
+ [1]: https://www.section508.gov/~assets/files/ms-powerpoint-2016-basic-authoring-and-testing-guide-aed-cop.docx
+ [2]: https://www.section508.gov/~assets/files/ms-powerpoint-2016-printable-accessibility-checklist-aed-cop.docx
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [4]: https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html
  [5]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf

@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-title: 'Find Your Section 508 Program Manager'
+title: "Find Your Section 508 Program Manager"
 permalink: tools/program-manager-listing/
 description: "Find your agency’s Section 508 Program Manager using this official U.S. government directory. Connect with accessibility leads to support IT compliance with federal accessibility standards."
 redirect_from:
@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-04-14
+updated: 2026-05-12
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -174,7 +174,8 @@ Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Anita Walker - <anita.walker@darpa.mil>    
+Tabatha Thompson - <tabatha.thompson@darpa.mil>  
+Tom Sakell (Deputy) - <thomas.sakell.ctr@darpa.mil>  
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -443,7 +444,7 @@ Alisha Hurtado - <alisha.hurtado@usdoj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
-Scott Jenkins - <scott.jenkins@usdoj.gov>
+Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
 ### Justice Management Division
@@ -550,8 +551,8 @@ Michael Jones - <jonesmw@cdfi.treas.gov>
 ### Financial Crimes Enforcement Network (FINCEN)
 Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
-Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
-Terri A. Triggs - <terri.a.triggs@irs.gov>  
+Jarrad	J.	Davenport	<jarrad.j.davenport@irs.gov>  
+Pamela	L.	Shavers	<pamela.l.shavers@irs.gov>  
 ### Office of the Inspector General
 Tracy George - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
@@ -850,7 +851,7 @@ Shola	Kalejaiye - <skalejaiye@osc.gov>
 <span id="P"></span>
 
 ### Peace Corps (PC)
-Jennifer Hawkins - <accessibility@peacecorps.gov>  
+Karen Barbuschak - <kbarbuschak@peacecorps.gov>  
 
 ---
 ### Pension Benefit Guaranty Corporation (PBGC)

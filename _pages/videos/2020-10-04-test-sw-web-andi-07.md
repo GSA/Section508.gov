@@ -24,7 +24,7 @@ exclude-changelog: true
 
 In Module 7 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
 
-<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-07-oc.mp4" type="video/mp4"></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-07-oc.mp4" type="video/mp4"></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">

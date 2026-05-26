@@ -44,7 +44,7 @@ format: "HTML"
   </div>
   
   <p>
-    <a href="https://assets.section508.gov/assets/files/Universal%20Design%20Business%20Case%20Infographic.pdf">Click here to download a PDF version of the infographic</a>
+    <a href="https://www.section508.gov/~assets/files/universal-design-business-case-infographic.pdf">Click here to download a PDF version of the infographic</a>
   </p>
   
   <p>

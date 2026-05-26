@@ -1,6 +1,6 @@
 ---
 title: Mark Urban
-bio_id: mark-urban
+bio_id: urban-mark
 display_name: Mark Urban
 first_name: Mark
 last_name: Urban

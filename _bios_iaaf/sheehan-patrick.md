@@ -1,6 +1,6 @@
 ---
 title: Patrick Sheehan
-bio_id: patrick-sheehan
+bio_id: sheehan-patrick
 display_name: Patrick Sheehan
 first_name: Patrick
 last_name: Sheehan

@@ -1,6 +1,6 @@
 ---
 title: Alison Lemon
-bio_id: alison-lemon
+bio_id: lemon-alison
 display_name: Alison Lemon
 first_name: Alison
 last_name: Lemon

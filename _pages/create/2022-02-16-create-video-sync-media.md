@@ -5,6 +5,7 @@ type: create
 title: 'Video and Other Synchronized Media'
 permalink: create/synchronized-media/
 description: "Learn how to create accessible audio-only, video-only, and synchronized media."
+disclaimer: true
 audience:
 - "Federal Employees"
 - "Members of the Public"
@@ -14,7 +15,8 @@ sub-topic: "Other"
 resource-type: "Process & How-To"
 format: "HTML"
 created: 2022-02-16
-updated: 2026-03-16
+updated: 2026-05-11
+
 exclude-changelog: true
 ---
 <p dir="ltr" id="top">Do you know how to create accessible audio and video media? Are you familiar with the difference between audio-only, video-only, and synchronized media? This resource summarizes relevant <a class="ext" href="https://www.w3.org/TR/WCAG20/">Web Content Accessibility Guidelines (WCAG)</a> and Section 508 requirements and highlights specific considerations for content, planning, and development. It also clarifies how content creators should work together with designers and developers to ensure that federal websites and digital products meet the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>.</p>
@@ -60,7 +62,7 @@ exclude-changelog: true
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://assets.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://www.section508.gov/~assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
 <hr />
 <p dir="ltr"><strong>What is the difference between open and closed captions?</strong></p>
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
@@ -82,15 +84,9 @@ exclude-changelog: true
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 id="resources-for-captions" dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
-<li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
-<li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-<li dir="ltr">Resources developed by <a href="https://digital.gov/digitalgov-university/">DigitalGov University</a>
-<ul>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
-</ul>
-</li>
-<li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
+    <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
+    <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
+    <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 </div>
 <br />
@@ -111,7 +107,7 @@ exclude-changelog: true
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Audio Described)</strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
 <p dir="ltr">Duration: 0h 0:42m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://assets.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://www.section508.gov/~assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
 <hr />
 <div class="grid-row grid-gap">
 <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="{{site.baseurl}}/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
@@ -152,7 +148,6 @@ exclude-changelog: true
 <li dir="ltr"><a href="https://www.nps.gov/subjects/hfc/upload/ADCoreConcepts20MAR2018.pdf" target="_blank">Audio Description Core Concepts</a> (PDF) - Harpers Ferry Center of the National Park Service</li>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/blog/transcription-vs-captioning/" target="_blank">Transcription vs. Captioning &ndash; What&rsquo;s the Difference?</a> - 3PlayMedia</li>
 <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/" target="_blank">508 Accessible Videos &ndash; How to Make Audio Descriptions</a> - Digital.gov</li>
 </ul>
 </div>
 <br />
@@ -216,7 +211,6 @@ exclude-changelog: true
 <h3 id="resources-for-user-controls" dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" target="_blank">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
 </div>
 <p class="rteright"><a href="#top">Back to Top</a></p>
@@ -281,20 +275,13 @@ exclude-changelog: true
 <p dir="ltr">Below is a consolidated list of the resources referenced on this page along with some additional resources.&nbsp;</p>
 <p dir="ltr"><strong>General/Additional</strong></p>
 <ul>
-<li dir="ltr"><a href="{{site.baseurl}}/content/guide-accessible-web-design-development#synchronized_media">Guide to Accessible Web Design &amp; Development: Synchronized Media</a></li>
+<li dir="ltr"><a href="{{site.baseurl}}/develop/guide-accessible-web-design-development#synchronized_media">Guide to Accessible Web Design &amp; Development: Synchronized Media</a></li>
 <li dir="ltr"><a class="ext" href="https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&amp;currentsidebar=%23col_overview&amp;levels=aaa#principle1">How to Meet WCAG (Quick Reference)</a> - W3C</li>
 <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-<li dir="ltr"><a href="http://www.digitalgov.gov/2013/06/26/making-multimedia-section-508-compliant-and-accessible/">Making Multimedia Section 508 Compliant and Accessible</a> - Digital.gov</li>
 </ul>
 <p dir="ltr"><strong>Captions</strong></p>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
-<li dir="ltr">Resources developed by <a href="https://digital.gov/digitalgov-university/">DigitalGov University</a>
-<ul>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/">508 Accessible Videos&mdash;Why (and How) to Make Them</a></li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
-</ul>
-</li>
 <li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 <p dir="ltr"><strong>Audio Description</strong></p>
@@ -310,11 +297,8 @@ exclude-changelog: true
 <li dir="ltr"><a class="ext" href="http://acb.org/adp/">The Audio Description Project</a> - American Council of the Blind</li>
 <li dir="ltr"><a href="https://www.nps.gov/subjects/hfc/upload/ADCoreConcepts20MAR2018.pdf">Audio Description Core Concepts</a> (PDF) - Harpers Ferry Center of the National Park Service</li>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/blog/transcription-vs-captioning/">Transcription vs. Captioning &ndash; What&rsquo;s the Difference?</a> - 3PlayMedia</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/">508 Accessible Videos &ndash; How to Make Audio Descriptions</a> - Digital.gov</li>
 </ul>
 <p dir="ltr"><strong>User Controls for Captions and Audio Descriptions</strong></p>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
-

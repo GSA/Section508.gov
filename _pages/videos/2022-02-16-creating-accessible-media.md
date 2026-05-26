@@ -18,7 +18,7 @@ updated: 2023-03-16
 ---
 <p>Get a brief overview on how to develop high quality audio, video, and multimedia that is accessible to users who cannot see visual information, or hear information conveyed using sound. Learn about text-based equivalents, captions and synchronized audio descriptions.</p>
 <hr>
-<p><video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-media-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/files/Creating-Accessible-Media_OpenCaption.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-media-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/creating-accessible-media_opencaption.mp4" type="video/mp4"></video></p>
 
 ## Related Resources
 <ul>

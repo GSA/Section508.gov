@@ -1,6 +1,6 @@
 ---
 title: Paula Escuadra
-bio_id: paula-escuadra
+bio_id: escuadra-paula
 display_name: Paula Angela Escuadra
 first_name: Paula
 last_name: Escuadra
