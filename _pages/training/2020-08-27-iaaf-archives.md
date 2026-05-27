@@ -16,8 +16,7 @@ sub-topic: "Guidance"
 resource-type: "Training"
 format: "HTML"
 created: 2020-08-27
-updated: 2026-05-19
-exclude-changelog: true
+updated: 2026-05-27
 --- 
 
 ## 2026 Interagency Accessibility Forum
