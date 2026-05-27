@@ -1991,8 +1991,8 @@ iaaf_2026:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: gower-michael #bio_id for this person  
         downloads:
-          - link_name: #" - IAAF 2026 (PPTX)"
-            file_name: #.pptx
+          - link_name: #"Video Accessibility Remediation (FTA) - IAAF 2026 (PPTX)"
+            file_name: #https://www.section508.gov/assets/files/iaaf/2026/video-accessibility-remediation_fta_iaaf-2026.pptx #file size is over 100MB thus hosted in github repo instead of Cloud.gov PFS
       - name: 'IAAF Closing Remarks<br>Jess Larson Auditorium'
         type: welcome
         time_start: 2026-05-22 11:55:00
