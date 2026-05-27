@@ -5,6 +5,7 @@ type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 permalink: iaaf/archives/
 description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
+description-alt: Added presentations from the 2026 Interagency Accessibility Forum (IAAF).
 audience:
 - "Federal Employees"
 - "Section 508 Program Managers"
