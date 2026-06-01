@@ -5,7 +5,7 @@ type: article
 title: Do Section 508 Accessibility Standards Apply to My Website?
 permalink: blog/do-section-508-accessibility-standards-apply-to-mywebsite/
 description: You may wonder if non-federal websites are required to comply with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule" target="_blank" class="usa-link--external">Revised 508 Standards</a>.
-description-alt: Updated information regarding the adoption of technical accessibility requirements under ADA Title II for the websites and mobile applications by the Department of Justice.
+description-alt: Updated to reflect the adoption of technical accessibility requirements for websites and mobile applications under ADA Title II by the Department of Justice.
 tags: Policy-and-Management
 social_img: "assets/images/social-media-og-image-bytes.jpg"
 social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
@@ -19,7 +19,7 @@ resource-type:
 - Blog
 format: HTML
 created: 2017-12-12
-updated: 2026-05-28
+updated: 2026-06-01
 ---
 
 <div class="summary-box--left">
@@ -52,7 +52,7 @@ In 2024, DOJ adopted technical accessibility requirements under ADA <a href="htt
 
 The DOJ has not adopted a similar technical web accessibility regulation for ADA <a href="https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm" target="_blank" class="usa-link--external">Title III</a> entities. However, businesses and organizations covered by Title III must still comply with the ADA’s general requirements of nondiscrimination and effective communication. Courts and settlement agreements frequently reference WCAG as the accepted technical benchmark for accessibility.
 
-If you’re working to make your website accessible, you may want to consult the <a href="{{site.baseurl}}/create/software-websites">Accessibility Resources for Developers and Authors</a>, developed to help Federal agencies implement the Revised 508 Standards. Also review this <a href="https://www.w3.org/WAI/WCAG20/quickref/" target="_blank" class="usa-link--external">Quick Reference Guide</a> from the W3C on how to meet WCAG 2.0. If you have questions about ADA requirements, please contact the <a href="https://www.ada.gov/#contact-crt" target="_blank" class="usa-link--external">DOJ Civil Rights Division, Disability Rights Section</a>. See guidance on the Section 508 Standards for additional help.
+If you’re working to make your website accessible, you may want to consult the <a href="{{site.baseurl}}/develop/software-websites/">Accessibility Resources for Developers and Authors</a>, developed to help Federal agencies implement the Revised 508 Standards. Also review this <a href="https://www.w3.org/WAI/WCAG20/quickref/" target="_blank" class="usa-link--external">Quick Reference Guide</a> from the W3C on how to meet WCAG 2.0. If you have questions about ADA requirements, please contact the <a href="https://www.ada.gov/#contact-crt" target="_blank" class="usa-link--external">DOJ Civil Rights Division, Disability Rights Section</a>. See guidance on the Section 508 Standards for additional help.
 
 ## The Bottom Line
 

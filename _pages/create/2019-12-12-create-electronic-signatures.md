@@ -119,7 +119,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  To ensure that everyone can use these tools to e-sign, electronic signature software <a href="{{site.baseurl}}/buy">procured</a> by your agency must conform with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> for <a href="{{site.baseurl}}/create/software-websites">Software & Websites</a>.
+  To ensure that everyone can use these tools to e-sign, electronic signature software <a href="{{site.baseurl}}/buy">procured</a> by your agency must conform with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> for <a href="{{site.baseurl}}/develop/software-websites/">Software & Websites</a>.
 </p>
 
 <h2 dir="ltr">

@@ -165,20 +165,20 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [5]: #language
  [6]:  #develop
  [7]: http://www.w3.org/TR/WCAG20/
- [8]: {{site.baseurl}}/manage/program-roadmap
- [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
- [10]: {{site.baseurl}}/manage/identify-user-needs
- [11]: {{site.baseurl}}/manage/support-accessible-content
- [12]: {{site.baseurl}}/art
+ [8]: {{site.baseurl}}/manage/program-roadmap/
+ [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies/
+ [10]: {{site.baseurl}}/manage/identify-user-needs/
+ [11]: {{site.baseurl}}/manage/support-accessible-content/
+ [12]: {{site.baseurl}}/art/
  [13]: https://www.section508.gov/~assets/files/508-standards-applicability-checklist.docx
- [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+ [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
  [15]: https://www.access-board.gov/ict/wcag2ict.html
- [18]: {{site.baseurl}}/buy/request-accessibility-information
+ [18]: {{site.baseurl}}/buy/request-accessibility-information/
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
- [20]: {{site.baseurl}}/buy/define-accessibility-criteria
+ [20]: {{site.baseurl}}/buy/define-accessibility-criteria/
  [21]: {{site.baseurl}}/training/online-course/accessible-for-executives/
  [23]: {{site.baseurl}}/training/online-course/micro-purchases/
  [25]: {{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/
- [27]: {{site.baseurl}}/create/software-websites
- [28]: {{site.baseurl}}/test/documents
+ [27]: {{site.baseurl}}/develop/software-websites/
+ [28]: {{site.baseurl}}/test/documents/
  [29]: {{site.baseurl}}/training/online-course/section-508-what-is-it/
