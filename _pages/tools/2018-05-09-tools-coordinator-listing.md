@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-05-12
+updated: 2026-06-01
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -446,40 +446,53 @@ FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
 ### Justice Management Division
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### National Fraud Enforcement Division
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+William C. Warren, Jr - <william.c.warren.jr@usdoj.gov>  
 ### National Institute of Corrections
 Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
 Nilesh  Bhut - <nilesh.bhut@usdoj.gov>    
 ### Office of Information Policy
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
 Bruce W. Whitlock - <bruce.w.whitlock@usdoj.gov>  
 ### Office of Legal Policy
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Legislative Affairs
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Pardon Attorney
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Professional Responsibility
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Public Affairs
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>    
 ### Office of Solicitor General
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Associate Attorney General
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Attorney General
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Deputy Attorney General
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Inspector General
 Maurice A. Jones - <maurice.a.jones@usdoj.gov>
 ### Office of Tribal Justice
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office on Violence Against Women
 Tiyawna Duncan - <tiyawna.duncan@usdoj.gov>  
@@ -490,6 +503,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 James L. Brown - <james.brown9@usdoj.gov>  
 Dene James - <dene.james@usdoj.gov>  
 ### United States Parole Commission
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 
 ---
@@ -530,7 +544,7 @@ Purushottam "Puru" Subedi (Deputy) - <p.subedi@dot.gov>
 ### Office of Inspector General (OIG)
 Audre E. Azoulas - <audre.azuolas@oig.dot.gov>  
 ### Pipeline and Hazardous Materials Safety Administration (PHMSA)
-T'Mia Raynor - <t'mia.raynor@dot.gov>  
+T'Mia Raynor - <a href="mailto:t'mia.raynor@dot.gov">t'mia.raynor@dot.gov</a>  
 Paul Mounkhaty (Deputy) - <paul.mounkhaty@dot.gov>  
 ### Volpe National Transportation Systems Center (VOLPE)
 Stephanie Chase - <stephanie.chase@dot.gov>  
@@ -664,8 +678,7 @@ Otis Winters - <owinters@cns.gov>
 
 ---
 ### Court Services and Offender Supervision Agency for the District (CSOSA)
-William Kirkendale - <william.kirkendale@csosa.gov>  
-
+Michael Vasquez - <michael.vasquez@csosa.gov>  
 ---
 
 <span id="D" ></span>

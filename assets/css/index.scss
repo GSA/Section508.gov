@@ -1567,11 +1567,23 @@ div[role=rowheader] {
   padding:0.5rem;
   background-color: #f5f9fc;
 } 
-.summary-box- alt {
+.summary-box-alt {
   border: 1px solid black; 
   border-radius: 0.5rem;
   padding:0.5rem;
   background-color: #d9e8f6;
+}
+.summary-box--left {
+  border-left: 8px solid #162e51; 
+  padding:1rem;
+  margin-bottom: 1rem;
+  background-color: #f5f9fc;
+}
+.summary-box--right {
+  border-right: 8px solid #162e51; 
+  padding:1rem;
+  margin-bottom: 1rem;
+  background-color: #f5f9fc;
 }
 .summary-box--right-icon {
   border-color:#f4b2ff;
