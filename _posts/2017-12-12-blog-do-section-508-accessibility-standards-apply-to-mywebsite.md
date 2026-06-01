@@ -23,7 +23,7 @@ updated: 2026-06-01
 ---
 
 <div class="summary-box--left">
-  <p><strong>Editor’s Note (May 2026):</strong> This blog post was originally published in December 2017. Since publication, the Department of Justice adopted accessibility requirements for the websites and mobile applications of state and local government entities under ADA Title II and later extended the compliance deadlines by one year. The ADA discussion below has been updated to reflect current requirements.</p>
+  <p><strong>Editor’s Note (June 2026):</strong> This blog post was originally published in December 2017. Since publication, the Department of Justice adopted accessibility requirements for the websites and mobile applications of state and local government entities under ADA Title II and later extended the compliance deadlines by one year. The ADA discussion below has been updated to reflect current requirements.</p>
 </div>
 
 December 12, 2017 - You may wonder if non-federal websites are required to comply with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule" target="_blank" class="usa-link--external">Section 508 Standards</a>. Since <a href="https://www.govinfo.gov/content/pkg/FR-1998-02-03/pdf/98-2414.pdf" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act of 1973</a> only applies to federal agencies, the short answer is _no_. However, other laws _do_ apply, and the bottom line is that your website is likely required to be accessible.
