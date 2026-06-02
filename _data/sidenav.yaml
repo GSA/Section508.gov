@@ -475,6 +475,8 @@ develop:
         url: develop/software-websites/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/
+      - name: Integrating Section 508 Requirements into Each Agile Sprint
+        url: develop/integrate-section-508-in-agile-sprint/
       - name: Sample User Stories for Accessible ICT
         url: develop/user-stories/
       - name: Web Content
