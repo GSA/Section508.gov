@@ -35,34 +35,42 @@ For federal agencies using <a href="{{site.baseurl}}/tools/glossary/#agile-devel
 To ensure each Agile sprint integrates ICT accessibility:
 
 
-<ul class="usa-icon-list">
- <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-   <div class="usa-icon-list__content">
+<ul class="usa-icon-list margin-bottom-3">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
 <strong>Use Personas of People with Disabilities (PWD) in Backlog Refinement and User Story Development:</strong>
 When  <a href="{{site.baseurl}}/develop/user-stories/">writing or refining user stories</a>, include <a href="{{site.baseurl}}/develop/sample-personas/">personas of users with various disabilities</a> such as screen-reader users, low-vision users, users without hearing, keyboard-only users, and users with cognitive disabilities. These personas help the team anticipate specific accessibility needs, design considerations, and test points. Personas should also inform backlog prioritization and acceptance criteria, not just story creation. </div>
 </li>
 
 
- <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-   <div class="usa-icon-list__content">
+ <<li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
 <strong>Include Section 508 Conformance in both the Definition of Ready (DoR) and the Definition of Done (DoD):</strong>
 The Definition of Ready is the team-defined list of criteria that a product backlog item or user story must meet before it is accepted into a sprint. Accessibility requirements should be explicit in acceptance criteria and validated before a story is considered ready for development. The team defines the Definition of Done as their collective understanding of what constitutes a completed user story. For user interface and feature-focused stories, the DoD should encompass both functional requirements and Section 508 accessibility standards. This includes ensuring keyboard-only functionality, adherence to sufficient color contrast ratios, and a valid and appropriate name, role, state, and value for all user controls.</div>
 </li>
 
 
  <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-   <div class="usa-icon-list__content">
+    <div class="usa-icon-list__icon text-blue">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
 <strong>Integrate accessibility testing continuously through test-driven or behavior-driven approaches:</strong>
 As part of development, break down ICT accessibility requirements into testable units. Developers and testers collaboratively <a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/"> implement automated tests</a> and <a href="{{site.baseurl}}/test/">conduct manual testing</a> as part of the development workflow, ideally before or alongside feature implementation. If issues are found, a remediation loop ensures fixes are incorporated before the sprint ends.</div>
 </li>
 
 
- <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-   <div class="usa-icon-list__content">
+ <<li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
 <strong>Embed accessibility expertise within the team and involve Subject Matter Experts (SMEs):</strong>
 Ensure that team members have or acquire accessibility expertise and use accessibility SMEs to provide guidance, pairing, and coaching rather than acting solely as reviewers. Include ICT accessibility SMEs, designers, testers, and PWDs—through usability or assistive technology testing—in design and review cycles, especially at sprint reviews and demonstrations.</div>
 </li>
@@ -76,9 +84,13 @@ Below is a workflow to help ensure that the team iteratively <a href="{{site.bas
 
 
 <ul class="usa-icon-list">
- <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#check_circle"></use></svg></div>
-   <div class="usa-icon-list__content">Backlog Refinement
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Backlog Refinement
 <ul>
 <li>Define <a href="{{site.baseurl}}/develop/user-stories/">accessibility requirements and acceptance criteria</a>.</li>
 <li>Incorporate <a href="{{site.baseurl}}/develop/sample-personas/">personas of users with disabilities</a>.</li>
@@ -86,10 +98,12 @@ Below is a workflow to help ensure that the team iteratively <a href="{{site.bas
 </div>
 </li>
 
-
-<li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#check_circle"></use></svg></div>
-   <div class="usa-icon-list__content">Sprint Planning
+<<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>Sprint Planning
 <ul>
 <li>Select stories that meet the Definition of Ready, including accessibility criteria.</li>
 <li>Confirm the accessibility testing approach.</li>
@@ -99,8 +113,11 @@ Below is a workflow to help ensure that the team iteratively <a href="{{site.bas
 
 
 <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#check_circle"></use></svg></div>
-   <div class="usa-icon-list__content">During Sprint (Development and Testing)
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>During Sprint (Development and Testing)
 <ul>
 <li>Implement features incrementally.</li>
 <li>Perform continuous <a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">accessibility testing (automated and manual)</a>.</li>
@@ -124,9 +141,12 @@ Verify that acceptance criteria, including accessibility requirements, are met a
 </li>
 
 
-<li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#check_circle"></use></svg></div>
-   <div class="usa-icon-list__content">Retrospective
+<<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>Retrospective
 <ul>
 <li>Identify accessibility gaps and process improvements.</li>
 </ul>
