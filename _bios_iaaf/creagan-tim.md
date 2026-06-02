@@ -1,6 +1,6 @@
 ---
 title: Tim Creagan
-bio_id: tim-creagan
+bio_id: creagan-tim
 display_name: Tim Creagan
 first_name: Tim
 last_name: Creagan

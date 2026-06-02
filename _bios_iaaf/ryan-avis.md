@@ -1,6 +1,6 @@
 ---
 title: Avis Ryan
-bio_id: avis-ryan
+bio_id: ryan-avis
 display_name: Avis Ryan
 first_name: Avis
 last_name: Ryan

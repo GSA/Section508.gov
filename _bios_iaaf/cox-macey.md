@@ -1,6 +1,6 @@
 ---
 title: Macey Cox
-bio_id: macey-cox
+bio_id: cox-macey
 display_name: Macey Cox
 first_name: Macey
 last_name: Cox

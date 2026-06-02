@@ -1,6 +1,6 @@
 ---
 title: Emily Follit
-bio_id: emily-follit
+bio_id: follit-emily
 display_name: Emily Follit
 first_name: Emily
 last_name: Follit

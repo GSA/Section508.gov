@@ -96,8 +96,8 @@ Incorporate accessibility up-front and learn how to create accessible content an
  [3]: {{site.baseurl}}/create/pdfs/authoring-guides/
  [4]: {{site.baseurl}}/create/presentations/authoring-guides/
  [5]: {{site.baseurl}}/create/spreadsheets/authoring-guides/
- [6]: {{site.baseurl}}/create/video-social
- [7]: {{site.baseurl}}/create/software-websites
- [8]: {{site.baseurl}}/create
- [9]: {{site.baseurl}}/test
- [10]: {{site.baseurl}}/test/about-testing-tools
+ [6]: {{site.baseurl}}/create/video-social/
+ [7]: {{site.baseurl}}/develop/software-websites/
+ [8]: {{site.baseurl}}/create/
+ [9]: {{site.baseurl}}/test/
+ [10]: {{site.baseurl}}/test/about-testing-tools/

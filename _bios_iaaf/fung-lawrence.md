@@ -1,6 +1,6 @@
 ---
 title: Lawrence Fung
-bio_id: lawrence-fung
+bio_id: fung-lawrence
 display_name: Dr. Lawrence Fung
 first_name: Lawrence
 last_name: Fung

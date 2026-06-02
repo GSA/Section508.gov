@@ -1,6 +1,6 @@
 ---
 title: Betsy Sirk
-bio_id: betsy-sirk
+bio_id: sirk-betsy
 display_name: Betsy Sirk
 first_name: Betsy
 last_name: Sirk

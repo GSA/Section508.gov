@@ -246,7 +246,7 @@ format: HTML
   <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT 
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em></em>
+  <a href="{{site.baseurl}}/develop/software-websites/">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em></em>
  </li>
  </ul>
 
@@ -568,7 +568,7 @@ format: HTML
  [11]: https://www.section508.gov/~assets/files/revised-508-standards-applicability-checklist.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [13]: https://www.section508.gov/~assets/files/standards-exceptions-chart.docx
- [14]: {{site.baseurl}}/create/software-websites
+ [14]: {{site.baseurl}}/develop/software-websites/
  [15]: {{site.baseurl}}/test
  [16]: {{site.baseurl}}/art/
  [17]: {{site.baseurl}}/buy/standards-exceptions

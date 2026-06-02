@@ -1,6 +1,6 @@
 ---
 title: Jim Hogan
-bio_id: jim-hogan
+bio_id: hogan-jim
 display_name: Jim Hogan
 first_name: Jim
 last_name: Hogan

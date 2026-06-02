@@ -1,6 +1,6 @@
 ---
 title: Yvette Gibson ##First Last
-bio_id: yvette-gibson ##last
+bio_id: gibson-yvette ##last
 display_name: Yvette Gibson ##First Last
 first_name: Yvette
 last_name: Gibson

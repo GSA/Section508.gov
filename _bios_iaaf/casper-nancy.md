@@ -1,6 +1,6 @@
 ---
 title: Nancy Casper
-bio_id: nancy-casper
+bio_id: casper-nancy
 display_name: Nancy E. Casper
 first_name: Nancy
 last_name: Casper

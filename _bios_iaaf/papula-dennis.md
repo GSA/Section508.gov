@@ -1,6 +1,6 @@
 ---
 title: Dennis Papula
-bio_id: dennis-papula
+bio_id: papula-dennis
 display_name: Dennis Papula
 first_name: Dennis
 last_name: Papula

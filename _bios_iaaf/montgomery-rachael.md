@@ -1,6 +1,6 @@
 ---
 title: Rachael Montgomery
-bio_id: rachael-montgomery
+bio_id: montgomery-rachael
 display_name: Dr. Rachael Montgomery
 first_name: Rachael
 last_name: Montgomery

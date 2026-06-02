@@ -1,6 +1,6 @@
 ---
 title: Stephen Harding
-bio_id: stephen-harding
+bio_id: harding-stephen
 display_name: Stephen Harding
 first_name: Stephen
 last_name: Harding

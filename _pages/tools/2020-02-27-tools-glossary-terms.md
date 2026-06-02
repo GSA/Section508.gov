@@ -21,7 +21,7 @@ audience:
 resource-type: "Tool"
 format: "HTML"
 created: 2020-02-27
-updated: 2026-04-15
+updated: 2026-06-02
 exclude-changelog: true
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
@@ -102,6 +102,10 @@ These terms appear throughout our website, communications, and reports, includin
       <li>Intranet content designed as a Web page.</li>
     </ol>
     EXCEPTION: Records maintained by the National Archives and Records Administration (NARA) pursuant to Federal record keeping statutes shall not be required to conform to the Revised 508 Standards unless public facing.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="agile-development">Agile Development</th>
+    <td>An iterative approach to software development that delivers value through small, incremental releases. Agile emphasizes collaboration, adaptability to changing requirements, customer feedback, and continuous improvement throughout the development process.</td>
   </tr>
   <tr>
     <th scope="row" id="almost-always">Almost Always</th>

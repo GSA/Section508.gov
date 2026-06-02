@@ -1,6 +1,6 @@
 ---
 title: Lesley Earl
-bio_id: lesley-earl
+bio_id: earl-lesley
 display_name: Lesley Earl
 first_name: Lesley
 last_name: Earl
