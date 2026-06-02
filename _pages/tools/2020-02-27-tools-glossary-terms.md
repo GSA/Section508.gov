@@ -105,7 +105,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="agile-development">Agile Development</th>
-    <td>An iterative software development approach that delivers work in small, incremental cycles called sprints. Agile emphasizes collaboration, flexibility, and continuous improvement throughout the development process.</td>
+    <td>An iterative approach to software development that delivers value through small, incremental releases. Agile emphasizes collaboration, adaptability to changing requirements, customer feedback, and continuous improvement throughout the development process.</td>
   </tr>
   <tr>
     <th scope="row" id="almost-always">Almost Always</th>
