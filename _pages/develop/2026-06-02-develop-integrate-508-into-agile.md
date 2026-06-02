@@ -146,7 +146,7 @@ Verify that acceptance criteria, including accessibility requirements, are met a
 </li>
 
 
-<<li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
 <div class="usa-icon-list__icon text-green">
 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
 <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
