@@ -46,7 +46,7 @@ When  <a href="{{site.baseurl}}/develop/user-stories/">writing or refining user 
 </li>
 
 
- <<li class="usa-icon-list__item">
+ <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
@@ -66,7 +66,7 @@ As part of development, break down ICT accessibility requirements into testable 
 </li>
 
 
- <<li class="usa-icon-list__item">
+ <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
@@ -98,12 +98,13 @@ Below is a workflow to help ensure that the team iteratively <a href="{{site.bas
 </div>
 </li>
 
-<<li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
 <div class="usa-icon-list__icon text-green">
 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
 <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
 </svg>
-</div>Sprint Planning
+</div>
+<div class="usa-icon-list__content">Sprint Planning
 <ul>
 <li>Select stories that meet the Definition of Ready, including accessibility criteria.</li>
 <li>Confirm the accessibility testing approach.</li>
@@ -117,7 +118,8 @@ Below is a workflow to help ensure that the team iteratively <a href="{{site.bas
 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
 <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
 </svg>
-</div>During Sprint (Development and Testing)
+</div> 
+<div class="usa-icon-list__content">During Sprint (Development and Testing)
 <ul>
 <li>Implement features incrementally.</li>
 <li>Perform continuous <a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">accessibility testing (automated and manual)</a>.</li>
@@ -129,10 +131,13 @@ Verify that acceptance criteria, including accessibility requirements, are met a
 </div>
 </li>
 
-
 <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="/assets/img/sprite.svg#check_circle"></use></svg></div>
-   <div class="usa-icon-list__content">Sprint Review
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div> 
+<div class="usa-icon-list__content">Sprint Review
 <ul>
 <li>Demonstrate working, accessible functionality.</li>
 <li>Validate accessibility as part of acceptance.</li>
@@ -146,7 +151,8 @@ Verify that acceptance criteria, including accessibility requirements, are met a
 <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
 <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
 </svg>
-</div>Retrospective
+</div>
+<div class="usa-icon-list__content">Retrospective
 <ul>
 <li>Identify accessibility gaps and process improvements.</li>
 </ul>
