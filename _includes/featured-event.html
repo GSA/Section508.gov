@@ -1,0 +1,32 @@
+{% assign today_date = 'now' | date: '%s' %}
+{% assign featured_event = nil %}
+{% assign featured_event_is_fallback = false %}
+
+{% assign sorted_events = site.events | sort: "end-date" %}
+{% for event in sorted_events %}
+  {% assign event_end_date = event.end-date | date: '%s' %}
+  {% if event.event-type != "recuring-event" and event_end_date >= today_date %}
+    {% assign featured_event = event %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if featured_event == nil %}
+  {% assign featured_event = site.events | where: "permalink", "/event/it-accessibility-community-meeting/" | first %}
+  {% assign featured_event_is_fallback = true %}
+{% endif %}
+
+{% if featured_event %}
+  <hr>  
+  <p class="margin-top-1">
+    <a href="{{ site.baseurl }}{{ featured_event.permalink }}">
+      {{ featured_event.title }}
+    </a>
+  </p>
+  {% unless featured_event_is_fallback %}
+    <p class="margin-top-1">
+      {% if featured_event.start-date %}{{ featured_event.start-date | date: '%a, %b %d, %Y' }} - {% endif %}
+      {{ featured_event.end-date | date: '%a, %b %d, %Y' }}
+    </p>
+  {% endunless %}
+{% endif %}
