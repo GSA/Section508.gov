@@ -798,7 +798,6 @@ Jerry Carter - <carter@udall.gov>
 
 ### National Archives & Records Administration (NARA)
 Farooq Khan - <farooq.hhan1@nara.gov>  
-Jocelyn Blakely-Hill (Deputy) - <jocelyn.blakely-hill@nara.gov>  
 
 ---
 ### National Capital Planning Commission (NCPC)
