@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-06-01
+updated: 2026-06-03
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -525,7 +525,6 @@ Simona Jones - <simona.jones@dot.gov>
 Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>  
-Sheree Peters (Deputy) - <sheree.peters@faa.gov>  
 ### Federal Motor Carrier Safety Administration (FMCSA)  
 Cicely Waters - <cicely.waters@dot.gov>  
 Justine Chen (Deputy) - <justine.chen@dot.gov>    
