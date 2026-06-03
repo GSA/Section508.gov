@@ -1,3 +1,7 @@
+{%- comment -%}
+Displays the next upcoming event based on end date. Falls back to the ITACM placeholder when no future events are available.
+{%- endcomment -%}
+
 {% assign today_date = 'now' | date: '%s' %}
 {% assign featured_event = nil %}
 {% assign featured_event_is_fallback = false %}

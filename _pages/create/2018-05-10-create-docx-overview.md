@@ -9,7 +9,7 @@ description: Learn how to create accessible Microsoft Word documents that meet t
 description-alt: Added the MS Word 365 Authoring and Testing Guide (PDF).
 redirect_from: 
 - create/documents/authoring-guides/
-- create/documents/
+- content/documents/
 audience: 
 - Content Creators
 - Designers

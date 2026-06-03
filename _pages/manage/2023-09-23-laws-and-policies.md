@@ -128,7 +128,7 @@ Your agency’s policies should include that your agency is obligated to:
 
 Learn how to maintain your agency’s policies through the links below:
 
-* [Updating Agency Accessibility Policy]({{site.baseurl}}/manage/laws-and-policies/update-agency-policies/)
+* [Updating Agency Accessibility Policy]({{site.baseurl}}/manage/laws-and-policies/update-maintain-agency-accessibility-policy/)
 * [IT Accessibility Policy Framework]({{site.baseurl}}/manage/policy-framework/introduction/)
 
 ### Workforce Policies

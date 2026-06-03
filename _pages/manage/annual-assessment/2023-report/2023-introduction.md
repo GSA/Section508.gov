@@ -124,7 +124,7 @@ This Assessment report is organized into four main sections:
 
 * [Recommendations]({{site.baseurl}}/manage/section-508-assessment/2023/recommendations/) propose ways to improve Section 508 compliance that are based on statistical analysis of reporting entity data and contextual knowledge.
 
-* [Appendices]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-a-terms/) provide a detailed explanation of terms and acronyms, federal initiatives regarding ICT accessibility, analytical methods and comprehensive responses by reporting entities.
+* [Appendices]({{site.baseurl}}/tools/glossary/) provide a detailed explanation of terms and acronyms, federal initiatives regarding ICT accessibility, analytical methods and comprehensive responses by reporting entities.
  
 --- 
 

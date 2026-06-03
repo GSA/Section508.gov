@@ -96,7 +96,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * [Authoring Meaningful Alternative Text]({{site.baseurl}}/create/alternative-text/)
 * <a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf" target="_blank" class="usa-link--external">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a>
-* [Documents Authoring Guides]({{site.baseurl}}/create/documents/authoring-guides/)
+* [Documents Authoring Guides]({{site.baseurl}}/create/documents/)
 * [How to Make an Accessible Document in Microsoft Word (Video Series)]({{site.baseurl}}/create/documents/training-videos/)
 * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC]({{site.baseurl}}/create/pdfs/training-videos/)
 * [Module 2: Use Styles to Create headings]({{ site.baseurl }}/training/documents/aed-cop-docx02/)
