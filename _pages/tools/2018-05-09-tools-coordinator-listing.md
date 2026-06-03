@@ -797,7 +797,7 @@ Jerry Carter - <carter@udall.gov>
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
-Farooq Khan - <farooq.hhan1@nara.gov>  
+Farooq Khan - <farooq.khan1@nara.gov>  
 
 ---
 ### National Capital Planning Commission (NCPC)
