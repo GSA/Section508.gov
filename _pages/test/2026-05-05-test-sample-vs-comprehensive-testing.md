@@ -36,6 +36,7 @@ custom-script:
 - sample-size-calculator.js
 created: 2026-05-04
 updated: 
+featured: true
 ---
 Federal agencies face a key decision when testing information and communication technology (ICT) for Section 508 conformance: whether to conduct comprehensive testing or test a representative sample. 
 
