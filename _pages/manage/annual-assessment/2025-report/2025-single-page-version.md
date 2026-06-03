@@ -2940,8 +2940,8 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
 <p>First, the assessment team created an Accessibility Implementation or i-index, referred to as “implementation” for every agency, parent agency, and component. This index quantified responses to criteria across three categories (depicted in Tables A2 and Table A3 above): Accessibility Integration, Acquisition and Procurement, and Testing and Remediation. Some questions were “yes” or &quot;no&quot; responses only while others were multiple choice structured. Each question was assigned a numeric value as follows:</p>
 
 <div class="margin-x-auto margin-y-4" style="max-width:70%;">
-  <div class="code-box margin-top-3">
-      <ul class="usa-list--unstyled padding-left-2 code-box-text">
+  <div class="summary-box--code margin-top-3">
+      <ul class="usa-list--unstyled padding-left-2">
         <li>a) = 0; signifying never, no, or not integrated</li>
         <li>b) = 1; signifying rarely or somewhat integrated</li>
         <li>c) = 2; signifying sometimes or moderately integrated</li>
@@ -2952,8 +2952,8 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
 
   <p>and</p>
 
-  <div class="code-box">
-      <ul class="usa-list--unstyled padding-left-2 code-box-text">
+  <div class="summary-box--code">
+      <ul class="usa-list--unstyled padding-left-2">
         <li>a) Yes = 4</li>
         <li>b) No = 0</li>
       </ul>

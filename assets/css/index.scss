@@ -1567,12 +1567,24 @@ div[role=rowheader] {
   padding:0.5rem;
   background-color: #f5f9fc;
 } 
-.summary-box-alt {
+.summary-box--alt {
   border: 1px solid black; 
   border-radius: 0.5rem;
   padding:0.5rem;
   background-color: #d9e8f6;
 }
+/* Summary box with dark bg abd yellow mono text */
+.summary-box--code {
+  border: 1px solid;
+  border-color: #71767a;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  background-color:#444444;
+  font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+  color: #fee685;
+  font-size: 0.95rem;
+}
+/* Square summary boxes with a thick left or right border */
 .summary-box--left {
   border-left: 8px solid #162e51; 
   padding:1rem;
@@ -1584,11 +1596,6 @@ div[role=rowheader] {
   padding:1rem;
   margin-bottom: 1rem;
   background-color: #f5f9fc;
-}
-.summary-box--right-icon {
-  border-color:#f4b2ff;
-  background-color:#481441;
-  padding: 1rem;
 }
 .callout-box-default {
   border-radius: 0.5rem;
@@ -1918,19 +1925,6 @@ div[role=rowheader] {
     }
 }
 
-/* use for dark box w/yellow mono text */
-.code-box {
-  border: 1px solid;
-  border-color: #71767a;
-  border-radius: 0.5rem;
-  padding: 1.5rem;
-  background-color:#444444;
-  .code-box-text {
-    font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
-    color: #fee685;
-    font-size: 0.95rem;
-  }
-}
 .code-text {
   font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
   color: #454545;
