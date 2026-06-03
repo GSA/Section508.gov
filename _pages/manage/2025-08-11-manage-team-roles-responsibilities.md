@@ -307,7 +307,7 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 </ul>
 
 ## Related Resources
-* [Example Position Description for Section 508 Accessibility Tester]({{site.baseurl}}/manage/roles/section-508-tester-pd/)
+* [Example Position Description for Section 508 Accessibility Tester]({{site.baseurl}}/manage/roles/section-508-position-descriptions/)
 * [How to Attain Section 508 Testing Expertise]({{site.baseurl}}/manage/roles/attain-section-508-testing-expertise/)
 * [Roles & Responsibilities]({{site.baseurl}}/manage/roles/)
 * [Section 508 Program Manager Competency Guide]({{ site.baseurl }}/manage/roles/section-508-pm-compentency-guide/)

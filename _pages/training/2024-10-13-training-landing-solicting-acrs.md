@@ -98,7 +98,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT®)]({{site.baseurl}}/sell/how-to-create-acr-with-vpat/)
 * [How to Make an Accessible Document in Microsoft Word]({{site.baseurl}}/create/documents/)
 * <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a>
-* [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/authoring-guides/)
+* [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/)
 * [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
 * Vocabulary
   * [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)

@@ -92,10 +92,10 @@ Incorporate accessibility up-front and learn how to create accessible content an
   * [Test for Accessibility][9]
   * [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
 
- [2]: {{site.baseurl}}/create/documents/authoring-guides/
- [3]: {{site.baseurl}}/create/pdfs/authoring-guides/
- [4]: {{site.baseurl}}/create/presentations/authoring-guides/
- [5]: {{site.baseurl}}/create/spreadsheets/authoring-guides/
+ [2]: {{site.baseurl}}/create/documents/
+ [3]: {{site.baseurl}}/create/pdfs/
+ [4]: {{site.baseurl}}/create/presentations/
+ [5]: {{site.baseurl}}/create/spreadsheets/
  [6]: {{site.baseurl}}/create/video-social/
  [7]: {{site.baseurl}}/develop/software-websites/
  [8]: {{site.baseurl}}/create/

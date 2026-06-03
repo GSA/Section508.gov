@@ -166,7 +166,7 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [6]:  #develop
  [7]: http://www.w3.org/TR/WCAG20/
  [8]: {{site.baseurl}}/manage/program-roadmap/
- [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies/
+ [9]: {{site.baseurl}}/manage/laws-and-policies/update-maintain-agency-accessibility-policy/
  [10]: {{site.baseurl}}/manage/identify-user-needs/
  [11]: {{site.baseurl}}/manage/support-accessible-content/
  [12]: {{site.baseurl}}/art/

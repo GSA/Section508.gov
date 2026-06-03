@@ -24,7 +24,7 @@ created: 2020-02-27
 updated: 2026-06-02
 exclude-changelog: true
 ---
-These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
+These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
 <div class="glossary">
   <p style="text-align:center;">
@@ -229,7 +229,7 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
       <th scope="row" id="c-index">C-Index</th>
-      <td>For the purposes of the annual Section 508 Assessment report, assesses reporting entity conformance related to approximation of conformance to Section 508 standards. It measures how well reporting entities meet specific criteria within the Conformance dimension&mdash;using numerical values and weights for criteria. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/annual-reports/" target="_blank" class="usa-link--external">Assessment Reports</a>. The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance levels.</td>
+      <td>For the purposes of the annual Section 508 Assessment report, assesses reporting entity conformance related to approximation of conformance to Section 508 standards. It measures how well reporting entities meet specific criteria within the Conformance dimension&mdash;using numerical values and weights for criteria. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/" target="_blank" class="usa-link--external">Assessment Reports</a>. The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance levels.</td>
   </tr>
   <tr>
     <th scope="row" id="cpic">Capital Planning and Investment Control (CPIC)</th>
@@ -905,7 +905,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
       <th scope="row" id="operational-conformance">Operational Conformance</th>
-      <td>Operational Conformance, or simply “<a href="#conformance">Conformance</a>” in the annual Section 508 Assessments, approximates how effectively reporting entities adhere to the relevant requirements for Section 508. It is measured by the conformance index or “c-index,” which assesses a reporting entity conformance by quantifying their responses to criteria within the Conformance dimension&mdash;assigning numerical values and weights to determine overall conformance. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/annual-reports/" target="_blank" class="usa-link--external">Assessment Reports</a>. 
+      <td>Operational Conformance, or simply “<a href="#conformance">Conformance</a>” in the annual Section 508 Assessments, approximates how effectively reporting entities adhere to the relevant requirements for Section 508. It is measured by the conformance index or “c-index,” which assesses a reporting entity conformance by quantifying their responses to criteria within the Conformance dimension&mdash;assigning numerical values and weights to determine overall conformance. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/" target="_blank" class="usa-link--external">Assessment Reports</a>. 
       </td>
   </tr>
   <tr>

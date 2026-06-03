@@ -81,7 +81,7 @@ If ICT accessibility is not integrated at the architectural level, compliance be
       <th scope="row">Data and Information or Data Architecture</th>
       <td>
         <ul>
-          <li>Refer to agency <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04/">Section 508 policy</a> for applicable standards, testing methods, and testing tools.</li>
+          <li>Refer to agency <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/4/">Section 508 policy</a> for applicable standards, testing methods, and testing tools.</li>
           <li>Use EA modeling tools with fields, metadata, or extensions for Section 508 metadata.</li>
           <li>Implement Section 508 conformant templates or reusable components for recurring content.</li>
           <li>Integrate Section 508 conformance in design reviews.</li>

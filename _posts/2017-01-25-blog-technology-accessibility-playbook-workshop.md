@@ -81,7 +81,7 @@ Workshop participants learned how to use the IT Accessibility Playbook to improv
           </li>          
           <li>
             <div>
-              <a href="{{site.baseurl}}/content/about-us/">GSA&rsquo;s Governmentwide Section 508 Program</a>
+              <a href="{{site.baseurl}}/about-us/">GSA&rsquo;s Governmentwide Section 508 Program</a>
             </div>
           </li>
         </ul>

@@ -32,7 +32,7 @@ ICT, made accessible through thoughtful design, development, and integration wit
 <br>
 <a class="hover-large" href="https://digital.gov/2017/05/09/benefits-of-accessible-design/" target="_blank" class="usa-link--external"><sup>3</sup>Crawford, P. B. P. (2017, May 9). Benefits of Accessible Design. Digital.gov.</a>
 <br>
-<a class="hover-large" href="{{ site.baseurl }}/manage/laws-and-policies/update-agency-policies/" target="_blank" class="usa-link--external"><sup>4</sup>Update Agency Accessibility Policies Section508.gov. (2017).</a>
+<a class="hover-large" href="{{ site.baseurl }}/manage/laws-and-policies/update-maintain-agency-accessibility-policy/" target="_blank" class="usa-link--external"><sup>4</sup>Update Agency Accessibility Policies Section508.gov. (2017).</a>
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf" target="_blank" class="usa-link--external"><sup>5</sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
