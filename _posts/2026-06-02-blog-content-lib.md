@@ -29,9 +29,6 @@ subtopic:
 resource-type: 
 - Blog
 format: HTML
-tags: Acquisition Content-Creation Design-and-Develop Policy-and-Management Testing
-social_img: "assets/images/social-media-og-image-bytes.jpg"
-social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
 created: 2026-06-02
 updated: 
 featured: true
