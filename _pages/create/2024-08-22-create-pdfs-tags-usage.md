@@ -5,6 +5,7 @@ type: create
 title: Common PDF Tags and Their Usage
 permalink: create/pdfs/common-tags-and-usage/
 description: Learn about common PDF tags, what they mean, and how to use them to create more accessible PDF documents for people who use assistive technology.
+contributors: mcgland-denise, ed
 audience: 
 - Content Creators
 topic: 

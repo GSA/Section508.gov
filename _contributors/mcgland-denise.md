@@ -1,7 +1,7 @@
 ---
 layout: contributor
 title: Denise McGland Contributor Biography
-contributor_id: mcgland
+contributor_id: mcgland-denise
 contributor_type: individual
 display_name: Denise McGland
 first_name: Denise
