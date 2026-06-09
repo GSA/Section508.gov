@@ -3602,3 +3602,14 @@
   audience: "Section 508 Program Managers"
   resource-type: "Training"
   format: "Presentation (PPTX)"
+
+- filename: "navigating-section508-gov-itacm-jun-2026.pptx"
+  permalink: "https://www.section508.gov/~assets/files/navigating-section508-gov-itacm-jun-2026.pptx"
+  title: "Navigating Section50.gov - ITACM Jun 2026 (PPTX)"
+  description: "An overview of Section508.gov, the federal government’s primary resource for guidance, playbooks, creating electronic content, and self-paced how-tos and training."
+  topic: "About"
+  sub-topic: "Other"
+  audience:
+  - "Federal Employees"
+  resource-type: "Process & How-To"
+  format: "Presentation (PPTX)"

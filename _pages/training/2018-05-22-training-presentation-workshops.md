@@ -24,13 +24,23 @@ The information on this page includes available resources and captioned text fil
 
 ## 2026
 ### IT Accessibility Community Meetings
+#### June 09, 2026
+The Government-wide IT Accessibility Program hosted its June IT Accessibility Community Meeting featuring two sessions—one each from the Centers for Medicare & Medicaid, and the GSA team.
+
+First, the Centers for Medicare & Medicaid Services (CMS) team presented “WILSON 508 Compliance Demo: Automating Accessible Document Remediation for Federal Teams.” The presentation introduced WILSON, a tool for identifying and remediating Section 508 accessibility issues in documents. The team demonstrated how WILSON reduced manual remediation effort and improved consistency. A live demo showed how users selected documents, ran accessibility checks and remediation, and reviewed results and exception reports.
+
+Second, the GSA team provided an overview and demonstration of Section508.gov, the federal government’s primary accessibility resource for guidance, playbooks, and training materials. The demonstration highlighted key features designed to help users find relevant resources more easily and orient both new and returning users to the site.
+
+Downloads:
+* <a href="https://www.section508.gov/~assets/files/navigating-section508-gov-itacm-jun-2026.pptx" download="Navigating Section508.gov - ITACM JUN 20206 (ITACM).pptx" class="usa-link--external">Navigating Section508.gov - ITACM JUN 20206 (PPTX)</a>
+
 #### February 24, 2026
 The Government-wide IT Accessibility Program presents new guidance to help agencies bridge the gap between “finding bugs” and managing compliance risks. Instead of viewing accessibility as an endless checklist, participants learn to apply a Risk Management Framework to Information and Communication Technology (ICT). The focus moves beyond simply identifying conformance issues to supporting teams in strategically assessing the risks of inaccessible ICT and identifying ways to mitigate those risks.
 
 Attendees gain practical takeaways on how to translate clear test results and known conformance issues into a remediation roadmap with defined ownership and timelines, understand and apply available Accessibility Risk Management Framework tools and templates to analyze ICT accessibility risk within their organization, and use a risk-scoring matrix to assess severity and prioritize actions to address those risks.
 
 Downloads:
-* <a href="https://www.section508.gov/~assets/files/ict-accessibility-risk-asessment-framework-itacm.pptx" download="ICT Accessibility Risk Asessment Framework (ITACM).pptx" target="_blank" class="usa-link--external">ICT Accessibility Risk Asessment Framework (ITACM) (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/ict-accessibility-risk-asessment-framework-itacm.pptx" download="ICT Accessibility Risk Asessment Framework - ITACM FEB 2026.pptx" class="usa-link--external">ICT Accessibility Risk Asessment Framework - ITACM FEB 2026 (PPTX)</a>
 
 ## 2025
 ### IT Accessibility Community Meetings
