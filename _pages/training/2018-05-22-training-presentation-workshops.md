@@ -25,7 +25,7 @@ The information on this page includes available resources and captioned text fil
 ## 2026
 ### IT Accessibility Community Meetings
 #### June 09, 2026
-The Government-wide IT Accessibility Program hosts its December IT Accessibility Community Meeting featuring two sessions—one each from the Centers for Medicare & Medicaid, and the GSA team.
+The Government-wide IT Accessibility Program hosted its June IT Accessibility Community Meeting featuring two sessions—one each from the Centers for Medicare & Medicaid, and the GSA team.
 
 First, the Centers for Medicare & Medicaid Services (CMS) team presented “WILSON 508 Compliance Demo: Automating Accessible Document Remediation for Federal Teams.” The presentation introduced WILSON, a tool for identifying and remediating Section 508 accessibility issues in documents. The team demonstrated how WILSON reduced manual remediation effort and improved consistency. A live demo showed how users selected documents, ran accessibility checks and remediation, and reviewed results and exception reports.
 
