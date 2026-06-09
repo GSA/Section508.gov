@@ -1,6 +1,6 @@
 ---
 layout: wide_events
-title: US Digital Accessibility: Laws, Resources, and Real‑World Insights | Webinar
+title: "US Digital Accessibility: Laws, Resources, and Real‑World Insights | Webinar"
 permalink: /event/best-practices-webinar-jul2026/
 description: Join speakers from federal and state government agencies for a webinar on digital accessibility in the United States.
 start-date: #only fill in start date if the events spans multiple days
