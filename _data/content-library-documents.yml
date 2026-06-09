@@ -3610,7 +3610,6 @@
   topic: "About"
   sub-topic: "Other"
   audience:
-   - "Federal Employees"
-   - "Members of the Public"
+  - "Federal Employees"
   resource-type: "Process & How-To"
   format: "Presentation (PPTX)"
