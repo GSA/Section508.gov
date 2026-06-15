@@ -141,6 +141,8 @@ manage:
             url: manage/roles/section-508-pm-compentency-guide/
           - name: Section 508 Program Team Roles and Responsibilities
             url: manage/section-508-program-team-roles-and-responsibilities/
+      - name: Managing a Section 508 Help Desk
+        url: manage/section-508-help-desk/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
