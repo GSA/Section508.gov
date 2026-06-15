@@ -189,7 +189,7 @@ Randall (Keith) Sparks - <randall.k.sparks.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Human Resources Agency (DHRA)
-Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
+A’Donna Hudson - <adonna.a.hudson.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
