@@ -3613,3 +3613,14 @@
   - "Federal Employees"
   resource-type: "Process & How-To"
   format: "Presentation (PPTX)"
+
+- filename: "wilson-508-compliance-demo-itacm-june-2026.pptx"
+  permalink: "https://www.section508.gov/~assets/files/wilson-508-compliance-demo-itacm-june-2026.pptx"
+  title: "WILSON 508 Compliance Demo - ITACM JUN 20206 (PPTX)"
+  description: "Learn how WILSON automates Section 508 document remediation, reduces compliance risk, saves review time, and improves accessibility at scale for federal teams."
+  topic: "Create"
+  sub-topic: "Documents"
+  audience:
+   - "Content Creators"
+  resource-type: "Article"
+  format: "Presentation (PPTX)"
