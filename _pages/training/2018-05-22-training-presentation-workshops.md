@@ -33,6 +33,7 @@ Second, the GSA team provided an overview and demonstration of Section508.gov, t
 
 Downloads:
 * <a href="https://www.section508.gov/~assets/files/navigating-section508-gov-itacm-jun-2026.pptx" download="Navigating Section508.gov - ITACM JUN 20206 (ITACM).pptx" class="usa-link--external">Navigating Section508.gov - ITACM JUN 20206 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/wilson-508-compliance-demo-itacm-june-2026.pptx" download="WILSON 508 Compliance Demo - ITACM JUN 20206 (ITACM).pptx" class="usa-link--external">WILSON 508 Compliance Demo - ITACM JUN 20206 (PPTX)</a>
 
 #### February 24, 2026
 The Government-wide IT Accessibility Program presents new guidance to help agencies bridge the gap between “finding bugs” and managing compliance risks. Instead of viewing accessibility as an endless checklist, participants learn to apply a Risk Management Framework to Information and Communication Technology (ICT). The focus moves beyond simply identifying conformance issues to supporting teams in strategically assessing the risks of inaccessible ICT and identifying ways to mitigate those risks.
