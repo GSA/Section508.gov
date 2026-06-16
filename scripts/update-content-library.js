@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const yaml = require("js-yaml");
-const matter = require("gray-matter");
+const { parseFrontMatter } = require("./front-matter");
 
 const SITE_ORIGIN = "";
 const PROJECT_ROOT = path.resolve(__dirname, "..");
@@ -291,7 +291,7 @@ function loadContentPages() {
       .filter(isContentFile)
       .map((filePath) => {
         const fileContents = fs.readFileSync(filePath, "utf8");
-        const parsed = matter(fileContents);
+        const parsed = parseFrontMatter(fileContents);
         const data = parsed.data || {};
 
         return {

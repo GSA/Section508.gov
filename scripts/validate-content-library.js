@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const yaml = require("js-yaml");
-const matter = require("gray-matter");
+const { parseFrontMatter } = require("./front-matter");
 
 const REPO_ROOT = process.cwd();
 const ASSETS_ORIGIN = "https://www.section508.gov";
@@ -303,7 +303,7 @@ function validateFrontMatter(taxonomy, errors, warnings) {
       let parsed;
 
       try {
-        parsed = matter(raw);
+        parsed = parseFrontMatter(raw);
       } catch (err) {
         errors.push(formatYamlError(filePath, err));
         continue;
