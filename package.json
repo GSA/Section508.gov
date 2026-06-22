@@ -76,7 +76,9 @@
     "@vitejs/plugin-basic-ssl": "2.3.0",
     "@babel/core": "7.29.7",
     "esbuild": "0.28.1",
+    "http-proxy-middleware": "3.0.7",
     "postcss": "^8.5.12",
+    "piscina": "5.2.0",
     "serialize-javascript": "^7.0.5",
     "vite": "7.3.5",
     "webpack-dev-server": "5.2.5"
