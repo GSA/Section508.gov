@@ -51,6 +51,6 @@ Federal agencies are required to participate in reporting activities on the matu
   <ol>
     <li id="fn1">Agencies are defined here as all federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), including component agencies separate from parent agencies/departments.<a href="#fr1" aria-label="Back to content"> ↩ </a></li>
     <li id="fn2">Agencies are defined here as all federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).<a href="#fr2" aria-label="Back to content"> ↩ </a></li>
-    <li id="fn3">The <a href="{{ site.baseurl }}/manage/pmr">most recent and final report<a/a> was issued in the Summer 2023. The <a href="{{site.baseurl}}/manage/section-508-assessment">Governmentwide Section 508 Assessment</a> and corresponding report replace this previously required semi-annual Section 508 Program Maturity Report.<a href="#fr3" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn3">The <a href="{{ site.baseurl }}/manage/pmr">most recent and final report</a> was issued in the Summer 2023. The <a href="{{site.baseurl}}/manage/section-508-assessment">Governmentwide Section 508 Assessment</a> and corresponding report replace this previously required semi-annual Section 508 Program Maturity Report.<a href="#fr3" aria-label="Back to content"> ↩ </a></li>
   </ol>
 </div>
