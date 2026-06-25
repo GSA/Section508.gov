@@ -15,7 +15,7 @@ audience:
 - "Policy and Law Makers"
 topic: "Buy"
 sub-topic: "Statute & Regulation"
-resource-type: "Law and Policy"
+resource-type: "Article"
 format: "HTML"
 created: 2018-05-17
 updated: 2024-05-30

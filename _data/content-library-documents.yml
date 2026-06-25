@@ -305,7 +305,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (DOC)"
 
 - filename: "2008-iaaf-agenda.pdf"
@@ -325,7 +325,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (PDF)"
 
 - filename: "2020_csun_presentation.pptx"
@@ -1275,7 +1275,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (DOC)"
 
 - filename: "doj-section-508-model-complaint-process.doc"
@@ -1285,7 +1285,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Process & How-To"
   format: "Document (DOC)"
 
 - filename: "ebooks-reader.pdf"
@@ -1365,7 +1365,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Training"
   format: "Presentation (PPTX)"
 
 - filename: "fy-2019-lessons-learned-from-a-508-pm-apmm-2019-12-10.pptx"
@@ -2275,7 +2275,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (DOC)"
 
 - filename: "information-content-services.pdf"
@@ -2445,7 +2445,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (DOC)"
 
 - filename: "mobile-application.pdf"
@@ -2625,7 +2625,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Article"
   format: "Document (DOC)"
 
 - filename: "organizational-it-accessibility-key-performance-indicators-kpi.xlsx"
@@ -2735,7 +2735,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (PDF)"
 
 - filename: "resources-for-section-508-program-managers.pdf"
@@ -2775,7 +2775,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Training"
   format: "Presentation (PPTX)"
 
 - filename: "revolutionizing-acrs-openacr-csun-2024.pptx"
@@ -2935,7 +2935,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (PDF)"
 
 - filename: "standards-exceptions-chart.docx"
@@ -2955,7 +2955,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (PDF)"
 
 - filename: "technology-accessibility-playbook-2018-update.docx"
@@ -3115,7 +3115,7 @@
   topic: "Law"
   sub-topic: "Statute & Regulation"
   audience: "Policy and Law Makers"
-  resource-type: "Law and Policy"
+  resource-type: "Reference"
   format: "Document (PDF)"
 
 - filename: "video-and-imaging-input-devices.pdf"

@@ -14,7 +14,7 @@ audience:
 - "Developers"
 - "IT Program & Project Managers"
 - "Chief Information Officers (CIO)"
-resource-type: "Law and Policy"
+resource-type: "Article"
 format: "HTML"
 ---
 

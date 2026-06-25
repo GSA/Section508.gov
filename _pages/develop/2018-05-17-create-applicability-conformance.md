@@ -13,7 +13,7 @@ audience:
 - "Developers"
 - "Policy and Law Makers"
 - "Section 508 Program Managers"
-resource-type: "Law and Policy"
+resource-type: "Article"
 format: "HTML"
 created: 2018-05-17
 ---
