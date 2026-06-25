@@ -6,7 +6,7 @@ description: "Learn how federal executives can strengthen IT accessibility throu
 type: manage
 title: 'Executive Guide to Federal IT Accessibility'
 created: 2018-08-15
-updated: 2025-03-05
+updated: 2026-06-25
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/
 topic: "Manage"
@@ -19,6 +19,7 @@ audience:
 - "Section 508 Program Managers"
 resource-type: "Playbook"
 format: "HTML"
+exclude-changelog: true
 ---
 
 * <a href="#benefits">Benefits</a>
@@ -85,7 +86,7 @@ Ensure systems are in place across your agency to monitor conformance to the Rev
 
 Stand up an agency-wide IT Accessibility/508 Program, and resource appropriately.
 
-* Appoint an IT Accessibility/508 Program Manager (508 PM)</li>
+* Appoint an IT Accessibility/508 Program Manager (508 PM)
 * Delegate proper authority for your 508 PM to serve as the principal agency authority on Section 508 compliance matters, and to manage legal compliance risk on behalf of the agency.
 * Adequately staff the accessibility function across your agency. Include staff with skills and expertise in:
   * Project management;
