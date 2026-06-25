@@ -19,7 +19,7 @@ audience:
 - "Chief Information Officers (CIO)"
 - "IT Program & Project Managers"
 - "Policy and Law Makers"
-resource-type: "Law and Policy"
+resource-type: "Reference"
 format: "HTML"
 ---
 This guide highlights laws, policies and other regulations requiring federal agencies ensure employees and members of the public with disabilities have access to information comparable to the access available to others. While individuals may benefit from an awareness of all related regulation, each of the guide's sections suggest where a particular audience may have a responsibility. 
