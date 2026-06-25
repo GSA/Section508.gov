@@ -34,7 +34,7 @@ iaaf_2022:
                 who: cheng-wendy #bio_id for this person 
             downloads:
               - link_name: Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
-                file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
+                file_name: accessible-meetings-integrating-captioning-in-conference-platforms-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Videos for All: Strategies for Developing Audio Described Videos'
             track_id: day1breakout1b
@@ -48,7 +48,7 @@ iaaf_2022:
                 who: wiley-andrew
             downloads:
               - link_name: Videos for All - IAAF 2022 (PPTX)
-                file_name: Videos%20for%20All%20-%20IAAF%202022.pptx
+                file_name: videos-for-all-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 13:00:00
@@ -72,7 +72,7 @@ iaaf_2022:
                 who: nielson-andrew
             downloads:
               - link_name: The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)
-                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx
+                file_name: the-human-reason-for-accessibility-part-1-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Captioning Multimedia - Is It As Complicated As It Sounds?'
             track_id: day1breakout2b
@@ -82,7 +82,7 @@ iaaf_2022:
                 who: earl-lesley #bio_id for this person 
             downloads:
               - link_name: Captioning Multimedia - IAAF 2022 (PPTX)
-                file_name: Captioning%20Multimedia%20-%20IAAF%202022.pptx
+                file_name: captioning-multimedia-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 14:00:00
@@ -106,7 +106,7 @@ iaaf_2022:
                 who: nielson-andrew
             downloads:
               - link_name: The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)
-                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx
+                file_name: the-human-reason-for-accessibility-part-2-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PMs - What You Need To Know'
             track_id: day1breakout3b
@@ -120,7 +120,7 @@ iaaf_2022:
                 who: watkins-angela
             downloads:
               - link_name: Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
-                file_name: Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
+                file_name: section-508-pms-what-you-need-to-know-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 15:00:00
@@ -144,7 +144,7 @@ iaaf_2022:
                 who: wendling-regina #bio_id for this person 
             downloads:
               - link_name: Creating Accessible PDF Forms - IAAF 2022 (PPTX)
-                file_name: Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
+                file_name: creating-accessible-pdf-forms-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PMs - Using What You Know'
             track_id: day1breakout4b
@@ -276,7 +276,7 @@ iaaf_2022:
                 who: follit-emily
             downloads:
               - link_name: Workplace Mental Health - IAAF 2022 (PPTX)
-                file_name: Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
+                file_name: workplace-mental-health-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Striving for Universal Access: Image Descriptions'        
             track_id: day2breakout1b
@@ -290,7 +290,7 @@ iaaf_2022:
                 who: deanna-wood
             downloads:
               - link_name: Striving for Universal Access - IAAF 2022 (PPTX)
-                file_name: Striving%20for%20Universal%20Access%20-%20IAAF%202022.pptx
+                file_name: striving-for-universal-access-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-12 13:45:00
@@ -316,7 +316,7 @@ iaaf_2022:
                 who: thomas-christine
             downloads:
               - link_name: Beyond 508 Compliance - A Four-Point Hybrid Testing Approach - IAAF 2022 (PPTX)
-                file_name: Beyond%20508%20Compliance%20-%20A%20Four-Point%20Hybrid%20Testing%20Approach%20-%20IAAF%202022.pptx
+                file_name: beyond-508-compliance-a-four-point-hybrid-testing-approach-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: "Mission Accessible Getting the Job Done"
             track_id: day2breakout2b
@@ -328,7 +328,7 @@ iaaf_2022:
                 who: watkins-angela #use bio_id
             downloads:
               - link_name: Mission Accessible - IAAF 2022 (PPTX)
-                file_name: Mission%20Accessible%20-%20IAAF%202022.pptx
+                file_name: mission-accessible-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-12 14:45:00
@@ -354,7 +354,7 @@ iaaf_2022:
                 who: watkins-angela  
             downloads:
               - link_name: Advancing Accessibility within a Small Agency - IAAF 2022 (PPTX)
-                file_name: Advancing%20Accessibility%20within%20a%20Small%20Agency%20-%20IAAF%202022.pptx
+                file_name: advancing-accessibility-within-a-small-agency-iaaf-2022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: "The UniDescription Project: Audio Describing the World, One Brochure at a Time"         
             track_id: day2breakout3b
@@ -370,7 +370,7 @@ iaaf_2022:
                 who: sheehan-patrick
             downloads:
               - link_name: The UniDescription Project - IAAF 2022 (PPTX)
-                file_name: The%20UniDescription%20Project%20-%20IAAF%202022.pptx
+                file_name: the-unidescription-project-iaaf-2022.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2022-10-12 15:45:00
@@ -475,7 +475,7 @@ iaaf_2022:
             who: speers-rosemary
         downloads:
               - link_name: Accessibility Maturity Models - IAAF 2022 (PPTX)
-                file_name: Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx
+                file_name: accessibility-maturity-models-iaaf-2022.pptx
       - name: 'Lunch'
         type: break
         time_start: 2022-10-13 12:35:00
@@ -499,7 +499,7 @@ iaaf_2022:
                 who: montgomery-rachael #use bio_id 
             downloads:
               - link_name: WCAG 3 - IAAF 2022 (PPTX) 
-                file_name: WCAG%203%20-%20IAAF%202022.pptx
+                file_name: wcag-3-iaaf-2022.pptx
           - name: 'Track B: Section 508 Wildcard'
             name_breakout: 'Best Practices for Achieving Digital Accessibility'            
             track_id: day3breakout2b
@@ -511,7 +511,7 @@ iaaf_2022:
                 who: sirk-betsy
             downloads:
               - link_name: Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
-                file_name: Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
+                file_name: best-practices-for-achieving-digital-accessibility-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-13 13:45:00
@@ -535,7 +535,7 @@ iaaf_2022:
                 who: carr-annette #bio_id for this person
             downloads:
               - link_name: A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
-                file_name: A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
+                file_name: a-different-perspective-for-looking-at-accessibility-iaaf-2022.pptx
           - name: 'Track B: Section 508 Wildcard'
             name_breakout: 'Demystifying Section 508: Creating and Evaluating Accessibility Conformance Reports'            
             track_id: day3breakout3b
@@ -549,7 +549,7 @@ iaaf_2022:
                 who: sirk-betsy
             downloads:
               - link_name: Demystifying Section 508 - IAAF 2022 (PPTX) 
-                file_name: Demystifying%20Section%20508%20-%20IAAF%202022.pptx
+                file_name: demystifying-section-508-iaaf-2022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-13 14:45:00
@@ -587,7 +587,7 @@ iaaf_2022:
             who: harding-stephen
         downloads:
           - link_name: Chair and Committee Members - IAAF 2022 (PPTX) 
-            file_name: Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx            
+            file_name: chair-and-committee-members-iaaf-2022.pptx            
       - name: 'IAAF "After Party"' 
         type: welcome
         time_start: 2022-10-13 16:00:00
@@ -644,13 +644,13 @@ iaaf_2023:
                 who: dansby-dee
             downloads:
               - link_name: Design PPT Templates for Accessibility - IAAF 2023 (PPTX)
-                file_name: Design%20PPT%20Templates%20for%20Accessibility%20-%20IAAF%202023.pptx
+                file_name: design-ppt-templates-for-accessibility-iaaf-2023.pptx
               - link_name: Design PPT Templates for Accessibility Design Catalog - IAAF 2023 (PPTX)
-                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20-%20IAAF%202023.pptx
+                file_name: design-ppt-templates-for-accessibility-design-catalog-iaaf-2023.pptx
               - link_name: Design PPT Templates for Accessibility Design Catalog Supplemental - IAAF2023 (DOCX)
-                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20Supplemental%20-%20IAAF2023.docx
+                file_name: design-ppt-templates-for-accessibility-design-catalog-supplemental-iaaf2023.docx
               - link_name: Design PPT Templates for Accessibility Workbook - IAAF2023 (DOCX)
-                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Workbook%20-%20IAAF2023.docx
+                file_name: design-ppt-templates-for-accessibility-workbook-iaaf2023.docx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'How to use ART'
             track_id: day1breakout1b
@@ -665,7 +665,7 @@ iaaf_2023:
                 who: brunson-arthur
             downloads:
               - link_name: How to use ART - IAAF 2023 (PPTX)
-                file_name: How%20to%20use%20ART%20-%20IAAF%202023.pptx
+                file_name: how-to-use-art-iaaf-2023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 11:15:00
@@ -692,7 +692,7 @@ iaaf_2023:
                 who: guzman-danny
             downloads:
               - link_name: Testing Tools and Ease of Access - IAAF 2023 (PPTX)
-                file_name: Testing%20Tools%20and%20Ease%20of%20Access%20-%20IAAF%202023.pptx
+                file_name: testing-tools-and-ease-of-access-iaaf-2023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
@@ -705,7 +705,7 @@ iaaf_2023:
                 who: crowell-pierce
             downloads:
               - link_name: Remediation - The Next Step in an Effective 508 Program - IAAF 2023 (PPTX)
-                file_name: Remediation%20-%20The%20Next%20Step%20in%20an%20Effective%20508%20Program%20-%20IAAF%202023.pptx
+                file_name: remediation-the-next-step-in-an-effective-508-program-iaaf-2023.pptx
       - name: 'Lunch'
         type: break
         time_start: 2023-11-07 12:30:00
@@ -733,9 +733,9 @@ iaaf_2023:
                 who: vallarta-alfred
             downloads:
               - link_name: Section 508 Common Issues for Documents - IAAF 2023 (PPTX)
-                file_name: Section%20508%20Common%20Issues%20for%20Documents%20-%20IAAF%202023.pptx
+                file_name: section-508-common-issues-for-documents-iaaf-2023.pptx
               - link_name: Sample Document 508 Compliance Demo - IAAF 2023 (DOCX)
-                file_name: Sample%20Document%20508%20Compliance%20Demo.docx
+                file_name: sample-document-508-compliance-demo.docx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
@@ -750,7 +750,7 @@ iaaf_2023:
                 who: mcnally-alexandria
             downloads:
               - link_name: Testing for Compliance - IAAF 2023 (PPTX)
-                file_name: Testing%20for%20Compliance%20-%20IAAF%202023.pptx
+                file_name: testing-for-compliance-iaaf-2023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -775,7 +775,7 @@ iaaf_2023:
                 who: sheehan-patrick
             downloads:
               - link_name: Creating Accessible PDF Documents with Signatures - IAAF 2023 (PPTX)
-                file_name: Creating%20Accessible%20PDF%20Documents%20with%20Signatures%20-%20IAAF%202023.pptx
+                file_name: creating-accessible-pdf-documents-with-signatures-iaaf-2023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
@@ -788,7 +788,7 @@ iaaf_2023:
                 who: rodriguez-karla
             downloads:
               - link_name: Accessible Customer Experience and Shared Services - IAAF 2023 (PPTX)
-                file_name: Accessible%20Customer%20Experience%20and%20Shared%20Services%20-%20IAAF%202023.pptx
+                file_name: accessible-customer-experience-and-shared-services-iaaf-2023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 15:45:00
@@ -892,7 +892,7 @@ iaaf_2023:
                 who: wilson-alex                                 
             downloads:
               - link_name: GWITAP Activity Update - IAAF 2023 (PPTX)
-                file_name: GWITAP%20Activity%20Update%20-%20IAAF%202023.pptx
+                file_name: gwitap-activity-update-iaaf-2023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'User Research and Personas for BARD Mobile'
             track_id: day2breakout1b
@@ -909,7 +909,7 @@ iaaf_2023:
                 who: stengel-wendy
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+                file_name: #file-name-iaaf-2023.pptx
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Using USWDS Critical Checklists to Develop Accessibility Skills Across Government Teams'
             track_id: day2breakout1c
@@ -926,7 +926,7 @@ iaaf_2023:
                 who: williams-daniel
             downloads:
               - link_name: Using USWDS Critical Checklists - IAAF 2023 (PPTX)
-                file_name: Using%20USWDS%20Critical%20Checklists%20-%20IAAF%202023.pptx
+                file_name: using-uswds-critical-checklists-iaaf-2023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 14:15:00
@@ -953,7 +953,7 @@ iaaf_2023:
                 who: rolleman-benjamin                           
             downloads:
               - link_name: SSC Accessible ICT Procurement Update - IAAF 2023 (PPTX)
-                file_name: SSC%20Accessible%20ICT%20Procurement%20Update%20-%20IAAF%202023.pptx
+                file_name: ssc-accessible-ict-procurement-update-iaaf-2023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
             track_id: day2breakout2b
@@ -966,7 +966,7 @@ iaaf_2023:
                 who: udoewa-victor
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+                file_name: #file-name-iaaf-2023.pptx
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Improving Digital Accessibility: A year long strategic plan to improve the accessibility of digital products'
             track_id: day2breakout2c
@@ -985,7 +985,7 @@ iaaf_2023:
                 who: liu-arlo
             downloads:
               - link_name: Improving Digital Accessibility - IAAF 2023 (PPTX)
-                file_name: Improving%20Digital%20Accessibility%20-%20IAAF%202023.pptx
+                file_name: improving-digital-accessibility-iaaf-2023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:10:00
@@ -1012,7 +1012,7 @@ iaaf_2023:
             who: urban-mark
         downloads:
           - link_name: Real Talk - A Conversation with Section 508 Program Managers - IAAF 2023 (PPTX)
-            file_name: Real%20Talk%20-%20A%20Conversation%20with%20Section%20508%20Program%20Managers%20-%20IAAF%202023.pptx
+            file_name: real-talk-a-conversation-with-section-508-program-managers-iaaf-2023.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2023-11-08 16:20:00
@@ -1137,7 +1137,7 @@ iaaf_2023:
                 who: verigan-teresa
             downloads:
               - link_name: AI-Generated Alt-Text - IAAF 2023 (PDF)
-                file_name: AI-Generated%20Alt-Text%20-%20IAAF%202023.pdf
+                file_name: ai-generated-alt-text-iaaf-2023.pdf
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Should You Compromise on Your Greatest Abilities When You Have a Disability?'
             track_id: day3breakout1c
@@ -1150,7 +1150,7 @@ iaaf_2023:
                 who: shah-rajiv
             downloads:
               - link_name: Should You Compromise on Your Greatest Abilities When You Have a Disability - IAAF 2023 (PPTX)
-                file_name: Should%20You%20Compromise%20on%20Your%20Greatest%20Abilities%20When%20You%20Have%20a%20Disability%20-%20IAAF%202023.pptx
+                file_name: should-you-compromise-on-your-greatest-abilities-when-you-have-a-disability-iaaf-2023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 14:20:00
@@ -1173,7 +1173,7 @@ iaaf_2023:
                 who: sweeney-kate #bio_id for this person
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+                file_name: #file-name-iaaf-2023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'An Overview of New Web Accessibility Requirements from WCAG 2.2 and 2.1'
             track_id: day3breakout2b
@@ -1188,7 +1188,7 @@ iaaf_2023:
                 who: bradley-montgomery-rachael
             downloads:
               - link_name: 508 Missing WCAG 21-22 - IAAF 2023 (PPTX)
-                file_name: 508%20Missing%20WCAG%2021-22%20-%20IAAF%202023.pptx
+                file_name: 508-missing-wcag-21-22-iaaf-2023.pptx
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Cultivating & Managing an Inclusive Culture'
             track_id: day3breakout3c
@@ -1203,7 +1203,7 @@ iaaf_2023:
                 who: goldstein-lindsay
             downloads:
               - link_name: Cultivating and Managing an Inclusive Culture at ONRR - IAAF 2023 (PPTX)
-                file_name: Cultivating%20and%20Managing%20an%20Inclusive%20Culture%20at%20ONRR%20-%20IAAF%202023.pptx
+                file_name: cultivating-and-managing-an-inclusive-culture-at-onrr-iaaf-2023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:15:00
@@ -1289,7 +1289,7 @@ iaaf_2024:
             who: wilson-alex #bio_id for this person 
         downloads:
           - link_name: GSA Section 508 Activities Update - IAAF 2024 (PPTX) 
-            file_name: GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx
+            file_name: gsa-section-508-activities-update-iaaf-2024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
@@ -1313,7 +1313,7 @@ iaaf_2024:
             who: horton-michael 
         downloads:
         - link_name: That Doesn't Need to be a PDF - IAAF 2024 (PPTX) 
-          file_name: That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx
+          file_name: that-doesnt-need-to-be-a-pdf-iaaf-2024.pptx
       - name: 'Lunch'
         type: break
         time_start: 2024-11-13 12:15:00
@@ -1334,7 +1334,7 @@ iaaf_2024:
             who: garmer-shawn #bio_id for this person
         downloads:
           - link_name: Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF) 
-            file_name: Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf
+            file_name: using-devtools-for-manual-accessibility-inspection-iaaf-2024.pdf
       - name: 'Break'
         type: break
         time_start: 2024-11-13 14:15:00
@@ -1355,7 +1355,7 @@ iaaf_2024:
             who: garmer-shawn #bio_id for this person
         downloads:
           - link_name: Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF) 
-            file_name: Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf
+            file_name: using-devtools-for-manual-accessibility-inspection-iaaf-2024.pdf
       - name: 'General Session'
         type: general
         time_start: 2024-11-13 15:15:00
@@ -1412,7 +1412,7 @@ iaaf_2024:
             who: eng-kathy #bio_id for this person 
         downloads:
           - link_name: Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX) 
-            file_name: Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx
+            file_name: exceptions-in-section-508-regulatory-language-usab-iaaf-2024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
@@ -1438,7 +1438,7 @@ iaaf_2024:
             who: lindeman-alex
         downloads:
           - link_name: Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX) 
-            file_name: Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx
+            file_name: social-media-presentation-and-webinar-slides-iaaf-2024.pptx
       - name: 'Lunch'
         type: break
         time_start: 2024-11-14 12:15:00
@@ -1493,7 +1493,7 @@ iaaf_2024:
             who: frith-chet #bio_id for this person       
         downloads:
           - link_name: Section 508 Playbook (Draft) - IAAF 2024 (PPTX) 
-            file_name: Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx
+            file_name: section-508-playbook-draft-iaaf-2024.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2024-11-14 16:15:00
@@ -1540,7 +1540,7 @@ iaaf_2025:
             who: wilson-alex #bio_id for this person 
         downloads:
           - link_name: GSA Yearly Activities Update (PPTX) 
-            file_name: IAAF-2025-GSA-Yearly-Activities-Update.pptx
+            file_name: iaaf-2025-gsa-yearly-activities-update.pptx
       - name: 'Break'
         type: break
         time_start: 2025-05-20 11:00:00
@@ -1560,7 +1560,7 @@ iaaf_2025:
             who: harris-frederick #bio_id for this person 
         downloads:
         - link_name: Enhancing Your Section 508 Assessment (PPTX) 
-          file_name: IAAF-2025-Enhancing-Your-Section-508-Assessment.pptx
+          file_name: iaaf-2025-enhancing-your-section-508-assessment.pptx
       - name: 'Lunch'
         type: break
         time_start: 2025-05-20 12:15:00
@@ -1581,7 +1581,7 @@ iaaf_2025:
             who: guidi-claudia 
         downloads:
           - link_name: Project Managing Accessibility Compliance (PPTX) 
-            file_name: IAAF-2025-Project-Managing-Accessibility-Compliance.pptx   
+            file_name: iaaf-2025-project-managing-accessibility-compliance.pptx   
       - name: 'Break'
         type: break
         time_start: 2025-05-20 14:00:00
@@ -1604,7 +1604,7 @@ iaaf_2025:
             who: namboodiri-vinod
         downloads:
           - link_name: # - IAAF 2025 (PDF) 
-            file_name: #-%20IAAF%202025.pdf
+            file_name: #file-name-iaaf-2025.pdf
       - name: 'Break'
         type: break
         time_start: 2025-05-20 15:00:00
@@ -1627,7 +1627,7 @@ iaaf_2025:
             who: rizzo-john-ross
         downloads:
           - link_name: Voice AI for Everyone (PPTX) 
-            file_name: IAAF-2025-Voice-AI-for-Everyone.pptx
+            file_name: iaaf-2025-voice-ai-for-everyone.pptx
       - name: 'General Session'
         type: general
         time_start: 2025-05-20 16:00:00
@@ -1641,7 +1641,7 @@ iaaf_2025:
             who: nielson-andrew #bio_id for this person
         downloads:
           - link_name: Digital Accessibility Acquisition Solutions (PPTX)
-            file_name: IAAF-2025-Digital-Accessibility-Acquisition-Solutions.pptx                
+            file_name: iaaf-2025-digital-accessibility-acquisition-solutions.pptx                
       - name: 'Closing' 
         type: welcome
         time_start: 2025-05-20 16:30:00
@@ -1686,7 +1686,7 @@ iaaf_2025:
             who: weber-jessie 
         downloads:
           - link_name: A Journey Through Global Accessibility Laws (PPTX) 
-            file_name: IAAF-2025-A-Journey-Through-Global-Accessibility-Laws.pptx
+            file_name: iaaf-2025-a-journey-through-global-accessibility-laws.pptx
       - name: 'Break'
         type: break
         time_start: 2025-05-21 11:20:00
@@ -1706,7 +1706,7 @@ iaaf_2025:
             who: miller-laura #bio_id for this person 
         downloads:
           - link_name: Accessible-Self-Service Kiosks (PPTX) 
-            file_name: IAAF-2025-Accessible-Self-Service-Kiosks.pptx
+            file_name: iaaf-2025-accessible-self-service-kiosks.pptx
       - name: 'Lunch'
         type: break
         time_start: 2025-05-21 12:15:00
@@ -1731,7 +1731,7 @@ iaaf_2025:
             who: wilcox-lisa       
         downloads:
           - link_name: From Risk to Roadmap (PPTX) 
-            file_name: IAAF-2025-From-Risk-to-Roadmap.pptx           
+            file_name: iaaf-2025-from-risk-to-roadmap.pptx
       - name: 'General Session'
         type: general
         time_start: 2025-05-21 14:15:00
@@ -1745,7 +1745,7 @@ iaaf_2025:
             who: sirk-betsy
         downloads:
           - link_name: Navigating Federal Acquisitions (PPTX)
-            file_name: IAAF-2025-Navigating-Federal-Acquisitions.pptx   
+            file_name: iaaf-2025-navigating-federal-acquisitions.pptx
       - name: 'Break'
         type: break
         time_start: 2025-05-21 15:15:00
@@ -1771,7 +1771,7 @@ iaaf_2025:
             who: schreyer-collin
         downloads:
           - link_name: A New Look at ART and SRT (PPTX)
-            file_name: IAAF-2025-A-New-Look-at-ART-SRT.pptx
+            file_name: iaaf-2025-a-new-look-at-art-srt.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2025-05-21 16:25:00
@@ -1823,7 +1823,7 @@ iaaf_2026:
             who: okeefe-david #bio_id for this person 
         downloads:
           - link_name: "Advancing Accessibility and Engagement on Social Media (USAB) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx
+            file_name: advancing-accessibility-and-engagement-on-social-media_usab_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 10:45:00
@@ -1843,7 +1843,7 @@ iaaf_2026:
             who: ghoston-ameenah 
         downloads:
         - link_name: "Scoring and Evaluating Accessibility Conformance Reports based on the VPAT (DHA) - IAAF 2026 (PPTX)"
-          file_name: https://www.section508.gov/~assets/files/iaaf/2026/scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
+          file_name: scoring-and-evaluating-acrs-based-on-the-vpat_dha_iaaf-2026.pptx
       - name: 'Lunch'
         type: break
         time_start: 2026-05-21 12:00:00
@@ -1864,7 +1864,7 @@ iaaf_2026:
             who: ghoston-ameenah
         downloads:
           - link_name: "Tracking and Managing Section 508 Informal Complaints (DHA) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
+            file_name: tracking-and-managing-section-508-informal-complaints_dha_iaaf-2026.pptx
       - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 14:00:00
@@ -1878,7 +1878,7 @@ iaaf_2026:
             who: sharma-siddhartha
         downloads:
           - link_name: "The NPS.gov Media Player and Media Workflow (DOI) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx
+            file_name: the-nps-media-player-and-media-workflow_doi_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-21 15:00:00
@@ -1899,7 +1899,7 @@ iaaf_2026:
             who: haileselassie-antonio
         downloads:
           - link_name: "Managing Change, Sustaining Accessibility (NIH) IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
+            file_name: managing-change-sustaining-accessibility_nih_iaaf-2026.pptx
       - name: 'General Session<br>Jess Larson Auditorium'
         type: general
         time_start: 2026-05-21 16:00:00
@@ -1915,7 +1915,7 @@ iaaf_2026:
             who: fleetwood-matthew  
         downloads:
           - link_name: "Revolutionizing PDF Accessibility with Generative AI (FTA) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
+            file_name: revolutionizing-pdf-accessibility-with-generative-ai_fta_iaaf-2026.pptx
       - name: 'Closing Remarks - Day 1<br>Jess Larson Auditorium' 
         type: welcome
         time_start: 2026-05-21 16:45:00
@@ -1970,7 +1970,7 @@ iaaf_2026:
             who: chong-owen
         downloads:
           - link_name: "Navigating Section 508 Exceptions (NASA) - IAAF 2026 (PPTX)"
-            file_name: https://www.section508.gov/~assets/files/iaaf/2026/navigating-section-508-exceptions_nasa_iaaf-2026.pptx
+            file_name: navigating-section-508-exceptions_nasa_iaaf-2026.pptx
       - name: 'Break'
         type: break
         time_start: 2026-05-22 11:00:00
@@ -1992,7 +1992,7 @@ iaaf_2026:
             who: gower-michael #bio_id for this person  
         downloads:
           - link_name: #"Video Accessibility Remediation (FTA) - IAAF 2026 (PPTX)"
-            file_name: #https://www.section508.gov/assets/files/iaaf/2026/video-accessibility-remediation_fta_iaaf-2026.pptx #file size is over 100MB thus hosted in github repo instead of Cloud.gov PFS
+            file_name: #video-accessibility-remediation-fta-iaaf-2026.pptx #file size is over 100MB thus hosted in github repo instead of Cloud.gov PFS
       - name: 'IAAF Closing Remarks<br>Jess Larson Auditorium'
         type: welcome
         time_start: 2026-05-22 11:55:00
@@ -2029,4 +2029,4 @@ iaaf_2026:
             who: nieves-amy #bio_id for this person
         downloads:
           - link_name: #-IAAF 2026 (PPTX) 
-            file_name: #-IAAF%202026.pptx
+            file_name: #file-name-iaaf-2026.pptx
