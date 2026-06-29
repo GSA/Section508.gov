@@ -1,19 +1,33 @@
 ---
 layout: post
-permalink: blog/DHS-Trusted-Tester-Program-Updates/
+sidenav: true
 type: article
-title: 'DHS Trusted Tester Program Updates '
-created: 1524687889
-tags: Testing
+title: DHS Trusted Tester Program Updates
+permalink: blog/DHS-Trusted-Tester-Program-Updates/
 description: In April 2018, the Department of Homeland Security announced some updates coming to the Trusted Tester Program, to align with recent updates to the Revised 508 Standards.
-topic: "Training"
-sub-topic: "Training"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-resource-type: "Law and Policy"
-format: "HTML"
+tags: Testing
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- IT Accessibility Program Staff
+- IT Program & Project Managers
+- Section 508 Program Managers
+- Section 508 Testers
+- Specialists & SMEs
+- Web Content Managers
+topic: 
+- Testing
+- Training
+subtopic: 
+- Best Practices
+- Testing (Manual)
+- Training
+resource-type: 
+- Blog
+format: HTML
+created: 2018-04-25
 ---
+
 
 In April 2018, the Department of Homeland Security announced some updates coming to the [Trusted Tester Program][1], to align with recent updates to the [Revised 508 Standards][2].
 

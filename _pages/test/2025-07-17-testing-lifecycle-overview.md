@@ -16,12 +16,18 @@ audience:
 resource-type: Article
 format: HTML
 created: 2025-07-21
-updated: 2025-07-21
+updated: 2026-06-22
+exclude-changelog: true
 ---
 
 Section 508 conformance testing is essential to ensure information and communication technology (ICT) is usable and accessible for people with disabilities and conforms to federal <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. Without testing, Section 508 defects may go unnoticed—leading to conformance issues, poor user experience, and potential legal risk. The testing lifecycle begins with planning and scoping, followed by testing using a test methodology and tools to identify defects. Following the review, remediation is performed and validated through retesting to ensure all issues have been adequately resolved. Ongoing monitoring and maintenance helps sustain Section 508 conformance as ICT evolves. 
 
-Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">design and development process</a>, not just before a product is released. For example, Section 508 testers or subject matter experts could provide feedback early on during design and prototyping. Development teams can also integrate accessibility testing into their regular build and deployment routines. In Agile or collaborative development environments, the roles of designer, developer, and tester are often shared across team members, or even performed by the same individual, making early and continuous accessibility testing an integral part of the development lifecycle. Regardless of how Section 508 is integrated, the testing process should always allow enough time to fix any issues before a product goes live. Below is a simple overview of the Section 508 testing lifecycle:
+Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">design and development process</a>, not just before a product is released. For example, Section 508 testers or subject matter experts could provide feedback early on during design and prototyping. Development teams can also integrate accessibility testing into their regular build and deployment routines. In Agile or collaborative development environments, the roles of designer, developer, and tester are often shared across team members, or even performed by the same individual, making early and continuous accessibility testing an integral part of the development lifecycle. Regardless of how Section 508 is integrated, the testing process should always allow enough time to fix any issues before a product goes live. 
+
+<div class="grid-col-12 border-base radius-lg padding-1 margin-top-3" style="border: 1px solid black; background-color: #f5f9fc;">
+<strong>Tip:</strong> Test templates, layouts, and repetitive components once to evaluate baseline Section 508 conformance of similar content across your ICT. Since most electronic content changes over time, implement a process for testing new or modified content in the development life cycle. This approach helps agencies focus testing efforts efficiently, reduce duplicated work, and identify accessibility issues that may affect multiple pieces of content.</div>
+
+Below is a simple overview of the Section 508 testing lifecycle:
 
 <ol class="usa-process-list">
   <li class="usa-process-list__item">

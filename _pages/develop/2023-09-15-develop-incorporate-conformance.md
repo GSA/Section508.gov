@@ -14,7 +14,8 @@ audience:
 resource-type: "Process & How-To"
 format: "HTML"
 created: 2023-09-15
-updated: 2026-03-31
+updated: 2026-06-22
+exclude-changelog: true
 ---
 
 The integration of accessibility conformance validation, or accessibility testing, throughout the development life cycle reduces testing burden and results in a more accessible Information and Communications Technology (ICT) product. Below are steps you can take to integrate methods and tools for accessibility conformance validation into your development life cycle. 
@@ -31,6 +32,9 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   <li>Deploy</li>
   <li>Operate and Maintain</li>
 </ol>
+
+<div class="grid-col-12 border-base radius-lg padding-1 margin-top-3" style="border: 1px solid black; background-color: #f5f9fc;">
+<strong>Tip:</strong> Test templates, layouts, and repetitive components once to evaluate baseline Section 508 conformance of similar content across your ICT. Since most electronic content changes over time, implement a process for testing new or modified content in the development life cycle. This approach helps agencies focus testing efforts efficiently, reduce duplicated work, and identify accessibility issues that may affect multiple pieces of content.</div>
 
 <div id="Plan">
   <h2>Plan:</h2>
