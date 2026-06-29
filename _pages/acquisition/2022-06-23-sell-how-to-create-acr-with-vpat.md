@@ -2,26 +2,31 @@
 layout: page
 sidenav: true
 type: acquisition
-title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)'
+title: How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)
 permalink: sell/how-to-create-acr-with-vpat/
 description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
+description-alt: Update to clarify that other government agencies acting as providers (vendors) are responsible for creating and maintaining ACRs for their ICT.
 contributors: haileselassie, sirk, nasa
-audience:
-- "Buyers"
-- "Section 508 Program Managers"
-- "Executive Leadership (CXO)"
-- "Chief Acquisition Officers (CAO)"
-- "IT Program & Project Managers"
-topic: "Sell"
-sub-topic: "ACR Production & Evaluation"
-resource-type: "Process & How-To"
-format: "HTML"
+audience: 
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Executive Leadership (CXO)
+- IT Program & Project Managers
+- Section 508 Program Managers
+topic: 
+- Sell
+subtopic: 
+- ACR Production & Evaluation
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2022-06-23
+updated: 2026-06-29
 ---
 
-This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
+This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's <a href="https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf" target="_blank" class="usa-link--external">Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act</a>. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
 
-The ACR is a representation of how the product meets the applicable Section 508 Technical Standards. The product owner/developer must first test the product against those standards in order to complete an ACR. Currently, the most common way an ACR is completed is by using the (VPAT&reg; template created by the IT Industry Council (ITI).
+The ACR is a representation of how the product meets the applicable Section 508 Technical Standards. The product owner/developer&mdash;including commercial companies, contractors, and other government agencies acting as providers (vendors)&mdash;must first test the product against those standards in order to complete an ACR. Currently, the most common way an ACR is completed is by using the (VPAT&reg; template created by the IT Industry Council (ITI).
 
 Although there are other possible methods to complete an ACR, this part of the guide will walk you through how to complete an ACR using the VPAT&reg;.
 
@@ -44,7 +49,7 @@ Although there are other possible methods to complete an ACR, this part of the g
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col">The VPAT&reg; begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
     <ul>
-      <li>Company name</li>
+      <li>Company/Agency/Organization name</li>
       <li>Name of your product (and version number, if applicable)</li>
       <li>Report date (month and year)</li>
       <li>Description of the product</li>
@@ -249,7 +254,7 @@ Below is an example of what these three columns look like for the Revised Sectio
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Skip the Level AAA tables -</strong> Section 508 does not require that your product be tested against the Level AAA Technical Standards. However, industry may provide this information to show a higher level of accessibility than required.
+      <strong>Skip the Level AAA tables -</strong> Section 508 does not require that your product be tested against the Level AAA Technical Standards. However, the vendor may provide this information to show a higher level of accessibility than required.
     </div>
   </li>
   <li class="usa-icon-list__item">
@@ -285,11 +290,3 @@ Below is an example of what these three columns look like for the Revised Sectio
     </div>
   </li>
 </ul>
-
-[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
-[2]: https://www.itic.org/policy/accessibility/vpat
-[3]: {{site.baseurl}}/sell
-[4]: {{site.baseurl}}/buy/request-accessibility-information
-[5]: {{site.baseurl}}/acquisition
-[6]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
- 
