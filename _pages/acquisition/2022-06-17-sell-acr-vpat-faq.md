@@ -27,7 +27,7 @@ updated: 2026-06-29
 Below is a list of frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's <a href="https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf" target="_blank" class="usa-link--external">Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act</a>.
 
 ### When should an ACR be created?
-An ACR should be created when procuring or releasing Information and Communications Technology (ICT) &mdash; whether acquired from a vendor or internally developed &mdash; to document how a product or service conforms to Section 508 standards.
+An ACR should be created when procuring or releasing information and communications technology (ICT) &mdash; whether acquired from a vendor or internally developed &mdash; to document how a product or service conforms to Section 508 standards.
 
 ### Who creates ICT product ACRs?
 Federal agencies are responsible for ensuring that ICT they procure, develop, maintain, or use meets applicable Section 508 accessibility requirements. Organizations that develop or provide ICT products or services to federal agencies &mdash; including commercial companies, contractors, and other government agencies acting as providers (vendors) &mdash; commonly create an Accessibility Conformance Report (ACR) using the Voluntary Product Accessibility Template (VPAT®) to document accessibility support. 
