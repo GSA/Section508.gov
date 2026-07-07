@@ -2357,9 +2357,8 @@ div[role=rowheader] {
   padding-left: 0;      /* removes default padding */
 }
 
-.itad-process-list__wide {
-   max-width: none; 
-   width: 100%;
+.itad-process-list--wide .usa-process-list__item {
+  max-width: 80rem;
 }
 
 /* Customize 'Big Table' size and scrolling */

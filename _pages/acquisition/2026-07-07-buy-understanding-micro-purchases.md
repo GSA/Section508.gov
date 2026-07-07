@@ -113,7 +113,9 @@ As defined in <a href="https://www.acquisition.gov/far/2.101" target="_blank" cl
 
 In other words, when you buy ICT, and the "aggregate amount," or total cost, is under the micro-purchase threshold, the simplified micro-purchase requirements and processes apply, rather than the standard ICT procurement process.
 
-In most cases, a micro-purchase must not exceed the current FAR micro-purchase threshold. Thresholds may vary depending on the purchase type or statutory authority, so always confirm current thresholds and exceptions in <a href="https://www.acquisition.gov/far/2.101" target="_blank" class="usa-link--external">FAR 2.101</a> and <a href="https://www.acquisition.gov/far/part-13" target="_blank" class="usa-link--external">FAR Part 13</a>..
+<div class="summary-box">
+<strong>Note:</strong>In most cases, a micro-purchase must not exceed the current FAR micro-purchase threshold. Thresholds may vary depending on the purchase type or statutory authority, so always confirm current thresholds and exceptions in <a href="https://www.acquisition.gov/far/2.101" target="_blank" class="usa-link--external">FAR 2.101</a> and <a href="https://www.acquisition.gov/far/part-13" target="_blank" class="usa-link--external">FAR Part 13</a>.
+</div>
 
 If your purchase is above the aggregate threshold, you must follow the standard ICT Procurement Process. For more information about this process, review the resource <a href="{{site.baseurl}}/buy/">Buy Accessible Products and Services</a>.
 
@@ -144,8 +146,8 @@ This micro-purchases process consists of six steps:
 5.  Perform any additional agency-specific procedures or requirements (such as receiving AO approval).
 6.  Purchase your product or service.
 
-<ol class="usa-process-list maxw-full">
-    <li class="usa-process-list__item">
+<ol class="usa-process-list itad-process-list--wide">
+    <li id="step-1" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Determine if your requirement is ICT</h3>
         <h4>What is considered ICT?</h4>
         <p>Once you have determined your business need (the functionality you require), you must begin by determining if that need is considered ICT. ICT is defined by the U.S. Access Board:</p>
@@ -177,7 +179,7 @@ This micro-purchases process consists of six steps:
         </ul>
         <p>These <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">functional performance criteria</a> help ensure ICT is usable by individuals with a wide range of disabilities when specific technical requirements alone may not fully address accessibility needs.</p>
     </li>
-    <li class="usa-process-list__item">
+    <li id="step-2" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Determine which Section 508 standards apply</h3>
         <h4>What Section 508 standards apply?</h4>
         <p>Once you have determined that your procurement is ICT, your next step is to determine which category of ICT it fits into. That category will define the Section 508 technical standards that you will use when evaluating potential products.</p>
@@ -210,7 +212,7 @@ This micro-purchases process consists of six steps:
         </ul>
         <p>Micro-purchases rarely fall within these exceptions. If you are making a micro-purchase in one of these categories, consult <a href="{{site.baseurl}}/tools/program-manager-listing/">your Section 508 Program Manager</a> for assistance in properly documenting the exception.</p>
     </li>
-    <li class="usa-process-list__item">
+    <li id="step-3" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Perform market research</h3>
         <h4>Market Research</h4>
         <p>Once you know which Section 508 technical standards apply to your micro-purchase, you must perform market research to find possible solutions that could meet your business need. The goal of your market research is to find a Section 508 conformant product or service or decide which of the available products or services best meets the accessibility requirements.</p>
@@ -244,19 +246,19 @@ This micro-purchases process consists of six steps:
         <p>If your market research does not uncover any technically acceptable options, you can request an exception to procure a nonconformant solution. Of the alternatives that meet your business needs, you'll still need to select the alternative that best meets Section 508 requirements. You'll also need to provide documentation of your market research as justification.</p>
         <p>If the product is not accessible, you must determine an alternative way to provide access. The ICT must be accessible and usable by everyone. For example, if a supervisor couldn't find a multifunction machine that provided all necessary accessibility at the machine's touchpad, that machine would need to be equally accessible from a desktop application.</p>
     </li>
-    <li class="usa-process-list__item">
+    <li id="step-4" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Complete Required Documentation</h3>
         <p>Once you select the solution that best meets your agency's business and accessibility needs, document your market research, selection rationale, applicable standards, and any properly authorized exceptions.</p>
         <p>If you believe an exception to Section 508 might apply, you must document in writing that your Section 508 PM or authorizing official has verified that an exception applies to your micro-purchase. If you purchase an ICT product or service that does not fully conform to Section 508 standards, you must document that you conducted adequate market research and provide a justification of your reasons for the purchase (such as the budget or mission). In addition, you must complete any documentation required by your agency.</p>
         <p>At a minimum, it is recommended that you keep a copy of your documentation AND provide a copy to all others involved in the procurement process, such as the AO and contracting officer.</p>
         <p>E202.7.1 Required Documentation - The responsible agency official must document in writing: The non-availability of ICT that fully conforms to the Standards, including a description of market research performed and which provisions cannot be met; and The basis for determining that the ICT to be procured best meets the Standards consistent with meeting agency business needs.</p>
     </li>
-    <li class="usa-process-list__item">
+    <li id="step-5" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Follow agency-specific policies and procedures</h3>
         <p>While all agencies are required to adhere to Section 508, procedures may differ from one agency to another.</p>
         <p>As part of your role in the purchasing process, it is your responsibility to be aware of any agency-specific policies and procedures related to ICT micro-purchases and Section 508. If you are unsure of any agency-specific policies and procedures, check with your agency's Office of the Chief Information Officer (OCIO), procurement officer, and <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a>.</p>
     </li>
-    <li class="usa-process-list__item">
+    <li id="step-6" class="usa-process-list__item">
         <h3 class="usa-process-list__heading">Purchase product or service</h3>
         <p>The final step in the process is to purchase your product or service. Once these steps are complete, you have documented that your agency considered applicable Section 508 requirements, conducted market research, and selected an ICT solution that conforms to applicable standards or best meets requirements when full conformance is unavailable.</p>
     </li>
@@ -307,6 +309,6 @@ To learn more, start with these core resources.
 <div>
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnote</h2>
   <ol>
-    <li id="fn1">Excerpted from <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>, Brian McNeilly, University of Washington, USA, Sina Bahram, Prime Access Consulting, Inc., USA.. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn1">Excerpted from <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>, Brian McNeilly, University of Washington, USA, Sina Bahram, Prime Access Consulting, Inc., USA. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
   </ol>
 </div>
