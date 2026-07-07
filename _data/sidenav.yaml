@@ -595,6 +595,8 @@ acquisition:
         url: 'buy/request-accessibility-information/'
       - name: Requiring Business Partners to Provide Accessible Documents
         url: buy/requiring-business-partners-provide-accessible-documents/
+      - name: Understanding ICT Micro-Purchases 
+        url: buy/understanding-ict-micro-purchases/
       - name: Understanding Vendor Claims in Accessibility Conformance Reports
         url: 'buy/understand-claims/'
       - name: 'Solicitation Review Tool (SRT)'
