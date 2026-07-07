@@ -114,7 +114,7 @@ As defined in <a href="https://www.acquisition.gov/far/2.101" target="_blank" cl
 In other words, when you buy ICT, and the "aggregate amount," or total cost, is under the micro-purchase threshold, the simplified micro-purchase requirements and processes apply, rather than the standard ICT procurement process.
 
 <div class="summary-box">
-<strong>Note:</strong>In most cases, a micro-purchase must not exceed the current FAR micro-purchase threshold. Thresholds may vary depending on the purchase type or statutory authority, so always confirm current thresholds and exceptions in <a href="https://www.acquisition.gov/far/2.101" target="_blank" class="usa-link--external">FAR 2.101</a> and <a href="https://www.acquisition.gov/far/part-13" target="_blank" class="usa-link--external">FAR Part 13</a>.
+<strong>Note: </strong>In most cases, a micro-purchase must not exceed the current FAR micro-purchase threshold. Thresholds may vary depending on the purchase type or statutory authority, so always confirm current thresholds and exceptions in <a href="https://www.acquisition.gov/far/2.101" target="_blank" class="usa-link--external">FAR 2.101</a> and <a href="https://www.acquisition.gov/far/part-13" target="_blank" class="usa-link--external">FAR Part 13</a>.
 </div>
 
 If your purchase is above the aggregate threshold, you must follow the standard ICT Procurement Process. For more information about this process, review the resource <a href="{{site.baseurl}}/buy/">Buy Accessible Products and Services</a>.
