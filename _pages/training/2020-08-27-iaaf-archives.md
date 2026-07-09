@@ -44,16 +44,16 @@ The 2025 Interagency Accessibility Forum (IAAF) was a two-day conference featuri
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board, with support from other federal agencies and ICT professionals.
 
 ### Presentations Materials
-* [GSA's Government-wide IT Accessibility Division - Yearly Activities Update (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-GSA-Yearly-Activities-Update.pptx)
-* [Project Management for the Section 508 Annual Assessment: A Structured Approach (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Enhancing-Your-Section-508-Assessment.pptx)
-* [Project Managing Accessibility Compliance: The Section 508 Assessment from a Project Management Perspective (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Project-Managing-Accessibility-Compliance.pptx)
-* [Enhancing Opportunities for Persons with Disabilities - Part 2 (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Voice-AI-for-Everyone.pptx)
-* [Digital Accessibility Acquisition Solutions (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Digital-Accessibility-Acquisition-Solutions.pptx)
-* [A Journey Through Global Accessibility Laws (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-A-Journey-Through-Global-Accessibility-Laws.pptx)
-* [Accessible Self Service Kiosks (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Accessible-Self-Service-Kiosks.pptx)
-* [From Risk to Roadmap: Tackling Accessibility Debt with the Technology Accessibility Playbook (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-From-Risk-to-Roadmap.pptx)
-* [Navigating Federal Acquisitions: Buying Accessible Tech (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-Navigating-Federal-Acquisitions.pptx)
-* [A New Look at ART & SRT (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/IAAF-2025-A-New-Look-at-ART-SRT.pptx)
+* [GSA's Government-wide IT Accessibility Division - Yearly Activities Update (PPTX)]({{site.baseurl}}/~assets/files/iaaf/2025/iaa-2025-gsa-yearly-activities-update.pptx)
+* [Project Management for the Section 508 Annual Assessment: A Structured Approach (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-enhancing-your-section-508-assessment.pptx)
+* [Project Managing Accessibility Compliance: The Section 508 Assessment from a Project Management Perspective (PPTX)]({{site.baseurl}}/~assets/files/iaaf/2025/iaaf-2025-project-managing-accessibility-compliance.pptx)
+* [Enhancing Opportunities for Persons with Disabilities - Part 2 (PPTX)]({{site.baseurl}}/~assets/files/iaaf/2025/iaaf-2025-voice-ai-for-everyone.pptx)
+* [Digital Accessibility Acquisition Solutions (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-digital-accessibility-acquisition-solutions.pptx)
+* [A Journey Through Global Accessibility Laws (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-a-journey-through-global-accessibility-laws.pptx)
+* [Accessible Self Service Kiosks (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-accessible-self-service-kiosks.pptx)
+* [From Risk to Roadmap: Tackling Accessibility Debt with the Technology Accessibility Playbook (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-from-risk-to-roadmap.pptx)
+* [Navigating Federal Acquisitions: Buying Accessible Tech (PPTX)]({{site.baseurl}}/~assets/files/iaaf/2025/iaaf-2025-navigating-federal-acquisitions.pptx)
+* [A New Look at ART & SRT (PPTX)]({{site.baseurl}}/assets/files/iaaf/2025/iaaf-2025-a-new-look-at-art-srt.pptx)
 
 For event details, visit: [2025 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2025/) and [2025 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2025/).
 

@@ -546,7 +546,7 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="general-exceptions">General exceptions</th>
-    <td><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.</td>
+    <td><a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.</td>
   </tr>
     <tr>
     <th scope="row" id="government-off-the-shelf">Government off-the-shelf (GOTS)</th>
@@ -1083,7 +1083,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="scope-attribute">Scope attribute</th>
-    <td>A method of identifying row and column headers for HTML tables. Consider using the <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.</td>
+    <td>A method of identifying row and column headers for HTML tables. Consider using the <a href="{{site.baseurl}}/develop/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.</td>
   </tr>
   <tr>
     <th scope="row" id="seo">Search Engine Optimization (SEO)</th>

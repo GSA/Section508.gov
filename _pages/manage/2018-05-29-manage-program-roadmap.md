@@ -85,10 +85,10 @@ format: HTML
 </p>
 <ul>
 <li dir="ltr">
-  Familiarize your agency with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. (Updated)
+  Familiarize your agency with the <a href="https://www.access-board.gov/ict/">Revised 508 Standards</a>. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a>&nbsp;- Work with your HR Office to identify user needs of people with disabilities in your organization.
+  <a href="https://www.access-board.gov/ict/#E203.2">Requirement E203.2</a>&nbsp;- Work with your HR Office to identify user needs of people with disabilities in your organization.
 </li>
 <li dir="ltr">
   Assess the maturity of your agency's Section 508 program, and take steps to improve accessibility of agency technology.
@@ -206,7 +206,7 @@ format: HTML
 </p>
 <ul>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: 
+  <a href="https://www.access-board.gov/ict/#E203.2">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: 
   <ul>
     <li dir="ltr">
       Users with visual, hearing, mobility or cognitive disabilities (including disabled veterans, employees, and constituents); and
@@ -274,7 +274,7 @@ format: HTML
 </p>
 <ul>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirements E202</a> - Revised criteria includes addressing new requirements when claiming exceptions. (Updated)<ul>
+  <a href="https://www.access-board.gov/ict/#E202-general-exceptions">Requirements E202</a> - Revised criteria includes addressing new requirements when claiming exceptions. (Updated)<ul>
     <li dir="ltr">
       Requirements E202.6.3, E202.7.2 - Address requirements for providing an alternative means, when needed, to support people with disabilities when claiming Undue Burden, Fundamental Alteration, and Best Meets exceptions.
     </li>
@@ -282,10 +282,10 @@ format: HTML
 </li>
 
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Identify user needs of people with disabilities. 
+  <a href="https://www.access-board.gov/ict/#E203.2">Requirement E203.2</a> - Identify user needs of people with disabilities. 
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Revised technical standards for web and non-web based electronic content (updated), including public facing electronic content and agency official communications<ul>
+  <a href="https://www.access-board.gov/ict/#E205-content">Requirement E205</a> - Revised technical standards for web and non-web based electronic content (updated), including public facing electronic content and agency official communications<ul>
     <li dir="ltr">
       Requirement E205.3 & E205.4 - Ensure categories of electronic content that is not public-facing are accessible. 
     </li>
@@ -293,16 +293,16 @@ format: HTML
 </li>
 
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E206-hardware">Requirement E206</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#401-general"> Chapter 4</a> - Hardware. (Updated)
+  <a href="https://www.access-board.gov/ict/#chapter-4-hardware"> Chapter 4</a> - Hardware. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E207-software">Requirement E207</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#501-general"> Chapter 5</a> - Ensure authoring tools support the creation of accessible content. 
+  <a href="https://www.access-board.gov/ict/#504-authoring-tools"> Chapter 5</a> - Ensure authoring tools support the creation of accessible content. 
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E208-documentation-Services">Requirement E208</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#601-general"> Chapter 6</a> - Support services & documentation. (Updated)
+  <a href="https://www.access-board.gov/ict/#E208-documentation-Services">Requirement E208</a> &<a href="https://www.access-board.gov/ict/#chapter-6-support-documentation-and-services"> Chapter 6</a> - Support services & documentation. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#301-general">Chapter 3 Functional Performance Criteria</a> (if Chapters 4 and 5 do not address one or more ICT functions). (Updated)
+  <a href="https://www.access-board.gov/ict/#301-general">Chapter 3 Functional Performance Criteria</a> (if Chapters 4 and 5 do not address one or more ICT functions). (Updated)
 </li>
 </ul>
 
@@ -380,13 +380,13 @@ format: HTML
   Ensure existing staff and contractors who are &ldquo;certified&rdquo; under the Federal CIO Council Accessibility Community of Practice's Trusted Tester Program update their certifications once program updates are complete.
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirement E202.2</a> - Review existing contracts to determine whether amendments are needed to clarify how the standards apply. 
+  <a href="https://www.access-board.gov/ict/#E202.2">Requirement E202.2</a> - Review existing contracts to determine whether amendments are needed to clarify how the standards apply. 
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirement E202.7</a> - When making award selection decisions, choose products and services that best meet all user needs, including users with disabilities. (Updated)
+  <a href="https://www.access-board.gov/ict/#E202.7">Requirement E202.7</a> - When making award selection decisions, choose products and services that best meet all user needs, including users with disabilities. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203</a> - When reviewing acquisition and development solutions, prioritize how to address all user needs, including users with disabilities. (E203.2)
+  <a href="https://www.access-board.gov/ict/#E203-functionality">Requirement E203</a> - When reviewing acquisition and development solutions, prioritize how to address all user needs, including users with disabilities. (E203.2)
 </li>
 <li dir="ltr">
   When procuring or developing ICT items, determine the applicability of the standards to each item. 
@@ -475,7 +475,7 @@ format: HTML
   Promote the Federal CIO Council's free training resources to help you create and test Microsoft Office and Adobe Acrobat documents for accessibility. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure Section 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. 
+  <a href="https://www.access-board.gov/ict/#E205-content">Requirement E205</a> - Ensure Section 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. 
 </li>
 </ul>
 

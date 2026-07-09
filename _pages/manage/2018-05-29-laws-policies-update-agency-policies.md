@@ -350,10 +350,10 @@ These best practices were developed by the U.S. Federal Government Revised 508 S
  [7]: #national
  [8]: #alternative
  [9]: #rehab
- [10]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality
+ [10]: https://www.access-board.gov/ict/#E203-functionality
  [11]: #main-content
- [12]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [13]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions
- [14]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E103-definitions
+ [12]: https://www.access-board.gov/ict/#E205-content
+ [13]: https://www.access-board.gov/ict/#E202-general-exceptions
+ [14]: https://www.access-board.gov/ict/#E103-definitions
  [15]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  

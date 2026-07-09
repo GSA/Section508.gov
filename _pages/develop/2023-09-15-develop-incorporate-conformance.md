@@ -56,7 +56,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <div id="Gather">
 <h2>Gather requirements: </h2>
 <ol>
-  <li>Include applicable Section 508 requirements in business requirements. Use the <a href="{{site.baseurl}}/art">Accessibility Requirements Tool (ART)</a> to generate applicable Section 508 requirements. </li>
+  <li>Include applicable Section 508 requirements in business requirements. Use the <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> to generate applicable Section 508 requirements. </li>
   <li>Embed accessibility requirements into the initial stages of the development process. </li>
   <li>Include people with disabilities in requirements gathering. If this is not possible, integrate accessibility requirements in user stories and personas during the requirements stage. </li>
 </ol>

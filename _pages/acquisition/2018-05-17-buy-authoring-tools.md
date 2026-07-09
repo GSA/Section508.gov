@@ -59,5 +59,5 @@ If your software lets you create or edit content, or save content in PDF format,
 Clear authoring guidelines are usually a good indication that those tools can produce accessible outputs. See these [Accessibility Testing resources][3] for examples.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#504-authoring-tools
+ [2]: https://www.access-board.gov/ict/#504-authoring-tools
  [3]: {{site.baseurl}}/test

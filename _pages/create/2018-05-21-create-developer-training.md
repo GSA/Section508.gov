@@ -62,10 +62,10 @@ More modern resources include:
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: {{site.baseurl}}/training/508-training
 [3]: http://www.accessibilityassociation.org/
-[4]: http://www.accessibilityassociation.org/cpacccertification
+[4]: https://www.accessibilityassociation.org/cpacc
 [5]: http://www.accessibilityassociation.org/wascertification
 [6]: https://www.accessibilityassociation.org/s/certification-prepare
-[9]: http://www.accessibilityassociation.org/certificationproviders
+[9]: https://www.accessibilityassociation.org/approved-training-preparation
 [10]: http://teachaccess.org/
 [11]: http://teachaccess.org/initiatives/tutorial/
 [12]: https://www.dhs.gov/publication/trusted-tester-resources

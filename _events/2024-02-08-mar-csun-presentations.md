@@ -12,7 +12,7 @@ created: 2024-02-08
 ---
 The CSUN Assistive Technology Conference, also known as the CSUN Conference, is the ultimate community experience and the premier forum on technology for all persons with disabilities. For over 38 years, California State University, Northridge's Center on Disabilities has sponsored the conference, providing a platform for researchers, practitioners, educators, exhibitors and more from around the world, to engage with each other and share knowledge, innovations and best practices to promote access for all.
 
-GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board will once again team up to present at the [CSUN Assistive Technology Conference](https://www.csun.edu/cod/conference/sessions/) in the following sessions:
+GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board will once again team up to present at the [CSUN Assistive Technology Conference](https://www.csun.edu/cod/conference/) in the following sessions:
 
 * March 19 at 10:20 AM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1823" target="_blank">FED Talk - Section 508 Activities Update by USAB & GSA</a>
 * March 20 at 10:20 AM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1712" target="_blank">Section 508 ICT Testing Baseline Portfolio</a>

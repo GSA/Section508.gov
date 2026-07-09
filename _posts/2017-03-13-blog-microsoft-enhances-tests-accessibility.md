@@ -29,5 +29,5 @@ Microsoft has stated that their vision is to create great products that are acce
 
 For more information regarding Microsoft’s role in testing for accessibility, see their recent blog post [Supporting enterprise and government customers with accessibility standards conformance testing for Microsoft products][2].  
 
- [1]: https://blogs.microsoft.com/firehose/2015/12/17/microsoft-leaders-reaffirm-commitment-to-accessibility/#sm.00001pz07mc8l1fcgs5he8uz422z7
+ [1]: https://blogs.microsoft.com/accessibility/reaffirming-our-commitment-to-accessibility/
  [2]: https://blogs.msdn.microsoft.com/accessibility/2017/02/20/supporting-enterprise-and-government-customers-with-accessibility-standards-conformance-testing-for-microsoft-products/

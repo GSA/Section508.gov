@@ -33,7 +33,7 @@ format: "HTML"
 </p>
 
 <p style="margin: 0in 0in 10pt 40px; font-family: verdana, arial, sans-serif; font-size: 14px; line-height: 1.42857; color: rgb(51, 51, 51);">
-  <i>People often don&rsquo;t understand the full consequences of inaccessibility in the workplace, educational institutions, and in daily living. In today&rsquo;s world, it&rsquo;s critical that information and communications are accessible, so they can be understood and used to the <a href="http://universaldesign.ie/What-is-Universal-Design/">greatest extent possible by all people, regardless of their age, size, ability or disability</a></i>
+  <i>People often don&rsquo;t understand the full consequences of inaccessibility in the workplace, educational institutions, and in daily living. In today&rsquo;s world, it&rsquo;s critical that information and communications are accessible, so they can be understood and used to the <a href="https://universaldesign.ie/about-universal-design" target="_blank" class="usa-link--external">greatest extent possible by all people, regardless of their age, size, ability or disability</a></i>
 </p>
 
 <p style="margin: 0in 0in 10pt 40px; font-family: verdana, arial, sans-serif; font-size: 14px; line-height: 1.42857; color: rgb(51, 51, 51);">

@@ -1,24 +1,27 @@
 ---
-sidenav: true
 layout: page
-permalink: manage/playbooks/exec-guide-accessibility/
-description: "Learn how federal executives can strengthen IT accessibility through leadership, governance, staffing, training, testing, procurement, and policy oversight."
+sidenav: true
 type: manage
-title: 'Executive Guide to Federal IT Accessibility'
-created: 2018-08-15
-updated: 2026-06-25
-redirect_from:
+title: Executive Guide to Federal IT Accessibility
+permalink: manage/playbooks/exec-guide-accessibility/
+description: Learn how federal executives can strengthen IT accessibility through leadership, governance, staffing, training, testing, procurement, and policy oversight.
+redirect_from: 
 - tools/playbooks/exec-guide-accessibility/
-topic: "Manage"
-sub-topic: "Roles & Responsibilities"
-audience:
-- "Agency Heads"
-- "Chief Information Officers (CIO)"
-- "Chief Acquisition Officers (CAO)"
-- "Manager & Supervisor"
-- "Section 508 Program Managers"
-resource-type: "Playbook"
-format: "HTML"
+audience: 
+- Agency Heads
+- Chief Acquisition Officers (CAO)
+- Chief Information Officers (CIO)
+- Manager & Supervisor
+- Section 508 Program Managers
+topic: 
+- Manage
+subtopic: 
+- Roles & Responsibilities
+resource-type: 
+- Playbook
+format: HTML
+created: 2018-08-15
+updated: 2026-07-09
 exclude-changelog: true
 ---
 
@@ -36,7 +39,7 @@ exclude-changelog: true
 * <a href="#legal-considerations">Legal Considerations</a>
 * <a href="#conclusion">Conclusion</a>
   
-The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="http://www.cdc.gov/media/releases/2018/p0816-disability.html" target="_blank" class="usa-link--external">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
+The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="https://archive.cdc.gov/#/details?url=https://www.cdc.gov/media/releases/2018/p0816-disability.html" target="_blank" class="usa-link--external">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
 
 Aside from the legal requirements, accessibility is good for business. Creating products and information that everyone can use drives innovation, provides a better customer experience, and improves employee engagement. Accessibility helps you reach more stakeholders and, ultimately, achieve your agency&rsquo;s mission.
 
@@ -120,9 +123,9 @@ Oversee submission of required to submit a Section 508 Assessment to OMB and Con
 
 Collaborate within and across agencies to accurately baseline your IT Accessibility/508 program and leverage existing best practices and resources.
 
-* Participate in the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
+{% comment %}* Participate in the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
   * Assign at least one agency representative to the ACOP (preferably a senior-level government manager).
-  * Assign representatives to each of the ACOP&rsquo;s subcommittees, and contribute to the development of tools, training and best practices to help agencies improve accessibility.
+  * Assign representatives to each of the ACOP&rsquo;s subcommittees, and contribute to the development of tools, training and best practices to help agencies improve accessibility.{% endcomment %}
 * Use standardized testing methodologies such as the Trusted Tester Process, and participate in the <a href="{{site.baseurl}}/test/trusted-tester">Interagency Trusted Tester Program</a>, to ensure conformance to the Revised 508 Standards.
 * Conduct an accessibility review of all IT-related acquisitions, policies and directives.
 

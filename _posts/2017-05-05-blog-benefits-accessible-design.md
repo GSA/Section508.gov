@@ -150,7 +150,7 @@ According to the World Bank, [approximately one billion people worldwide live wi
         <a href="https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct">https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct</a>
       </li>
       <li>
-        <a href="http://www.disabilitystatistics.org/reports/2014/English/HTML/report2014.cfm?fips=2000000&html_year=2014&subButton=Get+HTML#looking">http://www.disabilitystatistics.org/reports/2014/English/HTML/report2014.cfm?fips=2000000&html_year=2014&subButton=Get+HTML#looking</a>
+        <a href="https://www.disabilitystatistics.org/report/2014/US">https://www.disabilitystatistics.org/report/2014/US</a>
       </li>
       <li>
         <a href="http://www.interactiveaccessibility.com/benefits-accessibility">http://www.interactiveaccessibility.com/benefits-accessibility</a>

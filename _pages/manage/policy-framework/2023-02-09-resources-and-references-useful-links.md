@@ -1,20 +1,26 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/policy-framework/resources-and-references/useful-links/
-description: "Browse laws, policies, standards, tools, and related resources that support the IT Accessibility Policy Framework and agency policy review efforts."
 type: manage
-title: "IT Accessibility Policy Framework - Useful Links"
-created: December 09, 2023
-topic: "Policy"
-sub-topic: "Statute & Regulation"
-audience:
-- "Policy and Law Makers"
-- "Section 508 Program Managers"
-- "Federal Employees"
-- "Manager & Supervisor"
-resource-type: "Process & How-To"
-format: "HTML"
+title: IT Accessibility Policy Framework - Useful Links
+permalink: manage/policy-framework/resources-and-references/useful-links/
+description: Browse laws, policies, standards, tools, and related resources that support the IT Accessibility Policy Framework and agency policy review efforts.
+disclaimer: true
+audience: 
+- Federal Employees
+- Manager & Supervisor
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Policy
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Process & How-To
+format: HTML
+created: 2023-12-09
+updated: 2026-07-09
+exclude-changelog: true
 ---
 
 <h2 id="standards">
@@ -46,8 +52,7 @@ format: "HTML"
   Communities, Councils, and Teams
 </h3>
 <ul>
-    <li><a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/">ACOP homepage</a></li>
-    <li><a href="https://www.cio.gov/">Federal Chief Information Officer Council homepage</a></li>
+    <li><a href="https://www.councils.gov/cioc/" target="_blank" class="usa-link--external">Federal Chief Information Officer Council homepage</a></li>
     <li><a href="{{ site.baseurl }}/">Section508.gov</a></li>
 </ul>
 <h3 class="subheading">

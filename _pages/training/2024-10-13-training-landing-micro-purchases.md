@@ -90,9 +90,9 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * **Section 508 Standards**
   * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
+  * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+  * <a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+  * <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
 * **Laws and Regulations**
   * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
   * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a>

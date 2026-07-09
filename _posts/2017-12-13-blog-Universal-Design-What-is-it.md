@@ -59,13 +59,13 @@ To learn more about Universal Design and how executives and agencies can benefit
  [3]: https://www.w3.org/TR/WCAG20/
  [4]: https://disabilitycompendium.org/sites/default/files/user-uploads/2016_AnnualReport.pdf
  [5]: http://universaldesign.ie/What-is-Universal-Design/
- [6]: http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/7-Principals-.pdf
- [7]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p1
- [8]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p2
- [9]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p3
- [10]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p4
- [11]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p5
- [12]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p6
- [13]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p7
+ [6]: https://universaldesign.ie/about-universal-design/the-7-principles
+ [7]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-1-equitable-use
+ [8]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-2-flexibility-in-use
+ [9]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-3-simple-and-intuitive-use
+ [10]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-4-perceptible-information
+ [11]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-5-tolerance-for-error
+ [12]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-6-low-physical-effort
+ [13]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-7-size-and-space-for-approach-and-use
  [14]: https://www.w3.org/WAI/intro/wcag
  [15]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me

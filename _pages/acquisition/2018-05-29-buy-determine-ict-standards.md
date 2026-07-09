@@ -205,7 +205,7 @@ Contact your agency’s [Section 508 Coordinator][9] or email us at <section.508
 [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions
 [3]: https://www.section508.gov/~assets/files/508-standards-applicability-checklist.docx
 [4]: {{site.baseurl}}/buy/determine-ict-exceptions
-[5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
+[5]: https://www.access-board.gov/ict/#E205-content
 [6]: {{site.baseurl}}/buy/inventory-your-ict
 [7]: {{site.baseurl}}/buy/determine-ict-exceptions
 [8]: {{site.baseurl}}/art/
