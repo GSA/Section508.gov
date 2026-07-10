@@ -16,6 +16,8 @@ manage:
         url: manage/governance/section-508-into-asset-management-and-grc-tools/
       - name: Integrating Section 508 into Capital Planning and Investment Control
         url: manage/governance/integrating-section-508-into-cpic/
+      - name: Integrating Section 508 into Policy Review
+        url: manage/governance/integrating-section-508-into-policy-review/
       - name: Section 508 Considerations for Enterprise Architecture Integration
         url: manage/governance/integrating-section-508-into-enterprise-architecture/
       - name: Integrating Section 508 in FITARA
