@@ -21,7 +21,7 @@ resource-type:
 - Playbook
 format: HTML
 created: 2018-08-15
-updated: 2026-07-09
+updated: 2026-07-10
 exclude-changelog: true
 ---
 
@@ -73,7 +73,7 @@ Establish a policy that identifies how your agency will manage accessibility com
 
 #### Sample Accessibility Statements and Website Policies
 
-* <a href="https://www.ssa.gov/accessibility/508_overview.html" target="_blank" class="usa-link--external">Accessibility Support</a> - SSA
+* <a href="https://www.ssa.gov/accessibility/" target="_blank" class="usa-link--external">Accessibility Support</a> - SSA
 * <a href="https://www.dhs.gov/accessibility" target="_blank" class="usa-link--external">Accessibility</a> - DHS
 * <a href="https://www.va.gov/accessibility-at-va/" target="_blank" class="usa-link--external">Accessibility at VA</a> - VA
 * <a href="https://www.usa.gov/accessibility-policy" target="_blank" class="usa-link--external">Accessibility Policy</a> - USA.gov
@@ -177,7 +177,7 @@ IT Accessibility is a team effort that requires strong support from agency leade
 
  [1]: {{site.baseurl}}/blog/benefits-accessible-design
  [2]: https://www.deque.com/accessible-design
- [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
+ [3]: https://www.access-board.gov/about/law/ra.html
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [5]: {{ site.baseurl }}/
  [6]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro

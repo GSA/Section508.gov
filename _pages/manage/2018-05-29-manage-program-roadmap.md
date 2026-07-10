@@ -1,25 +1,29 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/program-roadmap/
-description: "Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities."
 type: manage
-title: 'Revised 508 Standards Roadmap'
-created: 2018-05-29
-updated: 2025-01-24
-redirect_from:
-- Refresh-Toolkit/
-- refresh-toolkit/
-topic: Manage
-sub-topic: Manage a Section 508 Program
-audience:
-- Section 508 Program Managers
+title: Revised 508 Standards Roadmap
+permalink: manage/program-roadmap/
+description: Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities.
+disclaimer: true
+redirect_from: 
+- Refresh-Toolkit/, refresh-toolkit/
+audience: 
 - Federal Employees
-- Manager & Supervisor
 - IT Program & Project Managers
+- Manager & Supervisor
 - Policy and Law Makers
-resource-type: Process & How-To
+- Section 508 Program Managers
+topic: 
+- Manage
+subtopic: 
+- Manage a Section 508 Program
+resource-type: 
+- Process & How-To
 format: HTML
+created: 2018-05-29
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 <p dir="ltr">
@@ -425,10 +429,10 @@ format: HTML
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/08/">Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/">Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/09/">Play 9: Integrate Accessibility Needs into Development Processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/">Play 9: Integrate Accessibility Needs into Development Processes</a>
 </li>
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Play 10: Conduct ICT accessibility testing</a>
@@ -489,7 +493,7 @@ format: HTML
 ### Technology Accessibility Playbook
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/09/">Play 9: Integrate Accessibility Needs into Development Processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/">Play 9: Integrate Accessibility Needs into Development Processes</a>
 </li>
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Play 10: Conduct ICT Accessibility Testing</a>

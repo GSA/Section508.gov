@@ -1,20 +1,28 @@
 ---
 layout: post
-permalink: blog/benefits-accessible-design/
+sidenav: true
 type: article
-title: 'Benefits of Accessible Design'
-description: According to the World Bank, <a href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <b>world's largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities.
+title: Benefits of Accessible Design
+permalink: blog/benefits-accessible-design/
+description: 'According to the World Bank, <a href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <b>world''s largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities.'
 tags: Design-and-Develop
-created: 1493993415
-topic: "Design"
-sub-topic: "Best Practices"
-audience:
-- "Members of the Public"
-- "Designers"
-- "Developers"
-- "Section 508 Program Managers"
-resource-type: "Blog"
-format: "HTML"
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Designers
+- Developers
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Design
+subtopic: 
+- Best Practices
+resource-type: 
+- Blog
+format: HTML
+created: 2017-05-05
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 According to the World Bank, [approximately one billion people worldwide live with a disability][1], making up the **world's largest minority.** Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
@@ -147,16 +155,13 @@ According to the World Bank, [approximately one billion people worldwide live wi
     </h2>    
     <ul style="overflow-wrap: break-word; word-wrap: break-word;">
       <li>
-        <a href="https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct">https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct</a>
+        <a href="https://www.eeoc.gov/laws/guidance/questions-answers-promoting-employment-individuals-disabilities-federal-workforce#conduct">https://www.eeoc.gov/laws/guidance/questions-answers-promoting-employment-individuals-disabilities-federal-workforce#conduct</a>
       </li>
       <li>
         <a href="https://www.disabilitystatistics.org/report/2014/US">https://www.disabilitystatistics.org/report/2014/US</a>
       </li>
       <li>
         <a href="http://www.interactiveaccessibility.com/benefits-accessibility">http://www.interactiveaccessibility.com/benefits-accessibility</a>
-      </li>
-      <li>
-        <a href="https://www.gsa.gov/portal/content/105254">https://www.gsa.gov/portal/content/105254</a>
       </li>
       <li>
         <a href="https://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff16.html">https://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff16.html</a>

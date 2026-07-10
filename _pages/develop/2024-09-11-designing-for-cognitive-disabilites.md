@@ -2,23 +2,29 @@
 layout: page
 sidenav: true
 type: develop
-title: "Designing Digital Content For Users With Cognitive Disabilities"
+title: Designing Digital Content For Users With Cognitive Disabilities
 permalink: design/digital-content-users-with-cognitive-disabilities/
-description: "According to the Centers for Disease Control and Prevention (CDC), “more than 28.7% of adults in the United States have a disability” and 13.9% of U.S."
-topic: "Design"
-sub-topic: "Best Practices"
-audience:
-- "Developers"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Designers"
-- "Content Creators"
-resource-type: "Article"
-format: "HTML"
+description: According to the Centers for Disease Control and Prevention (CDC), “more than 28.7% of adults in the United States have a disability” and 13.9% of U.S.
+disclaimer: true
+audience: 
+- Content Creators
+- Designers
+- Developers
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Design
+subtopic: 
+- Best Practices
+resource-type: 
+- Article
+format: HTML
 created: 2024-09-11
-updated: 
+updated: 2026-07-10
+exclude-changelog: true 
 ---
-According to the Centers for Disease Control and Prevention (CDC), <a href="https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html" target="_blank" class="usa-link--external">“more than 28.7% of adults in the United States have a disability”</a> and <a href="https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html" target="_blank" class="usa-link--external">13.9% of U.S. adults have a cognitive disability</a>. Cognitive disabilities encompass a broad range of conditions that affect cognitive functions such as memory, attention, perception, learning, problem solving, and comprehension. These disabilities can vary significantly in their impact and may include conditions like dyslexia, autism spectrum disorders, Attention Deficit Hyperactivity Disorder (ADHD), and intellectual disabilities. In today's digital age, ensuring digital content is accessible to all users, including those with cognitive disabilities, is paramount. Read below to explore best practices for designing and developing digital content, including but not limited to web content, electronic documents, mobile applications, and kiosks, that enhances usability and inclusivity for users with cognitive disabilities.
+
+According to the Centers for Disease Control and Prevention (CDC), <a href="https://www.cdc.gov/disability-and-health/articles-documents/disability-impacts-all-of-us-infographic.html" target="_blank" class="usa-link--external">“more than 28.7% of adults in the United States have a disability”</a> and <a href="https://www.cdc.gov/disability-and-health/articles-documents/disability-impacts-all-of-us-infographic.html" target="_blank" class="usa-link--external">13.9% of U.S. adults have a cognitive disability</a>. Cognitive disabilities encompass a broad range of conditions that affect cognitive functions such as memory, attention, perception, learning, problem solving, and comprehension. These disabilities can vary significantly in their impact and may include conditions like dyslexia, autism spectrum disorders, Attention Deficit Hyperactivity Disorder (ADHD), and intellectual disabilities. In today's digital age, ensuring digital content is accessible to all users, including those with cognitive disabilities, is paramount. Read below to explore best practices for designing and developing digital content, including but not limited to web content, electronic documents, mobile applications, and kiosks, that enhances usability and inclusivity for users with cognitive disabilities.
 
 ## Simplify Meaning and Navigation
 <ul>

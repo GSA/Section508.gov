@@ -1,27 +1,31 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/
-description: "Learn about the laws, policies, and regulations that require federal agencies to provide accessible information and communication technology for employees and the public."
 type: manage
-title: 'IT Accessibility Laws and Policies'
+title: IT Accessibility Laws and Policies
+permalink: manage/laws-and-policies/
+description: Learn about the laws, policies, and regulations that require federal agencies to provide accessible information and communication technology for employees and the public.
 contributors: usab
+redirect_from: 
+- summary-section508-standards/, section508-laws/
+audience: 
+- Chief Information Officers (CIO)
+- Federal Employees
+- IT Program & Project Managers
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Law
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Article
+format: HTML
 created: 2023-09-23
-updated: 2025-03-05
-redirect_from:
-- summary-section508-standards/
-- section508-laws/
-topic: "Law"
-sub-topic: "Statute & Regulation"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Chief Information Officers (CIO)"
-- "IT Program & Project Managers"
-- "Policy and Law Makers"
-resource-type: "Reference"
-format: "HTML"
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 This guide highlights laws, policies and other regulations requiring federal agencies ensure employees and members of the public with disabilities have access to information comparable to the access available to others. While individuals may benefit from an awareness of all related regulation, each of the guide's sections suggest where a particular audience may have a responsibility. 
 
 ## Section 508 of the Rehabilitation Act of 1973
@@ -66,7 +70,7 @@ It is important to understand Section 508 in the context of other laws related t
   <li><a href="http://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank" class="usa-link--external text-top">Section 501</a> - Prohibits federal employers from discriminating against qualified individuals with disabilities. It requires each federal agency to adopt the goal of having 12% of its workforce be people with disabilities and 2% of its workforce be people with targeted disabilities.</li>
   <li><a href="http://www.dol.gov/ofccp/regs/compliance/sec503.htm" target="_blank" class="usa-link--external text-top">Section 503</a> - Prohibits employment discrimination based on disability by federal contractors or subcontractors.</li>
   <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf" target="_blank" class="usa-link--external text-top">Section 504 (PDF)</a> - Prohibits federal agencies, programs, or activities from discriminating and requires reasonable accommodation for qualified individuals with disabilities.</li>
-  <li><a href="https://www.eeoc.gov/statutes/rehabilitation-act-1973#:~:text=Section%20501%20prohibits%20employment%20discrimination,and%20505%20follow%20these%20sections" target="_blank" class="usa-link--external text-top">Section 505</a> - Contains provisions governing remedies and attorneys' fees under Section 501.</li>
+  <li><a href="https://www.eeoc.gov/statutes/sections-501-and-505-rehabilitation-act-1973" target="_blank" class="usa-link--external text-top">Section 505</a> - Contains provisions governing remedies and attorneys' fees under Section 501.</li>
 </ul>
 
 Related laws include:

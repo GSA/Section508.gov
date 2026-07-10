@@ -1,22 +1,29 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/policy-framework/guidance-by-policy-type/information-technology-services/
-description: "Review policy guidance for information technology services to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates."
 type: manage
-title: "IT Accessibility Policy Framework - Information Technology Services"
-created: December 10, 2023
-topic: "Policy"
-sub-topic: "Statute & Regulation"
-audience:
-- "Policy and Law Makers"
-- "Section 508 Program Managers"
-- "IT Program & Project Managers"
-- "Manager & Supervisor"
-- "Federal Employees"
-resource-type: "Process & How-To"
-format: "HTML"
+title: IT Accessibility Policy Framework - Information Technology Services
+permalink: manage/policy-framework/guidance-by-policy-type/information-technology-services/
+description: Review policy guidance for information technology services to identify ICT accessibility gaps, recommended inclusions, and sample language for agency policy updates.
+disclaimer: true
+audience: 
+- Federal Employees
+- IT Program & Project Managers
+- Manager & Supervisor
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Policy
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Process & How-To
+format: HTML
+created: 2023-12-10
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 <h2 id="standards">
   Information Technology Services
 </h2>
@@ -70,7 +77,7 @@ The policy type Information Technology Services refers to policies that apply to
    <a class="hover-large" href="https://www.congress.gov/107/plaws/publ347/PLAW-107publ347.pdf"><sup>5</sup>E-Government Act of 2002, 44 U.S.C.§ 101 (2002).;</a><a class="hover-large" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf"><sup></sup> Executive Office of the President, Office of Management and Budget. (2016, July 28). Managing Information as a Strategic Resource (Circular A-130). </a>
   </li>
   <li>
-    <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2001-title40/html/USCODE-2001-title40-chap25-sec1401.htm"><sup>6</sup>Clinger Cohen Act of 1996, 40 U.S.C. § 1401 et seq. (1996).; </a><a class="hover-large" href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf"><sup></sup> Executive Office of the President, Office of Management and Budget. (2022, August). Preparation, Submission, and Execution of the Budget (Circular A-11). </a>
+    <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2001-title40/html/USCODE-2001-title40-chap25-sec1401.htm"><sup>6</sup>Clinger Cohen Act of 1996, 40 U.S.C. § 1401 et seq. (1996).; </a><a class="hover-large" href="https://www.whitehouse.gov/wp-content/uploads/2025/08/a11.pdf"><sup></sup> Executive Office of the President, Office of Management and Budget. (2022, August). Preparation, Submission, and Execution of the Budget (Circular A-11). </a>
   </li>
   <li>
     <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>7</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>

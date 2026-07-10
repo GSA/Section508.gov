@@ -19,7 +19,8 @@ format: "HTML"
 custom-script: 
 - accordion-management.js
 created: 2018-05-10
-updated: 2026-04-14
+updated: 2026-07-10
+exclude-changelog: true
 ---
 Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
@@ -103,4 +104,4 @@ The resources in this section were developed by Federal agencies, and shared her
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [9]: {{site.baseurl}}/create
  [10]: https://www.w3.org/WAI/train
- [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
+ [11]: https://www.microsoft.com/en-us/accessibility/
