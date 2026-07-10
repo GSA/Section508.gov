@@ -23,7 +23,6 @@ subtopic:
 - Manage a Section 508 Program
 resource-type: 
 - Article
-- Law and Policy
 format: HTML
 created: 2026-07-10
 updated: 
