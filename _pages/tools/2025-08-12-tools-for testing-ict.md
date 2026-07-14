@@ -2,25 +2,27 @@
 layout: page
 sidenav: true
 type: training
-title: 'Tools for Testing Information and Communications Technology'
-description: Find out more about testing tools, software, and guidance for running tests.
+title: Tools for Testing Information and Communications Technology
 permalink: tools/tools-for-testing-ict/
-redirect_from: 
-- test/web-software/ 
-- test/about-testing-tools/ #See archive 2018-05-22-test-about-testing-tools.md
+description: Find out more about testing tools, software, and guidance for running tests.
 disclaimer: true
-topic: "Testing"
-sub-topic: "Websites"
-audience:
-- "Developers"
-- "Section 508 Program Managers"
-- "Content Creators"
-- "Designers"
-- "Web Content Managers"
-resource-type: "Training"
-format: "HTML"
-created: 2025-08-12 
-updated: 2026-05-06
+redirect_from: 
+- test/web-software/, test/about-testing-tools/
+audience: 
+- Content Creators
+- Designers
+- Developers
+- Section 508 Program Managers
+- Web Content Managers
+topic: 
+- Testing
+subtopic: 
+- Websites
+resource-type: 
+- Training
+format: HTML
+created: 2025-08-12
+updated: 2026-07-10
 exclude-changelog: true
 ---
 
@@ -91,7 +93,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/)"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-13-thumb.jpg" alt="Accessible Name & Description Inspector (ANDI) Tool Overview" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-13-thumb.jpg" alt="Accessible Name & Description Inspector (ANDI) Tool Overview" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <h4><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">Accessible Name & Description Inspector (ANDI) Color Contrast</a></h4>

@@ -1,20 +1,23 @@
 ---
 layout: page
 sidenav: true
-permalink: create/electronic-signatures/
-description: "Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently."
 type: create
-title: 'Electronic Signatures'
-topic: "Create"
-sub-topic: "Other"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
+title: Electronic Signatures
+permalink: create/electronic-signatures/
+description: Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently.
+audience: 
+- Designers
+- Federal Employees
+- Members of the Public
+topic: 
+- Create
+subtopic: 
+- Electronic Signatures
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2019-12-12
-updated: 2025-08-21
+updated: 2026-07-10
 exclude-changelog: true
 ---
 
@@ -107,7 +110,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#forms">website forms</a> design, development, and testing.&nbsp;
+  Learn more about specific considerations for <a href="{{site.baseurl}}/develop/guide-accessible-web-design-development#forms">website forms</a> design, development, and testing.&nbsp;
 </p>
 
 <h2 dir="ltr" id="esig">
@@ -135,7 +138,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
+  Learn more about specific considerations for <a href="{{site.baseurl}}/develop/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
 </p>
 
  [1]: https://webaim.org/techniques/acrobat/forms

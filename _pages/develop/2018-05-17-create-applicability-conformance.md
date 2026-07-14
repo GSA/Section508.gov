@@ -2,20 +2,25 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Applicability & Conformance Requirements'
+title: Applicability & Conformance Requirements
 permalink: develop/applicability-conformance/
-redirect_from:
-- create/applicability-conformance/
 description: Understand the applicability and conformance standards of Section 508, including when the requirements apply and how to meet accessibility guidelines effectively.
-topic: "Develop"
-sub-topic: "Statute & Regulation"
-audience:
-- "Developers"
-- "Policy and Law Makers"
-- "Section 508 Program Managers"
-resource-type: "Article"
-format: "HTML"
+redirect_from: 
+- create/applicability-conformance/
+audience: 
+- Developers
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Develop
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Article
+format: HTML
 created: 2018-05-17
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 ## Applicability
@@ -52,20 +57,20 @@ In some situations, you can comply with the Revised 508 Standards by providing a
 
   * [Understanding WCAG 2.0 Conformance][17] - Guidance from the W3C
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E201-application
- [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
+ [1]: https://www.access-board.gov/ict/
+ [2]: https://www.access-board.gov/ict/#E201-application
+ [3]: https://www.access-board.gov/ict/#E205-content
  [4]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E204-functional-performance-criteria
+ [5]: https://www.access-board.gov/ict/#E204-functional-performance-criteria
  [6]: {{site.baseurl}}/test/web-software
- [7]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E205-content
- [8]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E206-hardware
- [9]: http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#501-general
- [10]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E207-software
- [11]: http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#504-authoring-tools
- [12]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E204-functional-performance-criteria
- [13]: http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#301-general
- [14]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#302-functional-performance-criteria
+ [7]: https://www.access-board.gov/ict/#E205-content
+ [8]: https://www.access-board.gov/ict/#E206-hardware
+ [9]: http://www.access-board.gov/ict/#501-general
+ [10]: https://www.access-board.gov/ict/#E207-software
+ [11]: http://www.access-board.gov/ict/#504-authoring-tools
+ [12]: https://www.access-board.gov/ict/#E204-functional-performance-criteria
+ [13]: http://www.access-board.gov/ict/#301-general
+ [14]: https://www.access-board.gov/ict/#302-functional-performance-criteria
  [15]: {{site.baseurl}}/manage/support-accessible-content
- [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E101-general
+ [16]: https://www.access-board.gov/ict/#E101-general
  [17]: http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html
