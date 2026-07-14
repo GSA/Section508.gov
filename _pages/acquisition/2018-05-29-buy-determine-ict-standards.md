@@ -16,6 +16,8 @@ sub-topic: Guidance
 resource-type: Process & How-To
 format: HTML
 created: 2018-05-29
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 To ensure that any technology your agency buys or builds will be accessible, you must determine which of the [Revised 508 Standards][1] apply to your Federal IT procurement and development project. (Note, this is the third and final step in [determining 508 standards and exceptions][2].)

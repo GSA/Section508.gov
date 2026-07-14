@@ -2,23 +2,27 @@
 layout: page
 sidenav: true
 type: training
-title: 'Interagency Accessibility Forum (IAAF) Archives'
+title: Interagency Accessibility Forum (IAAF) Archives
 permalink: iaaf/archives/
-description: "Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events."
+description: Browse archived Interagency Accessibility Forum (IAAF) materials, including agendas, presentations, recordings, and speaker information from past events.
 description-alt: Added presentations from the 2026 Interagency Accessibility Forum (IAAF).
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Content Creators"
-- "Developers"
-topic: "Events"
-sub-topic: "Guidance"
-resource-type: "Training"
-format: "HTML"
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Events
+subtopic: 
+- Guidance
+resource-type: 
+- Training
+format: HTML
 created: 2020-08-27
-updated: 2026-05-27
---- 
+updated: 2026-07-10
+exclude-changelog: true
+---
 
 ## 2026 Interagency Accessibility Forum
 The 2026 Interagency Accessibility Forum (IAAF), built on the theme <strong>Future-Ready Accessibility: Preparing Government for What’s Next</strong>, and held on Thursday, May 21 and Friday, May 22, 2026. The event offered limited in-person attendance at the GSA Headquarters building, along with virtual attendance for those unable to join us in-person. The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with the Federal Deposit Insurance Corporation (FDIC) and other federal agencies.

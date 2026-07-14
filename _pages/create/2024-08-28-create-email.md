@@ -20,10 +20,9 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2024-08-28
-updated: 2026-04-16
+updated: 2026-07-10
 exclude-changelog: true
 ---
-
 
 Learn how to create accessible email messages&mdash;including Microsoft Outlook documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 

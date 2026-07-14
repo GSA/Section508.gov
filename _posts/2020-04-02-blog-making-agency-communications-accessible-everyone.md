@@ -1,21 +1,29 @@
 ---
 layout: post
-permalink: blog/making-agency-communications-accessible-everyone/
+sidenav: true
 type: article
-title: 'Making Agency Communications Accessible to Everyone'
-created: 1585848520
-tags: Design-and-Develop
+title: Making Agency Communications Accessible to Everyone
+permalink: blog/making-agency-communications-accessible-everyone/
 description: During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
-topic: "Create"
-sub-topic: "Other"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Service & System Owners"
-- "IT Program & Project Managers"
-resource-type: "Blog"
-format: "HTML"
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Federal Employees
+- IT Program & Project Managers
+- Members of the Public
+- Section 508 Program Managers
+- Service & System Owners
+topic: 
+- Create
+subtopic: 
+- Other
+resource-type: 
+- Blog
+format: HTML
+created: 2020-04-02
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;

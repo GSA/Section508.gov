@@ -1,22 +1,29 @@
 ---
 layout: post
-permalink: blog/microsoft-enhances-tests-accessibility/
+sidenav: true
 type: article
-title: 'Microsoft Enhances Tests for Accessibility'
-date: March 17, 2017
-tags: Testing
-created: 1489414442
+title: Microsoft Enhances Tests for Accessibility
+permalink: blog/microsoft-enhances-tests-accessibility/
 description: Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers.
-topic: "Testing"
-sub-topic: "Other"
-audience:
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-- "Chief Information Officers (CIO)"
-resource-type: "Blog"
-format: "HTML"
+tags: Testing
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Chief Information Officers (CIO)
+- Content Creators
+- Developers
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Testing
+subtopic: 
+- Other
+resource-type: 
+- Blog
+format: HTML
+created: 2017-03-13
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 March 17, 2017 - Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers. In particular, they have focused on making trustworthy technology for all employees and customers while also equipping them with information that will help them understand and validate product accessibility.

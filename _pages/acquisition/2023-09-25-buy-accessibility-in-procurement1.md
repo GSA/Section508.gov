@@ -2,21 +2,26 @@
 layout: page
 sidenav: true
 type: acquisition
-title: 'Accessibility In Procurement I: Pre-Soliciation'
+title: "Accessibility In Procurement I: Pre-Soliciation"
 permalink: buy/accessibility-in-procurement-pre-solicitation-1/
-description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities. 
+description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities.
 contributors: proctor, gsatts
-audience:
-- "Buyers"
-- "Chief Acquisition Officers (CAO)"
-- "Executive Leadership (CXO)"
-- "Executive Leadership (CXO)"
-topic: "Buy"
-sub-topic: "Guidance"
-resource-type: "Process & How-To"
-format: "HTML"
+audience: 
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Executive Leadership (CXO)
+topic: 
+- Buy
+subtopic: 
+- Guidance
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2023-09-25
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 
 ## Purpose
 This guide focuses on Accessibility in procurement. Contracting Officers (COs)/Contract Specialists (CSs) play an integral role in the information and communication technology (ICT) lifecycle. Including them early on in the process will ensure optimal results in ensuring products are fully accessible. The procurement process is very dynamic and can be very overwhelming. 

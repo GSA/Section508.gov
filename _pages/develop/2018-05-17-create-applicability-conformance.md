@@ -2,20 +2,25 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Applicability & Conformance Requirements'
+title: Applicability & Conformance Requirements
 permalink: develop/applicability-conformance/
-redirect_from:
-- create/applicability-conformance/
 description: Understand the applicability and conformance standards of Section 508, including when the requirements apply and how to meet accessibility guidelines effectively.
-topic: "Develop"
-sub-topic: "Statute & Regulation"
-audience:
-- "Developers"
-- "Policy and Law Makers"
-- "Section 508 Program Managers"
-resource-type: "Article"
-format: "HTML"
+redirect_from: 
+- create/applicability-conformance/
+audience: 
+- Developers
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Develop
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Article
+format: HTML
 created: 2018-05-17
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 ## Applicability

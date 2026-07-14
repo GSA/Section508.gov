@@ -1,20 +1,23 @@
 ---
 layout: page
 sidenav: true
-permalink: create/electronic-signatures/
-description: "Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently."
 type: create
-title: 'Electronic Signatures'
-topic: "Create"
-sub-topic: "Other"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
+title: Electronic Signatures
+permalink: create/electronic-signatures/
+description: Learn how to make electronic signatures accessible in PDF forms, websites, web applications, and e-signature software so people with disabilities can use them independently.
+audience: 
+- Designers
+- Federal Employees
+- Members of the Public
+topic: 
+- Create
+subtopic: 
+- Electronic Signatures
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2019-12-12
-updated: 2025-08-21
+updated: 2026-07-10
 exclude-changelog: true
 ---
 

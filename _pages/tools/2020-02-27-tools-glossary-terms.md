@@ -1,29 +1,31 @@
 ---
-layout: page 
+layout: page
 sidenav: true
 type: training
-title: 'Glossary of Section 508 Terms'
+title: Glossary of Section 508 Terms
 permalink: tools/glossary/
-redirect_from:
+description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
+redirect_from: 
 - glossary/
 - content/glossary/
 - manage/section-508-assessment/definition-of-terms/
 - manage/section-508-assessment/2023/appendix-a-terms/
 - manage/section-508-assessment/2024/appendix-a-terms/
-description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
-topic: "Other"
-sub-topic: "Best Practices"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-- "Agency Heads"
-resource-type: "Tool"
-format: "HTML"
+audience: 
+- Federal Employees
+- Members of the Public
+topic: 
+- Tools
+subtopic: 
+- Other
+resource-type: 
+- Tool
+format: HTML
 created: 2020-02-27
-updated: 2026-06-02
+updated: 2026-07-10
 exclude-changelog: true
 ---
+
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
 <div class="glossary">

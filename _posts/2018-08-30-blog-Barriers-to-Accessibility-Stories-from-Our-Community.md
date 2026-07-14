@@ -1,19 +1,27 @@
 ---
 layout: post
-permalink: blog/Barriers-to-Accessibility-Stories-from-Our-Community/
+sidenav: true
 type: article
-title: 'Barriers to Accessibility: Stories from Our Community'
+title: "Barriers to Accessibility: Stories from Our Community"
+permalink: blog/Barriers-to-Accessibility-Stories-from-Our-Community/
 description: A first-hand account of the consequences of inaccessibility.
 tags: Policy-and-Management
-created: 1535656948
-topic: "Other"
-sub-topic: "Best Practices"
-audience:
-- "Members of the Public"
-- "Section 508 Program Managers"
-- "Federal Employees"
-resource-type: "Blog"
-format: "HTML"
+social_img: "assets/images/social-media-og-image.jpg"
+social_img_alt: "GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Other
+subtopic: 
+- Best Practices
+resource-type: 
+- Blog
+format: HTML
+created: 2018-08-30
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 <p style="font-family: verdana,arial,sans-serif;font-size: 14px;line-height: 1.42857143;color: #333333;margin-bottom:.0001pt; margin:0in 0in 10pt">

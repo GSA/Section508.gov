@@ -1,21 +1,29 @@
 ---
 layout: post
-permalink: blog/Universal-Design-What-is-it/
+sidenav: true
 type: article
-title: 'Universal Design: What is it?'
-created: 1513216986
-tags: Design-and-Develop
+title: "Universal Design: What is it?"
+permalink: blog/Universal-Design-What-is-it/
 description: Part one of a two-part series about Universal Design The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities.
-topic: Design
-sub-topic: Guidance
-audience:
-- Section 508 Program Managers
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Content Creators
 - Developers
 - Federal Employees
 - IT Program & Project Managers
-- Content Creators
-resource-type: Blog
+- Section 508 Program Managers
+topic: 
+- Design
+subtopic: 
+- Guidance
+resource-type: 
+- Blog
 format: HTML
+created: 2017-12-14
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 _Part one of a two-part series about Universal Design_

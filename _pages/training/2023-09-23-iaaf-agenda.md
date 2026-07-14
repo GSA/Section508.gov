@@ -7,21 +7,26 @@ permalink: iaaf/archives/agenda-2023/
 description: View the agenda for the 2023 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
 social_img: "assets/images/social-media-og-image-iaaf.jpg"
 social_img_alt: "IAAF: Interagency Accessibility Forum"
-redirect_from: iaaf/agenda-2023/
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Content Creators"
-- "Developers"
-topic: "Events"
-sub-topic: "Guidance"
-resource-type: "Training"
-format: "HTML"
+redirect_from: 
+- iaaf/agenda-2023/
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Events
+subtopic: 
+- Guidance
+resource-type: 
+- Training
+format: HTML
 created: 2023-09-23
-updated: 2025-05-06
+updated: 2026-07-10
 exclude-changelog: true
 ---
+
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 

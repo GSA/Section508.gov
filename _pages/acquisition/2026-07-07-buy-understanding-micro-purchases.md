@@ -24,6 +24,7 @@ resource-type:
 format: HTML
 created: 2026-07-07
 updated: 2026-07-10
+exclude-changelog: true
 ---
 Micro-purchases of information and communication technology (ICT) must still meet applicable Section 508 accessibility requirements, even when acquisition procedures are simplified.
 
