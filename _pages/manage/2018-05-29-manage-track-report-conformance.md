@@ -1,21 +1,26 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/track-report-conformance/
-description: "Drive incremental improvement by measuring and reporting 508 conformance issues."
 type: manage
-title: 'Track and Report Conformance'
-created: 2018-05-29
-topic: Manage
-sub-topic: Manage a Section 508 Program
-audience:
-- Section 508 Program Managers
-- Web Content Managers
-- IT Program & Project Managers
+title: Track and Report Conformance
+permalink: manage/track-report-conformance/
+description: Drive incremental improvement by measuring and reporting 508 conformance issues.
+audience: 
 - Chief Information Officers (CIO)
 - Developers
-resource-type: Article
+- IT Program & Project Managers
+- Section 508 Program Managers
+- Web Content Managers
+topic: 
+- Manage
+subtopic: 
+- Manage a Section 508 Program
+resource-type: 
+- Article
 format: HTML
+created: 2018-05-29
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 Drive incremental improvement by measuring and reporting 508 conformance issues.
@@ -67,8 +72,8 @@ Suggestions to address these challenges include:
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions
+ [1]: https://www.access-board.gov/ict/#E202-general-exceptions
  [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
+ [4]: https://www.access-board.gov/ict/#E205-content
  [5]: {{site.baseurl}}/manage/support-accessible-content

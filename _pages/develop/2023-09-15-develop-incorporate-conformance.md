@@ -2,21 +2,26 @@
 layout: page
 sidenav: true
 type: develop
-title: "Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes"
-description: Learn methods and tools to integrate accessibility conformance validation into development. Improve ICT products with inclusive, efficient practices.
+title: Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes
 permalink: develop/incorporating-accessibility-conformance/
-topic: "Develop"
-sub-topic: "Guidance"
-audience:
-- "Developers"
-- "IT Program & Project Managers"
-- "Service & System Owners"
-resource-type: "Process & How-To"
-format: "HTML"
+description: Learn methods and tools to integrate accessibility conformance validation into development. Improve ICT products with inclusive, efficient practices.
+disclaimer: true
+audience: 
+- Developers
+- IT Program & Project Managers
+- Service & System Owners
+topic: 
+- Develop
+subtopic: 
+- Guidance
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2023-09-15
-updated: 2026-06-22
+updated: 2026-07-10
 exclude-changelog: true
 ---
+
 
 The integration of accessibility conformance validation, or accessibility testing, throughout the development life cycle reduces testing burden and results in a more accessible Information and Communications Technology (ICT) product. Below are steps you can take to integrate methods and tools for accessibility conformance validation into your development life cycle. 
 
@@ -43,7 +48,6 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
   <li>Identify what types of accessibility testing should be performed (manual, automated, or hybrid) and when each methodology should be utilized. Use this to inform the overall Test Plan. See the <a href="https://www.hhs.gov/sites/default/files/ocio/eplc/EPLC%20Archive%20Documents/39-Test%20Plan/eplc_test_plan_practices_guide.pdf" class="usa-link--external" target="_blank">Department of Health and Human Services’ (HHS) Test Plan practices guide</a> for an overview of what to include in a test plan. Two examples of software test plans are the: 
     <ul>
       <li><a href="https://ussm.gsa.gov/assets/files/M3-Playbook-Test-Plan-Template.docx" class="usa-link--external" target="_blank">General Services Administration’s (GSA) Playbook Test Plan Template</a> and</li>
-      <li><a href="https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_Test_Plan_Template.doc" class="usa-link--external" target="_blank">Centers for Disease Control’s (CDC) Test Plan Template</a>.</li>
     </ul>
   </li>
   <li>Understand accessibility knowledge of staff; consider budgeting for training and tools.</li>
@@ -56,7 +60,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <div id="Gather">
 <h2>Gather requirements: </h2>
 <ol>
-  <li>Include applicable Section 508 requirements in business requirements. Use the <a href="{{site.baseurl}}/art">Accessibility Requirements Tool (ART)</a> to generate applicable Section 508 requirements. </li>
+  <li>Include applicable Section 508 requirements in business requirements. Use the <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> to generate applicable Section 508 requirements. </li>
   <li>Embed accessibility requirements into the initial stages of the development process. </li>
   <li>Include people with disabilities in requirements gathering. If this is not possible, integrate accessibility requirements in user stories and personas during the requirements stage. </li>
 </ol>

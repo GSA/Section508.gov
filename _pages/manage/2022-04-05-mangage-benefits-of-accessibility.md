@@ -1,22 +1,28 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/benefits-of-accessibility/
-description: "Learn about the benefits of digital accessibility and the risks of inaccessible content, including improved access, better user experience, reduced rework, and lower legal risk."
 type: manage
-title: 'Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content'
-created: April 5, 2022
-topic: Manage
-sub-topic: Guidance
-audience:
+title: "Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content"
+permalink: manage/benefits-of-accessibility/
+description: Learn about the benefits of digital accessibility and the risks of inaccessible content, including improved access, better user experience, reduced rework, and lower legal risk.
+audience: 
+- Content Creators
+- Developers
 - Federal Employees
 - IT Program & Project Managers
 - Section 508 Program Managers
-- Content Creators
-- Developers
-resource-type: Article
+topic: 
+- Manage
+subtopic: 
+- Guidance
+resource-type: 
+- Article
 format: HTML
+created: 2022-04-05
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 Digital accessibility is everyone's responsibility. When people create content, they must ensure that this content meets the <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a> of the Rehabilitation Act. This is particularly true for content creators within the federal government. Federal websites display content that is intended to be accessible by everyone in the public. Content that is not accessible excludes stakeholders and potentially those in most need of the information an organization is trying to provide. Below are non-exhaustive lists of the benefits of ensuring accessibility and the potential consequences of non-conformance.
 
 ## Benefits of Accessibility 
@@ -24,7 +30,7 @@ Digital accessibility is everyone's responsibility. When people create content, 
 Some benefits of accessibility include:
   * ***Overcome Barriers to Access:*** Accessible content lowers or overcomes the barriers to access for all users. A <a href="https://digital.gov/2017/05/09/benefits-of-accessible-design/" target="_blank" class="usa-link--external">study in the United Kingdom (UK)</a> found that 71% of web users with a disability will simply leave a website that is not accessible.
    
-  * ***Increased  Customer Base and Overall Customer Experience:*** As 1-in-4 adults in the United States live with a disability (<a href="https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html" target="_blank" class="usa-link--external">CDC</a>), ensuring your content is accessible allows users to more easily use your products and services and find information in general. This will likely increase the frequency and depth to which your information is used and will improve the experience of your customers while they use your products.
+  * ***Increased  Customer Base and Overall Customer Experience:*** As 1-in-4 adults in the United States live with a disability (<a href="https://www.cdc.gov/disability-and-health/articles-documents/disability-impacts-all-of-us-infographic.html" target="_blank" class="usa-link--external">CDC</a>), ensuring your content is accessible allows users to more easily use your products and services and find information in general. This will likely increase the frequency and depth to which your information is used and will improve the experience of your customers while they use your products.
   
   * ***Better Usability for Everyone (not just users with disabilities):*** Many improvements aimed at accommodating the needs of users with disabilities actually improve overall usability for many different types of users. 
    

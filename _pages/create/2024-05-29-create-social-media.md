@@ -3,25 +3,28 @@ layout: page
 sidenav: true
 type: create
 title: Social Media
-description: Learn best practices for creating accessible social media content. Ensure posts, images, and videos meet Section 508 standards.
 permalink: create/social-media/
-redirect_from:
-- social-media/
-disclaimer: true
+description: Learn best practices for creating accessible social media content. Ensure posts, images, and videos meet Section 508 standards.
 contributors: usab
-social_img: 
-hide-date: 
-topic: "Create"
-sub-topic: "Social Media"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
+disclaimer: true
+redirect_from: 
+- social-media/
+audience: 
+- Designers
+- Federal Employees
+- Members of the Public
+topic: 
+- Create
+subtopic: 
+- Social Media
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2024-05-29
-updated: 2026-03-31
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 Accessible social media content is crucial for fostering inclusivity and ensuring equal participation for all individuals, regardless of ability. By implementing accessibility features such as alt text for images and closed captions for videos, creators can make their content more accessible to people with disabilities.
 
 For federal communicators specifically, [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) requires any information and communication technology (ICT) created by the federal government be accessible to people with disabilities. This includes content federal agencies and departments upload or post to social media.
@@ -147,5 +150,4 @@ Below is the social media policy for other platforms not currently used by the U
 ## Other Resources
 * <a href="https://www.plainlanguage.gov/" target="_blank" class="usa-link--external">PlainLanguage.gov</a> contains many guides, examples, and trainings on plain language composition.
 * <a href="https://digital.gov/topics/accessibility/" target="_blank" class="usa-link--external">Digital.gov</a> houses various resources, articles, and blog posts on digital accessibility topics.
-* <a href="https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/" target="_blank" class="usa-link--external">Federal Social Media Accessibility Toolkit Hackpad</a>
 * <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).

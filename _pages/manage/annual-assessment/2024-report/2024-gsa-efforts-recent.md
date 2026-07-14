@@ -1,22 +1,28 @@
 ---
 layout: page
 sidenav: true
+type: acquisition
+title: Recent GSA Efforts to Support Section 508 Compliance
 permalink: manage/section-508-assessment/2024/gsa-efforts-recent/
-type: report2024
-title: "Recent GSA Efforts to Support Section 508 Compliance"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, details recent GSA actions and support efforts to improve Section 508 compliance.
-topic: Law
-sub-topic: Annual Assessment
-audience:
-- Section 508 Program Managers
+audience: 
 - Agency Heads
+- Federal Employees
 - Members of the Public
 - Policy and Law Makers
-- Federal Employees
-resource-type: White Paper
+- Section 508 Program Managers
+topic: 
+- Law
+subtopic: 
+- Annual Assessment
+resource-type: 
+- White Paper
 format: HTML
 created: 2024-12-20
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 The following describes GSA's efforts to help entities collect and submit their Assessment data and related efforts to improve federal digital accessibility from December 29, 2023, to December 29, 2024.
 
 ## Governmentwide Assessment-Related Actions
@@ -94,7 +100,7 @@ In the beginning of FY 2025, GSA created a list of key performance indicators (K
 
 * In consultation with the Access Board, GSA explored options for establishing a standardized accessibility conformance reporting (ACR) process for government procurement of ICT, including a central repository of vendor accessibility conformance reports.
 
-  * In coordination with the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Federal Chief Information Officers Council (CIOC) Accessibility Community of Practice (ACOP)</a> leadership, the Access Board and GSA led the creation of "Basic Accessibility Conformance Report (ACR) Evaluation and User Guidance" to assist federal agencies and improve Section 508 implementation procedures for the procurement of ICT. This guidance presents a framework on how to obtain and evaluate ACRs. Following the completion of the guidance, they conducted multiple briefings to key stakeholder federal councils, including the CIO Council.
+  * In coordination with the <a href="https://www.councils.gov/cioc/" target="_blank" class="usa-link--external">Federal Chief Information Officers Council (CIOC) Accessibility Community of Practice (ACOP)</a> leadership, the Access Board and GSA led the creation of "Basic Accessibility Conformance Report (ACR) Evaluation and User Guidance" to assist federal agencies and improve Section 508 implementation procedures for the procurement of ICT. This guidance presents a framework on how to obtain and evaluate ACRs. Following the completion of the guidance, they conducted multiple briefings to key stakeholder federal councils, including the CIO Council.
 
 * During FY 2024 and moving forward into FY 2025, GSA has advised the Federal Acquisition Service (FAS) to help agencies acquire products and services related to the accessibility of ICT. FAS, with the support of GSA, has also explored solutions that enable Digital Accessibility as a Service, such as consulting, testing, training, and remediation. This would allow for smaller agencies to access accessibility tools and services through a newly established accessibility services purchasing schedule.
 

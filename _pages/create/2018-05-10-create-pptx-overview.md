@@ -4,10 +4,10 @@ sidenav: true
 type: create
 title: Accessible Presentations
 permalink: create/presentations/
-redirect_from: 
-- create/presentations/authoring-guides/
 description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 description-alt: Added the MS PowerPoint 365 Authoring and Testing Guide (PDF).
+redirect_from: 
+- create/presentations/authoring-guides/
 audience: 
 - Content Creators
 - Designers
@@ -20,11 +20,12 @@ subtopic:
 - Documents
 resource-type: 
 - Process & How-To
-format: "HTML"
+format: HTML
 custom-script: 
 - accordion-management.js
 created: 2018-05-10
-updated: 2026-04-16
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 Learn how to create accessible presentation&mdash;including Microsoft PowerPoint documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
@@ -136,7 +137,7 @@ The resources in this section were developed by federal agencies and shared here
  [8]: {{site.baseurl}}/create
  [9]: https://www.w3.org/WAI/training/accessible.php
  [10]: https://www.w3.org/WAI/tutorials/images/decision-tree/
- [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
+ [11]: https://www.microsoft.com/en-us/accessibility/
  [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [13]: https://webaim.org/techniques/alttext/
  [14]: https://www.access-board.gov/ict/

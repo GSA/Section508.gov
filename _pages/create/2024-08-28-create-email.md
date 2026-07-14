@@ -20,9 +20,9 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2024-08-28
-updated: 2026-04-16
+updated: 2026-07-10
+exclude-changelog: true
 ---
-
 
 Learn how to create accessible email messages&mdash;including Microsoft Outlook documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
@@ -165,8 +165,8 @@ Hyperlinks should tell people what action to take, where to go next, or what inf
 
 #### Link and Hypertext Resources
 * [Accessibility Bytes No. 4: Descriptive Links and Hypertext]({{site.baseurl}}/blog/accessibility-bytes/descriptive-links-and-hypertext/)
-* <a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#text-equiv-all" target="_blank" class="usa-link--external">1.1.1 Non-text Content</a>
-* <a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=14%2C128&currentsidebar=%23col_overview#navigation-mechanisms-refs" target="_blank" class="usa-link--external">2.4.4 Link Purpose (In Context)</a>
+* <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0#non-text-content" target="_blank" class="usa-link--external">1.1.1 Non-text Content</a>
+* <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0#link-purpose-in-context" target="_blank" class="usa-link--external">2.4.4 Link Purpose (In Context)</a>
 
 ### Step 6: Use Proper Text Formatting and Styles
 When creating emails, use approved agency fonts—not background images or stationery—and heading levels to break up sections of text.

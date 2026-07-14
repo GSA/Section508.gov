@@ -2,18 +2,23 @@
 layout: page
 sidenav: true
 type: create
-title: 'Accessibility Training for Developers'
+title: Accessibility Training for Developers
 permalink: create/developer-training/
 description: Find Section 508 developer training resources, courses, certifications, and tools to improve accessibility skills and build digital tools compliant with accessibility standards.
-topic: "Create"
-sub-topic: "Training"
-audience:
-- "Developers"
-- "Content Creators"
-- "Section 508 Program Managers"
-resource-type: "Training"
-format: "HTML"
+audience: 
+- Content Creators
+- Developers
+- Section 508 Program Managers
+topic: 
+- Training
+subtopic: 
+- Training
+resource-type: 
+- Training
+format: HTML
 created: 2018-05-21
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 From general training to certification programs, there are many training options to help you improve your accessibility skills. Learn how to build digital tools that conform to the  [Revised 508 Standards][1].
@@ -62,10 +67,10 @@ More modern resources include:
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: {{site.baseurl}}/training/508-training
 [3]: http://www.accessibilityassociation.org/
-[4]: http://www.accessibilityassociation.org/cpacccertification
+[4]: https://www.accessibilityassociation.org/cpacc
 [5]: http://www.accessibilityassociation.org/wascertification
 [6]: https://www.accessibilityassociation.org/s/certification-prepare
-[9]: http://www.accessibilityassociation.org/certificationproviders
+[9]: https://www.accessibilityassociation.org/approved-training-preparation
 [10]: http://teachaccess.org/
 [11]: http://teachaccess.org/initiatives/tutorial/
 [12]: https://www.dhs.gov/publication/trusted-tester-resources

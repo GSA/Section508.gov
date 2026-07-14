@@ -5,21 +5,24 @@ type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 permalink: iaaf/archives/agenda-2022/
 description: View the agenda for the 2022 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
-social_img: "assets/images/social-media-og-image-iaaf.jpg"
-social_img_alt: "IAAF: Interagency Accessibility Forum"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Content Creators"
-- "Developers"
-topic: "Events"
-sub-topic: "Guidance"
-resource-type: "Training"
-format: "HTML"
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Events
+subtopic: 
+- Guidance
+resource-type: 
+- Training
+format: HTML
 created: 2020-09-24
-updated: 2025-05-06
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
@@ -178,7 +181,7 @@ updated: 2025-05-06
 <li><strong><a href='https://www.accessibilityoz.com/products/ozart/'>AccessibilityOz</a></strong>: AccessibilityOz ART is an innovative accessibility reporting tool that makes it easy to comprehensively report on and maximize your site or app's accessibility. For more information, contact: <a href='mailto:gian@accessibilityoz.com'>Gian Wild </a>.</li>
 <li><strong><a href='https://www.Allyant.com'>Allyant (CommonLook)</a></strong> (Find in GSA Schedule GS-35F-0161V): We offer many accessibility services and software solutions, spanning print and digital document remediation services, document remediation software, and digital accessibility auditing. For more information, contact: <a href='mailto:dsullivan@allyant.com'>Daniel Sullivan </a>.</li>
 <li><strong><a href='https://www.AudioDescribe.com'>Audio Description Associates, LLC</a></strong> (Find in GSA Schedule GS-10F-0490X): Audio description: production, training, consultation. If captioning is also required, we provide captioning through a subcontract with VITAC. For more information, contact: <a href='mailto:jsnyder@audiodescribe.com'>Joel Snyder </a>.</li>
-<li><strong><a href='https://www.e-508.com'>e-GovMarket, LLC</a></strong>: e-508 provides instant pricing, tracking and payment for document accessibility remediation. Users can search for prices from a marketplace of small firms, establish BPAs, and select standards. For more information, contact: <a href='mailto:tturner@e-govmarket.com'>Tracye Turner </a>.</li>
+<li><strong>e-GovMarket, LLC</strong>: e-508 provides instant pricing, tracking and payment for document accessibility remediation. Users can search for prices from a marketplace of small firms, establish BPAs, and select standards. For more information, contact: <a href='mailto:tturner@e-govmarket.com'>Tracye Turner </a>.</li>
 <li><strong><a href='https://equidox.co/'>Equidox Software Company</a></strong>: Equidox enables PDF accessibility through intelligent, automated solutions. Our software integrates automation to make remediation 90% faster for novice or pro users. Usable on-prem or cloud-based. For more information, contact: <a href='mailto:nina@onixnet.com'>Nina Overdorff </a>.</li>
 <li><strong><a href='https://speechtotextcaptioning.org/'>Global Alliance of Speech-to-Text Captioning</a></strong>: Join us at the Global Alliance of Speech-to-Text Captioning! You will learn about different captioning methods and what to look for when procuring captioning services. We are a 501(c)(6) nonprofit. For more information, contact: <a href='mailto:info@speechtotextcaptioning.org'>Jennifer Schuck </a>.</li>
 <li><strong><a href='https://iaccessible.com/'>iAccessible</a></strong>: At iAccessible, we perform automated testing and streamlined manual testing based on statistical sampling techniques to get the best accessibility conformance results. For more information, contact: <a href='mailto:lvelarde@optimalsolutionsgroup.com'>Luis Velarde</a>.</li>

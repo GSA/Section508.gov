@@ -2,19 +2,24 @@
 layout: page
 sidenav: true
 type: manage
-title: " IT Accessibility Program Management"
+title: IT Accessibility Program Management
 permalink: manage/program-management/
 description: Explore Section 508 program management guidance, best practices, and roles to help federal teams plan, implement, and sustain effective accessibility compliance.
-topic: "Manage"
-sub-topic: "Manage a Section 508 Program"
-audience:
-- "Section 508 Program Managers"
-- "Manager & Supervisor"
-- "IT Program & Project Managers"
-- "Service & System Owners"
-resource-type: "Process & How-To"
-format: "HTML"
+audience: 
+- IT Program & Project Managers
+- Manager & Supervisor
+- Section 508 Program Managers
+- Service & System Owners
+topic: 
+- Manage
+subtopic: 
+- Manage a Section 508 Program
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2018-05-28
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 Learn how to manage a federal IT Accessibility Program, help your agency comply with Section 508 of the Rehabilitation Act, and use technology that conforms to the [Revised 508 Standards][1].
@@ -44,26 +49,6 @@ Federal agencies are required to follow Section 508 and related laws and policie
 
 - [IT Accessibility Laws and Policies][8] - Learn about the legal requirements for IT accessibility.
 - [Monitor and Report Progress][9] - Learn how to prepare and submit required reports.
-- Review the Digital Dashboard Accessibility Module to discover possible conformance issues on agency website homepages.
-  <ol >
-        <li>
-            Log in to <a href="http://DigitalDashboard.gov">DigitalDashboard.gov</a> using your <a href="https://portal.max.gov/portal/home">MAX.gov</a> account
-        </li>
-        <li>
-          Select the Accessibility module, and review the data for your agency 
-      <ol style="list-style-type:lower-alpha">
-        <li>
-            Note that agency sites are scanned on a bi-weekly basis, so it may take a couple of weeks for issues to resolve on the Dashboard
-        </li>
-      </ol>
-      </li>
-
-      <li>
-        First-time Dashboard users will need to submit a one-time access request to gain access to your agency data. Request access by emailing <a href="mailto:dotgovdashboard@gsa.gov">dotgovdashboard@gsa.gov</a>.
-      </li>
-    </ol>
-
-- [How to Improve Digital Dashboard Accessibility Scores][10] - Guidance on how to improve your agency's Digital Dashboard Accessibility module website scores.&nbsp;
 - [The Solicitation Review Tool (SRT)][11] - Evaluate and improve your agency's overall solicitation compliance with respect to accessibility.
 
 ## Overview
@@ -80,7 +65,6 @@ Federal agencies are required to follow Section 508 and related laws and policie
 [7]: {{site.baseurl}}/manage/support-accessible-content
 [8]: {{site.baseurl}}/manage/laws-and-policies
 [9]: {{site.baseurl}}/manage/reporting
-[10]: {{site.baseurl}}/manage/improve-digital-dashboard-scores
 [11]: {{site.baseurl}}/buy/solicitation-review-tool
 [12]: {{site.baseurl}}/manage/program-roadmap
 [13]: {{site.baseurl}}/manage/laws-and-policies/quick-reference-guide

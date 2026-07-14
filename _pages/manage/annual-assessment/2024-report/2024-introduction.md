@@ -1,22 +1,29 @@
 ---
 layout: page
 sidenav: true
+type: acquisition
+title: Introduction
 permalink: manage/section-508-assessment/2024/introduction/
-type: report2024
-title: "Introduction"
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, introduces the assessment scope, purpose, and reporting requirements.
-topic: "Law"
-sub-topic: "Annual Assessment"
-audience:
-- "Section 508 Program Managers"
-- "Agency Heads"
-- "Members of the Public"
-- "Policy and Law Makers"
-- "Federal Employees"
-resource-type: "White Paper"
-format: "HTML"
+disclaimer: true
+audience: 
+- Agency Heads
+- Federal Employees
+- Members of the Public
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Law
+subtopic: 
+- Annual Assessment
+resource-type: 
+- White Paper
+format: HTML
 created: 2024-12-20
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 ## Purpose
 Now entering its second year, the purpose of this Assessment remains twofold:
 
@@ -42,7 +49,7 @@ This Assessment uses the term "reporting entity" as the unit of data collection,
 
 The makeup of all [245 reporting entities]({{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-reporting-entities/) consists of:
 
-* 24 <a href="https://www.cio.gov/handbook/it-laws/cfo-act/" target="_blank" class="usa-link--external">Chief Financial Officers (CFO) Act Agencies</a>, comprised of:
+* 24 <a href="https://www.councils.gov/docs/CIO_Handbook.pdf#page=70" target="_blank" class="usa-link--external">Chief Financial Officers (CFO) Act Agencies</a>, comprised of:
 
   * 24 "parent" agencies
 

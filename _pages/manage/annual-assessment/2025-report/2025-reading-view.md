@@ -1,24 +1,29 @@
 ---
 layout: page
 sidenav: false
-type: report2025
-title: "FY 2025 Section 508 Assessment Report&mdash;Reading View"
+type: acquisition
+title: FY 2025 Section 508 Assessment Report&mdash;Reading View
 permalink: manage/section-508-assessment/2025/reading/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared and submitted by the General Services Administration to Congress in coordination with OMB and the U.S. Access Board, presents federal ICT accessibility findings, highlights agency implementation and conformance, and outlines strategic opportunities to enhance digital accessibility and IT modernization. The report is presented here in a single-page format for ease of reading and printing.
-topic: "Law"
-sub-topic: "Annual Assessment"
-audience:
-- "Section 508 Program Managers"
-- "Agency Heads"
-- "Members of the Public"
-- "Policy and Law Makers"
-- "Federal Employees"
-resource-type: "White Paper"
-format: "HTML"
+disclaimer: true
+audience: 
+- Agency Heads
+- Federal Employees
+- Members of the Public
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Law
+subtopic: 
+- Annual Assessment
+resource-type: 
+- White Paper
+format: HTML
 created: 2026-03-02
-updated: 
+updated: 2026-07-10
 exclude-changelog: true
 ---
+
 <style>
 @media print {
   /* Hide just this page's heading and subtitle */
@@ -264,7 +269,7 @@ exclude-changelog: true
 <h2 id="introduction-background">Introduction & Background</h2>
 <p>Now in its third year, the Governmentwide Section 508 Assessment evaluates how well federal agencies provide accessible and usable information and communication technology (ICT) consistent with Section 508 requirements.</p>
 <p>The FY 2025 assessment examines how federal agencies' Section 508 implementation and ICT accessibility outcomes are evolving and identifies governmentwide challenges and opportunities. Given significant changes to assessment criteria and the broader federal environment, FY 2025 establishes a new baseline for measuring accessibility outcomes across government, and the findings highlight how governance models, resource allocation, and implementation affect ICT accessibility.</p>
-<p>This assessment applies to federal agencies subject Section 508, relying on <a href="https://www.whitehouse.gov/wp-content/uploads/2025/08/a11.pdf#page=715" target="_blank" class="usa-link--external">OMB Circular A-11 Appendix C</a> for definition of “agencies” and “components.” For FY 2025, GSA analyzed submissions from 212 agencies, parent agencies, and components, including 21 <a href="https://www.cio.gov/handbook/it-laws/cfo-act/" target="_blank" class="usa-link--external">Chief Financial Officers (CFO) Act agencies</a>, 152 components from 12 CFO Act agencies, and 39 small and independent agencies. Throughout this report, “agency” refers to agency-level or parent agency submissions, while “component” refers to subordinate organizational units that submitted component-level data.</p>
+<p>This assessment applies to federal agencies subject Section 508, relying on <a href="https://www.whitehouse.gov/wp-content/uploads/2025/08/a11.pdf#page=715" target="_blank" class="usa-link--external">OMB Circular A-11 Appendix C</a> for definition of “agencies” and “components.” For FY 2025, GSA analyzed submissions from 212 agencies, parent agencies, and components, including 21 <a href="https://www.councils.gov/docs/CIO_Handbook.pdf#page=70" target="_blank" class="usa-link--external">Chief Financial Officers (CFO) Act agencies</a>, 152 components from 12 CFO Act agencies, and 39 small and independent agencies. Throughout this report, “agency” refers to agency-level or parent agency submissions, while “component” refers to subordinate organizational units that submitted component-level data.</p>
 <p>In coordination with GSA and the U.S. Access Board, OMB streamlined the FY 2025 assessment criteria to focus on high-impact accessibility outcomes while reducing reporting burden. The criteria centered on four areas:</p>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
