@@ -49,7 +49,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
 <p>Headings organize content for screen reader users and improve readability.</p> 
 <p>Use headings in a logical hierarchy:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -93,7 +93,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
 </ul>
 
 <p>Do not:</p>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -151,7 +151,7 @@ For example, this heading structure is accessible:</p>
 <p>Descriptive links improve navigation for screen reader users and users navigating by links alone. Links should describe their destination or purpose.</p> 
 
 <p>Avoid vague phrases such as:</p>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -204,7 +204,7 @@ Use descriptive text instead such as:</p>
 </ul>
 </div>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -221,7 +221,7 @@ Use descriptive text instead such as:</p>
 
 <p>Alternative text (alt text) provides a text equivalent description of the image’s purpose. Use alt text for:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -266,7 +266,7 @@ Use descriptive text instead such as:</p>
 
 <p>Keep alt text concise and meaningful. If an image is decorative, mark it as decorative when the platform supports that option.</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -285,7 +285,7 @@ Use descriptive text instead such as:</p>
   <div id="m-a4" class="usa-accordion__content">
 
 <p>Text must have sufficient contrast against its background. Common failures include:</p>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -320,7 +320,7 @@ Use descriptive text instead such as:</p>
 
 <p>Do not rely on color alone to communicate meaning. Instead of “Required fields shown only in red”, use “Required fields marked with both color and text such as "Required".</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -341,7 +341,7 @@ Use descriptive text instead such as:</p>
 
 <p>Structured programmatic lists improve navigation and screen reader interpretation. Use built-in list formatting tools instead of manually typing symbols. Use bulleted or numbered lists instead of typing dashes manually or using spacing to simulate lists.</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -363,7 +363,7 @@ Use descriptive text instead such as:</p>
 <p>Use tables only for data. Do not use tables to visually position content on a page. When creating tables, use built-in options, where they exist, for row headers and column headers rather than manually formatting text to appear as a header. </p>
 <p>Requirements for accessible tables include:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -406,7 +406,7 @@ Use descriptive text instead such as:</p>
 
 <p>Authors and administrators should ensure:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -491,7 +491,7 @@ Use descriptive text instead such as:</p>
 
 <p>Common document issues include:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -557,7 +557,7 @@ Use descriptive text instead such as:</p>
 
 <p>Before uploading:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -610,7 +610,7 @@ Use descriptive text instead such as:</p>
   </li>
 </ul>
 
-<ul class="usa-icon-list margin-top-2">
+<ul class="usa-icon-list maxw-full margin-top-2">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -631,7 +631,7 @@ Use descriptive text instead such as:</p>
 
 <p>Audio-only, video-only and synchronized media require accessibility alternatives that allow  users who cannot see, hear, or access portions of the content  to obtain equivalent information and understand the content. This may require:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -678,7 +678,7 @@ Use descriptive text instead such as:</p>
 
 <p>Before publishing audio, video or multimedia, verify:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -711,7 +711,7 @@ Use descriptive text instead such as:</p>
   </li>
 </ul>
 
-<ul class="usa-icon-list margin-top-2">
+<ul class="usa-icon-list maxw-full margin-top-2">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
