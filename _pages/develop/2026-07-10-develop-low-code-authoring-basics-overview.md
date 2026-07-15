@@ -4,6 +4,7 @@ sidenav: true
 type: develop
 title: Overview of Low-Code Authoring Environments and Content Management Systems
 permalink: develop/low-code-authoring-basics/overview/
+redirect_from: develop/low-code-authoring-basics/
 description: Learn how to create, review, and publish accessible digital content in low-code environments while meeting Section 508 requirements and reducing risk.
 audience: 
 - Communications Specialists
