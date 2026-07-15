@@ -99,6 +99,6 @@ Approvers and reviewers play a critical role in preventing inaccessible content 
 * [Test for Accessibility]({{site.baseurl}}/test/)  
 * [Tools for Testing ICT]({{site.baseurl}}/tools/tools-for-testing-ict/)
 
-<div id="prev-next-section">
-    <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/develop/low-code-authoring-basics/low-code-accessibility-checklist/"> < Previous</a>
+<div id="prev-next-section" style="justify-content: space-around;" class="padding-bottom-2">
+  <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/develop/low-code-authoring-basics/low-code-accessibility-checklist/" data-url-appended="true"> < Previous <span class="appended-url"> (https://www.section508.gov/develop/low-code-authoring-basics/low-code-accessibility-checklist/)</span></a>
 </div>
