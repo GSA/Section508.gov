@@ -48,7 +48,7 @@ Potential accessibility risks include:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -58,7 +58,7 @@ Potential accessibility risks include:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -68,7 +68,7 @@ Potential accessibility risks include:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -78,7 +78,7 @@ Potential accessibility risks include:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -88,7 +88,7 @@ Potential accessibility risks include:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -111,7 +111,7 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -121,7 +121,7 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -131,7 +131,7 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -141,7 +141,7 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -151,7 +151,7 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -174,7 +174,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -184,7 +184,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -194,7 +194,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -213,7 +213,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -223,7 +223,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -233,7 +233,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -243,7 +243,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -253,7 +253,7 @@ After pasting content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -276,7 +276,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -286,7 +286,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -296,7 +296,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -306,7 +306,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -327,7 +327,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -337,7 +337,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -347,7 +347,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -357,7 +357,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -367,7 +367,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -377,7 +377,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -392,7 +392,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -402,7 +402,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -412,7 +412,7 @@ Before embedding third-party content:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
