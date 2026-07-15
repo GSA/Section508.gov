@@ -62,7 +62,7 @@ Learn how to design and develop digital products and services for your agency th
           <li><a href="{{site.baseurl}}/develop/usability-testing-with-people-with-disabilities/"> Conducting User Research with People with Disabilities</a></li>
           <li><a href="{{site.baseurl}}/develop/publish-to-web/">Considerations for Publishing to the Web</a></li>
           <li><a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">Developing a User Research Recruitment Questionnaire</a></li>
-          <li><a href="{{site.baseurl}}/develop/low-code-authoring-basics/">Developing in Low Code Authoring Environments</a></li>
+          <li><a href="{{site.baseurl}}/develop/low-code-authoring-basics/overview/">Developing in Low Code Authoring Environments</a></li>
           <li><a href="{{site.baseurl}}/develop/user-stories/">Sample User Stories for Accessible ICT</a></li>
         </ul>
       </div>
