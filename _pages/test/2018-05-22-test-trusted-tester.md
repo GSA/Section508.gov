@@ -1,23 +1,27 @@
 ---
 layout: page
 sidenav: true
-permalink: test/trusted-tester/
 type: test
-title: 'DHS Trusted Tester Process & Certification Program'
+title: DHS Trusted Tester Process & Certification Program
+permalink: test/trusted-tester/
 description: The DHS Trusted Tester Process is a manual test approach that aligns with the ICT Testing Baseline for Web, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process.
 contributors: usab
-topic: Testing
-sub-topic: Websites
-audience:
-- Section 508 Program Managers
-- Developers
-- IT Program & Project Managers
-- Federal Employees
+audience: 
 - Chief Information Officers (CIO)
-resource-type: Article
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
+topic: 
+- Testing
+subtopic: 
+- Websites
+resource-type: 
+- Article
 format: HTML
 created: 2018-05-22
-updated: 2025-07-16
+updated: 2026-07-09
+exclude-changelog: true
 ---
 
 ## DHS Trusted Tester Process & Certification Program
@@ -44,8 +48,6 @@ Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <acces
 
   * [Test for Accessibility][1]
   * [About AED COP Testing Tools][2]
-
-The resources on this page were created through interagency collaborative efforts sponsored under the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Accessibility Community of Practice (ACoP)</a>, a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external"> Section 508 Standards</a>.
 
  [1]: {{site.baseurl}}/test
  [2]: {{site.baseurl}}/test/about-testing-tools

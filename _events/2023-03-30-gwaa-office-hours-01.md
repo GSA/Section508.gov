@@ -35,8 +35,8 @@ This virtual meeting is supported by Zoom for Government (FedRAMP certified). Pl
 **Note: You must join the meeting using your first and last name. Agency affiliation is optional. Nicknames and phone numbers will not be given access*
 
 [1]: {{site.baseurl}}/manage/section-508-assessment/
-[2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
-[4]: {{site.baseurl}}/manage/section-508-assessment/faq/
+[2]: {{site.baseurl}}/manage/section-508-assessment/      
+[4]: {{site.baseurl}}/manage/section-508-assessment/
 [5]: {{site.baseurl}}/tools/glossary/
 [6]: {{site.baseurl}}/events/
 [7]: https://gsa.zoomgov.com/meeting/register/vJItdO-oqzIpE7Jwxg4YC_K8cM7qppEXiJQ

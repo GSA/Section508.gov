@@ -2,24 +2,28 @@
 layout: page
 sidenav: true
 type: create
-title: 'Accessible Meetings'
+title: Accessible Meetings
 permalink: create/accessible-meetings/
-redirect_from:
-- accessible-meetings/
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
 disclaimer: true
-topic: "Create"
-sub-topic: "Other"
-audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
+redirect_from: 
+- accessible-meetings/
+audience: 
+- Designers
+- Federal Employees
+- Members of the Public
+topic: 
+- Create
+subtopic: 
+- Other
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2020-08-01
-updated: 2025-08-21
+updated: 2026-07-10
 exclude-changelog: true
 ---
+
 In recent years, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings and conference calls to virtual meetings where the audience participates remotely through voice and video from their homes. Now, meetings are often virtual, or a hybrid of in-person and remote participants. For this reason, accessibility can and should be seamlessly integrated into your meeting. 
 
 But what types of meetings need to be accessible? How can you make your presentation materials accessible to all meeting attendees? Use this guide to make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
@@ -434,7 +438,7 @@ By making your meetings accessible, you are contributing to the ongoing effort t
 <ul>
     <li><a href="{{site.baseurl}}/create/">Create Accessible Digital Products</a></li>
     <li><a href="{{site.baseurl}}/develop/universal-design/">Universal Design and Accessibility</a></li>
-    <li><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf" target="_blank" class="usa-link--external">Making Meetings Accessible | CDC.gov</a></li>
+    <li><a href="https://www.cdc.gov/radiation-emergencies/media/pdfs/2025/01/Facilitator-Resources-508.pdf" target="_blank" class="usa-link--external">Facilitator Resources | CDC.gov</a></li>
     <li><a href="https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings" target="_blank" class="usa-link--external">Accessibility of Remote Meetings | W3C</a></li>
     <li><a href="https://www.w3.org/WAI/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Used the Web | W3C</a></li>
     <li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/" target="_blank" class="usa-link--external">How to Make Your Presentations and Meetings Accessible to All | Web Accessibility Initiative (WAI) | W3C</a></li>
@@ -463,8 +467,6 @@ By making your meetings accessible, you are contributing to the ongoing effort t
           <ul>
             <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Accessibility overview of Microsoft Teams</a></li>
             <li><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>
-            <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf" target="_blank" class="usa-link--external">Accessible and Inclusive Telework Practices Using Microsoft Teams | HUD</a></li>
-            <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf" target="_blank" class="usa-link--external">5 Tips on Holding Accessible Microsoft Team Meetings | HUD</a></li>
           </ul>
         </li>
         <li><a href="https://zoom.us/accessibility" target="_blank" class="usa-link--external">Zoom Accessibility</a>

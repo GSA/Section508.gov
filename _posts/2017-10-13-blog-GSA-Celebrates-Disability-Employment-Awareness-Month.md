@@ -1,18 +1,26 @@
 ---
 layout: post
-permalink: blog/GSA-Celebrates-Disability-Employment-Awareness-Month/
+sidenav: true
 type: article
-title: 'GSA Celebrates Disability Employment Awareness Month at 2017 Interagency Accessibility Forum'
-created: 1507900375
-tags: Events
+title: GSA Celebrates Disability Employment Awareness Month at 2017 Interagency Accessibility Forum
+permalink: blog/GSA-Celebrates-Disability-Employment-Awareness-Month/
 description: In celebration of National Disability Employment Awareness Month (NDEAM), the U.S. General Services Administration (GSA) held its fourth annual Interagency Accessibility Forum on October 13, 2017.
-topic: "Events"
-sub-topic: "Best Practices"
-audience:
-- "Members of the Public"
-- "Section 508 Program Managers"
-resource-type: "Blog"
-format: "HTML"
+tags: Events
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Events
+subtopic: 
+- Best Practices
+resource-type: 
+- Blog
+format: HTML
+created: 2017-10-13
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 
@@ -28,7 +36,7 @@ To kick off the Forum, Dominic Sale, Deputy Associate Administrator for Informat
 
 David Capozzi, Executive Director of the US Access Board, gave the keynote, detailing the history of accessible technology and how it has improved to meet the needs of people with disabilities. For example, in the 1980s and 1990s, we witnessed the first graphical user interfaces and screen reading capabilities developed for blind users. By 2010, 100,000 ATMs in the U.S. had accessibility features to make them usable by those with a sight, hearing, or physical disability. Today, the iPhone is one of the most preferred devices among blind and deaf people, because it offers a variety of accessibility features. Capozzi ended with these poignant lessons learned: challenges to keep technology accessible still exist in government, and people with disabilities will be left behind unless agencies prioritize accessibility.
 
-To wrap up the morning, Hope Adler, who works with the Department of Labor, explained how their Office of Disability Employment Policy’s [ePolicyWorks][2] tool uses crowdsourcing to connect stakeholders and citizens through real-time sharing. In this way, stakeholders are engaged in policymaking and people with disabilities are able to be part of the discussion.
+To wrap up the morning, Hope Adler, who works with the Department of Labor, explained how their Office of Disability Employment Policy’s ePolicyWorks tool uses crowdsourcing to connect stakeholders and citizens through real-time sharing. In this way, stakeholders are engaged in policymaking and people with disabilities are able to be part of the discussion.
 
 The Forum featured 12 breakout sessions which focused on the impact of the Revised 508 Standards, and showcased tools to help agencies gracefully transition to the new Standards. 27 exhibitors also shared their accessibility solutions for public sector software and technology, as well as wearable technology, including an application for smart glasses that enables users to read text in over 100 languages without an internet connection.
 
@@ -39,5 +47,4 @@ For more information about the 508 refresh, visit the Revised 508 Standards Tool
 Accessibility is something that benefits all users and encourages innovation. In the months ahead, as your agency transitions to the Revised 508 Standards, consider new ways to integrate accessibility and universal design into how your agency works.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://epolicyworks.ideascale.com/
  [3]: {{site.baseurl}}/training/presentations-workshops

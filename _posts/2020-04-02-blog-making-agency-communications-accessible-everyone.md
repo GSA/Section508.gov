@@ -1,21 +1,29 @@
 ---
 layout: post
-permalink: blog/making-agency-communications-accessible-everyone/
+sidenav: true
 type: article
-title: 'Making Agency Communications Accessible to Everyone'
-created: 1585848520
-tags: Design-and-Develop
+title: Making Agency Communications Accessible to Everyone
+permalink: blog/making-agency-communications-accessible-everyone/
 description: During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
-topic: "Create"
-sub-topic: "Other"
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Members of the Public"
-- "Service & System Owners"
-- "IT Program & Project Managers"
-resource-type: "Blog"
-format: "HTML"
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Federal Employees
+- IT Program & Project Managers
+- Members of the Public
+- Section 508 Program Managers
+- Service & System Owners
+topic: 
+- Create
+subtopic: 
+- Other
+resource-type: 
+- Blog
+format: HTML
+created: 2020-04-02
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
@@ -71,9 +79,9 @@ Please contact us at <Section.508@gsa.gov> if you have questions or need additio
 
 This guidance was developed by the Federal CIO Council&rsquo;s Interagency Accessibility Community of Practice Leadership Team, and GSA&rsquo;s Government-wide IT Accessibility Program.
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
+ [1]: https://www.access-board.gov/ict/#E205-content
  [2]: {{site.baseurl}}/create
- [3]: {{site.baseurl}}/content/guide-accessible-web-design-development
+ [3]: {{site.baseurl}}/develop/guide-accessible-web-design-development
  [4]: https://designsystem.digital.gov/
  [5]: https://www.federalrelay.us/
  [6]: {{site.baseurl}}/create/video-social/

@@ -1,21 +1,29 @@
 ---
 layout: post
-permalink: blog/Universal-Design-What-is-it/
+sidenav: true
 type: article
-title: 'Universal Design: What is it?'
-created: 1513216986
-tags: Design-and-Develop
+title: "Universal Design: What is it?"
+permalink: blog/Universal-Design-What-is-it/
 description: Part one of a two-part series about Universal Design The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities.
-topic: Design
-sub-topic: Guidance
-audience:
-- Section 508 Program Managers
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
+- Content Creators
 - Developers
 - Federal Employees
 - IT Program & Project Managers
-- Content Creators
-resource-type: Blog
+- Section 508 Program Managers
+topic: 
+- Design
+subtopic: 
+- Guidance
+resource-type: 
+- Blog
 format: HTML
+created: 2017-12-14
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 _Part one of a two-part series about Universal Design_
@@ -59,13 +67,13 @@ To learn more about Universal Design and how executives and agencies can benefit
  [3]: https://www.w3.org/TR/WCAG20/
  [4]: https://disabilitycompendium.org/sites/default/files/user-uploads/2016_AnnualReport.pdf
  [5]: http://universaldesign.ie/What-is-Universal-Design/
- [6]: http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/7-Principals-.pdf
- [7]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p1
- [8]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p2
- [9]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p3
- [10]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p4
- [11]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p5
- [12]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p6
- [13]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p7
+ [6]: https://universaldesign.ie/about-universal-design/the-7-principles
+ [7]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-1-equitable-use
+ [8]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-2-flexibility-in-use
+ [9]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-3-simple-and-intuitive-use
+ [10]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-4-perceptible-information
+ [11]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-5-tolerance-for-error
+ [12]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-6-low-physical-effort
+ [13]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-7-size-and-space-for-approach-and-use
  [14]: https://www.w3.org/WAI/intro/wcag
  [15]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me

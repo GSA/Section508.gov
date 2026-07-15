@@ -2,22 +2,27 @@
 layout: page
 sidenav: true
 type: training
-title: "Micro-Purchases and Section 508 Requirements"
+title: Micro-Purchases and Section 508 Requirements
 permalink: training/online-course/micro-purchases/
 description: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
-audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-topic: "Training"
-sub-topic: "Presentations"
-resource-type: "Training"
-format: "HTML"
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic: 
+- Training
+subtopic: 
+- Presentations
+resource-type: 
+- Training
+format: HTML
 created: 2024-10-15
-updated: 2025-03-19
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -90,9 +95,9 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * **Section 508 Standards**
   * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
+  * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+  * <a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+  * <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
 * **Laws and Regulations**
   * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
   * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a>
@@ -112,7 +117,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
   * <a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a>
 * **Other Resources**
-  * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
+  * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
   * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a>
   * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>

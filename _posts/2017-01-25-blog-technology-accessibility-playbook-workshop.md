@@ -1,23 +1,32 @@
 ---
 layout: post
+sidenav: true
 type: article
-title: 'Technology Accessibility Playbook Workshop '
+title: Technology Accessibility Playbook Workshop
 permalink: blog/technology-accessibility-playbook-workshop/
 description: On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACOP) hosted a workshop on the <a href="https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a>, which helps federal agencies create mature Section 508 programs.
 tags: Events
-topic: Events
-sub-topic: Manage a Section 508 Program
-audience:
-- Section 508 Program Managers
-- Developers
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+audience: 
 - Buyers
+- Developers
 - Federal Employees
 - IT Program & Project Managers
-resource-type: Blog
+- Section 508 Program Managers
+topic: 
+- Events
+subtopic: 
+- Manage a Section 508 Program
+resource-type: 
+- Blog
 format: HTML
 created: 2017-01-25
+updated: 2026-07-09
+exclude-changelog: true
 ---
-On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACOP) hosted a workshop on the [Technology Accessibility Playbook][1], which helps federal agencies create mature Section 508 programs. Thirty participants from 16 federal agencies attended the workshop, including Section 508 Program Managers, Developers and Procurement Specialists.
+
+On January 25-26, 2017, Collaborating federal agencies hosted a workshop on the [Technology Accessibility Playbook][1], which helps federal agencies create mature Section 508 programs. Thirty participants from 16 federal agencies attended the workshop, including Section 508 Program Managers, Developers and Procurement Specialists.
 
 <div>
   <img alt="Norm Robinson presenting at the playbook workshop" src="{{site.baseurl}}/assets/images/blog-tap-figure-01.jpg" style="width:100%;" />
@@ -72,11 +81,6 @@ Workshop participants learned how to use the IT Accessibility Playbook to improv
           <li>
             <div>
               <a href="https://www.section508.gov/~assets/files/technology-accessibility-playbook-2018-update.docx">Download a copy of the Technology Accessibility Playbook</a> (MS Word, June 2016)
-            </div>
-          </li>          
-          <li>
-            <div>
-              <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/">Accessibility Community of Practice</a>
             </div>
           </li>          
           <li>

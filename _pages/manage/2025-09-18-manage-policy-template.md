@@ -25,7 +25,7 @@ resource-type:
 - Article
 format: Document (DOCX)
 created: 2025-09-18
-updated: 2026-03-25
+updated: 2026-07-10
 exclude-changelog: true
 ---
 The foundation of any ICT accessibility program is a comprehensive Section 508 policy that applies across the entire agency and its missions. Your policy should outline how the agency will ensure ICT accessibility compliance in all aspects of technology---including acquisition, development, authoring, configuration, deployment, and maintenance---and should be explicitly referenced in other policies across these agency functions. (See [Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/) for examples).
@@ -123,7 +123,7 @@ The purpose of this document is to provide example language you can use when dev
 * <a href="https://www.section508.gov/~assets/files/directive_139-2_final_10-28-2008.doc" target="_blank" class="usa-link--external">Department of Homeland (DHS) Security Section 508 Directive (DOC)</a>
 * <a href="https://www.doi.gov/sites/doi.gov/files/elips/documents/375-dm-8_0.pdf" target="_blank" class="usa-link--external">Department of the Interior (DOI) Section 508 Departmental Policy Example (PDF)</a>
 * <a href="https://www.opm.gov/information-management/accessibility/OPMSection508Policy2021.pdf" target="_blank" class="usa-link--external">Office of Personnel Management (OPM) Section 508 Policy (PDF)</a>
-* <a href="https://www.dfc.gov/sites/default/files/media/documents/Section%20508%20Policy%2004-01-2024.pdf" target="_blank" class="usa-link--external">U.S. International Development Finance Corporation (DFC) Office of Information Technology (OIT) Section 508 Policy (PDF)</a>
+* <a href="https://www.dfc.gov/sites/default/files/media/documents/DFC_OIT_CISO_Policy_Section-508.pdf" target="_blank" class="usa-link--external">U.S. International Development Finance Corporation (DFC) Office of Information Technology (OIT) Section 508 Policy (PDF)</a>
 * <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/840001_dodm_2017.pdf?ver=2017-11-14-112348-293" target="_blank" class="usa-link--external">Department of Defense (DoD) Manual 8400.01: Accessibility of Information and Communications Technology (ICT) (PDF)</a>
 
 ## Checklist for Section 508 Policy Creation

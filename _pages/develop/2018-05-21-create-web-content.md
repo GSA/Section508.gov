@@ -2,20 +2,26 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Developing Accessible Web Content'
+title: Developing Accessible Web Content
 permalink: develop/web-content/
-redirect_from:
-- create/web-content/
 description: Explore Section 508 web content accessibility guidance, best practices, and tools to help developers create and maintain accessible, standards-compliant digital content.
-topic: "Develop"
-sub-topic: "Training"
-audience:
-- "Developers"
-- "Content Creators"
-resource-type: "Process & How-To"
-format: "HTML"
+redirect_from: 
+- create/web-content/
+audience: 
+- Content Creators
+- Developers
+topic: 
+- Develop
+subtopic: 
+- Training
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2018-05-21
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 <p>Learn how to build digital tools that conform to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. Review the W3C’s Sufficient Techniques for examples of how to meet Success Criteria using specific technologies (relevant to HTML, CSS, server-side scripting, Flash, ARIA, etc.).</p>
 <ul>
     <li><a href="https://www.w3.org/WAI/WCAG20/quickref/" class="ext">How to Meet WCAG 2.0</a> - quick reference guide 
@@ -46,7 +52,7 @@ created: 2018-05-21
 <p>Contributors to these JavaScript frameworks actively consider accessibility in development:</p>
 <ul>
     <li><a href="https://www.nomensa.com/blog/2010/accessible-forms-using-the-jquery-validation-plug-in/" class="ext">JQuery</a> - the “grandfather” of JavaScript frameworks; this article specifically addresses how to create accessible forms</li>
-    <li><a href="https://facebook.github.io/react/docs/accessibility.html" class="ext">React.js</a> - web application development framework from Facebook</li>
+    <li><a href="https://legacy.reactjs.org/docs/accessibility.html" class="ext">React.js</a> - web application development framework from Facebook</li>
     <li><a href="https://docs.angularjs.org/guide/accessibility" class="ext">Angular.js</a> - web development framework from Google</li>
     <li><a href="https://paypal.github.io/bootstrap-accessibility-plugin/demo.html" class="ext">Bootstrap.js</a> - JavaScript development framework from Twitter</li>
     <li><a href="https://docs.sencha.com/extjs/6.0.2/guides/core_concepts/accessibility.html" class="ext">ext.js</a> - JavaScript development framework</li>
@@ -95,6 +101,6 @@ created: 2018-05-21
     <li><a href="https://www.govinfo.gov/app/details/USCODE-2011-title29/USCODE-2011-title29-chap16-subchapV-sec794d">Section 508 of the Rehabilitation Act</a> (29 U.S.C. § 794d), as amended by the Workforce Investment Act of 1998 (P.L. 105-220)</li>
     <li><a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards">Original Section 508 Standards</a></li>
     <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version">Revised 508 Standards</a> (revised January 2017, effective January 2018)</li>
-    <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E204-functional-performance-criteria">Revised 508 Standards Functional Performance Criteria</a></li>
+    <li><a href="https://www.access-board.gov/ict/#E204-functional-performance-criteria">Revised 508 Standards Functional Performance Criteria</a></li>
 </ul>
 <p>These best practices were developed by the U.S. Federal Government Authoring and Developer Transition Working Group, with contributions from the Federal CIO Council Accessibility Community of Practice (ACoP), the U.S. Access Board, and the General Services Administration.</p>
