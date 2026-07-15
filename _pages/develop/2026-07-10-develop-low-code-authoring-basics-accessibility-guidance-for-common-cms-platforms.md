@@ -51,7 +51,7 @@ Most CMS platforms provide tools and features that can support accessibility, bu
 
 Accessibility considerations include:</p>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -106,7 +106,7 @@ Accessibility considerations include:</p>
 
 <h3>Drupal accessibility varies significantly depending on:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -171,7 +171,7 @@ Accessibility considerations include:</p>
 
 <h3>Common Drupal risks include:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -266,7 +266,7 @@ Accessibility considerations include:</p>
 
 <h3>Drupal authors should:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -341,7 +341,7 @@ Accessibility considerations include:</p>
 
 <h3>Drupal site owners and administrators should:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -406,7 +406,7 @@ Accessibility considerations include:</p>
 
 <h3>Agencies should establish governance for:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -478,7 +478,7 @@ Accessibility considerations include:</p>
 <p>SharePoint is commonly used for intranet and collaboration content.</p>
 
 <h3>Common accessibility concerns include:</h3>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -533,7 +533,7 @@ Accessibility considerations include:</p>
 
 <h3>SharePoint authors should:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -578,7 +578,7 @@ Accessibility considerations include:</p>
 
 <h3>Agencies should establish governance for:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -619,7 +619,7 @@ Accessibility considerations include:</p>
 
 <h3>WordPress accessibility varies significantly depending on:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -664,7 +664,7 @@ Accessibility considerations include:</p>
 
 <h3>Common WordPress risks include:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -719,7 +719,7 @@ Accessibility considerations include:</p>
 
 <h3>Federal teams using WordPress should:</h3>
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
