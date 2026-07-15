@@ -321,6 +321,7 @@ Accessibility in low-code environments is a shared responsibility. No single rol
 * [Test for Accessibility]({{site.baseurl}}/test/)  
 * [Tools for Testing ICT]({{site.baseurl}}/tools/tools-for-testing-ict/)
 
-<div id="prev-next-section">
-    <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/develop/low-code-authoring-basics/common-accessibility-risks/">Next > </a>
+<div id="prev-next-section" style="justify-content: space-around;" class="padding-bottom-2">
+  <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/develop/low-code-authoring-basics/common-accessibility-risks/" data-url-appended="true"> Next &gt; <span class="appended-url"> (https://www.section508.gov/"{{site.baseurl}}/develop/low-code-authoring-basics/common-accessibility-risks/")</span></a>
 </div>
+
