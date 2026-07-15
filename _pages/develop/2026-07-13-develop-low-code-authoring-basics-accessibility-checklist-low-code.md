@@ -40,7 +40,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -50,7 +50,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -60,7 +60,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -70,7 +70,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -80,7 +80,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -94,7 +94,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -104,7 +104,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -114,7 +114,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -124,7 +124,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -134,7 +134,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -148,7 +148,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -158,7 +158,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -168,7 +168,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -182,7 +182,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -196,7 +196,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -206,7 +206,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -216,7 +216,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -226,7 +226,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -236,7 +236,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -246,7 +246,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -256,7 +256,7 @@ Content authors play a critical role in delivering accessible digital experience
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_box_outline_blank"></use>
+        <use href="{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
