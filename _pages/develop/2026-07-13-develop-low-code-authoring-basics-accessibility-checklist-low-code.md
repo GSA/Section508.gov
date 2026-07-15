@@ -36,7 +36,7 @@ Content authors play a critical role in delivering accessible digital experience
 <p>Before publishing content, verify the following:</p>
 
 <h2>Structure and Navigation</h2>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -90,7 +90,7 @@ Content authors play a critical role in delivering accessible digital experience
 </ul>
 
 <h2>Links and Media</h2>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -144,7 +144,7 @@ Content authors play a critical role in delivering accessible digital experience
 </ul>
 
 <h2>Visual Presentation</h2>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -178,7 +178,7 @@ Content authors play a critical role in delivering accessible digital experience
 </ul>
 
 <h2>Documents and Attachments</h2>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -192,7 +192,7 @@ Content authors play a critical role in delivering accessible digital experience
 </ul>
 
 <h2>Interaction and Functionality</h2>
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
