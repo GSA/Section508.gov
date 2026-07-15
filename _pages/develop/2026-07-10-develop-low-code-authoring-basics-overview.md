@@ -67,7 +67,7 @@ Accessibility outcomes depend on both the accessibility capabilities of the plat
 A platform may provide accessible templates, components, and authoring tools while still allowing users to create inaccessible content. Similarly, accessible content can be negatively affected by inaccessible customizations, integrations, or platform configurations.
 
 Agencies should evaluate both:
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
@@ -95,7 +95,7 @@ Accessibility is therefore a shared responsibility among platform owners, develo
 
 Even when a platform provides accessible templates or components, accessibility failures often occur because of:
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
@@ -196,7 +196,7 @@ Agencies improve accessibility outcomes when they move from reactive remediation
 
 Higher maturity organizations typically:
 
-<ul class="usa-icon-list">
+<ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
