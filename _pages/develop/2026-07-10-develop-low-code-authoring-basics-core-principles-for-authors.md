@@ -53,7 +53,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -63,7 +63,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -73,7 +73,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -83,7 +83,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -97,7 +97,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -107,7 +107,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -117,7 +117,7 @@ Most accessibility failures in CMS environments involve a small set of recurring
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -155,7 +155,7 @@ For example, this heading structure is accessible:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -165,7 +165,7 @@ For example, this heading structure is accessible:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -175,7 +175,7 @@ For example, this heading structure is accessible:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -185,7 +185,7 @@ For example, this heading structure is accessible:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -208,7 +208,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">See <a href="{{site.baseurl}}/blog/accessibility-bytes/descriptive-links-and-hypertext">Accessibility Bytes #4: Descriptive Links and Hypertext</a> for more information.</div></li></ul>
@@ -225,7 +225,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -235,7 +235,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -245,7 +245,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -255,7 +255,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -270,7 +270,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">See <a href="{{site.baseurl}}/create/alternative-text/">Authoring Meaningful Alternative Text</a> and <a href="{{site.baseurl}}/blog/accessibility-bytes/alternative-text/">Accessibility Bytes #5 Alternative Text</a> for more information. 
@@ -289,7 +289,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -299,7 +299,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -309,7 +309,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -324,7 +324,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -345,7 +345,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -367,7 +367,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -377,7 +377,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -387,7 +387,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -410,7 +410,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -420,7 +420,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -430,7 +430,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -440,7 +440,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -450,7 +450,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -460,7 +460,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -470,7 +470,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -495,7 +495,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -505,7 +505,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -515,7 +515,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -525,7 +525,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -535,7 +535,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -545,7 +545,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -561,7 +561,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -571,7 +571,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -581,7 +581,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -591,7 +591,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -601,7 +601,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -614,7 +614,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -635,7 +635,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -645,7 +645,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -655,7 +655,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -665,7 +665,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-orange">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -682,7 +682,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -692,7 +692,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -702,7 +702,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -715,7 +715,7 @@ Use descriptive text instead such as:</p>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-        <use href="/assets/img/sprite.svg#push_pin"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
