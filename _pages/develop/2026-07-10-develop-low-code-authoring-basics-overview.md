@@ -71,7 +71,7 @@ Agencies should evaluate both:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -81,7 +81,7 @@ Agencies should evaluate both:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -99,7 +99,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -109,7 +109,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -119,7 +119,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -129,7 +129,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -139,7 +139,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -149,7 +149,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -159,7 +159,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -169,7 +169,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -179,7 +179,7 @@ Even when a platform provides accessible templates or components, accessibility 
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#cancel"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -200,7 +200,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -210,7 +210,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -220,7 +220,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -230,7 +230,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -240,7 +240,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -250,7 +250,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -260,7 +260,7 @@ Higher maturity organizations typically:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false">
-        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+        <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
