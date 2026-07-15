@@ -483,8 +483,23 @@ develop:
         url: develop/integrate-section-508-in-agile-sprint/
       - name: Sample User Stories for Accessible ICT
         url: develop/user-stories/
+      - name: Low Code Authoring Environments
+        url: develop/low-code-authoring-basics/
+        grandchildren:
+          - name: Overview of Authoring Basics for Low-Code Authoring Environments 
+            url:  develop/low-code-authoring-basics/overview/
+          - name: Common Accessibility Risks in Low-Code Platforms
+            url: develop/low-code-authoring-basics/common-accessibility-risks/
+          - name: Core Accessibility Principles for Content Authors
+            url: develop/low-code-authoring-basics/core-principles-for-content-authors/
+          - name: Accessibility Guidance for Common CMS Platforms
+            url: develop/low-code-authoring-basics/accessibility-guidance-for-common-cms-platforms/
+          - name: Accessibility Checklist for Content Authors in Low Code Environments
+            url: develop/low-code-authoring-basics/low-code-accessibility-checklist/
+          - name: Accessibility Review and Approval Best Practices
+            url: develop/low-code-authoring-basics/accessibility-review-and-approval-best-practices/
       - name: Web Content
-        url: '#'
+        url: 
         grandchildren:
           - name: Developing Accessible Web Content
             url: develop/web-content/
