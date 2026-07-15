@@ -34,7 +34,7 @@ updated:
 
 Approvers and reviewers play a critical role in preventing inaccessible content from being published.
 
-<ol class="usa-process-list">
+<ol class="usa-process-list itad-process-list--wide">
   <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Review Before Publishing</h2>
     <p class="margin-top-05">Accessibility review should occur before publication, not after complaints or remediation requests. Before approving content:</p>
