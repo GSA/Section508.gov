@@ -45,53 +45,53 @@ AI-generated content may improve efficiency but should be reviewed before public
 Potential accessibility risks include:
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Incorrect or incomplete alternative text.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Improper heading structures.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Ambiguous link text.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Inaccessible form structures.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Content that does not adequately support users with disabilities.
     </div>
   </li>
@@ -108,53 +108,53 @@ Authors remain responsible for ensuring accessibility, regardless of whether con
 <p>Accessibility considerations should extend to:</p>
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Automated email notifications.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Generated reports and dashboards.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Workflow status messages.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Approval interfaces.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       System-generated documents.
     </div>
   </li>
@@ -171,33 +171,33 @@ Content pasted from Word, PowerPoint, or external websites can introduce accessi
 After pasting content:
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Review and clean up formatting as needed.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Reapply proper structure using CMS built-in styles and tools.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Review heading hierarchy and lists for accuracy.
     </div>
   </li>
@@ -210,53 +210,53 @@ After pasting content:
 <p>Visual page builders may create:</p>
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Incorrect heading structures.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Poor keyboard navigation.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Reading order issues.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Empty containers.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Non-semantic markup.
     </div>
   </li>
@@ -273,43 +273,43 @@ Embedded tools and widgets may not meet accessibility requirements. Some example
 Before embedding third-party content:
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Evaluate accessibility support.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Review Accessibility Conformance Report (ACR) documentation.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Conduct Section 508 conformance testing.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Prohibit use of inaccessible third party content.
     </div>
   </li>
@@ -324,63 +324,63 @@ Before embedding third-party content:
 <p>Examples include:</p>
 
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Logos without alternative text.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Inaccessible accordions.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Carousels without keyboard access.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Forms missing visible or programmatic labels.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Modals without visible focus.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-red">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Repeat headers or footers with accessibility issues.
     </div>
   </li>
@@ -388,34 +388,34 @@ Before embedding third-party content:
 
 <p>Before broad deployment:</p>
 
-<ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+<ul class="usa-icon-list maxw-full margin-bottom-3">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Test reusable components for accessibility; remediate components as needed.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Establish approved component libraries.
     </div>
   </li>
-  <li class="usa-icon-list maxw-full__item">
-    <div class="usa-icon-list maxw-full__icon text-green">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
         <use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use>
       </svg>
     </div>
-    <div class="usa-icon-list maxw-full__content">
+    <div class="usa-icon-list__content">
       Prohibit use of inaccessible components.
     </div>
   </li>
