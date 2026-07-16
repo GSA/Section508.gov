@@ -194,13 +194,13 @@ Analysis reveals varying levels of conformance and varying amounts of ICT tested
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested*.
+      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested.*
     </div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Internal web pages:</strong> 65% fully conformant*.
+      <strong>Internal web pages:</strong> 65% fully conformant.*
     </div>
   </li>
   <li class="usa-icon-list__item">
