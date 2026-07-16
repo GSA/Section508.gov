@@ -968,7 +968,7 @@ The following describes upcoming GSA efforts to help improve federal ICT accessi
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested.*.
+      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested.*
     </div>
   </li>
   <li class="usa-icon-list__item">
