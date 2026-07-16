@@ -16,7 +16,7 @@ audience:
 resource-type: "White Paper"
 format: "HTML"
 created: 2026-03-02
-updated: 
+updated: 2026-07-17
 exclude-changelog: true
 ---
 
@@ -194,13 +194,13 @@ Analysis reveals varying levels of conformance and varying amounts of ICT tested
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Public-Facing web pages:</strong> 72% fully conformant.
+      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested*.
     </div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Internal web pages:</strong> 65% fully conformant, which had the highest ICT percentage tested.
+      <strong>Internal web pages:</strong> 65% fully conformant*.
     </div>
   </li>
   <li class="usa-icon-list__item">
@@ -234,21 +234,21 @@ Agencies should monitor and provide more data to achieve a complete understandin
     <tr>
       <th scope="row">Public-Facing Web Pages</th>
       <td class="center">41</td>
-      <td class="center">1,675,226</td>
+      <td class="center">1,683,529*</td>
       <td class="center">37%</td>
       <td class="center">72%</td>
     </tr>
     <tr>
       <th scope="row">Intranet Web pages</th>
       <td class="center">30</td>
-      <td class="center">4,701</td>
-      <td class="center">53%</td>
+      <td class="center">345,856*</td>
+      <td class="center">7%*</td>
       <td class="center">65%</td>
     </tr>
     <tr>
       <th scope="row">Electronic Documents</th>
       <td class="center">38</td>
-      <td class="center">4,602,276</td>
+      <td class="center">4,607,392*</td>
       <td class="center">25%</td>
       <td class="center">38%</td>
     </tr>
@@ -262,12 +262,13 @@ Agencies should monitor and provide more data to achieve a complete understandin
     <tr>
       <th scope="row">Software</th>
       <td class="center">27</td>
-      <td class="center">47,104</td>
+      <td class="center">47,114*</td>
       <td class="center">5%</td>
       <td class="center">47%</td>
     </tr>
   </tbody>
 </table>
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Public-Facing Web Pages: 1,675,226, Intranet Web Pages: 4,701 and 53% total tested, Electronic Documents: 4,602,276, and Software: 47,104.</p>
 
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/manage/section-508-assessment/2025/findings/accessibility-conformance-outcomes/"> < Previous</a>
