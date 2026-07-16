@@ -16,7 +16,7 @@ audience:
 resource-type: "White Paper"
 format: "HTML"
 created: 2026-03-02
-updated: 
+updated: 2026-07-17
 exclude-changelog: true
 ---
 ## Key Takeaways
@@ -172,11 +172,11 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
      <ul class="usa-icon-list maxw-full">
         <li class="usa-icon-list__item">
            <div class="usa-icon-list__icon"><svg class="usa-icon" aria-hidden="true" role="img" style="color:#481441"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-           <div class="usa-icon-list__content">52 reported an average of <strong>3.30 federal FTEs</strong> supporting their Section 508 programs, with counts ranging from <strong>4 to 60 federal FTEs</strong>.</div>
+           <div class="usa-icon-list__content">52 reported an average of <strong>3.30 federal FTEs</strong> supporting their Section 508 programs, with counts ranging from <strong>.3* to 65* federal FTEs</strong>.</div>
         </li>
         <li class="usa-icon-list__item">
            <div class="usa-icon-list__icon"><svg class="usa-icon" aria-hidden="true" role="img" style="color:#481441"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-           <div class="usa-icon-list__content">28 reported an average of <strong>3.70 contractor FTEs</strong> supporting their Section 508 programs, with contractor staffing ranging from <strong>0 to 39 FTEs</strong>.</div>
+           <div class="usa-icon-list__content">28 reported an average of <strong>3.70 contractor FTEs</strong> supporting their Section 508 programs, with contractor staffing ranging from <strong>.05* to 39 FTEs</strong>.</div>
         </li>
      </ul>
      <h4 id="component-staffing">Component Staffing</h4>
@@ -194,6 +194,7 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
   </div>
 </div>
 <!-- END CALLOUT -->
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0.</p>
 
 ### Management of ICT Accessibility Across the Agency
 A Section 508 or ICT accessibility policy provides the governance foundation agencies need to comply with federal accessibility requirements. It defines authorities, roles, responsibilities, expectations, and processes that ensure ICT accessibility is embedded across procurement, development, content creation, and IT operations. Most agencies have a Section 508 policy, but not all:

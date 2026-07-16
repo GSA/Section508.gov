@@ -968,13 +968,13 @@ The following describes upcoming GSA efforts to help improve federal ICT accessi
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Public-Facing web pages:</strong> 72% fully conformant.
+      <strong>Public-Facing web pages:</strong> 72% fully conformant, which had the highest ICT percentage tested.*
     </div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
-      <strong>Internal web pages:</strong> 65% fully conformant, which had the highest ICT percentage tested.
+      <strong>Internal web pages:</strong> 65% fully conformant.*
     </div>
   </li>
   <li class="usa-icon-list__item">
@@ -1006,21 +1006,21 @@ The following describes upcoming GSA efforts to help improve federal ICT accessi
     <tr>
       <th scope="row">Public-Facing Web Pages</th>
       <td class="center">41</td>
-      <td class="center">1,675,226</td>
+      <td class="center">1,683,529*</td>
       <td class="center">37%</td>
       <td class="center">72%</td>
     </tr>
     <tr>
       <th scope="row">Intranet Web pages</th>
       <td class="center">30</td>
-      <td class="center">4,701</td>
-      <td class="center">53%</td>
+      <td class="center">345,856*</td>
+      <td class="center">7%*</td>
       <td class="center">65%</td>
     </tr>
     <tr>
       <th scope="row">Electronic Documents</th>
       <td class="center">38</td>
-      <td class="center">4,602,276</td>
+      <td class="center">4,607,392*</td>
       <td class="center">25%</td>
       <td class="center">38%</td>
     </tr>
@@ -1034,13 +1034,13 @@ The following describes upcoming GSA efforts to help improve federal ICT accessi
     <tr>
       <th scope="row">Software</th>
       <td class="center">27</td>
-      <td class="center">47,104</td>
+      <td class="center">47,114*</td>
       <td class="center">5%</td>
       <td class="center">47%</td>
     </tr>
   </tbody>
 </table>
-
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Public-Facing Web Pages: 1,675,226, Intranet Web Pages: 4,701 and 53% total tested, Electronic Documents: 4,602,276, and Software: 47,104.</p>
 
 
 
@@ -1994,11 +1994,11 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
      <ul class="usa-icon-list maxw-full">
         <li class="usa-icon-list__item">
            <div class="usa-icon-list__icon"><svg class="usa-icon" aria-hidden="true" role="img" style="color:#481441"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-           <div class="usa-icon-list__content">52 reported an average of <strong>3.30 federal FTEs</strong> supporting their Section 508 programs, with counts ranging from <strong>4 to 60 federal FTEs</strong>.</div>
+           <div class="usa-icon-list__content">52 reported an average of <strong>3.30 federal FTEs</strong> supporting their Section 508 programs, with counts ranging from <strong>.3 to 65 federal FTEs</strong>.*</div>
         </li>
         <li class="usa-icon-list__item">
            <div class="usa-icon-list__icon"><svg class="usa-icon" aria-hidden="true" role="img" style="color:#481441"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-           <div class="usa-icon-list__content">28 reported an average of <strong>3.70 contractor FTEs</strong> supporting their Section 508 programs, with contractor staffing ranging from <strong>0 to 39 FTEs</strong>.</div>
+           <div class="usa-icon-list__content">28 reported an average of <strong>3.70 contractor FTEs</strong> supporting their Section 508 programs, with contractor staffing ranging from <strong>.05* to 39 FTEs</strong>.</div>
         </li>
      </ul>
      <h6 id="component-staffing">Component Staffing</h6>
@@ -2016,6 +2016,7 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
   </div>
 </div>
 <!-- END CALLOUT -->
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0.</p>
 
 <h5 id="management-of-ict-accessibility-across-the-agency">Management of ICT Accessibility Across the Agency</h5>
 <p>A Section 508 or ICT accessibility policy provides the governance foundation agencies need to comply with federal accessibility requirements. It defines authorities, roles, responsibilities, expectations, and processes that ensure ICT accessibility is embedded across procurement, development, content creation, and IT operations. Most agencies have a Section 508 policy, but not all:</p>
