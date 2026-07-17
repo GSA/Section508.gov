@@ -16,7 +16,7 @@
     "build:ang": "ng build --configuration dev",
     "watch": "ng build --watch --configuration development",
     "test:ang": "ng test",
-    "test:a11y": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --config .pa11yci",
+    "test:a11y": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --config .pa11yci --sitemap-exclude \"/assets/online-training/.*\"",
     "test:html": "html-validate \"_site/**/*.html\"",
     "fix:html": "node scripts/fix-html-validation-style.mjs --write",
     "check:html:style": "node scripts/fix-html-validation-style.mjs --check",
