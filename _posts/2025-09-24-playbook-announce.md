@@ -40,7 +40,7 @@ Twelve "plays" walk agencies through the steps needed to establish and manage an
 
 <ul class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#schedule"></use></svg></div>
+      <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#schedule"></use></svg></div>
       <div class="usa-icon-list__content"><h4>Stronger Emphasis on Executive Leadership</h4></div>
   </li>
 </ul>

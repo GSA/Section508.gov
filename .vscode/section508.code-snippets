@@ -22,13 +22,22 @@
     },    
 
     // Links -------------------------------------------------------------------
-    "Internal Link": {
+    "Internal Link MD": {
         "scope": "markdown,html",
-        "prefix": "link",
+        "prefix": "link-md",
         "body": [
-            "<a href=\"{{site.baseurl}}${1:/path/to/page/}\">${2:Link text}</a>$0"
+            "[${1:Link text}]({{site.baseurl}}/${2:path/to/page/})$0"
         ],
-        "description": "Create an internal Section508.gov link"
+        "description": "Create an internal Section508.gov link in markdown"
+    },
+
+    "Internal Link HTML": {
+        "scope": "markdown,html",
+        "prefix": "link-html",
+        "body": [
+            "<a href=\"{{site.baseurl}}/${1:path/to/page/}\">${2:Link text}</a>$0"
+        ],
+        "description": "Create an internal Section508.gov link in html"
     },
 
     "External Link": {
@@ -37,25 +46,25 @@
         "body": [
             "<a href=\"${1:https://example.com}\" class=\"usa-link usa-link--external\" target=\"_blank\" rel=\"noopener\">${2:Link text}</a>$0"
         ],
-        "description": "Create a Section508.gov standard external link"
+        "description": "Create an external link"
     },
 
     "File Assets Link": {
         "scope": "markdown,html",
         "prefix": "link-file",
         "body": [
-            "<a href=\"{{site.baseurl}}/~assets/${1:path/to/file.pdf}\" download>${2:Document title (PDF)}</a>$0"
+            "<a href=\"${1:Paste Cloud.gov Pages PFS URL here}\" download>${2:Document title (PDF)}</a>$0"
         ],
-        "description": "Create a Section508.gov standard file download link"
+        "description": "Create a file download link"
     },
 
     "Email Link": {
         "scope": "markdown,html",
-        "prefix": "itad-link-email",
+        "prefix": "link-email",
         "body": [
             "<a href=\"mailto:${1:first.last@domain.com}\">${2:Email link text}</a>$0"
         ],
-        "description": "Create a Section508.gov email link"
+        "description": "Create an email link"
     },
     
     // Summary Boxes ------------------------------------------------------------
@@ -82,50 +91,215 @@
             "$0"
         ],
         "description": "Create a Section508.gov dual border callout box"
-    }
+    },
 
-    // Accordions
+// Accordions
     "Accordion Controls": {
         "scope": "markdown,html",
         "prefix": "accordion-controls",
         "body": [
             "<div class=\"margin-bottom-3\">",
-            "    <button id=\"expand-all\" class=\"usa-button\" data-target=\"accordion-group-${1:Set Group Letter|a,b,c,d,e}\" data-action=\"expand\">Expand All</button>",
-            "    <button id=\"collapse-all\" class=\"usa-button\" data-target=\"accordion-group-${1:Group Letter|a,b,c,d,e}\" data-action=\"collapse\">Collapse All</button>",
+            "    <button id=\"expand-all\" class=\"usa-button\" data-target=\"accordion-group-${1:Set Group Letter|a,b,c,d,e|}\" data-action=\"expand\">Expand All</button>",
+            "    <button id=\"collapse-all\" class=\"usa-button\" data-target=\"accordion-group-${1:Group Letter|a,b,c,d,e|}\" data-action=\"collapse\">Collapse All</button>",
             "</div>",
             "$0"
         ],
         "description": "Create Section508.gov accordion expand and collapse controls, allows comma separated group letters to control multiple accordion groups"
     },
-    "Accordion Group": {
+    
+    "Accordion Group (A:1/3)": {
         "scope": "markdown,html",
-        "prefix": "accordion-group",
+        "prefix": "accordion-group-a",
         "body": [
-            "<div id=\"accordion-group-${1:Set Group Letter|a,b,c,d,e}\" class=\"usa-accordion usa-accordion--multiselectable usa-accordion--bordered\" data-allow-multiple>",
-            "    <h${2:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
-            "        <button id=\"accordion-${3:1}-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a${3}\">${4:Accordion ${3} title}</button>",
-            "    </h${2}>",
-            "    <div id=\"a${3}\" class=\"usa-accordion__content\">",
-            "        ${4:Accordion ${3} body}",
+            "<div id=\"accordion-group-a\" class=\"usa-accordion usa-accordion--multiselectable usa-accordion--bordered\" data-allow-multiple>",
+            "    <h${1:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-1-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a1\">${2:Accordion 1 title}</button>",
+            "    </h${1}>",
+            "    <div id=\"a1\" class=\"usa-accordion__content\">",
+            "        ${3:Accordion 1 body}",
+            "    </div>",
+
+            "    <h${1} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-2-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a2\">${4:Accordion 2 title}</button>",
+            "    </h${1}>",
+            "    <div id=\"a2\" class=\"usa-accordion__content\">",
+            "        ${5:Accordion 2 body}",
+            "    </div>",
+
+            "    <h${1} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-3-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a3\">${6:Accordion 3 title}</button>",
+            "    </h${1}>",
+            "    <div id=\"a3\" class=\"usa-accordion__content\">",
+            "        ${7:Accordion 3 body}",
+            "    </div>",
+
+            "    <h${1} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-4-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a4\">${8:Accordion 4 title}</button>",
+            "    </h${1}>",
+            "    <div id=\"a4\" class=\"usa-accordion__content\">",
+            "        ${9:Accordion 4 body}",
+            "    </div>",
+
+            "    <h${1} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-5-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a5\">${10:Accordion 5 title}</button>",
+            "    </h${1}>",
+            "    <div id=\"a5\" class=\"usa-accordion__content\">",
+            "        ${11:Accordion 5 body}",
             "    </div>",
             "    $0",
             "</div>"
         ],
-        "description": "Create a Section508.gov USWDS accordion group"
-    }
+        "description": "Create an accordion group - Single, or 1st of 3"
+    },
+    
+    "Accordion Group (B:2/3)": {
+        "scope": "markdown,html",
+        "prefix": "accordion-group-b",
+        "body": [
+            "<div id=\"accordion-group-b\" class=\"usa-accordion usa-accordion--multiselectable usa-accordion--bordered\" data-allow-multiple>",
+            "    <h${1:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-1-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"b1\">${2:Accordion 1 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"b1\" class=\"usa-accordion__content\">",
+            "        ${3:Accordion 1 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-2-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"b2\">${4:Accordion 2 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"b2\" class=\"usa-accordion__content\">",
+            "        ${5:Accordion 2 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-3-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"b3\">${6:Accordion 3 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"b3\" class=\"usa-accordion__content\">",
+            "        ${7:Accordion 3 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-4-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"b4\">${8:Accordion 4 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"b4\" class=\"usa-accordion__content\">",
+            "        ${9:Accordion 4 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-5-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"b5\">${10:Accordion 5 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"b5\" class=\"usa-accordion__content\">",
+            "        ${11:Accordion 5 body}",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ],
+        "description": "Create an accordion group - 2nd of 3"
+    },
+
+    "Accordion Group (C:3/3)": {
+        "scope": "markdown,html",
+        "prefix": "accordion-group-c",
+        "body": [
+            "<div id=\"accordion-group-c\" class=\"usa-accordion usa-accordion--multiselectable usa-accordion--bordered\" data-allow-multiple>",
+            "    <h${1:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-1-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"c1\">${2:Accordion 1 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"c1\" class=\"usa-accordion__content\">",
+            "        ${3:Accordion 1 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-2-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"c2\">${4:Accordion 2 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"c2\" class=\"usa-accordion__content\">",
+            "        ${5:Accordion 2 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-3-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"c3\">${6:Accordion 3 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"c3\" class=\"usa-accordion__content\">",
+            "        ${7:Accordion 3 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-4-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"c4\">${8:Accordion 4 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"c4\" class=\"usa-accordion__content\">",
+            "        ${9:Accordion 4 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-5-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"c5\">${10:Accordion 5 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"c5\" class=\"usa-accordion__content\">",
+            "        ${11:Accordion 5 body}",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ],
+        "description": "Create an accordion group - 3rd of 3"
+    },
+
+    "Accordion Group (N:n/n)": {
+        "scope": "markdown,html",
+        "prefix": "accordion-group-n",
+        "body": [
+            "<div id=\"accordion-group-${1:Set Accordion Group ID|d,e,f,g,h|}\" class=\"usa-accordion usa-accordion--multiselectable usa-accordion--bordered\" data-allow-multiple>",
+            "    <h${2:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-1-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${1}1\">${3:Accordion 1 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"${1}1\" class=\"usa-accordion__content\">",
+            "        ${4:Accordion 1 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-2-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${1}2\">${5:Accordion 2 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"${1}2\" class=\"usa-accordion__content\">",
+            "        ${6:Accordion 2 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-3-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${1}3\">${7:Accordion 3 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"${1}3\" class=\"usa-accordion__content\">",
+            "        ${8:Accordion 3 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-4-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${1}4\">${9:Accordion 4 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"${1}4\" class=\"usa-accordion__content\">",
+            "        ${10:Accordion 4 body}",
+            "    </div>",
+
+            "    <h${2} class=\"usa-accordion__heading\">",
+            "        <button id=\"accordion-5-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${1}5\">${11:Accordion 5 title}</button>",
+            "    </h${2}>",
+            "    <div id=\"${1}5\" class=\"usa-accordion__content\">",
+            "        ${12:Accordion 5 body}",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ],
+        "description": "Create an accordion group - Nth of N"
+    },
+
     "Accordion Item": {
         "scope": "markdown,html",
         "prefix": "accordion-item",
         "body": [
             "<h${2:Your heading Level|2,3,4,5,6|} class=\"usa-accordion__heading\">",
-            "    <button id=\"accordion-${3:1}-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"a${3}\">${4:Accordion ${3} title}</button>",
+            "    <button id=\"accordion-${3|a,b,c|}${4|6,7,8,9,10|}-title\" type=\"button\" class=\"usa-accordion__button\" aria-expanded=\"true\" aria-controls=\"${3}${4}\">${5:Accordion ${3}${4} title}</button>",
             "</h${2}>",
-            "<div id=\"a${3}\" class=\"usa-accordion__content\">",
-            "    ${4:Accordion ${3} body}",
+            "<div id=\"${3}${4}\" class=\"usa-accordion__content\">",
+            "    ${6:Accordion ${3}${4} body}",
             "</div>$0"
         ],
-        "description": "Create a Section508.gov USWDS accordion group"
-    }
+        "description": "Create a single accordion item"
+    },
 
     // Footnotes ----------------------------------------------------------------
     "Footnote Reference": {
@@ -135,7 +309,7 @@
             "<sup><strong><a href=\"#fn${1:1}\" id=\"fr${1}\">${1}</a></strong></sup>$0"
         ],
         "description": "Create a Section508.gov footnote reference link"
-    }
+    },
 
     "Footnote Section": {
         "scope": "markdown,html",
@@ -149,51 +323,562 @@
             "</div>"
         ],
         "description": "Create a Section508.gov footnotes section in the footer of a page"
-    }
+    },
 
     "Footnote Item": {
         "scope": "markdown,html",
         "prefix": "footnote-footer-item",
         "body": [
-            "<li id=\"fn${1:1}\">${2:Your text here.} <a href=\"#fr${1}\" aria-label=\"${3:Back to content}\">↩</a></li>$0",
+            "<li id=\"fn${1:1}\">${2:Your text here.} <a href=\"#fr${1}\" aria-label=\"Back to content\">↩</a></li>$0",
         ],
         "description": "Create a Section508.gov footnote item"
-    }
+    },
     
     // Icon Lists ---------------------------------------------------------------
-    "Icon List": {
+    "Icon List: autorenew": {
     "scope": "markdown,html",
-        "prefix": "icon-list",
+        "prefix": "icon-list-autorenew",
         "body": [
-            "<ul id=\"${1:List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon ${2:Text color, e.g., text-green}\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#${3:Icon Name, e.g., check_circle}\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#autorenew\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
-            "    </li>0",
+            "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a Section508.gov USWDS icon list"
-    }
+        "description": "Create a icon list with a blue autorenew icon"
+    },
+
+    "Icon List: bookmark": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-bookmark",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#bookmark\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a blue bookmark icon"
+    },
+
+    "Icon List: cancel": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-cancel",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#cancel\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a red cancel icon"
+    },
+
+    "Icon List: check_box_outline_blank": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-check_box_outline_blank",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon \"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_box_outline_blank\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a check_box_outline_blank icon"
+    },
+
+    "Icon List: check_circle": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-check_circle",
+        "body": [
+            "<ul id=\"${1:List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a green check_circle icon"
+    },
+
+    "Icon List: event": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-event",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-orange\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#event\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with an orange event icon"
+    },
+
+    "Icon List: highlight_off": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-highlight-off",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#highlight_off\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a red highlight_off icon"
+    },
+
+    "Icon List: insights": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-insights",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#insights\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list  with a red insights icon"
+    },
+
+    "Icon List: link": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-link",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#link\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a blue link icon"
+    },
+
+    "Icon List: local_offer": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-local-offer",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#local_offer\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a blue local_offer icon"
+    },
+
+    "Icon List: push_pin": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-push_pin",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a red push_pin icon"
+    },
+
+    "Icon List: schedule": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-schedule",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#schedule\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a blue schedule icon"
+    },
+
+    "Icon List: school": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-school",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#school\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a green school icon"
+    },
+
+    "Icon List: thumb_down_alt": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-thumb_down_alt",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-red\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_down_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a red thumb_down_alt icon"
+    },
+
+    "Icon List: thumb_up_alt": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-thumb_up_alt",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-blue\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a blue thumb_up_alt icon"
+    },
+
+    "Icon List: Verified": {
+    "scope": "markdown,html",
+        "prefix": "icon-list-verified",
+        "body": [
+            "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
+            "    </li>",
+            "    <li class=\"usa-icon-list__item\">",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#verified\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
+            "    </li>$0",
+            "</ul>"
+        ],
+        "description": "Create a icon list with a green verified icon"
+    },
+
 
     // Pagination ---------------------------------------------------------------
     "Pagination - Next Only": {
@@ -205,7 +890,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create a Section508.gov next only button navigation button"
+        "description": "Create a centered next button navigation button"
     },
 
     "Pagination - Previous & Next": {
@@ -218,7 +903,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create Section508.gov previous AND next navigation button"
+        "description": "Create a previous AND next navigation button"
     },
 
     "Pagination - Previous Only": {
@@ -230,24 +915,13 @@
             "</div>",
             "$0"
         ],
-        "description": "Create a Section508.gov previous only page navigation button"
+        "description": "Create a centered previous page navigation button"
     },
 
-    // Process Arrows -----------------------------------------------------------
-    
-    "Process Arrow": {
-        "scope": "markdown,html",
-        "prefix": "process-arrow",
-        "body": [
-            "<span role=\"img\" aria-label=\"Arrow pointing ${1|right,left|}\">${2|&rarr;,&larr;|}</span>$0"
-        ],
-        "description": "Insert a process arrow: right or left"
-    }
-
     // Process Lists ------------------------------------------------------------
-    "USWDS Process List - Default": {
+    "Process List: Default": {
     "scope": "markdown,html",
-        "prefix": "process-list",
+        "prefix": "process-list-default",
         "body": [
             "<ol id=\"${1:List-ID}\" class=\"usa-process-list\">",
             "    <li class=\"usa-process-list__item\">",
@@ -278,11 +952,11 @@
             "$0"
         ],
         "description": "Create a Section508.gov USWDS process list"
-    }
+    },
 
-    "USWDS Process List No-Text": {
+    "Process List: Heading-Only": {
         "scope": "markdown,html",
-        "prefix": "process-list-no-text",
+        "prefix": "process-list-heading-only",
         "body": [
             "<ol id=\"${1:Process List ID}\" class=\"usa-process-list\">",
             "    <li class=\"usa-process-list__item padding-bottom-4\">",
@@ -304,57 +978,6 @@
             "$0"
         ],
         "description": "Create a Section508.gov large USWDS process list"
-    },
-
-    "USWDS Process List Custom Sizing": {
-        "scope": "markdown,html",
-        "prefix": "process-list-custom-sizing",
-        "body": [
-            "<ol id=\"${1:Process List ID}\" class=\"usa-process-list\">",
-            "    <li class=\"usa-process-list__item padding-bottom-4\">",
-            "        <h${2|2,3,4,5,6|} class=\"usa-process-list__heading font-sans-xl line-height-sans-1\">",
-            "            ${3:Step 1 heading}",
-            "        </h${2}>",
-            "        <p class=\"font-sans-lg margin-top-1 text-light\">",
-            "            ${4:Your text here.}",
-            "        </p>",
-            "    </li>",
-            "    <li class=\"usa-process-list__item padding-bottom-4\">",
-            "        <h${2} class=\"usa-process-list__heading font-sans-xl line-height-sans-1\">",
-            "            ${5:Step 2 heading}",
-            "        </h${2}>",
-            "        <p class=\"font-sans-lg margin-top-1 text-light\">",
-            "            ${6:Your text here.}",
-            "        </p>",
-            "    </li>",
-            "    <li class=\"usa-process-list__item padding-bottom-4\">",
-            "        <h${2} class=\"usa-process-list__heading font-sans-xl line-height-sans-1\">",
-            "            ${7:Step 2 heading}",
-            "        </h${2}>",
-            "        <p class=\"font-sans-lg margin-top-1 text-light\">",
-            "            ${8:Your text here.}",
-            "        </p>",
-            "    </li>",
-            "    <li class=\"usa-process-list__item padding-bottom-4\">",
-            "        <h${2} class=\"usa-process-list__heading font-sans-xl line-height-sans-1\">",
-            "            ${9:Step 2 heading}",
-            "        </h${2}>",
-            "        <p class=\"font-sans-lg margin-top-1 text-light\">",
-            "            ${10:Your text here.}",
-            "        </p>",
-            "    </li>",
-            "    <li class=\"usa-process-list__item padding-bottom-4\">",
-            "        <h${2} class=\"usa-process-list__heading font-sans-xl line-height-sans-1\">",
-            "            ${11:Step 3 heading}",
-            "        </h${2}>",
-            "        <p class=\"font-sans-lg margin-top-1 text-light\">",
-            "            ${12:Your text here.}",
-            "        </p>",
-            "    </li>",
-            "</ol>",
-            "$0"
-        ],
-        "description": "Create a Section508.gov large USWDS process list with descriptive text"
     },
 
     // Tables -------------------------------------------------------------------
@@ -422,6 +1045,25 @@
     // ==========================================================================
     // YAML
     // ==========================================================================
+
+    // Content Library Documents ------------------------------------------------
+    "Content Library Document Entry": {
+        "scope": "yaml",
+        "prefix": "content-lib-document",
+        "body": [
+            "- filename: \"${1:file-name.ext}\"",
+            "  permalink: \"${2:Paste link from PFS upload}\"",
+            "  title: \"${3:Resource title}\"",
+            "  description: \"${4:Resource description.}\"",
+            "  topic: \"${5:Topic}\"",
+            "  sub-topic: \"${6:Sub-topic}\"",
+            "  audience: \"${7:Audience}\"",
+            "  resource-type: \"${8:Resource type}\"",
+            "  format: \"${9|Document (PDF),Document (DOCX),Document (XLSX),Document (PPTX),HTML,Video,Audio,ZIP|}\"",
+            "$0"
+        ],
+        "description": "Create a Section508.gov resource metadata entry"
+    },
 
     // ==========================================================================
     // JSON
