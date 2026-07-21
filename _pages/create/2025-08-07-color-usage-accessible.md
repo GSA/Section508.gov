@@ -29,7 +29,7 @@ redirect_from:
 - /training/create/making-color-usage-accessible/
 format: HTML
 created: 2025-08-07
-updated: 2026-04-14
+updated: 2026-07-10
 exclude-changelog: true
 ---
 In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.

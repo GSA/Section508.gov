@@ -2,23 +2,26 @@
 layout: page
 sidenav: true
 type: acquisition
-title: 'Authoring Tool Requirements'
+title: Authoring Tool Requirements
 permalink: buy/authoring-tools/
-redirect_from:
-- create/authoring-tools/
 description: Learn Section 508 authoring tool requirements and how software must support creating, preserving, and exporting accessible content that meets WCAG 2.0 A and AA.
-audience:
-- "Section 508 Program Managers"
-- "Buyers"
-- "Chief Acquisition Officers (CAO)"
-- "Section 508 Program Managers"
-- "Policy and Law Makers"
-topic: "Buy"
-sub-topic: "Statute & Regulation"
-resource-type: "Article"
-format: "HTML"
+redirect_from: 
+- create/authoring-tools/
+audience: 
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Policy and Law Makers
+- Section 508 Program Managers
+topic: 
+- Buy
+subtopic: 
+- Statute & Regulation
+resource-type: 
+- Article
+format: HTML
 created: 2018-05-17
-updated: 2024-05-30
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 The [Revised 508 Standards][1] include new requirements for authoring tools. From the definitions section (E103.4) of the Revised 508 Standards:
@@ -59,5 +62,5 @@ If your software lets you create or edit content, or save content in PDF format,
 Clear authoring guidelines are usually a good indication that those tools can produce accessible outputs. See these [Accessibility Testing resources][3] for examples.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#504-authoring-tools
+ [2]: https://www.access-board.gov/ict/#504-authoring-tools
  [3]: {{site.baseurl}}/test

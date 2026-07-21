@@ -2,21 +2,26 @@
 layout: page
 sidenav: true
 type: acquisition
-title: 'Accessibility In Procurement I: Pre-Soliciation'
+title: "Accessibility In Procurement I: Pre-Soliciation"
 permalink: buy/accessibility-in-procurement-pre-solicitation-1/
-description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities. 
+description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities.
 contributors: proctor, gsatts
-audience:
-- "Buyers"
-- "Chief Acquisition Officers (CAO)"
-- "Executive Leadership (CXO)"
-- "Executive Leadership (CXO)"
-topic: "Buy"
-sub-topic: "Guidance"
-resource-type: "Process & How-To"
-format: "HTML"
+audience: 
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Executive Leadership (CXO)
+topic: 
+- Buy
+subtopic: 
+- Guidance
+resource-type: 
+- Process & How-To
+format: HTML
 created: 2023-09-25
+updated: 2026-07-10
+exclude-changelog: true
 ---
+
 
 ## Purpose
 This guide focuses on Accessibility in procurement. Contracting Officers (COs)/Contract Specialists (CSs) play an integral role in the information and communication technology (ICT) lifecycle. Including them early on in the process will ensure optimal results in ensuring products are fully accessible. The procurement process is very dynamic and can be very overwhelming. 
@@ -50,7 +55,7 @@ the process, especially evaluating accessibility during pre- and post-award. For
 * <a href="https://www.itic.org/dotAsset/7edcd54d-c6a6-4649-8375-4a0f0c68eff2.doc" target="_blank" class="usa-link--external">VPAT WCAG Edition (March 2022) (DOC)</a>
 
 ## Alternatives
-What if a product or service does not meet all of the Accessibility requirements? <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">[Section E202.7 Best Meets</a> of the Revised 508 Standards states that if one cannot find an accessible commercial solution, an agency should procure the ICT solution that *best meets* the standards consistent with business needs. If no technically acceptable alternative fully conforms to the Revised 508 Standards, select the alternative that best meets the standards when making an award, and request a “best meets” exception. Where product features or components are not fully accessible, the agency is required to make available <a href="https://www.access-board.gov/ict/#E202.6.3" target="_blank" class="usa-link--external">alternate means</a> of accessing the information or functions supported by the ICT. 
+What if a product or service does not meet all of the Accessibility requirements? <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">[Section E202.7 Best Meets</a> of the Revised 508 Standards states that if one cannot find an accessible commercial solution, an agency should procure the ICT solution that *best meets* the standards consistent with business needs. If no technically acceptable alternative fully conforms to the Revised 508 Standards, select the alternative that best meets the standards when making an award, and request a “best meets” exception. Where product features or components are not fully accessible, the agency is required to make available <a href="https://www.access-board.gov/ict/#E202.6.3" target="_blank" class="usa-link--external">alternate means</a> of accessing the information or functions supported by the ICT. 
 
 ### Tools
 GSA also has the [Accessibility Requirements Tool (ART)]({{site.baseurl}}/buy/accessibility-requirements-tool/) which is a user-friendly form that will develop language for including Accessibility requirements in a solicitation.

@@ -22,8 +22,8 @@ resource-type:
 - Article
 format: "HTML"
 created: 2025-09-09
-updated: 2025-09-09
-exclude-changelog: 
+updated: 2026-07-10
+exclude-changelog: true
 ---
 Integrating Section 508 conformance data, such as test reports or Accessibility Conformance Reports (ACR) into IT product portfolios—like asset and application inventories or [Governance, Risk, and Compliance (GRC)]({{site.baseurl}}/tools/glossary/#g) tools—is crucial for ensuring Section 508 conformance across an agency’s digital ecosystem. Effective execution of these practices supports informed procurement decisions, facilitates audits, strengthens governance, and enhances risk management, all while optimizing documentation storage.
 
@@ -161,7 +161,7 @@ While the exact GRC tool or platform may vary, most allow:
     </li>
     </ul>
 
-By aligning Section 508 controls with existing digital policy mandates such as <a href="https://www.fedramp.gov/docs/authority/m-24-15/" target="_blank" class="usa-link--external">Modernizing the Federal Risk and Authorization Management Program (FedRAMP) (M-24-15)</a>, agencies can unify information and communication technology (ICT) accessibility with IT governance. Where possible, agencies should align Section 508 controls with related compliance domains, such as information security, privacy, and records management, to enable unified workflows and reduce duplication of compliance activities. Integrating Section 508 into the agency's GRC tools ensures ICT accessibility is not treated as an afterthought, but rather as a managed and measurable part of the agency’s overall risk and compliance posture. Per M-24-15 agencies should “\[e\]nsure that agency governance, risk, and compliance (GRC) tools and system inventory tools can produce, transmit, and ingest machine readable authorization artifacts using OSCAL or any succeeding formats as identified by FedRAMP”.
+By aligning Section 508 controls with existing digital policy mandates such as <a href="https://www.fedramp.gov/2026/authority/m-24-15/" target="_blank" class="usa-link--external">Modernizing the Federal Risk and Authorization Management Program (FedRAMP) (M-24-15)</a>, agencies can unify information and communication technology (ICT) accessibility with IT governance. Where possible, agencies should align Section 508 controls with related compliance domains, such as information security, privacy, and records management, to enable unified workflows and reduce duplication of compliance activities. Integrating Section 508 into the agency's GRC tools ensures ICT accessibility is not treated as an afterthought, but rather as a managed and measurable part of the agency’s overall risk and compliance posture. Per M-24-15 agencies should “\[e\]nsure that agency governance, risk, and compliance (GRC) tools and system inventory tools can produce, transmit, and ingest machine readable authorization artifacts using OSCAL or any succeeding formats as identified by FedRAMP”.
 
 Agencies must ensure GRC and inventory tools themselves meet Section 508 requirements. This includes conducting accessibility testing of the platforms, reviewing vendor ACRs, and documenting alternate access methods if full conformance is not possible.
 

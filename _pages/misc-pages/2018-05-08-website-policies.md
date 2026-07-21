@@ -2,20 +2,25 @@
 layout: page
 sidenav: false
 type: page
-title: 'Website Policies'
+title: Website Policies
 permalink: website-policies/
+description: Explore Section508.gov website policies, including accessibility, privacy, security, and terms of use, to ensure safe and compliant site interactions.
 redirect_from: 
 - copyright/
-description: Explore Section508.gov website policies, including accessibility, privacy, security, and terms of use, to ensure safe and compliant site interactions.
-topic: About
-sub-topic: Best Practices
-audience:
+audience: 
+- Federal Employees
 - Members of the Public
 - Section 508 Program Managers
-- Federal Employees
-resource-type: Article
+topic: 
+- About
+subtopic: 
+- Best Practices
+resource-type: 
+- Article
 format: HTML
 created: 2018-05-08
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 This page explains website policies, procedures, and required links for the Section508.gov website.
@@ -123,9 +128,9 @@ Where we manage a presence on social media sites to share government information
 [7]: https://www.gsa.gov/website-information/accessibility-aids
 [8]: https://www.gsa.gov/privacy
 [9]: {{site.baseurl}}/privacy-policy
-[10]: http://www.gsa.gov/portal/category/21546
+[10]: https://www.gsa.gov/about-gsa/newsroom/budget-and-performance
 [11]: http://www.gsa.gov/portal/directives
-[12]: http://www.gsa.gov/portal/content/105305
-[13]: http://www.gsa.gov/portal/content/101344
-[14]: http://www.gsa.gov/portal/category/21544
+[12]: https://www.gsa.gov/reference/freedom-of-information-act-foia
+[13]: https://www.gsa.gov/reference/civil-rights-programs/the-no-fear-act
+[14]: https://www.gsa.gov/about-gsa/newsroom/budget-and-performance
 [15]: #reuse-and-copyright

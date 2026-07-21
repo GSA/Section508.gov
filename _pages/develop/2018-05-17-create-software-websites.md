@@ -23,7 +23,7 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2018-05-17
-updated: 2026-04-08
+updated: 2026-07-09
 exclude-changelog: true
 ---
 
@@ -45,7 +45,7 @@ The resources in this section will help you:
 Navigate through the sections below to learn more:
 
   * [Applicability & Conformance Requirements][2] 
-  * [Testing Guidance for Developers][3] 
+  * [Overview of Testing Methods for 508 Conformance][3] 
   * [Authoring Tool Requirements][4] 
   * [Accessibility Training for Developers][5] 
   * [Develop Accessible Web Content][6]
@@ -64,11 +64,11 @@ Navigate through the sections below to learn more:
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/create/applicability-conformance
- [3]: {{site.baseurl}}/create/testing-for-developers
+ [3]: {{site.baseurl}}/test/testing-overview/
  [4]: {{site.baseurl}}/create/authoring-tools
  [5]: {{site.baseurl}}/create/developer-training
  [6]: {{site.baseurl}}/create/web-content
- [7]: {{site.baseurl}}/content/guide-accessible-web-design-development
+ [7]: {{site.baseurl}}/develop/guide-accessible-web-design-development
  [8]: {{site.baseurl}}/develop/universal-design
  [9]: https://digital.gov/guides/accessibility-for-teams/
  [10]: https://designsystem.digital.gov/

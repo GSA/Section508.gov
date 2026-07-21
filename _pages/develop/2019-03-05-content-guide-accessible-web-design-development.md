@@ -2,24 +2,28 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Guide to Accessible Web Design & Development'
+title: Guide to Accessible Web Design & Development
 permalink: develop/guide-accessible-web-design-development/
-redirect_from:
-- content/guide-accessible-web-design-development/
+description: Guide to Accessible Web Design & Development
 contributors: usab
-description: "Guide to Accessible Web Design & Development"
-topic: "Develop"
-sub-topic: "Guidance"
-audience:
-- "Developers"
-- "Section 508 Program Managers"
-- "Content Creators"
-- "IT Program & Project Managers"
-- "Designers"
-resource-type: "Article"
-format: "HTML"
+redirect_from: 
+- content/guide-accessible-web-design-development/
+audience: 
+- Content Creators
+- Designers
+- Developers
+- IT Program & Project Managers
+- Section 508 Program Managers
+topic: 
+- Develop
+subtopic: 
+- Guidance
+resource-type: 
+- Article
+format: HTML
 created: 2019-03-05
-updated: 2023-01-01
+updated: 2026-07-09
+exclude-changelog: true
 ---
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
@@ -499,7 +503,7 @@ All functionality of the content is operable through a keyboard interface withou
   * Do not remove standard keyboard accessibility behavior from native HTML interface elements (such as links, buttons, form elements).
   * Add keyboard accessibility to custom developed interface elements. 
       * Use the proper [ARIA][22] attributes, and javascript event handling.
-  * Make tooltips mouse and keyboard accessible. Review [ARIA tooltip example][23].
+  * Make tooltips mouse and keyboard accessible. <!-- Review [ARIA tooltip example][23]. -->
 
 ### 2.1.2 No Keyboard Trap
 
@@ -1089,7 +1093,7 @@ In addition, the following success criteria apply to all content on the page, in
   * [ARIA is Spackle, Not Rebar][38]
   * [Accessible Name and Description Inspector (ANDI) Developer Tips][39]
 
-Created by the CIO Council’s [Accessibility Community of Practice][40], this information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
+This information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
 
  [1]: https://www.w3.org/TR/WCAG20/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
@@ -1113,7 +1117,6 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [20]: https://www.ssa.gov/accessibility/andi/help/developerguide.html#title
  [21]: https://www.ssa.gov/accessibility/andi/help/developerguide.html#Add-OnProperties
  [22]: https://www.w3.org/TR/using-aria/
- [23]: http://accessibility.athena-ict.com/aria/examples/tooltip.shtml
  [24]: https://gist.github.com/JamieMason/3748498
  [25]: https://www.w3.org/TR/2008/REC-WCAG20-20081211/#correct-reading-sequencedef
  [26]: https://www.w3.org/TR/2008/REC-WCAG20-20081211/#programmaticallydetermineddef
@@ -1130,5 +1133,4 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [37]: https://webaim.org/
  [38]: https://css-tricks.com/aria-spackle-not-rebar/
  [39]: https://www.ssa.gov/accessibility/andi/help/developerguide.html
- [40]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [41]: https://www.dhs.gov/trusted-tester

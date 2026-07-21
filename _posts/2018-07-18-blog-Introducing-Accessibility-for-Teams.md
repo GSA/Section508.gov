@@ -1,22 +1,30 @@
 ---
 layout: post
-permalink: blog/Introducing-Accessibility-for-Teams/
+sidenav: true
 type: article
-title: 'Introducing Accessibility for Teams'
-created: 2018-07-18
-updated: 2024-07-11
-tags: Design-and-Develop
+title: Introducing Accessibility for Teams
+permalink: blog/Introducing-Accessibility-for-Teams/
 description: Accessibility is a crucial part of government product design.
-topic: "Develop"
-sub-topic: "Guidance"
-audience:
-- "Developers"
-- "Section 508 Program Managers"
-- "Content Creators"
-- "Federal Employees"
-- "IT Program & Project Managers"
-resource-type: "Blog"
-format: "HTML"
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+disclaimer: true
+audience: 
+- Content Creators
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
+topic: 
+- Develop
+subtopic: 
+- Guidance
+resource-type: 
+- Blog
+format: HTML
+created: 2018-07-18
+updated: 2026-07-10
+exclude-changelog: true
 ---
 
 Accessibility is a crucial part of government product design. First,&nbsp;[it&rsquo;s the law][1]. Federal agencies face legal consequences when they don&rsquo;t meet accessibility requirements. Second, it affects us all. Whether you have a motor disability, you sprained your wrist playing dodgeball, you need a building to have a ramp for your wheelchair or stroller, or you literally just have your hands full, we all find ourselves unable to do certain things at different points in our lives. Accessible products are better products for everyone.
@@ -55,7 +63,7 @@ David Stenger, Carolyn Dew, Victor Zapanta, Kate Saul, Nikki Lee, Andrew Maier, 
 
 This DigitalGov Guide is maintained by the Accessibility Guild in TTS at GSA. In the government, accessibility isn&rsquo;t a nice-to-have,&nbsp;[it&rsquo;s the law][1]. Find out more about&nbsp;[Section 508][5]&nbsp;of the Rehabilitation Act of 1973, a law that requires all information and communications technology released by the government to be accessible to anybody with a disability. Learn about the&nbsp;[Section 508 Refresh][6]&nbsp;that went into effect in January 2018.
 
- [1]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
+ [1]: https://www.access-board.gov/about/law/ra.html
  [2]: https://digital.gov/guides/accessibility-for-teams/ 
  [3]: https://digital.gov/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/
  [4]: {{site.baseurl}}/assets/images/Can%20you%20reach%20anything%20that%27s%20interactive%20using%20the%20tab%20key.png

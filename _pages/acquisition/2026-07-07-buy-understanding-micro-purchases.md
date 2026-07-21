@@ -23,7 +23,6 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2026-07-07
-updated: 
 ---
 Micro-purchases of information and communication technology (ICT) must still meet applicable Section 508 accessibility requirements, even when acquisition procedures are simplified.
 
@@ -269,9 +268,9 @@ To learn more, start with these core resources.
 
 * **Section 508 Standards**
     * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
+    * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+    * <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+    * <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
 * **Laws and Regulations**
     * <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act of 1973, as amended</a>    
     * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Information and Communication Technology (ICT) Standards and Guidelines</a>
