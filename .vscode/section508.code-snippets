@@ -18,26 +18,26 @@
             "</div>",
             "$0",
         ],
-        "description": "Create an Section508.gov image block with caption and figure number"
+        "description": "Insert an Section508.gov image block with caption and figure number"
     },    
 
     // Links -------------------------------------------------------------------
-    "Internal Link MD": {
+    "Internal Link (md)": {
         "scope": "markdown,html",
         "prefix": "link-md",
         "body": [
             "[${1:Link text}]({{site.baseurl}}/${2:path/to/page/})$0"
         ],
-        "description": "Create an internal Section508.gov link in markdown"
+        "description": "Insert internal Section508.gov link in markdown"
     },
 
-    "Internal Link HTML": {
+    "Internal Link (html)": {
         "scope": "markdown,html",
         "prefix": "link-html",
         "body": [
             "<a href=\"{{site.baseurl}}/${1:path/to/page/}\">${2:Link text}</a>$0"
         ],
-        "description": "Create an internal Section508.gov link in html"
+        "description": "Insert internal Section508.gov link in HTML"
     },
 
     "External Link": {
@@ -46,7 +46,7 @@
         "body": [
             "<a href=\"${1:https://example.com}\" class=\"usa-link usa-link--external\" target=\"_blank\" rel=\"noopener\">${2:Link text}</a>$0"
         ],
-        "description": "Create an external link"
+        "description": "Insert an external link in HTML"
     },
 
     "File Assets Link": {
@@ -55,7 +55,7 @@
         "body": [
             "<a href=\"${1:Paste Cloud.gov Pages PFS URL here}\" download>${2:Document title (PDF)}</a>$0"
         ],
-        "description": "Create a file download link"
+        "description": "Insert a file download link in HTML"
     },
 
     "Email Link": {
@@ -64,33 +64,120 @@
         "body": [
             "<a href=\"mailto:${1:first.last@domain.com}\">${2:Email link text}</a>$0"
         ],
-        "description": "Create an email link"
+        "description": "Insert an email link in HTML"
     },
     
     // Summary Boxes ------------------------------------------------------------
     "Summary Box": {
         "scope": "markdown,html",
-        "prefix": "summary-box-small",
+        "prefix": "summary-box",
         "body": [
-            "<div class=\"grid-col-12 ${1|summary-box,summary-box--alt,summary-box--code,summary-box--left,summary-box--right|}\">",
+            "<div class=\"grid-col-12 summary-box\">",
             "    ${2:Your text here}",
             "</div>",
             "$0"
         ],
-        "description": "Create and style the default Section508.gov summary box"
+        "description": "Insert a default summary box"
     },
 
-    "Callout Box Dual": {
+    "Summary Box: ALT": {
         "scope": "markdown,html",
-        "prefix": "summary-box-dual",
+        "prefix": "summary-box--alt",
         "body": [
-            "<div class=\"${1|callout-box-dual,callout-box-dual-alt,callout-box-dual-green,callout-box-dual-violet,callout-box-dual-violet-reverse|} margin-bottom-1\">",
-            "    <h${2:Select your heading level|2,3,4,5,6|}>${3:Your heading here}</h$2>",
-            "    ${4:Your text here}",
+            "<div class=\"grid-col-12 summary-box--alt\">",
+            "    ${1:Your text here}",
             "</div>",
             "$0"
         ],
-        "description": "Create a Section508.gov dual border callout box"
+        "description": "Insert a summary box with alternate blue bg color"
+    },
+
+    "Summary Box: Code": {
+        "scope": "markdown,html",
+        "prefix": "summary-box--code",
+        "body": [
+            "<div class=\"grid-col-12 summary-box--code\">",
+            "    ${1:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a code sample summary box"
+    },
+
+    "Summary Box: Left": {
+        "scope": "markdown,html",
+        "prefix": "summary-box--left",
+        "body": [
+            "<div class=\"grid-col-12 summary-box--left\">",
+            "    ${1:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a left-border summary box"
+    },
+
+    "Summary Box: Right": {
+        "scope": "markdown,html",
+        "prefix": "summary-box--right",
+        "body": [
+            "<div class=\"grid-col-12 summary-box--right\">",
+            "    ${1:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a right-border summary box"
+    },
+
+    "Summary Box Dual": {
+        "scope": "markdown,html",
+        "prefix": "summary-box-dual",
+        "body": [
+            "<div class=\"callout-box-dual margin-bottom-1\">",
+            "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
+            "    ${3:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a Section508.gov dual border callout box"
+    },
+    
+    "Summary Box Dual: ALT": {
+        "scope": "markdown,html",
+        "prefix": "summary-box-dual-alt",
+        "body": [
+            "<div class=\"callout-box-dual-alt margin-bottom-1\">",
+            "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
+            "    ${3:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a Section508.gov dual border callout box"
+    },
+
+    "Summary Box Dual: Green": {
+        "scope": "markdown,html",
+        "prefix": "summary-box-dual-green",
+        "body": [
+            "<div class=\"callout-box-dual-green margin-bottom-1\">",
+            "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
+            "    ${3:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a Section508.gov dual border callout box"
+    },
+
+    "Summary Box Dual: Violet": {
+        "scope": "markdown,html",
+        "prefix": "summary-box-dual-violet",
+        "body": [
+            "<div class=\"callout-box-dual-violet margin-bottom-1\">",
+            "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
+            "    ${3:Your text here}",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a Section508.gov dual border callout box"
     },
 
 // Accordions
@@ -104,7 +191,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create Section508.gov accordion expand and collapse controls, allows comma separated group letters to control multiple accordion groups"
+        "description": "Insert Section508.gov accordion expand and collapse controls, allows comma separated group letters to control multiple accordion groups"
     },
     
     "Accordion Group (A:1/3)": {
@@ -149,7 +236,7 @@
             "    $0",
             "</div>"
         ],
-        "description": "Create an accordion group - Single, or 1st of 3"
+        "description": "Insert an accordion group - Single, or 1st of 3"
     },
     
     "Accordion Group (B:2/3)": {
@@ -194,7 +281,7 @@
             "    $0",
             "</div>"
         ],
-        "description": "Create an accordion group - 2nd of 3"
+        "description": "Insert an accordion group - 2nd of 3"
     },
 
     "Accordion Group (C:3/3)": {
@@ -239,7 +326,7 @@
             "    $0",
             "</div>"
         ],
-        "description": "Create an accordion group - 3rd of 3"
+        "description": "Insert an accordion group - 3rd of 3"
     },
 
     "Accordion Group (N:n/n)": {
@@ -284,7 +371,7 @@
             "    $0",
             "</div>"
         ],
-        "description": "Create an accordion group - Nth of N"
+        "description": "Insert an accordion group - Nth of N"
     },
 
     "Accordion Item": {
@@ -298,7 +385,7 @@
             "    ${6:Accordion ${3}${4} body}",
             "</div>$0"
         ],
-        "description": "Create a single accordion item"
+        "description": "Insert a single accordion item"
     },
 
     // Footnotes ----------------------------------------------------------------
@@ -308,7 +395,7 @@
         "body": [
             "<sup><strong><a href=\"#fn${1:1}\" id=\"fr${1}\">${1}</a></strong></sup>$0"
         ],
-        "description": "Create a Section508.gov footnote reference link"
+        "description": "Insert a Section508.gov footnote reference link"
     },
 
     "Footnote Section": {
@@ -322,7 +409,7 @@
             "    </ol>",
             "</div>"
         ],
-        "description": "Create a Section508.gov footnotes section in the footer of a page"
+        "description": "Insert a Section508.gov footnotes section in the footer of a page"
     },
 
     "Footnote Item": {
@@ -331,10 +418,40 @@
         "body": [
             "<li id=\"fn${1:1}\">${2:Your text here.} <a href=\"#fr${1}\" aria-label=\"Back to content\">↩</a></li>$0",
         ],
-        "description": "Create a Section508.gov footnote item"
+        "description": "Insert a Section508.gov footnote item"
     },
     
-    // Icon Lists ---------------------------------------------------------------
+    // Lists ---------------------------------------------------------------
+    "Bulleted list": {
+        "scope": "markdown,html",
+        "prefix": "list-unordered",
+        "body": [
+            "<ul id=\"${1:List ID}\">",
+            "   <li>${2:List item text}</li>",
+            "   <li>${3:List item text}</li>",
+            "   <li>${4:List item text}</li>",
+            "   <li>${5:List item text}</li>",
+            "   <li>${6:List item text}</li>",
+            "</ul>$0",
+        ],
+        "description": "Insert an unordered (bulleted) list"
+    },
+    "Numbered list": {
+        "scope": "markdown,html",
+        "prefix": "list-ordered",
+        "body": [
+            "<ol id=\"${1:List ID}\" start=\"${2:Starting number}\">",
+            "   <li>${3:List item text}</li>",
+            "   <li>${4:List item text}</li>",
+            "   <li>${5:List item text}</li>",
+            "   <li>${6:List item text}</li>",
+            "   <li>${7:List item text}</li>",
+            "</ol>$0",
+        ],
+        "description": "Insert an ordered (numbered) list"
+    },
+    
+
     "Icon List: autorenew": {
     "scope": "markdown,html",
         "prefix": "icon-list-autorenew",
@@ -366,7 +483,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue autorenew icon"
+        "description": "Insert a icon list with a blue autorenew icon"
     },
 
     "Icon List: bookmark": {
@@ -400,7 +517,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue bookmark icon"
+        "description": "Insert a icon list with a blue bookmark icon"
     },
 
     "Icon List: cancel": {
@@ -434,12 +551,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a red cancel icon"
+        "description": "Insert a icon list with a red cancel icon"
     },
 
-    "Icon List: check_box_outline_blank": {
+    "Icon List: check_box": {
     "scope": "markdown,html",
-        "prefix": "icon-list-check_box_outline_blank",
+        "prefix": "icon-list-check_box",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -468,7 +585,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a check_box_outline_blank icon"
+        "description": "Insert a icon list with a check_box_outline_blank icon"
     },
 
     "Icon List: check_circle": {
@@ -477,32 +594,32 @@
         "body": [
             "<ul id=\"${1:List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${4:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${5:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${6:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${7:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${8:List item text}</div>",
             "    </li>",
             "    <li class=\"usa-icon-list__item\">",
-            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#push_pin,check_circle\"></use></svg></div>",
+            "        <div class=\"usa-icon-list__icon text-green\"><svg class=\"usa-icon\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{ site.baseurl }}/assets/images/sprite.svg#check_circle\"></use></svg></div>",
             "        <div class=\"usa-icon-list__content\">${9:List item text}</div>",
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a green check_circle icon"
+        "description": "Insert a icon list with a green check_circle icon"
     },
 
     "Icon List: event": {
@@ -536,12 +653,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with an orange event icon"
+        "description": "Insert a icon list with an orange event icon"
     },
 
-    "Icon List: highlight_off": {
+    "Icon List: Cancel ALT": {
     "scope": "markdown,html",
-        "prefix": "icon-list-highlight-off",
+        "prefix": "icon-list-cancel-alt",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -570,7 +687,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a red highlight_off icon"
+        "description": "Insert a icon list with a red highlight_off icon"
     },
 
     "Icon List: insights": {
@@ -604,7 +721,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list  with a red insights icon"
+        "description": "Insert a icon list  with a red insights icon"
     },
 
     "Icon List: link": {
@@ -638,12 +755,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue link icon"
+        "description": "Insert a icon list with a blue link icon"
     },
 
-    "Icon List: local_offer": {
+    "Icon List: tag": {
     "scope": "markdown,html",
-        "prefix": "icon-list-local-offer",
+        "prefix": "icon-list-tag",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -672,7 +789,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue local_offer icon"
+        "description": "Insert a icon list with a blue local_offer icon"
     },
 
     "Icon List: push_pin": {
@@ -706,12 +823,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a red push_pin icon"
+        "description": "Insert a icon list with a red push_pin icon"
     },
 
-    "Icon List: schedule": {
+    "Icon List: clock": {
     "scope": "markdown,html",
-        "prefix": "icon-list-schedule",
+        "prefix": "icon-list-clock",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -740,7 +857,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue schedule icon"
+        "description": "Insert a icon list with a blue schedule icon"
     },
 
     "Icon List: school": {
@@ -774,12 +891,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a green school icon"
+        "description": "Insert a icon list with a green school icon"
     },
 
-    "Icon List: thumb_down_alt": {
+    "Icon List: thumb_down": {
     "scope": "markdown,html",
-        "prefix": "icon-list-thumb_down_alt",
+        "prefix": "icon-list-thumb_down",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -808,12 +925,12 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a red thumb_down_alt icon"
+        "description": "Insert a icon list with a red thumb_down_alt icon"
     },
 
-    "Icon List: thumb_up_alt": {
+    "Icon List: thumb_up": {
     "scope": "markdown,html",
-        "prefix": "icon-list-thumb_up_alt",
+        "prefix": "icon-list-thumb_up",
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -842,7 +959,7 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a blue thumb_up_alt icon"
+        "description": "Insert a icon list with a blue thumb_up_alt icon"
     },
 
     "Icon List: Verified": {
@@ -876,9 +993,19 @@
             "    </li>$0",
             "</ul>"
         ],
-        "description": "Create a icon list with a green verified icon"
+        "description": "Insert a icon list with a green verified icon"
     },
 
+    // Lorem Ipsum --------------------------------------------------------------
+    "Lorem Ipsum": {
+        "scope": "markdown,html",
+        "prefix": "lorem-ipsum",
+        "body": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "$0",
+        ],
+        "description": "Set lorem ipsum placeholder text for a page"
+    },
 
     // Pagination ---------------------------------------------------------------
     "Pagination - Next Only": {
@@ -890,7 +1017,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create a centered next button navigation button"
+        "description": "Insert a centered next button navigation button"
     },
 
     "Pagination - Previous & Next": {
@@ -903,7 +1030,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create a previous AND next navigation button"
+        "description": "Insert a previous AND next navigation button"
     },
 
     "Pagination - Previous Only": {
@@ -915,7 +1042,7 @@
             "</div>",
             "$0"
         ],
-        "description": "Create a centered previous page navigation button"
+        "description": "Insert a centered previous page navigation button"
     },
 
     // Process Lists ------------------------------------------------------------
@@ -923,7 +1050,7 @@
     "scope": "markdown,html",
         "prefix": "process-list-default",
         "body": [
-            "<ol id=\"${1:List-ID}\" class=\"usa-process-list\">",
+            "<ol id=\"${1:List-ID}\" class=\"usa-process-list itad-process-list--wide\">",
             "    <li class=\"usa-process-list__item\">",
             "        <h${2|2,3,4,5,6|} class=\"usa-process-list__heading\">${3:Step 1 heading}</h${2}>",
             "        <p class=\"margin-top-05\">${4:Step 1 description}</p>",
@@ -951,7 +1078,7 @@
             "</ol>",
             "$0"
         ],
-        "description": "Create a Section508.gov USWDS process list"
+        "description": "Insert a Section508.gov USWDS process list"
     },
 
     "Process List: Heading-Only": {
@@ -977,7 +1104,7 @@
             "</ol>",
             "$0"
         ],
-        "description": "Create a Section508.gov large USWDS process list"
+        "description": "Insert a Section508.gov large USWDS process list"
     },
 
     // Tables -------------------------------------------------------------------
@@ -1010,7 +1137,7 @@
             "  </tbody>",
             "</table>"
         ],
-        "description": "Create a Section508.gov data table"
+        "description": "Insert a Section508.gov data table"
     },
 
     "Table Row": {
@@ -1027,7 +1154,7 @@
             "</tr>",
             "$0"
         ],
-        "description": "Create a Section508.gov data table row"
+        "description": "Insert a Section508.gov data table row"
     },
 
     // ==========================================================================
@@ -1062,7 +1189,7 @@
             "  format: \"${9|Document (PDF),Document (DOCX),Document (XLSX),Document (PPTX),HTML,Video,Audio,ZIP|}\"",
             "$0"
         ],
-        "description": "Create a Section508.gov resource metadata entry"
+        "description": "Insert a Section508.gov resource metadata entry"
     },
 
     // ==========================================================================
