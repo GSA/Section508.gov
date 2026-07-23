@@ -18,26 +18,29 @@
             "</div>",
             "$0",
         ],
-        "description": "Insert an Section508.gov image block with caption and figure number"
-    },    
+        "description": "Insert an image block with ALT text, caption and figure number"
+    },
+    
+    "Image Only (HTML)": {
+        "scope": "markdown,html",
+        "prefix": "image-only-html",
+        "body": [
+            "<img src=\"{{site.baseurl}}/assets/images/${1:path}/${2:file-name.jpg}\" alt=\"${3:ALT text}\">",
+            "$0",
+        ],
+        "description": "Insert an image element with ALT text"
+    },
+    
+    
 
     // Links -------------------------------------------------------------------
-    "Internal Link (md)": {
+    "Email Link": {
         "scope": "markdown,html",
-        "prefix": "link-md",
+        "prefix": "link-email",
         "body": [
-            "[${1:Link text}]({{site.baseurl}}/${2:path/to/page/})$0"
+            "<a href=\"mailto:${1:first.last@domain.com}\">${2:Email link text}</a>$0"
         ],
-        "description": "Insert internal Section508.gov link in markdown"
-    },
-
-    "Internal Link (html)": {
-        "scope": "markdown,html",
-        "prefix": "link-html",
-        "body": [
-            "<a href=\"{{site.baseurl}}/${1:path/to/page/}\">${2:Link text}</a>$0"
-        ],
-        "description": "Insert internal Section508.gov link in HTML"
+        "description": "Insert an email link in HTML"
     },
 
     "External Link": {
@@ -57,16 +60,25 @@
         ],
         "description": "Insert a file download link in HTML"
     },
-
-    "Email Link": {
-        "scope": "markdown,html",
-        "prefix": "link-email",
-        "body": [
-            "<a href=\"mailto:${1:first.last@domain.com}\">${2:Email link text}</a>$0"
-        ],
-        "description": "Insert an email link in HTML"
-    },
     
+    "Internal Link (html)": {
+        "scope": "markdown,html",
+        "prefix": "link-internal-html",
+        "body": [
+            "<a href=\"{{site.baseurl}}/${1:path/to/page/}\">${2:Link text}</a>$0"
+        ],
+        "description": "Insert internal Section508.gov link in HTML"
+    },
+
+    "Internal Link (md)": {
+        "scope": "markdown,html",
+        "prefix": "linkinternal-md",
+        "body": [
+            "[${1:Link text}]({{site.baseurl}}/${2:path/to/page/})$0"
+        ],
+        "description": "Insert internal Section508.gov link in markdown"
+    },
+       
     // Summary Boxes ------------------------------------------------------------
     "Summary Box": {
         "scope": "markdown,html",
