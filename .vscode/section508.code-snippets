@@ -36,7 +36,7 @@
     // Links -------------------------------------------------------------------
     "Email Link": {
         "scope": "markdown,html",
-        "prefix": "link-email",
+        "prefix": ["link-email","email-link"],
         "body": [
             "<a href=\"mailto:${1:first.last@domain.com}\">${2:Email link text}</a>$0"
         ],
@@ -45,7 +45,7 @@
 
     "External Link": {
         "scope": "markdown,html",
-        "prefix": "link-external",
+        "prefix": ["link-external","external-link"],
         "body": [
             "<a href=\"${1:https://example.com}\" class=\"usa-link usa-link--external\" target=\"_blank\" rel=\"noopener\">${2:Link text}</a>$0"
         ],
@@ -54,7 +54,7 @@
 
     "File Assets Link": {
         "scope": "markdown,html",
-        "prefix": "link-file",
+        "prefix": ["link-file","file-link"],
         "body": [
             "<a href=\"${1:Paste Cloud.gov Pages PFS URL here}\" download>${2:Document title (PDF)}</a>$0"
         ],
@@ -63,7 +63,7 @@
     
     "Internal Link (html)": {
         "scope": "markdown,html",
-        "prefix": "link-internal-html",
+        "prefix": ["link-internal-html","internal-link-html"],
         "body": [
             "<a href=\"{{site.baseurl}}/${1:path/to/page/}\">${2:Link text}</a>$0"
         ],
@@ -72,7 +72,7 @@
 
     "Internal Link (md)": {
         "scope": "markdown,html",
-        "prefix": "linkinternal-md",
+        "prefix": ["link-internal-md","internal-link-md"],
         "body": [
             "[${1:Link text}]({{site.baseurl}}/${2:path/to/page/})$0"
         ],
@@ -94,7 +94,7 @@
 
     "Summary Box: ALT": {
         "scope": "markdown,html",
-        "prefix": "summary-box--alt",
+        "prefix": ["summary-box--alt","callout-box--alt"],
         "body": [
             "<div class=\"grid-col-12 summary-box--alt\">",
             "    ${1:Your text here}",
@@ -106,7 +106,7 @@
 
     "Summary Box: Code": {
         "scope": "markdown,html",
-        "prefix": "summary-box--code",
+        "prefix": ["summary-box--code","callout-box--code"],
         "body": [
             "<div class=\"grid-col-12 summary-box--code\">",
             "    ${1:Your text here}",
@@ -118,7 +118,7 @@
 
     "Summary Box: Left": {
         "scope": "markdown,html",
-        "prefix": "summary-box--left",
+        "prefix": ["summary-box--left","callout-box--left"],
         "body": [
             "<div class=\"grid-col-12 summary-box--left\">",
             "    ${1:Your text here}",
@@ -130,7 +130,7 @@
 
     "Summary Box: Right": {
         "scope": "markdown,html",
-        "prefix": "summary-box--right",
+        "prefix": ["summary-box--right","callout-box--right"],
         "body": [
             "<div class=\"grid-col-12 summary-box--right\">",
             "    ${1:Your text here}",
@@ -142,7 +142,7 @@
 
     "Summary Box Dual": {
         "scope": "markdown,html",
-        "prefix": "summary-box-dual",
+        "prefix": ["summary-box-dual","callout-box-dual"],
         "body": [
             "<div class=\"callout-box-dual margin-bottom-1\">",
             "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
@@ -155,7 +155,7 @@
     
     "Summary Box Dual: ALT": {
         "scope": "markdown,html",
-        "prefix": "summary-box-dual-alt",
+        "prefix": ["summary-box-dual-alt","callout-box-dual-alt"],
         "body": [
             "<div class=\"callout-box-dual-alt margin-bottom-1\">",
             "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
@@ -168,7 +168,7 @@
 
     "Summary Box Dual: Green": {
         "scope": "markdown,html",
-        "prefix": "summary-box-dual-green",
+        "prefix": ["summary-box-dual-green","callout-box-dual-green"],
         "body": [
             "<div class=\"callout-box-dual-green margin-bottom-1\">",
             "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
@@ -181,7 +181,7 @@
 
     "Summary Box Dual: Violet": {
         "scope": "markdown,html",
-        "prefix": "summary-box-dual-violet",
+        "prefix": ["summary-box-dual-violet","callout-box-dual-violet"],
         "body": [
             "<div class=\"callout-box-dual-violet margin-bottom-1\">",
             "    <h${1:Select your heading level|2,3,4,5,6|}>${2:Your heading here}</h$1>",
@@ -436,7 +436,7 @@
     // Lists ---------------------------------------------------------------
     "Bulleted list": {
         "scope": "markdown,html",
-        "prefix": "list-unordered",
+        "prefix": ["unordered-list","list-unordered"]
         "body": [
             "<ul id=\"${1:List ID}\">",
             "   <li>${2:List item text}</li>",
@@ -450,7 +450,7 @@
     },
     "Numbered list": {
         "scope": "markdown,html",
-        "prefix": "list-ordered",
+        "prefix": ["ordered-list","list-ordered"],
         "body": [
             "<ol id=\"${1:List ID}\" start=\"${2:Starting number}\">",
             "   <li>${3:List item text}</li>",
@@ -466,7 +466,7 @@
 
     "Icon List: autorenew": {
     "scope": "markdown,html",
-        "prefix": "icon-list-autorenew",
+        "prefix": ["icon-list-autorenew","list-icon-autorenew"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -500,7 +500,7 @@
 
     "Icon List: bookmark": {
     "scope": "markdown,html",
-        "prefix": "icon-list-bookmark",
+        "prefix": ["icon-list-bookmark","list-icon-bookmark"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -534,7 +534,7 @@
 
     "Icon List: cancel": {
     "scope": "markdown,html",
-        "prefix": "icon-list-cancel",
+        "prefix": ["icon-list-cancel","list-icon-cancel"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -568,7 +568,7 @@
 
     "Icon List: check_box": {
     "scope": "markdown,html",
-        "prefix": "icon-list-check_box",
+        "prefix": ["icon-list-check_box","list-icon-check_box"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -602,7 +602,7 @@
 
     "Icon List: check_circle": {
     "scope": "markdown,html",
-        "prefix": "icon-list-check_circle",
+        "prefix": ["icon-list-check_circle","list-icon-check_circle"],
         "body": [
             "<ul id=\"${1:List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -636,7 +636,7 @@
 
     "Icon List: event": {
     "scope": "markdown,html",
-        "prefix": "icon-list-event",
+        "prefix": ["icon-list-event","list-icon-event"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -670,7 +670,7 @@
 
     "Icon List: Cancel ALT": {
     "scope": "markdown,html",
-        "prefix": "icon-list-cancel-alt",
+        "prefix": ["icon-list-cancel-alt","list-icon-cancel-alt"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -704,7 +704,7 @@
 
     "Icon List: insights": {
     "scope": "markdown,html",
-        "prefix": "icon-list-insights",
+        "prefix": ["icon-list-insights","list-icon-insights"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -738,7 +738,7 @@
 
     "Icon List: link": {
     "scope": "markdown,html",
-        "prefix": "icon-list-link",
+        "prefix": ["icon-list-link","list-icon-link"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -772,7 +772,7 @@
 
     "Icon List: tag": {
     "scope": "markdown,html",
-        "prefix": "icon-list-tag",
+        "prefix": ["icon-list-tag","list-icon-tag"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -806,7 +806,7 @@
 
     "Icon List: push_pin": {
     "scope": "markdown,html",
-        "prefix": "icon-list-push_pin",
+        "prefix": ["icon-list-push_pin","list-icon-push_pin"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -840,7 +840,7 @@
 
     "Icon List: clock": {
     "scope": "markdown,html",
-        "prefix": "icon-list-clock",
+        "prefix": ["icon-list-clock","list-icon-clock"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -874,7 +874,7 @@
 
     "Icon List: school": {
     "scope": "markdown,html",
-        "prefix": "icon-list-school",
+        "prefix": ["icon-list-school","list-icon-school"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -908,7 +908,7 @@
 
     "Icon List: thumb_down": {
     "scope": "markdown,html",
-        "prefix": "icon-list-thumb_down",
+        "prefix": ["icon-list-thumb_down","list-icon-thumb_down"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -942,7 +942,7 @@
 
     "Icon List: thumb_up": {
     "scope": "markdown,html",
-        "prefix": "icon-list-thumb_up",
+        "prefix": ["icon-list-thumb_up","list-icon-thumb_up"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -976,7 +976,7 @@
 
     "Icon List: Verified": {
     "scope": "markdown,html",
-        "prefix": "icon-list-verified",
+        "prefix": ["icon-list-verified","list-icon-verified"],
         "body": [
             "<ul id=\"${1:Set List ID}\" class=\"usa-icon-list tablet:grid-col\">",
             "    <li class=\"usa-icon-list__item\">",
@@ -1120,9 +1120,39 @@
     },
 
     // Tables -------------------------------------------------------------------
-    "Data Table": {
+    "Data Table: 5 Columns": {
         "scope": "markdown,html",
-        "prefix": "data-table",
+        "prefix": ["data-table-col-05", "table-05"],
+        "body": [
+            "<table id=\"${1:Table ID}\" class=\"usa-table usa-table--borderless striped\">",
+            "  <caption>${2:Table caption}</caption>",
+            "  <thead>",
+            "    <tr>",
+            "      <th scope=\"col\">${3:Col 1 Heading}</th>",
+            "      <th scope=\"col\">${4:Col 2 Heading}</th>",
+            "      <th scope=\"col\">${5:Col 3 Heading}</th>",
+            "      <th scope=\"col\">${6:Col 4 Heading}</th>",
+            "      <th scope=\"col\">${7:Col 5 Heading}</th>",
+            "    </tr>",
+            "  </thead>",
+            "  <tbody>",
+            "  <tr>",
+            "    <th scope=\"row\">${8:Col 1 Value}</th>",
+            "    <td>${9:Col 2 Value}</td>",
+            "    <td>${10:Col 3 Value}</td>",
+            "    <td>${11:Col 4 Value}</td>",
+            "    <td>${12:Col 5 Value}</td>",
+            "  </tr>",
+            "  $0"
+            "  </tbody>",
+            "</table>"
+        ],
+        "description": "Insert a Section508.gov data table"
+    },
+
+    "Data Table: 10 Columns": {
+        "scope": "markdown,html",
+        "prefix": ["data-table-col-10", "table-10"],
         "body": [
             "<table id=\"${1:Table ID}\" class=\"usa-table usa-table--borderless striped\">",
             "  <caption>${2:Table caption}</caption>",
@@ -1134,16 +1164,24 @@
             "      <th scope=\"col\">${6:Col 4 Heading}</th>",
             "      <th scope=\"col\">${7:Col 5 Heading}</th>",
             "      <th scope=\"col\">${8:Col 6 Heading}</th>",
+            "      <th scope=\"col\">${9:Col 7 Heading}</th>",
+            "      <th scope=\"col\">${10:Col 8 Heading}</th>",
+            "      <th scope=\"col\">${11:Col 9 Heading}</th>",
+            "      <th scope=\"col\">${12:Col 10 Heading}</th>",
             "    </tr>",
             "  </thead>",
             "  <tbody>",
             "  <tr>",
-            "    <th scope=\"row\">${9:Col 1 Value}</th>",
-            "    <td>${10:Col 2 Value}</td>",
-            "    <td>${11:Col 3 Value}</td>",
-            "    <td>${12:Col 4 Value}</td>",
-            "    <td>${13:Col 5 Value}</td>",
-            "    <td>${14:Col 6 Value}</td>",
+            "    <th scope=\"row\">${8:Col 1 Value}</th>",
+            "    <td>${9:Col 2 Value}</td>",
+            "    <td>${10:Col 3 Value}</td>",
+            "    <td>${11:Col 4 Value}</td>",
+            "    <td>${12:Col 5 Value}</td>",
+            "    <td>${13:Col 6 Value}</td>",
+            "    <td>${14:Col 7 Value}</td>",
+            "    <td>${15:Col 8 Value}</td>",
+            "    <td>${16:Col 9 Value}</td>",
+            "    <td>${17:Col 10 Value}</td>",
             "  </tr>",
             "  $0"
             "  </tbody>",
@@ -1152,9 +1190,24 @@
         "description": "Insert a Section508.gov data table"
     },
 
-    "Table Row": {
+    "Table Row: 5 Columns": {
         "scope": "markdown,html",
-        "prefix": "data-table-row",
+        "prefix": ["data-table-row-05", "table-row-05"],
+        "body": [
+            "<tr>",
+            "  <th scope=\"row\">${1:Col 1 Value}</th>",
+            "  <td>${2:Col 2 Value}</td>",
+            "  <td>${3:Col 3 Value}</td>",
+            "  <td>${4:Col 4 Value}</td>",
+            "  <td>${5:Col 5 Value}</td>",
+            "</tr>",
+            "$0"
+        ],
+        "description": "Insert a Section508.gov data table row"
+    },
+        "Table Row: 10 Columns": {
+        "scope": "markdown,html",
+        "prefix": ["data-table-row-10", "table-row-10"],
         "body": [
             "<tr>",
             "  <th scope=\"row\">${1:Col 1 Value}</th>",
@@ -1163,6 +1216,10 @@
             "  <td>${4:Col 4 Value}</td>",
             "  <td>${5:Col 5 Value}</td>",
             "  <td>${6:Col 6 Value}</td>",
+            "  <td>${7:Col 7 Value}</td>",
+            "  <td>${8:Col 8 Value}</td>",
+            "  <td>${9:Col 9 Value}</td>",
+            "  <td>${10:Col 10 Value}</td>",
             "</tr>",
             "$0"
         ],
