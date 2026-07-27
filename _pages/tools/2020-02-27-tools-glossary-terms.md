@@ -22,7 +22,7 @@ resource-type:
 - Tool
 format: HTML
 created: 2020-02-27
-updated: 2026-07-10
+updated: 2026-07-27
 exclude-changelog: true
 ---
 
@@ -130,8 +130,8 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Different means of providing information to people with disabilities, including product documentation; may include, but is not limited to, voice, fax, relay service, <a href="#tty">Text Telephone (TTY)</a>, internet posting, captioning, text-to-speech synthesis, and audio description.</td>
   </tr>
   <tr>
-    <th scope="row" id="american-sign-language">American Sign Language</th>
-    <td>American Sign Language (ASL) is a complete, visual language that uses hand movements, facial expressions, and body movements to communicate. It is primarily used by many people who are Deaf or hard of hearing in the United States and parts of Canada. ASL has its own grammar and structure and is distinct from spoken English.</td>
+    <th scope="row" id="american-sign-language">American Sign Language (ASL)</th>
+    <td>American Sign Language (ASL) is a complete, visual language that uses hand movements, facial expressions, and body movements to communicate. It is primarily used by many people who are Deaf or hard of hearing in the United States and parts of Canada. ASL has its own grammar and structure and is distinct from spoken English. See also <a href="#sign-language-interpreter">Sign Language Interpreter</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="andi">ANDI</th>
@@ -1139,6 +1139,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="simple-data-table">Simple data table</th>
     <td>A<a href="#data-table"> data table</a> that represents each category of data with one row or column of cells. The meaning of each cell is based on its contents and its row and/or column position. Simple data tables can represent 2-dimensional data (contrast with<a href="#complex-data-table"> complex data table</a>).</td>
+  </tr>
+  <tr>
+    <th scope="row" id="sign-language-interpreter">Sign Language Interpreter (SLI)</th>
+    <td>A highly skilled professional who enables real-time communication between deaf or hard-of-hearing individuals and hearing individuals. Interpreters translate spoken language into sign language, such as <a href="#american-sign-language">ASL</a>, and sign language into spoken language or text while accurately conveying the message’s meaning, tone, and intent.</td>
   </tr>
   <tr>
     <th scope="row" id="sso">Single Sign On</th>

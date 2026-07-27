@@ -342,6 +342,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
       <td>Search Engine Optimization</td>
     </tr>
     <tr>
+      <th scope="row" id="sli">SLI</th>
+      <td>Sign Language Interpreter</td>
+    </tr>
+    <tr>
         <th scope="row" id="sme">SME</th>
         <td>Subject Mater Expert</td>
     </tr>
