@@ -54,7 +54,7 @@ exclude-changelog: true
 
 **Duration:** 20 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** 2.0.1 (Feb 2025)  
+**Version:** 2.0.2 (July 2025)  
 
 ## What Will I Learn in This Course?
 This course will help you to understand [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) and the related laws, policies, roles, and responsibilities.
@@ -118,7 +118,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>February 2025 - v1.0.1 | Release:</strong> Minor update to associated roles and responsibilities.</div>
+        <div class="usa-icon-list__content"><strong>July 2026 - v2.0.2 | Bugfix:</strong> Update broken links.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>February 2025 - v2.0.1 | Content Update:</strong> Minor update to associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
