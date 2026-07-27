@@ -47,7 +47,13 @@ updated:
 </ul>
 
 ## Course Details
-**Audience:** Hosts and presenters for any meeting that uses information and communication technology (ICT)  
+**Audience:**  
+* Meeting hosts and presenters  
+* Trainers
+* Organization leaders
+* Section 508 Program Managers
+* Section 508 Subject Matter Experts (SME)   
+
 **Duration:** 60 minutes  
 **Difficulty Level:** Beginner  
 **Version:** 1.0 (July 2026)
