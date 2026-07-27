@@ -78,6 +78,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Accessibility Requirements Tool</td>
     </tr>
     <tr>
+        <th scope="row" id="asl">ASL</th>
+        <td>American Sign Language</td>
+    </tr>
+    <tr>
         <th scope="row" id="aspe">ASPE</th>
         <td>Office of the Assistant Secretary for Planning and Evaluation</td>
     </tr>

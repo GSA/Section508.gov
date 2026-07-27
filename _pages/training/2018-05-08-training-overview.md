@@ -19,7 +19,7 @@ sub-topic:
 - Tools 
 disclaimer: true
 created: 2018-05-08
-updated: 2025-08-05
+updated: 2027-07-27
 exclude-changelog: true
 ---
 The courses listed below are intended to improve your understanding of IT accessibility, and Section 508 law, and help you produce digital tools and content that conform to the [Revised 508 Standards][1].
@@ -45,6 +45,10 @@ The following self-paced courses provide an overview of key aspects of IT access
   <li class="usa-icon-list__item" id="ict-for-executives">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
       <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/accessible-for-executives/">Accessibility of ICT for Government Executives</a></h3>High-level overview of the Revised 508 Standards. Explains roles and responsibilities of Federal government executives, including agency heads, CIOs and CAOs, and Section 508 Program Managers.</div>
+  </li>
+  <li class="usa-icon-list__item" id="accessible-meetings">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
+      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/accessible-meetings/">Accessible Meetings for Hosts & Presenters</a></h3>Learn how to plan and facilitate accessible virtual, hybrid, and in-person meetings that meet Section 508 requirements.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>

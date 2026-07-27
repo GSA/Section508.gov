@@ -222,6 +222,8 @@ training:
   - name: Online Training Courses
     url: '#'
     children:
+      - name: "Accessible Meetings for Hosts & Presenters"
+        url: 'training/online-course/accessible-meetings/'
       - name: "Accessibility of ICT for Government Executives"
         url: 'training/online-course/accessible-for-executives/'
       - name: "Microsoft Word & Accessibility Best Practices"

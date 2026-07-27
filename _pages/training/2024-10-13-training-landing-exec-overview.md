@@ -6,17 +6,21 @@ title: "Accessibility of ICT: An Overview for Government Executives"
 permalink: training/online-course/accessible-for-executives/
 description: Discover executive responsibilities under Section 508. This free course explains leadership’s role in advancing accessible ICT across federal agencies.
 audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-topic: "Training"
-sub-topic: "Presentations"
-resource-type: "Training"
-format: "Video"
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic:
+- Training
+subtopic:
+- Presentations
+resource-type:
+- Training
+format: HTML
 created: 2024-10-15
-updated: 2025-03-19
+updated: 2026-07-29
+exclude-changelog: true
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -87,19 +91,25 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 
-## Key Terms and References 
-* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
-* [Annual Governmentwide Section 508 Assessment]({{site.baseurl}}/section-508-assessment/)
-* <a href="https://www.justice.gov/crt/section-508-home-page-0" target="_blank" class="usa-link--external">DOJ Biannual Report to Congress and the President</a>
-* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a>
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
-* [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/online-course/section-508-what-is-it-and-why-its-important/)
-* [Section 508 of the Rehabilitation Act, as amended]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
-* [Solicitation Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/)
-* <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+<div class="usa-accordion usa-accordion--bordered margin-top-4">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+    <ul>
+      <li><a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a></li>
+      <li><a href="{{site.baseurl}}/section-508-assessment/">Annual Governmentwide Section 508 Assessment</a></li>
+      <li><a href="https://www.justice.gov/crt/section-508-home-page-0" target="_blank" class="usa-link--external">DOJ Biannual Report to Congress and the President</a></li>
+      <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
+      <li><a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a></li>
+      <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
+      <li><a href="{{site.baseurl}}/training/online-course/section-508-what-is-it-and-why-its-important/">Section 508: What Is It and Why Is It Important?</a></li>
+      <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act, as amended</a></li>
+      <li><a href="{{site.baseurl}}/manage/roles/">Section 508 Roles and Responsibilities</a></li>
+      <li><a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a></li>
+      <li><a href="{{site.baseurl}}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a></li>
+      <li><a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a></li>
+    </ul>
+  </div>
+</div>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

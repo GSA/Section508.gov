@@ -130,6 +130,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Different means of providing information to people with disabilities, including product documentation; may include, but is not limited to, voice, fax, relay service, <a href="#tty">Text Telephone (TTY)</a>, internet posting, captioning, text-to-speech synthesis, and audio description.</td>
   </tr>
   <tr>
+    <th scope="row" id="american-sign-language">American Sign Language</th>
+    <td>American Sign Language (ASL) is a complete, visual language that uses hand movements, facial expressions, and body movements to communicate. It is primarily used by many people who are Deaf or hard of hearing in the United States and parts of Canada. ASL has its own grammar and structure and is distinct from spoken English.</td>
+  </tr>
+  <tr>
     <th scope="row" id="andi">ANDI</th>
     <td>The <a href="https://www.ssa.gov/accessibility/andi/help/install.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI)</a> developed by the Social Security Administration; the manual inspection tool used in version 5 of the Department of Homeland Security’s Trusted Tester evaluation process.</td>
   </tr>

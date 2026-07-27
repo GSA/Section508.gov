@@ -7,7 +7,8 @@ permalink: manage/laws-and-policies/
 description: Learn about the laws, policies, and regulations that require federal agencies to provide accessible information and communication technology for employees and the public.
 contributors: usab
 redirect_from: 
-- summary-section508-standards/, section508-laws/
+- summary-section508-standards/
+- section508-laws/
 audience: 
 - Chief Information Officers (CIO)
 - Federal Employees
@@ -22,7 +23,7 @@ resource-type:
 - Article
 format: HTML
 created: 2023-09-23
-updated: 2026-07-10
+updated: 2026-07-27
 exclude-changelog: true
 ---
 

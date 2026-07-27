@@ -7,7 +7,8 @@ permalink: manage/program-roadmap/
 description: Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities.
 disclaimer: true
 redirect_from: 
-- Refresh-Toolkit/, refresh-toolkit/
+- Refresh-Toolkit/
+- refresh-toolkit/
 audience: 
 - Federal Employees
 - IT Program & Project Managers
@@ -22,7 +23,7 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2018-05-29
-updated: 2026-07-10
+updated: 2026-07-27
 exclude-changelog: true
 ---
 

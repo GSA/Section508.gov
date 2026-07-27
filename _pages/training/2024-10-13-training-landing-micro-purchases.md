@@ -5,24 +5,23 @@ type: training
 title: Micro-Purchases and Section 508 Requirements
 permalink: training/online-course/micro-purchases/
 description: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
-audience: 
+audience:
 - Content Creators
 - Developers
 - Federal Employees
 - Members of the Public
 - Section 508 Program Managers
-topic: 
+topic:
 - Training
-subtopic: 
+subtopic:
 - Presentations
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-07-10
+updated: 2026-07-29
 exclude-changelog: true
 ---
-
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -92,35 +91,53 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 
-## Key Terms and References 
-* **Section 508 Standards**
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-  * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-  * <a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-  * <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
-* **Laws and Regulations**
-  * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
-  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a>
-  * <a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR  Subpart 2.2 </a>
-  * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR 10</a>
-  * <a href="https://www.acquisition.gov/far/part-1#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
-  * <a href="https://www.acquisition.gov/far/part-1#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
-  * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
-  * <a href="https://www.acquisition.gov/far/part-39" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
-* **Section 508.gov Resources**
-  * <a href="{{site.basueurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
-  * <a href="{{site.basueurl}}/buy">Buy Accessible Products and Services</a>
-  * <a href="{{site.basueurl}}/buy#market">Buy Accessible Products and Services, Market Research</a>
-  * <a href="{{site.basueurl}}/buy/determine-508-standards-exceptions ">Determine Section 508 Standards and Exceptions</a>
-  * <a href="{{site.basueurl}}/tools/coordinator-listing ">Find Your Section 508 Program Manager</a>
-  * <a href="{{site.basueurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
-  * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
-  * <a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a>
-* **Other Resources**
-  * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
-  * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
-  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a>
-  * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
+<div class="usa-accordion usa-accordion--bordered margin-top-4">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+    <ul>
+      <li><strong>Section 508 Standards</strong>
+        <ul>
+          <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a></li>
+          <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
+          <li><a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a></li>
+          <li><a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u></li>
+        </ul>
+      </li>
+      <li><strong>Laws and Regulations</strong>
+        <ul>
+          <li><a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a></li>
+          <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a></li>
+          <li><a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR  Subpart 2.2 </a></li>
+          <li><a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR 10</a></li>
+          <li><a href="https://www.acquisition.gov/far/part-1#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a></li>
+          <li><a href="https://www.acquisition.gov/far/part-1#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a></li>
+          <li><a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a></li>
+          <li><a href="https://www.acquisition.gov/far/part-39" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a></li>
+        </ul>
+      </li>
+      <li><strong>Section 508.gov Resources</strong>
+        <ul>
+          <li><a href="{{site.basueurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a></li>
+          <li><a href="{{site.basueurl}}/buy">Buy Accessible Products and Services</a></li>
+          <li><a href="{{site.basueurl}}/buy#market">Buy Accessible Products and Services, Market Research</a></li>
+          <li><a href="{{site.basueurl}}/buy/determine-508-standards-exceptions ">Determine Section 508 Standards and Exceptions</a></li>
+          <li><a href="{{site.basueurl}}/tools/coordinator-listing ">Find Your Section 508 Program Manager</a></li>
+          <li><a href="{{site.basueurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a></li>
+          <li><a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a></li>
+          <li><a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a></li>
+        </ul>
+      </li>
+      <li><strong>Other Resources</strong>
+        <ul>
+          <li><a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a></li>
+          <li><a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a></li>
+          <li><a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a></li>
+          <li><a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
