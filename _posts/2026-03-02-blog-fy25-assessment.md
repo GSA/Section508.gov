@@ -23,7 +23,7 @@ created: 2026-03-02
    </div>
 </div>
 
-The General Services Administration's (GSA) Government-wide IT Accessibility Program, in partnership with the Office of Management and Budget (OMB) and the U.S. Access Board, conducted the <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">congressionally mandated</a> [FY 2025 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2025/) to measure federal progress in implementing accessible technology. This annual review evaluates how well agencies meet Section 508 requirements when developing, buying, maintaining, and using Information and Communications Technology (ICT).
+The General Services Administration's (GSA) Government-wide IT Accessibility Program, in partnership with the Office of Management and Budget (OMB) and the U.S. Access Board, conducted the <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">congressionally mandated</a> [FY 2025 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2025/message-from-gsa-administrator/) to measure federal progress in implementing accessible technology. This annual review evaluates how well agencies meet Section 508 requirements when developing, buying, maintaining, and using Information and Communications Technology (ICT).
 
 This year's assessment uses updated criteria developed by OMB that provide visibility into how component agencies perform within their larger departments. Given significant changes to assessment criteria, FY 2025 establishes a new baseline for measuring accessibility outcomes across government, and the findings highlight how governance models, resource allocation, and implementation affect ICT accessibility. Responses from 212 agencies, parent agencies, and components show:
 
@@ -90,4 +90,4 @@ This year's assessment uses updated criteria developed by OMB that provide visib
 
 GSA, OMB, and the U.S. Access Board will continue working with agencies to refine tools, guidance, and training to support ongoing improvements. The enhancements introduced in FY 2025 provide a more detailed and actionable picture of federal digital accessibility&mdash;and will help accelerate progress in the years ahead.
 
-Read the [FY 2025 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2025/) on Section508.gov.
+Read the [FY 2025 Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/2025/message-from-gsa-administrator/) on Section508.gov.

@@ -1,0 +1,182 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "npm: build",
+      "type": "npm",
+      "script": "build",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "npm: start",
+      "type": "npm",
+      "script": "start",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "jekyll",
+        "pattern": {
+          "regexp": "^(?!.*)$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": ".*Server address:.*",
+          "endsPattern": ".*Server running.*"
+        }
+      }
+    },
+    {
+      "label": "npm: validate:library",
+      "type": "npm",
+      "script": "validate:library",
+      "group": "test",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: validate:library:documents",
+      "type": "npm",
+      "script": "validate:library:documents",
+      "group": "test",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: validate:library:frontmatter",
+      "type": "npm",
+      "script": "validate:library:frontmatter",
+      "group": "test",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: build:art:local",
+      "type": "npm",
+      "script": "build:art:local",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build ART locally and start",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "npm: build:art:local",
+        "npm: start"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "npm: test:a11y",
+      "type": "npm",
+      "script": "test:a11y",
+      "options": {
+        "env": {
+          "PUPPETEER_EXECUTABLE_PATH": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+        }
+      },
+      "group": "test",
+      "problemMatcher": [],
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "npm: build:art:local",
+        "npm: start"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: check:html:style",
+      "type": "npm",
+      "script": "check:html:style",
+      "group": "test",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: fix:html",
+      "type": "npm",
+      "script": "fix:html",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: check:links:offline",
+      "type": "npm",
+      "script": "check:links:offline",
+      "group": "test",
+      "problemMatcher": [],
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "npm: build:art:local"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    },
+    {
+      "label": "npm: check:links:online",
+      "type": "npm",
+      "script": "check:links:online",
+      "group": "test",
+      "problemMatcher": [],
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "npm: build:art:local"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "revealProblems": "onProblem",
+        "focus": false,
+        "panel": "dedicated",
+        "clear": true,
+        "showReuseMessage": false
+      }
+    }
+  ]
+}
