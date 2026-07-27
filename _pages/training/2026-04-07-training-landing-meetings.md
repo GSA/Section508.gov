@@ -54,7 +54,7 @@ updated:
 * Section 508 Program Managers
 * Section 508 Subject Matter Experts (SME)   
 
-**Duration:** 60 minutes  
+**Duration:** 50 minutes  
 **Difficulty Level:** Beginner  
 **Version:** 1.0 (July 2026)
 
@@ -146,8 +146,8 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       </li>
       <li>Vocabulary
         <ul>
-          <li><a href="https://www.section508.gov/content/glossary/#cart">CART (Communication Access Realtime Translation or CART)</a> &mdash; real-time captioning services</li>
-          <li>American Sign Language (ASL) interpreter</li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#cart">CART (Communication Access Realtime Translation or CART)</a> &mdash; real-time captioning services</li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#sign-language-interpreter">Sign Language Interpreter</a></li>
         </ul>
       </li>
     </ul>
@@ -161,7 +161,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Our initial release of the <em>Accessible Meetings</em> course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release includes core lessons, practice quizzes, foundational learning, and certificate of completion.</div>
       </li>
     </ul>
   </div>

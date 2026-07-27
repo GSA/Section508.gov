@@ -48,7 +48,7 @@ The following self-paced courses provide an overview of key aspects of IT access
   </li>
   <li class="usa-icon-list__item" id="accessible-meetings">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/accessible-meetings/">Accessible Meetings for Hosts & Presenters</a></h3>Learn how to plan and facilitate accessible virtual, hybrid, and in-person meetings that meet Section 508 requirements.</div>
+      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/accessible-meetings/">Accessible Meetings for Hosts & Presenters</a></h3>Learn how to plan, prepare, and host accessible meetings that comply with Section 508 requirements and support full participation for everyone. This self-paced certificate course provides practical guidance for making in-person, virtual, and hybrid meetings accessible to people with disabilities while improving the meeting experience for all attendees.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
