@@ -15,18 +15,22 @@
     </script>
     
 
-    <script id="__ENTRY__" type="application/json">
-      {".js":["rise/f6a9bcef.js"],".css":["sandbox/4adfab46.css"]}
-    </script>
-
-    <script id="__REMOTE_ENTRIES__" type="application/json">
-      {"learn_distribution_frontend":{".js":["learn_dist/entry.js"]},"mondrian":{".js":["mondrian/entry.js"]}}
-    </script>
-
     <script>
       (function() {
         const jsonp = {}
         const allowOutsideDriver = true
+        const entryManifest = {
+          '.js': ['rise/f6a9bcef.js'],
+          '.css': ['sandbox/4adfab46.css']
+        }
+        const remoteEntries = {
+          learn_distribution_frontend: {
+            '.js': ['learn_dist/entry.js']
+          },
+          mondrian: {
+            '.js': ['mondrian/entry.js']
+          }
+        }
 
         function shouldLoad() {
           if(allowOutsideDriver)
@@ -86,13 +90,14 @@
         }
 
         function __loadEntry() {
-          return loadModule(JSON.parse(document.getElementById('__ENTRY__').textContent))
+          return loadModule(entryManifest)
         }
 
         function __loadRemoteEntry(name) {
-          const manifest = JSON.parse(document.getElementById('__REMOTE_ENTRIES__').textContent)
-          if (manifest[name] == null) throw new Error(`Missing manifest for remote entry "${name}".`)
-          return loadModule(manifest[name])
+          if (!Object.prototype.hasOwnProperty.call(remoteEntries, name)) {
+            throw new Error(`Missing manifest for remote entry "${name}".`)
+          }
+          return loadModule(remoteEntries[name])
         }
 
         async function __fetchCourse() {
