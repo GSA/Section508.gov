@@ -2,23 +2,26 @@
 layout: page
 sidenav: true
 type: training
-title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
+title: Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement
 permalink: training/online-course/soliciting-and-evaluating-acrs/
 description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
 audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-topic: "Training"
-sub-topic: "Presentations"
-resource-type: "Training"
-format: "HTML"
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic:
+- Training
+subtopic:
+- Presentations
+resource-type:
+- Training
+format: HTML
 created: 2024-10-15
-updated: 2025-03-19
+updated: 2026-07-29
+exclude-changelog: true
 ---
-
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -91,18 +94,28 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 
-## Key Terms and References 
-* [Accessibility Conformance Report (ACR)]({{site.baseurl}}/sell/acr/)
-* [Creating Accessible Documents]({{site.baseurl}}/create/documents/)
-* [Determine ICT Exceptions]({{site.baseurl}}/buy/determine-ict-exceptions/)
-* [How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT®)]({{site.baseurl}}/sell/how-to-create-acr-with-vpat/)
-* [How to Make an Accessible Document in Microsoft Word]({{site.baseurl}}/create/documents/)
-* <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a>
-* [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/)
-* [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
-* Vocabulary
-  * [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
-  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/tools/glossary/#vpat)
+<div class="usa-accordion usa-accordion--bordered margin-top-4">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+    <ul>
+      <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a></li>
+      <li><a href="{{site.baseurl}}/create/documents/">Creating Accessible Documents</a></li>
+      <li><a href="{{site.baseurl}}/buy/determine-ict-exceptions/">Determine ICT Exceptions</a></li>
+      <li><a href="{{site.baseurl}}/sell/how-to-create-acr-with-vpat/">How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT®)</a></li>
+      <li><a href="{{site.baseurl}}/create/documents/">How to Make an Accessible Document in Microsoft Word</a></li>
+      <li><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a></li>
+      <li><a href="{{site.baseurl}}/create/pdfs/">PDFs Authoring Guides</a></li>
+      <li><a href="{{site.baseurl}}/buy/request-accessibility-information/">Request Accessibility Information from Vendors &amp; Contractors</a></li>
+      <li>Vocabulary
+        <ul>
+          <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

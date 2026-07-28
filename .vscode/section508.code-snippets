@@ -47,9 +47,18 @@
         "scope": "markdown,html",
         "prefix": ["link-external","external-link"],
         "body": [
-            "<a href=\"${1:https://example.com}\" class=\"usa-link usa-link--external\" target=\"_blank\" rel=\"noopener\">${2:Link text}</a>$0"
+            "<a href=\"${1:https://example.com}\" target=\"_blank\" class=\"usa-link usa-link--external\">${2:Link text}</a>$0"
         ],
         "description": "Insert an external link in HTML"
+    },
+
+    "External Link: Attributes": {
+        "scope": "markdown,html",
+        "prefix": ["link-external-attributes","external-link-attributes"],
+        "body": [
+            "target=\"_blank\" class=\"usa-link usa-link--external\"",
+        ],
+        "description": "Insert an external HTML link's attributes only"
     },
 
     "File Assets Link": {
