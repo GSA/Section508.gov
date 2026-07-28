@@ -405,6 +405,8 @@ training:
         url: 'training/create/making-color-usage-accessible/webaim-contrast-checker/'
       - name: 'What is Alternative Text?'
         url: 'training/alt-text/what-is-alternative-text/'
+  - name: 'Training Workshops'
+    url: 'training/accessibility-training-workshops/'
   - name: Events
     url: 'events/'
   - name: IAAF 
