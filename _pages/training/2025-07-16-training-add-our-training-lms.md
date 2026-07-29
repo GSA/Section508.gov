@@ -44,7 +44,7 @@ Agencies that enter into the MOU receive:
 
 ## **How to Get Started**
 
-For more information or to request access to the course materials, contact **Section.508@gsa.gov** or visit the [Online Training Courses]({{site.baseurl}}/training-home/#online-training-courses) page on Section508.gov.
+For more information or to request access to the course materials, contact **Section.508@gsa.gov** or visit the [Online Training Courses]({{site.baseurl}}/training/courses/) page on Section508.gov.
 
 ## Related Resources
 

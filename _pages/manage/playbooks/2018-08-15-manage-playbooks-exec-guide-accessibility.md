@@ -109,7 +109,7 @@ Stand up an agency-wide IT Accessibility/508 Program, and resource appropriately
 Support efforts to train staff on their responsibilities under Section 508, to ensure your agency buys and builds accessible content and products.
 
 * Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
-* <a href="{{site.baseurl}}/training-home/">Government-wide IT Accessibility Training</a>
+* <a href="{{site.baseurl}}/training/courses/">Government-wide IT Accessibility Training</a>
 * <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
 
 ### OMB Reporting {#reporting}

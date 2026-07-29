@@ -2,22 +2,27 @@
 layout: page
 sidenav: true
 type: training
-title: 'Accessibility Training, Tools, and Events'
+title: Accessibility Training, Tools, and Events
 permalink: training/
 description: Explore free Section 508 training to help federal employees create, buy, and maintain accessible technology that meets legal and usability standards.
+redirect_from:
+- training-home/
+- training/508-training/
 audience:
-- Members of the Public
 - Federal Employees
+- Members of the Public
 - Section 508 Program Managers
-topic: Training
-sub-topic: Other
-resource-type: Training
+topic:
+- Training
+subtopic:
+- Other
+resource-type:
+- Training
 format: HTML
 created: 2018-05-07
-updated: 2024-10-15
-hide-date: true #dates on landing pages are hidden
+updated: 2026-07-28
+hide-date: true
 ---
-
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
 
 <section class="usa-section">
@@ -25,7 +30,7 @@ Learn how you can make your agency's electronic information and digital services
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#online-training-courses">Online Training Courses</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training/courses/">Online Training Courses</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
@@ -40,7 +45,7 @@ Learn how you can make your agency's electronic information and digital services
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#training-videos-library">Training Videos Library</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training/videos/">Training Videos Library</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
