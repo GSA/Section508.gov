@@ -5,26 +5,26 @@ type: training
 title: Microsoft Word Accessibility for Document Designers
 permalink: training/online-course/microsoft-word-accessibility-designers/
 description: [pending]
-audience: 
-- Content Creators
+disclaimer: true
+audience:
 - Communications Specialists
+- Content Creators
 - Federal Employees
 - Section 508 Program Managers
 - Specialists & SMEs
-topic: 
+topic:
 - Create
 - Other
 - Training
-subtopic: 
+subtopic:
 - Best Practices
 - Documents
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2026-07-28
 updated: 
 ---
-
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -33,14 +33,14 @@ updated:
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-landing-word-overview.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-landing-word-designers.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>Create accessible text documents from the start. This course introduces essential document accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/assets/online-training/microsoft-word-accessibility-overview/story.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-for-document-designers/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>
@@ -63,15 +63,15 @@ After completing this training, you will be able to do the following:
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content"></div>
+      <div class="usa-icon-list__content">Add accessible links, data tables, images, and other features to a document.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content"></div>
+      <div class="usa-icon-list__content">Make the layout of a document accessible when using columns, headers and footers, and text boxes.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content"></div>
+      <div class="usa-icon-list__content">Create an accessible table of contents for a document.</div>
   </li>
 </ol>
  
@@ -84,7 +84,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content">By selecting "Open Course," you can earn a downloadable PDF certificate after completing the course and passing the required quiz with a score of at least 80%.</div>
+      <div class="usa-icon-list__content">By selecting "Open Course," you can earn a downloadable PDF certificate after completing the course and passing the required five-question quiz with a score of at least 80%.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
@@ -96,7 +96,42 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
   <div id="key-terms" class="usa-accordion__content usa-prose">
     <ul>
-      <li></li>
+      <li>In-Course References
+        <ul>      
+          <li><a href="{{site.baseurl}}/create/alternative-text/">Authoring Meaningful Alt Text</a></li>
+          <li><a href="{{site.baseurl}}/create/captions-transcripts/">Create Accessible Captions and Transcripts</a></li>
+          <li><a href="{{site.baseurl}}/create/synchronized-media/">Create Accessible Synchronized Media Content</a></li>
+          <li><a href="https://www.section508.gov/blog/accessibility-bytes/data-tables-in-documents/" target="_blank" class="usa-link usa-link--external">Data Tables in Microsoft Word, PowerPoint, Excel, and PDFs</a></li>
+          <li><a href="{{site.baseurl}}/create/documents/">Document Accessibility Resources</a></li>
+          <li>Downloads
+            <ul>
+              <li><a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-for-document-designers/assets/Examples%20-%20Microsoft.docx" download="Examples - Microsoft Word Accessibility for Document Designers.docx">Examples - Microsoft Word Accessibility for Document Designers (DOCX)</a></li>
+            </ul>
+          </li>
+          <li>Google Support
+            <ul>
+              <li><a href="https://support.google.com/docs/answer/116338" target="_blank" class="usa-link usa-link--external">Add a title, heading, or table of contents in a document</a></li>
+              <li><a href="https://support.google.com/docs/answer/1696711" target="_blank" class="usa-link usa-link--external">Add and edit tables</a></li>
+              <li><a href="https://support.google.com/docs/answer/7029052" target="_blank" class="usa-link usa-link--external">Add or delete columns in a document</a></li>
+              <li><a href="https://support.google.com/docs/answer/97447" target="_blank" class="usa-link usa-link--external">Insert or Delete Images and Videos in Google Docs</a></li>
+              <li><a href="https://support.google.com/docs/answer/6199477" target="_blank" class="usa-link usa-link--external">Make your document more accessible - Include alt text( </a></li>
+              <li><a href="https://support.google.com/docs/answer/86629" target="_blank" class="usa-link usa-link--external">Use headers, footers, page numbers, and footnotes</a></li>
+              <li><a href="https://support.google.com/docs/answer/45893" target="_blank" class="usa-link usa-link--external">Work with links and bookmarks</a></li>              
+              <li><a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a> - ensure redirect</li>
+              <li><a href="https://ictbaseline.access-board.gov/document-baselines/14LinksDocs/#14-links" target="_blank" class="usa-link usa-link--external">Section 508 ICT Testing Baseline for Links</a></li>
+              <li><a href="{{site.baseurl}}/manage/understand-scope-technical-requirements/">Understand Content Scope and Technical Requirements</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Vocabulary
+        <ul>
+          <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and communication technology (ICT)</a></li>
+          <li><a href="{{site.baseurl}}/manage/understand-scope-technical-requirements/">Public-facing and agency-official communications</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Assistive technology (AT)</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Synchronized media</a></li>
+        </ul>
+      </li>
     </ul>
   </div>
 </div>

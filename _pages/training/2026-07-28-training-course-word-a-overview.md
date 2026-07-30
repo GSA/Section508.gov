@@ -5,26 +5,26 @@ type: training
 title: Microsoft Word Accessibility Overview
 permalink: training/online-course/microsoft-word-accessibility-overview/
 description: [pending]
-audience: 
-- Content Creators
+disclaimer: true
+audience:
 - Communications Specialists
+- Content Creators
 - Federal Employees
 - Section 508 Program Managers
 - Specialists & SMEs
-topic: 
+topic:
 - Create
 - Other
 - Training
-subtopic: 
+subtopic:
 - Best Practices
 - Documents
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2026-07-28
 updated: 
 ---
-
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -40,7 +40,7 @@ updated:
         <p>Create accessible text documents from the start. This course introduces essential document accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/assets/online-training/microsoft-word-accessibility-overview/story.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-overview/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>
@@ -88,7 +88,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content">By selecting "Open Course," you can earn a downloadable PDF certificate after completing the course and passing the required quiz with a score of at least 80%.</div>
+      <div class="usa-icon-list__content">By selecting "Open Course," you can earn a downloadable PDF certificate after completing the course and passing the required five-quesiton quiz with a score of at least 80%.</div>
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
@@ -100,42 +100,43 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
   <div id="key-terms" class="usa-accordion__content usa-prose">
     <ul>
-      <li><a href="{{site.baseurl}}/create/documents/">Create Accessible Documents</a></li>
-      <li><a href="{{site.baseurl}}/">Link</a></li>
-      <li><a href="{{site.baseurl}}/">Link</a></li>
-      
       <li>In-Course Resources
         <ul>
-          <li>For more general information about Section 508 requirements, along with its uses and benefits, visit the course “Section 508: What Is It and Why Is It Important?(opens in a new tab)”</li>
-          <li><a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563">Customize or create new styles</a></li>
-          <li><a href="Add a title, heading, or table of contents in a document">Add a title, heading, or table of contents in a document | Google</a></li>
-          <li><a href="https://support.microsoft.com/en-us/office/define-new-bullets-numbers-and-multilevel-lists-6c06ef65-27ad-4893-80c9-0b944cb81f5f">Define new bullets, numbers, and multilevel lists(opens in a new tab)</a></li>
-          <li><a href="https://support.microsoft.com/en-us/office/change-the-numbering-in-a-numbered-list-a9731137-8a85-47ce-a7e4-8b1c6c8c77a3">Change the numbering in a numbered list(opens in a new tab)</a></li>
-          <li><a href="https://support.microsoft.com/en-us/office/change-bullet-indents-in-word-5ed8b9a0-d44c-4e9a-81b3-47c234e980d3">Change bullet indents in Word</a></li>
-          <li><a href="https://support.google.com/docs/answer/3300615?hl=en&amp;ref_topic=1361461&amp;sjid=1591194133594156497-NA">Add a numbered list, bulleted list, or checklist(opens in a new tab)</a> (opens in a new tab)</li>
-          <li><a href="https://www.section508.gov/create/making-color-usage-accessible/">Making Color Usage Accessible</a></li>
-          <li><a href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker(opens in a new tab)</a>, which you can use in any browser.</li>
-          <li><a href="https://www.tpgi.com/color-contrast-checker/">Colour Contrast Analyser(opens in a new tab)</a>, which can be downloaded for Windows or Mac.</li>
-          <li><a href="https://support.google.com/docs/answer/187189?hl=en&amp;co=GENIE.Platform%3DDesktop&amp;sjid=5212156412838812869-NA&amp;oco=0">Translate documents or write in a different language</a></li>
-          <li><a href="https://support.google.com/docs/answer/49114?hl=en&amp;ref_topic=21010&amp;sjid=1591194133594156497-NA">Create, view, or download a file</a></li>
+          <li><a href="{{site.baseurl}}/create/documents/">Create Accessible Documents</a></li>
+          <li><a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link usa-link--external">Colour Contrast Analyser</a> Available for Windows and macOS</li>
           <li><a href="{{site.baseurl}}/create/pdfs/">Create Accessible PDFs</a></li>
-          <li><a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf">Creating Accessible Forms in Microsoft Word and Adobe PDF</a></li>
-          <li><a href="https://www.howtogeek.com/806678/how-to-convert-google-doc-to-pdf/">How to Convert a Google Doc to PDF | Google</a></li>
+          <li><a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a></li>
+          <li>Downloads
+            <ul>
+              <li><a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-overview/assets/Examples%20-%20Microsoft%20Word%20Accessibility%20Overview.docx" download="Examples - Microsoft Word Accessibility Overview.docx">Examples - Microsoft Word Accessibility Overview (PDF)</a></li>
+            </ul>
+          </li>
+          <li>Google Support
+            <ul>
+              <li><a href="https://support.google.com/docs/answer/3300615" target="_blank" class="usa-link usa-link--external">Add a numbered list, bulleted list, or checklist</a> </li>
+              <li><a href="https://support.google.com/docs/answer/49114" target="_blank" class="usa-link usa-link--external">Create, view, or download a file</a></li>
+              <li><a href="https://support.google.com/docs/answer/187189" target="_blank" class="usa-link usa-link--external">Translate documents or write in a different language</a></li>
+              <li><a href="https://support.google.com/docs/answer/116338" target="_blank" class="usa-link usa-link--external">Add a title, heading, or table of contents in a document</a></li>
+            </ul>
+          </li>
+          <li><a href="https://www.howtogeek.com/806678/how-to-convert-google-doc-to-pdf/" target="_blank" class="usa-link usa-link--external">How to Convert a Google Doc to PDF | Google</a></li>
+          <li><a href="https://www.section508.gov/create/making-color-usage-accessible/">Making Color Usage Accessible</a></li>     
+          <li>Microsoft Support
+            <ul>
+              <li><a href="https://support.microsoft.com/en-us/office/change-bullet-indents-in-word-5ed8b9a0-d44c-4e9a-81b3-47c234e980d3" target="_blank" class="usa-link usa-link--external">Change bullet indents in Word</a></li>
+              <li><a href="https://support.microsoft.com/en-us/office/change-the-numbering-in-a-numbered-list-a9731137-8a85-47ce-a7e4-8b1c6c8c77a3" target="_blank" class="usa-link usa-link--external">Change the numbering in a numbered list</a></li>
+              <li><a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563" target="_blank" class="usa-link usa-link--external">Customize or create new styles</a></li>
+              <li><a href="https://support.microsoft.com/en-us/office/define-new-bullets-numbers-and-multilevel-lists-6c06ef65-27ad-4893-80c9-0b944cb81f5f" target="_blank" class="usa-link usa-link--external">Define new bullets, numbers, and multilevel lists</a></li>              
+            </ul>
+          </li>
+          <li><a href="https://www.access-board.gov/ict/">Section 508 Standards</a></li>
+          <li><a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link usa-link--external">WebAIM Contrast Checker</a>, which you can use in any browser.</li>
         </ul>
       </li>
-    </ul>
-    <ul>
-    <li>Section508.gov<ul>
-    <li><a href="https://www.section508.gov/create/documents/">Create Accessible Documents(opens in a new tab)</a></li>
-    <li><a href="https://www.section508.gov/tools/program-manager-listing/">Federal Section 508 Program Managers(opens in a new tab)</a></li>
-    </ul>
-    </li>
-    <li><a href="https://www.access-board.gov/ict/">Section 508 Standards</a></li>
-    <li>Vocabulary
+      <li>Vocabulary
         <ul>
-          <li><a href="{{site.baseurl}}/">Link</a> people with disabilities</li>
-          <li><a href="{{site.baseurl}}/">Link</a> Sensory characteristics (from course, lesson 6 )</li>
-          <li><a href="{{site.baseurl}}/">Link</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#pwd">People with disabilities</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#sensory-characteristics">Sensory characteristics</a></li>
         </ul>
       </li>
     </ul>
