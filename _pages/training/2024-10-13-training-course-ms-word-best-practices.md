@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: Microsoft Word & Accessibility Best Practices
-permalink: training/online-course/ms-word-best-practices/
+permalink: training/courses/ms-word-best-practices/
 description: Learn best practices for creating accessible Microsoft Word documents. This free course covers headings, images, tables, charts, and more for Section 508.
+redirect_from:
+- training/online-course/ms-word-best-practices/
 audience:
 - Content Creators
 - Developers

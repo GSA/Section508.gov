@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: "Accessibility of ICT: An Overview for Government Executives"
-permalink: training/online-course/accessible-for-executives/
+permalink: training/courses/accessible-for-executives/
 description: Discover executive responsibilities under Section 508. This free course explains leadership’s role in advancing accessible ICT across federal agencies.
+redirect_from:
+- training/online-course/accessible-for-executives/
 audience:
 - Content Creators
 - Developers
@@ -76,7 +78,7 @@ After completing this course, you will be able to do the following:
     </li>
 </ol>
 
-For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
+For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/courses/section-508-what-is-it-and-why-its-important/)
 
 ## Certificate and Continuing Learning Points (CLPs)
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There is only one type of certificate offered for this course.
@@ -101,7 +103,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
       <li><a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a></li>
       <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
-      <li><a href="{{site.baseurl}}/training/online-course/section-508-what-is-it-and-why-its-important/">Section 508: What Is It and Why Is It Important?</a></li>
+      <li><a href="{{site.baseurl}}/training/courses/section-508-what-is-it-and-why-its-important/">Section 508: What Is It and Why Is It Important?</a></li>
       <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act, as amended</a></li>
       <li><a href="{{site.baseurl}}/manage/roles/">Section 508 Roles and Responsibilities</a></li>
       <li><a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a></li>

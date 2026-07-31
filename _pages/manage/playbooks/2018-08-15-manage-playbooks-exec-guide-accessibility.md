@@ -56,7 +56,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 Strong executive support for IT accessibility, and clear policies that drive action, will increase compliance and expand access to government services for citizens with disabilities.
 
-* <a href="{{site.baseurl}}/training/online-course/accessible-for-executives/">IT Accessibility: An Overview for Government Executives</a>
+* <a href="{{site.baseurl}}/training/courses/accessible-for-executives/">IT Accessibility: An Overview for Government Executives</a>
 
 ### Policy
 

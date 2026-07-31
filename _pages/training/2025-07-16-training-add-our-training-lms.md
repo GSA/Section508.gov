@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: "Add GSA’s Section 508 Training Courses to Your LMS"
-permalink: training/online-training/add-our-training-to-your-lms/
+permalink: training/courses/add-our-training-to-your-lms/
 description: "GSA offers no-cost, LMS-ready Section 508 training courses to federal agencies. Support accessibility compliance at your agency with these easy-to-deploy, SCORM-compliant modules."
+redirect_from:
+- training/online-course/add-our-training-to-your-lms/
 audience:
 - "Federal Employees"
 - "Section 508 Program Managers"

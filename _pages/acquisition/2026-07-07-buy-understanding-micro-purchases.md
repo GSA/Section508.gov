@@ -30,7 +30,7 @@ While micro-purchases may use streamlined purchasing methods under the Federal A
 
 This resource explains how Section 508 applies to ICT micro-purchases, outlines key responsibilities, and provides practical steps to help Government buyers, cardholders, and requiring officials meet accessibility requirements while using simplified acquisition procedures.
 
-For a complete training on this topic, see the <a href="{{site.baseurl}}/training/online-course/micro-purchases/">Micro-Purchases and Section 508 Requirements</a> course.
+For a complete training on this topic, see the <a href="{{site.baseurl}}/training/courses/micro-purchases/">Micro-Purchases and Section 508 Requirements</a> course.
 
 ## What is Section 508?
 Section 508 of the Rehabilitation Act requires Federal agencies to ensure that the ICT they develop, procure, maintain, or use is accessible to people with disabilities, unless an applicable exception is properly documented.
@@ -285,8 +285,8 @@ To learn more, start with these core resources.
         * <a href="https://www.acquisition.gov/far/subpart-39.2" target="_blank" class="usa-link--external">Subpart 39.2 - Information and Communication Technology Information and Communication Technology</a>
 * **Section 508.gov Resources**
     * Training Courses
-        * <a href="{{site.baseurl}}/training/online-course/micro-purchases/">Micro-Purchases and Section 508 Requirements</a>
-        * <a href="{{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a>
+        * <a href="{{site.baseurl}}/training/courses/micro-purchases/">Micro-Purchases and Section 508 Requirements</a>
+        * <a href="{{site.baseurl}}/training/courses/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a>
     * Tools
         * <a href="{{site.baseurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
         * <a href="{{site.baseurl}}/tools/coordinator-listing">Find Your Section 508 Program Manager</a>

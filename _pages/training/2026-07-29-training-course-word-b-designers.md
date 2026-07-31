@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: training
 title: Microsoft Word Accessibility for Document Designers
-permalink: training/online-course/microsoft-word-accessibility-designers/
+permalink: training/courses/microsoft-word-accessibility-designers/
 description: [pending]
 disclaimer: true
 audience:
@@ -22,7 +22,7 @@ subtopic:
 resource-type:
 - Training
 format: HTML
-created: 2026-07-28
+created: 2026-08-04
 updated: 
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -76,7 +76,7 @@ After completing this training, you will be able to do the following:
 </ol>
  
 <div class="grid-col-12 summary-box margin-top-3">
-    <strong>In the first course in this series</strong>, <a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a>, you will learn how to use specific features accessibly. This will allow you to add images, tables, columns, and other features in a way that will allow all users to access and understand the information in the document.
+    <strong>In the first course in this series</strong>, <a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a>, you will learn how to use specific features accessibly. This will allow you to add images, tables, columns, and other features in a way that will allow all users to access and understand the information in the document.
 </div>
 
 ## Certificate and Continuing Learning Points (CLPs)
@@ -117,7 +117,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
               <li><a href="https://support.google.com/docs/answer/6199477" target="_blank" class="usa-link usa-link--external">Make your document more accessible - Include alt text( </a></li>
               <li><a href="https://support.google.com/docs/answer/86629" target="_blank" class="usa-link usa-link--external">Use headers, footers, page numbers, and footnotes</a></li>
               <li><a href="https://support.google.com/docs/answer/45893" target="_blank" class="usa-link usa-link--external">Work with links and bookmarks</a></li>              
-              <li><a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a> - ensure redirect</li>
+              <li><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a> - ensure redirect</li>
               <li><a href="https://ictbaseline.access-board.gov/document-baselines/14LinksDocs/#14-links" target="_blank" class="usa-link usa-link--external">Section 508 ICT Testing Baseline for Links</a></li>
               <li><a href="{{site.baseurl}}/manage/understand-scope-technical-requirements/">Understand Content Scope and Technical Requirements</a></li>
             </ul>

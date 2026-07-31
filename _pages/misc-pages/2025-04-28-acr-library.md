@@ -119,7 +119,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
   </thead>
   <tbody>
     <tr>
-      <th id="ict-exec" scope="row"><a href="{{ site.baseurl }}/training/online-course/accessible-for-executives/">Accessibility of ICT for Government Executives</a></th>
+      <th id="ict-exec" scope="row"><a href="{{ site.baseurl }}/training/courses/accessible-for-executives/">Accessibility of ICT for Government Executives</a></th>
       <td class="center">2.0</td>
       <td class="center">2025-04-18</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -129,7 +129,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>   
     <tr>
-      <th id="micro-purchase" scope="row"><a href="{{ site.baseurl }}/training/online-course/micro-purchases/">Micro-Purchases and Section 508 Requirements</a></th>
+      <th id="micro-purchase" scope="row"><a href="{{ site.baseurl }}/training/courses/micro-purchases/">Micro-Purchases and Section 508 Requirements</a></th>
       <td class="center">3.0</td>
       <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -139,7 +139,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>
     <tr>
-      <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/online-course/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></th>
+      <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/courses/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></th>
       <td class="center">1.2</td>
       <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -147,7 +147,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>
     <tr>
-      <th id="procuring-ict" scope="row"><a href="{{ site.baseurl }}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a></th>
+      <th id="procuring-ict" scope="row"><a href="{{ site.baseurl }}/training/courses/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a></th>
       <td class="center">1.0</td>
       <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -157,7 +157,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>
     <tr>
-      <th id="508-what-is-it" scope="row"><a href="{{ site.baseurl }}/training/online-course/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></th>
+      <th id="508-what-is-it" scope="row"><a href="{{ site.baseurl }}/training/courses/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></th>
       <td class="center">4.1</td>
       <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -167,7 +167,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>
     <tr>
-      <th id="evaluating-acrs" scope="row"><a href="{{ site.baseurl }}/training/online-course/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></th>
+      <th id="evaluating-acrs" scope="row"><a href="{{ site.baseurl }}/training/courses/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></th>
       <td class="center">1.0</td>
       <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
@@ -188,4 +188,4 @@ The General Services Administration (GSA) provides technical assistance to indiv
   * [Request Accessibility Information from Vendors & Contractors]({{ site.baseurl }}/buy/request-accessibility-information/)
   * [Understanding Vendor Claims in ACRs for Section 508 Conformance]({{ site.baseurl }}/buy/understand-claims/) 
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-  * [Soliciting and Evaluating ACRs in Federal ICT Procurement]({{ site.baseurl }}/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
+  * [Soliciting and Evaluating ACRs in Federal ICT Procurement]({{ site.baseurl }}/training/courses/soliciting-and-evaluating-acrs/)—Online Training

@@ -22,6 +22,8 @@ format: HTML
 created: 2018-05-07
 updated: 2026-07-28
 hide-date: true
+exclude-changelog: true
+exclude-library: true
 ---
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
 

@@ -23,8 +23,8 @@ resource-type:
 format: HTML
 created: 2026-07-28
 updated: 
+exclude-changelog: true
 ---
-
 The Section 508 Training Video Library provides instructional videos on creating, testing, and maintaining accessible information and communication technology (ICT). Learn how to apply accessibility best practices to documents, presentations, spreadsheets, websites, and digital content using common tools and techniques.
 
 ---

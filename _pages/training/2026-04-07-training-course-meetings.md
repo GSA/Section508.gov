@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: Accessible Meetings for Hosts & Presenters
-permalink: training/online-course/accessible-meetings/
+permalink: training/courses/accessible-meetings/
 description: "Learn how to plan and facilitate accessible virtual, hybrid, and in-person meetings that meet Section 508 requirements."
+redirect_from:
+- training/online-course/accessible-meetings/
 audience:
 - Communications Specialists
 - Federal Employees

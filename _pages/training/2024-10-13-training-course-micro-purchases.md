@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: Micro-Purchases and Section 508 Requirements
-permalink: training/online-course/micro-purchases/
+permalink: training/courses/micro-purchases/
 description: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
+redirect_from:
+- training/online-course/micro-purchases/
 audience:
 - Content Creators
 - Developers

@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: training
 title: Microsoft Word Accessibility Overview
-permalink: training/online-course/microsoft-word-accessibility-overview/
+permalink: training/courses/microsoft-word-accessibility-overview/
 description: [pending]
 disclaimer: true
 audience:
@@ -22,7 +22,7 @@ subtopic:
 resource-type:
 - Training
 format: HTML
-created: 2026-07-28
+created: 2026-08-03
 updated: 
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -80,7 +80,7 @@ After completing this training, you will be able to do the following:
 </ol>
 
 <div class="grid-col-12 summary-box margin-top-3">
-    <strong>In the second course in this series</strong>, <a href="{{site.baseurl}}/training/online-course/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Designers</a>, you will learn how to use specific features accessibly. This will allow you to add images, tables, columns, and other features in a way that will allow all users to access and understand the information in the document.
+    <strong>In the second course in this series</strong>, <a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Designers</a>, you will learn how to use specific features accessibly. This will allow you to add images, tables, columns, and other features in a way that will allow all users to access and understand the information in the document.
 </div>
  
 ## Certificate and Continuing Learning Points (CLPs)

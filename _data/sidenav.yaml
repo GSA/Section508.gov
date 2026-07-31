@@ -221,27 +221,27 @@ training:
     url: '#'
     children:
       - name: Online Training Courses Overview
-        url: 'training/online-course/'
+        url: 'training/courses/'
       - name: "Accessibility of ICT for Government Executives"
-        url: 'training/online-course/accessible-for-executives/'
+        url: 'training/courses/accessible-for-executives/'
       - name: "Accessible Meetings for Hosts & Presenters"
-        url: 'training/online-course/accessible-meetings/'
+        url: 'training/courses/accessible-meetings/'
       - name: "Microsoft Word Accessibility Overview"
-        url: 'training/online-course/microsoft-word-accessibility-overview/'
+        url: 'training/courses/microsoft-word-accessibility-overview/'
       - name: "Microsoft Word for Document Designers"
-        url: 'training/online-course/microsoft-word-accessibility-designers/'
+        url: 'training/courses/microsoft-word-accessibility-designers/'
       - name: "Micro-Purchases and Section 508 Requirements"
-        url: 'training/online-course/micro-purchases/'
+        url: 'training/courses/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
-        url: 'training/online-course/procuring-section-508-conformant-ict/'
+        url: 'training/courses/procuring-section-508-conformant-ict/'
       - name: "Section 508: What Is It and Why Is It Important?"
-        url: 'training/online-course/section-508-what-is-it/'
+        url: 'training/courses/section-508-what-is-it/'
       - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
-        url: 'training/online-course/soliciting-and-evaluating-acrs/'
+        url: 'training/courses/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
         url: 'training-home#federal-acquisition-institute'
       - name: "Add GSA’s Training to Your LMS"
-        url: 'training/online-training/add-our-training-to-your-lms/'
+        url: 'training/courses/add-our-training-to-your-lms/'
   - name: Training Videos Library
     url: '#'
     children:

@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: "Section 508: What Is It and Why Is It Important?"
-permalink: training/online-course/section-508-what-is-it/
+permalink: training/courses/section-508-what-is-it/
 description: New to Section 508 accessibility? Learn what it is, why it matters, and how it ensures accessible information and communication technology (ICT) for federal employees and the public.
+redirect_from:
+- training/online-course/section-508-what-is-it/
 audience:
 - Content Creators
 - Developers
