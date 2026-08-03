@@ -1874,6 +1874,25 @@ exclude-changelog: true
             }
           });
 
+          // Top Viewed ICT July Modification notation
+          const topViewedTable = document.getElementById("table-5");
+
+          // Remove any existing note first (handles switching between entities)
+          const existingJulyModNote = document.getElementById("top-viewed-julyMod-note");
+          if (existingJulyModNote) {
+            existingJulyModNote.remove();
+          }
+
+          // Only add the note if this entity actually has julyMod data
+          if (topViewedTable && entity_data[i]?.julyMod) {
+            const noteDiv = document.createElement("div");
+            noteDiv.id = "top-viewed-julyMod-note";
+            noteDiv.innerText = entity_data[i].julyMod.toString().trim();
+
+            // Place it directly below the table
+            topViewedTable.insertAdjacentElement("afterend", noteDiv);
+          }
+
           //Acquisition and Procurement
           const acqProcCards = [
             {

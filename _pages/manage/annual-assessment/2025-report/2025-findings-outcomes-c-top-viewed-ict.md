@@ -16,18 +16,19 @@ audience:
 resource-type: "White Paper"
 format: "HTML"
 created: 2026-03-02
-updated: 
+updated: 2026-07-30
 exclude-changelog: true
 ---
-As Figure 4 shows, on average, 23 percent of agencies did not test at least one of their top-viewed ICTs. This year's submission included less top-viewed ICT data because components did not submit their own data; instead, it was included in their parent agencies’ submissions. The top-viewed submissions only included the top five videos and top 10 web pages and electronic documents for the entire agency or parent agency. The submitted data indicates that agencies lack sufficient resources or capacity to conduct comprehensive testing of the ICT they procure, develop, maintain, or use.
+As Figure 4 shows, on average, about 23 percent of agencies did not test at least one of their top-viewed ICTs. This year's submission included less top-viewed ICT data because components did not submit their own data; instead, it was included in their parent agencies’ submissions. The top-viewed submissions only included the top five videos and top 10 web pages and electronic documents for the entire agency or parent agency. The submitted data indicates that agencies lack sufficient resources or capacity to conduct comprehensive testing of the ICT they procure, develop, maintain, or use.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy25/figure-4.jpg" alt="Stacked bar chart showing responses for top-viewed ICT:
-80% of agencies submitted results for public web pages and 20% did not test. 70% of agencies submitted results for intranet web pages while 23% did not test and 7% did not have intranet. 75% of agencies submitted results for electronic documents while 25% did not test. 75% of agencies submitted results for videos while 22% did not test and 3% did not have any videos. " aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+78% of agencies submitted results for public web pages and 22% did not test. 67% of agencies submitted results for intranet web pages while 23% did not test and 10% did not have intranet. 72% of agencies submitted results for electronic documents while 27% did not test and 1% did not have electronic documents. 67% of agencies submitted results for videos while 23% did not test and 10% did not have any videos. " aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
    </div>
-   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Percentage of responses for top-viewed ICT</span>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Percentage of responses for top-viewed ICT*</span>
    </div>
 </div>
+*Due to a data transcription issue, this image was updated in July to reflect accurate submitted results, did not test, and N/A outcomes.
 
 The governmentwide Section 508 conformance overall for the top-viewed ICT is low, with less than half fully conformant to Section 508 standards. The reported top-viewed ICT outcomes shows:
 
@@ -133,32 +134,34 @@ The governmentwide Section 508 conformance overall for the top-viewed ICT is low
   <tbody>
     <tr>
       <th scope="row">Public Web Pages</th>
-      <td>48</td>
-      <td>12</td>
+      <td>47*</td>
+      <td>13*</td>
       <td>37%</td>
     </tr>
     <tr>
       <th scope="row">Intranet Web Pages</th>
-      <td>42<br>Four agencies noted they do not have an intranet.
+      <td>40*<br>Six agencies noted they do not have an intranet.
       </td>
       <td>14</td>
       <td>41%</td>
     </tr>
     <tr>
       <th scope="row">Public Electronic Documents</th>
-      <td>45</td>
-      <td>15</td>
+      <td>43*<br>One agency noted they do not have any public electronic documents.
+      </td>
+      <td>16*</td>
       <td>37%</td>
     </tr>
     <tr>
       <th scope="row">Public Videos</th>
-      <td>45<br>Two agencies noted they do not have any videos.
+      <td>40*<br>Six agencies noted they do not have any videos.
       </td>
-      <td>13</td>
+      <td>14*</td>
       <td>45%</td>
     </tr>
   </tbody>
 </table>
+*denotes updated totals to a data transcription error. Incorrect data initially published was 48 agencies provided results for public web pages and 12 did not test, 42 agencies provided results for intranet web pages while 4 agencies noted they did not have an intranet, 45 agencies provided results for electronic documents and 15 agencies did not test, and 45 agencies provided results for videos, 2 agencies noted they do not have videos, and 13 agencies did not test.
 
 <!-- TOP DEFECTS -->
 <div class="grid-row grid-gap margin-bottom-6">
