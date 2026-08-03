@@ -32,6 +32,18 @@
       (function() {
         const jsonp = {}
 
+        function getLibraryAssetUrl(path, extension) {
+          const relativePathPattern = /^[A-Za-z0-9][A-Za-z0-9._-]*(\/[A-Za-z0-9][A-Za-z0-9._-]*)*$/
+
+          if (typeof path !== 'string' ||
+              !relativePathPattern.test(path) ||
+              !path.endsWith(extension)) {
+            throw new Error(`Invalid ${extension} library asset path.`)
+          }
+
+          return new URL(`lib/${path}`, document.baseURI).href
+        }
+
         function loadModule(manifest) {
           const p = []
 
@@ -42,7 +54,7 @@
                 link.onload = resolve
                 link.onerror = reject
                 link.rel = 'stylesheet'
-                link.href = 'lib/' + manifest['.css'][idx]
+                link.href = getLibraryAssetUrl(manifest['.css'][idx], '.css')
                 document.body.appendChild(link)
               }))
             }
@@ -54,7 +66,7 @@
                 var script = document.createElement('script')
                 script.onload = resolve
                 script.onerror = reject
-                script.src = 'lib/' + manifest['.js'][idx]
+                script.src = getLibraryAssetUrl(manifest['.js'][idx], '.js')
                 document.body.appendChild(script)
               }))
             }
