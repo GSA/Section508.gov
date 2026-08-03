@@ -113,19 +113,19 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
 <h2 id="executive-summary-recommendations-to-congress"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-congress">Recommendations to Congress</a></h2>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Update and clarify Section 508 statutory requirements</strong> by clearly defining which federal agencies are subject to Section 508 and aligning reporting requirements under 29 U.S.C. §§ 794d and 794d-1.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Strengthen enforcement and accountability for Section 508 compliance</strong> by exploring legislative approaches that improve oversight and corrective action.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Increase congressional oversight of Section 508 implementation</strong> by requiring agency leadership to report planned corrective actions and directing agencies to independently validate Section 508 conformance for high-use, public-facing digital products and services.
     </div>
@@ -135,37 +135,37 @@ The FY 2025 Governmentwide Section 508 Assessment establishes a new baseline for
 <h2 id="executive-summary-recommendations-to-federal-agencies"><a href="{{site.baseurl}}/manage/section-508-assessment/2025/recommendations/#recommendations-to-federal-agencies">Recommendations to Federal Agencies</a></h2>
 <ol class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Strengthen leadership support and accountability for Section 508</strong> by reinforcing that CIOs lead the integration of accessibility throughout the ICT lifecycle.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Integrate Section 508 into core risk management frameworks</strong> by treating ICT accessibility as a component of agencies’ security, privacy, and risk management lifecycles.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Use acquisition as a primary lever for Section 508 compliance</strong> by prioritizing accessible commercial solutions, validating accessibility claims, enforcing contract requirements, and holding vendors accountable.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Strengthen and optimize Section 508 resourcing and governance</strong> by leveraging shared services, federal buying power, common tools, cross-government expertise, and accessible authoring platforms, to improve outcomes at lower cost.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Require annual, role-based Section 508 training for employees who create, maintain, or contribute to ICT</strong> by embedding accessibility training into onboarding and annual learning requirements.
     </div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon"><svg class="usa-icon text-blue" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+    <div class="usa-icon-list__icon"><svg class="usa-icon text-red" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
     <div class="usa-icon-list__content">
       <strong>Expand Section 508 conformance validation and remediation</strong> by increasing testing prior to deployment, applying a risk-based approach that prioritizes high-impact and high-use ICT, and leveraging AI tools and staff training to support accessible content generation, evaluation, and remediation.
     </div>

@@ -6,17 +6,21 @@ title: "Section 508: What Is It and Why Is It Important?"
 permalink: training/online-course/section-508-what-is-it/
 description: New to Section 508 accessibility? Learn what it is, why it matters, and how it ensures accessible information and communication technology (ICT) for federal employees and the public.
 audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-topic: "Training"
-sub-topic: "Presentations"
-resource-type: "Training"
-format: "Video"
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic:
+- Training
+subtopic:
+- Presentations
+resource-type:
+- Training
+format: HTML
 created: 2024-10-15
-updated: 2025-03-19
+updated: 2026-07-29
+exclude-changelog: true
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -82,18 +86,24 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </li>
 </ol>
 
-## Key Terms and References 
-* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
-* [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/tools/glossary/#assistive-technology)
-* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-* [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
-* [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+<div class="usa-accordion usa-accordion--bordered margin-top-4">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+    <ul>
+      <li><a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a></li>
+      <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) and VPAT&reg;</a></li>
+      <li><a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Assistive Technology (AT)</a></li>
+      <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
+      <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
+      <li><a href="{{site.baseurl}}/buy/determine-508-standards-exceptions/">General Exceptions</a></li>
+      <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
+      <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))</a></li>
+      <li><a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a></li>
+      <li><a href="{{site.baseurl}}/manage/roles/">Section 508 Roles and Responsibilities</a></li>
+      <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a></li>
+    </ul>
+  </div>
+</div>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

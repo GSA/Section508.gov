@@ -7,7 +7,8 @@ permalink: tools/tools-for-testing-ict/
 description: Find out more about testing tools, software, and guidance for running tests.
 disclaimer: true
 redirect_from: 
-- test/web-software/, test/about-testing-tools/
+- test/web-software/ 
+- test/about-testing-tools/
 audience: 
 - Content Creators
 - Designers
