@@ -246,7 +246,7 @@ training:
     url: '#'
     children:
       - name: "Training Videos Library Overview"
-        url: 'training/video-library/'
+        url: 'training/videos/'
       - name: "Accessibility Requirements Tool"
         url: '#'
         grandchildren:

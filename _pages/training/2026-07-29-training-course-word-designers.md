@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Microsoft Word Accessibility for Document Designers
 permalink: training/courses/microsoft-word-accessibility-designers/
-description: [pending]
+description: The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements.
 disclaimer: true
 audience:
 - Communications Specialists
@@ -37,7 +37,7 @@ updated:
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Create accessible text documents from the start. This course introduces essential document accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.</p>
+        <p>The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-for-document-designers/index.html" target="_blank" class="usa-button">Open Course</a>

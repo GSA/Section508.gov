@@ -5,6 +5,8 @@ type: training
 title: Training Video Library
 permalink: training/videos/
 description: pending
+redirect_from:
+- training/video-library/
 audience:
 - Buyers
 - Content Creators

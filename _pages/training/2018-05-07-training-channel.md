@@ -47,7 +47,7 @@ Learn how you can make your agency's electronic information and digital services
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training/videos/">Training Videos Library</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training/videos/">Training Video Library</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">

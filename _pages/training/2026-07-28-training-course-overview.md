@@ -37,7 +37,7 @@ The Section 508 Online Training Courses Library provides self-paced courses on d
 <div class="grid-col-12 summary-box margin-bottom-3">
     <ul id="Set List ID" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#push_pin"></use></svg></div>
+            <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#info"></use></svg></div>
             <div class="usa-icon-list__content">Are you a contracting officer (CO), contracting officer representative (COR), or other acquisition or accessibility professional? Learn how to earn <a href="#federal-acquisition-institute">Continuing Learning Points (CLPs)</a> by completing Section 508 accessibility training.</div>
         </li>
     </ul>
@@ -58,11 +58,11 @@ The Section 508 Online Training Courses Library provides self-paced courses on d
   </li>  
   <li class="usa-icon-list__item" id="ms-word-overview">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a></h3> This is the first of two courses in the Microsoft Word Accessibility series. This course covers foundational accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.</div>
+      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a></h3> The first of a two-part series, this course covers foundational accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.</div>
   </li>
   <li class="usa-icon-list__item" id="ms-word-designers">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Desingners</a></h3> This is the second of two courses in the Microsoft Word Accessibility series. This course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain..</div>
+      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Desingners</a></h3> The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</div>
   </li>  
   <li class="usa-icon-list__item" id="buying-ict">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
