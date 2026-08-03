@@ -224,6 +224,8 @@ training:
     children:
       - name: "Accessibility of ICT for Government Executives"
         url: 'training/online-course/accessible-for-executives/'
+      - name: "Accessible Meetings for Hosts & Presenters"
+        url: 'training/online-course/accessible-meetings/'
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'training/online-course/ms-word-best-practices/'
       - name: "Micro-Purchases and Section 508 Requirements"

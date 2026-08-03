@@ -78,6 +78,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Accessibility Requirements Tool</td>
     </tr>
     <tr>
+        <th scope="row" id="asl">ASL</th>
+        <td>American Sign Language</td>
+    </tr>
+    <tr>
         <th scope="row" id="aspe">ASPE</th>
         <td>Office of the Assistant Secretary for Planning and Evaluation</td>
     </tr>
@@ -336,6 +340,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
     <tr>
       <th scope="row" id="seo">SEO</th>
       <td>Search Engine Optimization</td>
+    </tr>
+    <tr>
+      <th scope="row" id="sli">SLI</th>
+      <td>Sign Language Interpreter</td>
     </tr>
     <tr>
         <th scope="row" id="sme">SME</th>

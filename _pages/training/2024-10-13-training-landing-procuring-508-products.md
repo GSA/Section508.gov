@@ -2,23 +2,26 @@
 layout: page
 sidenav: true
 type: training
-title: "Procuring Section 508 Conformant ICT Products and Services"
+title: Procuring Section 508 Conformant ICT Products and Services
 permalink: training/online-course/procuring-section-508-conformant-ict/
 description: Learn the basics of procuring Section 508 conformant information and communication technology (ICT). This no-cost course explains roles, responsibilities, and steps in the federal acquisition process.
 audience:
-- "Federal Employees"
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-topic: "Training"
-sub-topic: "Presentations"
-resource-type: "Training"
-format: "HTML"
+- Content Creators
+- Developers
+- Federal Employees
+- Members of the Public
+- Section 508 Program Managers
+topic:
+- Training
+subtopic:
+- Presentations
+resource-type:
+- Training
+format: HTML
 created: 2024-10-15
-updated: 2025-03-19
+updated: 2025-07-29
+exclude-changelog: true
 ---
-
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -92,42 +95,56 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 
-## Key Terms and References 
-* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
-* [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/tools/glossary/#assistive-technology)
-* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-* [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
-* [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+<div class="usa-accordion usa-accordion--bordered margin-top-4">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
+  <div id="key-terms" class="usa-accordion__content usa-prose">
+    <ul>
+      <li><a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a></li>
+      <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) and VPAT&reg;</a></li>
+      <li><a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Assistive Technology (AT)</a></li>
+      <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
+      <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
+      <li><a href="{{site.baseurl}}/buy/determine-508-standards-exceptions/">General Exceptions</a></li>
+      <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
+      <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))</a></li>
+      <li><a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a></li>
+      <li><a href="{{site.baseurl}}/manage/roles/">Section 508 Roles and Responsibilities</a></li>
+      <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a></li>
+      <li><a href="{{site.baseurl}}/buy/">Buy Accessible Products and Services</a>
+        <ul>
+          <li><a href="{{site.baseurl}}/buy/#pre-award">Pre-Award Phase</a></li>
+          <li><a href="{{site.baseurl}}/buy/#award">Award Phase</a></li>
+          <li><a href="{{site.baseurl}}/buy/#post-award">Post-Award Phase</a></li>
+        </ul>
+      </li>
+      <li><a href="{{site.baseurl}}/create/">Create Accessible Digital Products</a></li>
+      <li><a href="{{site.baseurl}}/buy/determine-508-standards-exceptions/">Determine 508 Standards and Exceptions</a></li>
+      <li><a href="{{site.baseurl}}/buy/define-accessibility-criteria/">Define Accessibility Criteria in Contracts</a></li>
+      <li><a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions</a></li>
+      <li><a href="{{site.baseurl}}/test/testing-overview/">Overview of Testing Methods for 508 Conformance</a>)</li>
+      <li><a href="{{site.baseurl}}/buy/request-accessibility-information/">Request Accessibility Information from Vendors &amp; Contractors</a></li>
+      <li><a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
+        <ul>
+          <li><a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a></li>
+          <li><a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a></li>
+        </ul>
+      </li>
+      <li><a href="{{site.baseurl}}/sell/">Sell Accessible Products and Services</a></li>
+      <li><a href="{{ site.baseurl }}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a></li>
+      <li><a href="{{site.baseurl}}/manage/roles/">Stakeholder Roles and Responsibilities</a></li>
+      <li><a href="{{site.baseurl}}/test/trusted-tester/">Trusted Tester and ICT Testing Baseline</a></li>
+      <li>Vocabulary
+        <ul>
+          <li><a href="{{site.baseurl}}/tools/glossary/#ict">ICT</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#compliant-section-508">Compliant</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#conformant-section-508">Conformant</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#micro-purchase">Micro-purchase</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-
-* [Buy Accessible Products and Services]({{site.baseurl}}/buy/)
-  * [Pre-Award Phase]({{site.baseurl}}/buy/#pre-award)
-  * [Award Phase]({{site.baseurl}}/buy/#award)
-  * [Post-Award Phase]({{site.baseurl}}/buy/#post-award)
-* [Create Accessible Digital Products]({{site.baseurl}}/create/)
-* [Determine 508 Standards and Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Define Accessibility Criteria in Contracts]({{site.baseurl}}/buy/define-accessibility-criteria/)
-* <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions</a>
-* [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/))
-* [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
-* <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
-  * <a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a>
-  * <a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a>
-* [Sell Accessible Products and Services]({{site.baseurl}}/sell/)
-* [Solicitation Review Tool (SRT)]({{ site.baseurl }}/buy/solicitation-review-tool/)
-* [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* [Trusted Tester and ICT Testing Baseline]({{site.baseurl}}/test/trusted-tester/)
-* Vocabulary
-  * [ICT]({{site.baseurl}}/tools/glossary/#ict)
-  * [Compliant]({{site.baseurl}}/tools/glossary/#compliant-section-508)
-  * [Conformant]({{site.baseurl}}/tools/glossary/#conformant-section-508)
-  * [Micro-purchase]({{site.baseurl}}/tools/glossary/#micro-purchase)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

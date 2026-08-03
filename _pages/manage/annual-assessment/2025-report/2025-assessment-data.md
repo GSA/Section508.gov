@@ -19,7 +19,7 @@ audience:
 resource-type: "White Paper"
 format: "HTML"
 created: 2026-03-02
-updated: 2026-07-16
+updated: 2026-07-30
 exclude-changelog: true
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 2025 Governmentwide Section 508 Assessment below, which includes:
@@ -37,7 +37,7 @@ To enhance the transparency of this report and respondent data, we have made the
 * <a href="https://www.section508.gov/~assets/files/assessment/2025/fy25-governmentwide-section-508-assessment-agency-top-viewed-ict-response-data.csv" target="_blank" class="usa-link--external">FY 2025 Governmentwide Section 508 Assessment Agency Top Viewed ICT Response Data (CSV)*</a>
 * <a href="https://www.section508.gov/~assets/files/assessment/2025/fy25-governmentwide-section-508-assessment-agency-top-viewed-ict-response-data.json" target="_blank" class="usa-link--external">FY 2025 Governmentwide Section 508 Assessment Agency Top Viewed ICT Response Data (JSON)*</a>
 
-*Department of Treasury, Department of Transportation, Department of Interior, James Madison Memorial Fellowship Foundation, and Department of Homeland Security’s results were inadvertently omitted in a previously posted version.
+*Department of Treasury, Department of Transportation, Department of Interior, James Madison Memorial Fellowship Foundation, and Department of Homeland Security’s results were inadvertently omitted in a previously posted version. In addition, an update was made July 30th to add notations for where agencies did not test ICT or if they did not have that ICT type. 
 
 ### Components
 * <a href="https://www.section508.gov/~assets/files/assessment/2025/fy25-governmentwide-section-508-assessment-component-data-dictionary.xlsx" target="_blank" class="usa-link--external">FY 2025 Governmentwide Section 508 Assessment Component Data Dictionary (XLSX)</a>
