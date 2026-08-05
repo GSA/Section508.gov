@@ -44,6 +44,396 @@ a{
   color: #1763cf;
 }
 
+/* Section 508 Exceptions Authoring Tool (SEAT) */
+.searg {
+  --searg-blue: #005ea8;
+  width: 100%;
+}
+
+.searg__progress-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .25rem;
+  list-style: none;
+  margin: 2rem 0;
+  padding: 0;
+}
+
+.searg__progress-list li {
+  border-top: .5rem solid #dfe1e2;
+  color: #565c65;
+  font-size: .88rem;
+  padding-top: .5rem;
+}
+
+.searg__progress-list li.is-current {
+  border-color: var(--searg-blue);
+  color: #1b1b1b;
+  font-weight: 700;
+}
+
+.searg__progress-list li.is-complete {
+  border-color: #00a91c;
+  color: #1b1b1b;
+}
+
+.searg__form {
+  border-top: 1px solid #dfe1e2;
+  min-height: 24rem;
+  padding-top: 1.5rem;
+}
+
+.searg__actions {
+  border-top: 1px solid #dfe1e2;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+}
+
+.searg__choices {
+  display: grid;
+  gap: .75rem;
+  margin-top: 1.5rem;
+}
+
+.searg__screening-questions {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.searg__screening-questions .usa-fieldset {
+  border-top: 1px solid #dfe1e2;
+  padding-top: 1rem;
+}
+
+.searg__market-options {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.searg__market-option {
+  border: 1px solid #a9aeb1;
+  padding: 1rem 1.5rem 1.5rem;
+}
+
+.searg__market-option h3 {
+  margin: 0;
+  padding: 0 .5rem;
+}
+
+.searg__solicitation-language {
+  margin-top: 2rem;
+  position: relative;
+}
+
+.copy-content-button {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: .25rem;
+  color: #1b1b1b;
+  cursor: pointer;
+  display: inline-flex;
+  height: 2.75rem;
+  justify-content: center;
+  padding: .625rem;
+  width: 2.75rem;
+}
+
+.searg__solicitation-language .copy-content-button {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.copy-content-button:hover,
+.copy-content-button.is-copied {
+  background: #e6e6e6;
+}
+
+.copy-content-button:focus-visible {
+  outline: .25rem solid #2491ff;
+  outline-offset: .25rem;
+}
+
+.copy-content-button .usa-icon {
+  fill: currentColor;
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.copy-content-button .text-green {
+  color: #008817;
+}
+
+.searg__solicitation-language h3 {
+  padding-right: 6rem;
+}
+
+.searg__choice {
+  border: 1px solid #a9aeb1;
+  border-radius: .25rem;
+  padding: .75rem 1rem .75rem 3rem;
+}
+
+.searg__choice:focus-within {
+  outline: .25rem solid #2491ff;
+  outline-offset: .25rem;
+}
+
+.searg__choice .usa-radio__label {
+  margin: 0;
+}
+
+.searg__choice .usa-radio__label span {
+  display: block;
+  font-size: .95rem;
+  margin-top: .25rem;
+}
+
+.searg .usa-input,
+.searg .usa-textarea,
+.searg .usa-select {
+  max-width: none;
+  width: 100%;
+}
+
+.searg #searg-question,
+.searg .usa-fieldset,
+.searg .usa-form-group,
+.searg .usa-label,
+.searg .usa-hint,
+.searg .usa-legend {
+  max-width: none;
+  width: 100%;
+}
+
+.searg .text-base,
+.searg .usa-hint:not(.usa-hint--required) {
+  color: #565c65;
+}
+
+.searg__field-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.searg__field-row {
+  align-items: end;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.searg__field-grid .usa-form-group {
+  margin-top: 0;
+}
+
+.searg__field-grid .usa-label {
+  font-weight: 700;
+}
+
+.searg__field-grid .usa-input,
+.searg__field-grid .usa-select {
+  width: 100%;
+}
+
+.searg__review dl > div,
+.searg__document-rows > div {
+  border-top: 1px solid #dfe1e2;
+  padding: .75rem 0;
+}
+
+.searg__review dt,
+.searg__document-rows dt {
+  font-weight: 700;
+}
+
+.searg__review dd,
+.searg__document-rows dd {
+  margin: .25rem 0 0;
+  white-space: normal;
+}
+
+.searg__requestor-columns {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.searg__requestor-columns .searg__document-rows > div:first-child {
+  border-top: 0;
+}
+
+.searg__document-actions {
+  background: #e7f6f8;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+.searg__paper {
+  border: 1px solid #a9aeb1;
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .12);
+  padding: 2rem;
+}
+
+.searg__paper > header {
+  border-bottom: 3px solid #1a4480;
+  text-align: center;
+}
+
+.searg__paper > header > p:first-child {
+  font-weight: 700;
+  min-height: 1.5rem;
+}
+
+.searg__paper h1 {
+  font-size: 1.65rem;
+}
+
+.searg__paper h2 {
+  border-bottom: 2px solid #565c65;
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  padding-bottom: .25rem;
+}
+
+.searg__paper h3 {
+  font-size: 1.1rem;
+}
+
+.searg__generated {
+  color: #565c65;
+  font-size: .85rem;
+}
+
+.searg__paper aside {
+  border-left: .5rem solid #ffbe2e;
+  margin-top: 1.5rem;
+  padding: .75rem 1rem;
+}
+
+.searg__paper table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.searg__paper caption {
+  font-weight: 700;
+  padding-bottom: .5rem;
+  text-align: left;
+}
+
+.searg__paper th,
+.searg__paper td {
+  border: 1px solid #8d9297;
+  padding: .5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.searg__paper td {
+  width: 6rem;
+}
+
+.searg__writing-area {
+  border-bottom: 1px solid #565c65;
+  min-height: 8rem;
+}
+
+.searg__signature-lines {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.5rem;
+}
+
+.searg__signature-lines div {
+  break-inside: avoid;
+}
+
+.searg__signature-lines dt {
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.searg__signature-lines dd {
+  border-bottom: 1px solid #1b1b1b;
+  height: 2rem;
+  margin: 0;
+}
+
+@media (max-width: 39.99em) {
+  .searg__progress-list {
+    grid-template-columns: 1fr;
+  }
+
+  .searg__progress-list li:not(.is-current) {
+    display: none;
+  }
+
+  .searg__signature-lines {
+    grid-template-columns: 1fr;
+  }
+
+  .searg__field-row {
+    grid-template-columns: 1fr;
+  }
+
+  .searg__requestor-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media print {
+  @page {
+    margin: .6in;
+  }
+
+  .searg__intro,
+  .searg__progress,
+  .searg__form,
+  .no-print,
+  body > header,
+  body > footer,
+  .usa-banner,
+  .usa-skipnav,
+  .usa-identifier,
+  #searg-errors {
+    display: none !important;
+  }
+
+  .searg,
+  .searg__document,
+  .searg__paper {
+    border: 0;
+    box-shadow: none;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+  }
+
+  .searg__paper {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+  }
+
+  .searg__paper h1,
+  .searg__paper h2,
+  .searg__paper h3,
+  .searg__paper table,
+  .searg__paper dl > div,
+  .searg__paper section {
+    break-inside: avoid;
+  }
+
+  .searg__paper a[href]::after {
+    content: "";
+  }
+}
+
 .card-tag {
     font-size: .9rem;
     margin-top: .2em;

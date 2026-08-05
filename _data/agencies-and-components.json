@@ -1,0 +1,554 @@
+{
+  "source": "Section508.gov Find Your Section 508 Program Manager directory",
+  "updated": "2026-06-17",
+  "groups": [
+    {
+      "id": "departments",
+      "label": "Departments and CFO Act agencies",
+      "agencies": [
+        {
+          "name": "Department of Agriculture (USDA)",
+          "components": [
+            "Agricultural Marketing Service (AMS)",
+            "Animal and Plant Health Inspection Service (APHIS)",
+            "Farm Production and Conservation Business Center (FPAC)",
+            "Farm Service Agency (FSA)",
+            "Food, Nutrition and Consumer Services (FNCS)",
+            "Food Safety and Inspection Service (FSIS)",
+            "Forest Service (FS)",
+            "Information Management Services Branch (IFSB)",
+            "National Agricultural Statistics Service (NASS)",
+            "Natural Resources Conservation Service (NRCS)",
+            "Office of the Assistant Secretary for Civil Rights (OASCR)",
+            "Office of Budget and Program Analysis (OBPA)",
+            "Office of the Chief Economist (OCE)",
+            "Office of the Chief Financial Officer (OCFO)",
+            "Office of the Chief Information Officer (OCIO)",
+            "Office of Communications (OC)",
+            "Office of Ethics",
+            "Office of General Council (OGC)",
+            "Office of Hearings and Appeals (OHA)",
+            "Office of the Inspector General (OIG)",
+            "Research, Education and Economics (REE)",
+            "Rural Development",
+            "Trade and Foreign Agricultural Affairs (TFAA)"
+          ]
+        },
+        {
+          "name": "Department of Commerce (DOC)",
+          "components": [
+            "Bureau of Economic Analysis (BEA)",
+            "Bureau of Industry and Security (BIS)",
+            "Bureau of the Census (CENSUS)",
+            "Economic Development Administration (EDA)",
+            "International Trade Administration (ITA)",
+            "Minority Business Development Agency (MBDA)",
+            "National Institute of Standards and Technology (NIST)",
+            "National Oceanic and Atmospheric Administration (NOAA)",
+            "National Technical Information Service (NTIS)",
+            "National Telecommunications and Information Administration (NTIA)",
+            "U.S. Patent and Trademark Office (USPTO)"
+          ]
+        },
+        {
+          "name": "Department of War (DOW)",
+          "components": [
+            "Air Force",
+            "Army",
+            "Computer/Electronic Accommodations Program (CAP)",
+            "Defense Advanced Research Projects Agency (DARPA)",
+            "Defense Contract Management Agency (DCMA)",
+            "Defense Counterintelligence and Security Agency (DCSA)",
+            "Defense Cyber Crime Center (DC3)",
+            "Defense Finance and Accounting Service (DFAS)",
+            "Defense Health Agency (DHA)",
+            "Defense Human Resources Agency (DHRA)",
+            "Defense Information Systems Agency (DISA)",
+            "Defense Intelligence Agency (DIA)",
+            "Defense Logistics Agency (DLA)",
+            "Defense Microelectronics Activity (DMEA)",
+            "Defense POW/MIA Accounting Agency (DPAA)",
+            "Defense Security Cooperation Agency (DSCA)",
+            "Defense Technical Information Center (DTIC)",
+            "Defense Technology Security Administration (DTSA)",
+            "Defense Threat Reduction Agency (DTRA)",
+            "Department of War Information Activity (DWIA)",
+            "Missile Defense Agency (MDA)",
+            "National Defense University (NDU)",
+            "National Geospatial-Intelligence Agency (NGA)",
+            "National Guard Bureau (NGB)",
+            "National Reconnaissance Office (NRO)",
+            "Navy",
+            "Office of the Secretary of War (OSW)",
+            "Pentagon Force Protection Agency (PFPA)",
+            "United States Northern Command (USNORTHCOM)",
+            "United States Southern Command (SOUTHCOM)",
+            "United States Space Command (USSPACECOM)",
+            "United States Special Operations Command (USSOCOM)",
+            "United States Transportation Command (USTRANSCOM)",
+            "Warfighting Acquisition University (WarU)",
+            "Washington Headquarters Service (WHS)"
+          ]
+        },
+        {
+          "name": "Department of Education (ED)",
+          "components": []
+        },
+        {
+          "name": "Department of Energy (DOE)",
+          "components": []
+        },
+        {
+          "name": "Department of Health and Human Services (HHS)",
+          "components": [
+            "Administration for Children and Families (ACF)",
+            "Administration for Community Living (ACL)",
+            "Agency for Healthcare Research and Quality (AHRQ)",
+            "Centers For Disease Control and Prevention (CDC)",
+            "Centers for Medicare and Medicaid Services (CMS)",
+            "Food and Drug Administration (FDA)",
+            "Health Resources and Services Administration (HRSA)",
+            "Indian Health Service (IHS)",
+            "National Institutes of Health (NIH)",
+            "Office of the Secretary Division",
+            "Substance Abuse and Mental Health Services Administration (SAMHSA)"
+          ]
+        },
+        {
+          "name": "Department of Homeland Security (DHS)",
+          "components": [
+            "Countering Weapons of Mass Destruction (CWMD)",
+            "Customs and Border Protection (CBP)",
+            "Cybersecurity & Infrastructure Security Agency (CISA)",
+            "Federal Emergency Management Agency (FEMA)",
+            "Headquarters (HQ)",
+            "Immigration and Customs Enforcement (ICE)",
+            "Office of Biometric Identity Management (OBIM)",
+            "Office of the Inspector General (OIG)",
+            "Science and Technology Directorate (S&T)",
+            "Transportation Security Administration (TSA)",
+            "U.S. Citizenship and Immigration Services (USCIS)",
+            "U.S. Coast Guard (USCG)",
+            "U.S. Secret Service (USSS)"
+          ]
+        },
+        {
+          "name": "Department of Housing and Urban Development (HUD)",
+          "components": []
+        },
+        {
+          "name": "Department of the Interior (DOI)",
+          "components": [
+            "Bureau of Indian Affairs (BIA)",
+            "Bureau of Land Management (BLM)",
+            "Bureau of Ocean Energy Management (BOEM)",
+            "Bureau of Reclamation (BR)",
+            "Bureau of Safety and Environmental Enforcement (BSEE)",
+            "Bureau of Trust Funds Administration (BTFA)",
+            "National Park Service (NPS)",
+            "Office of the Inspector General (OIG)",
+            "Office of the Solicitor (OS)",
+            "Office of Surface Mining Reclamation and Enforcement (OSMRE)",
+            "U.S. Fish and Wildlife Service (FWS)",
+            "U.S. Geological Survey (USGS)"
+          ]
+        },
+        {
+          "name": "Department of Justice (DOJ)",
+          "components": [
+            "Antitrust Division",
+            "Bureau of Alcohol, Tobacco, Firearms, & Explosives",
+            "Civil Division",
+            "Civil Rights Division",
+            "Community Oriented Policing Services",
+            "Criminal Division",
+            "Drug Enforcement Administration (DEA)",
+            "Environment & Natural Resources Division",
+            "Executive Office for Immigration Review (EOIR)",
+            "Executive Office for United States Attorneys",
+            "Executive Office for United States Trustees",
+            "Federal Bureau of Investigation (FBI)",
+            "Federal Bureau of Prisons",
+            "Foreign Claims Settlement Commission",
+            "Justice Management Division",
+            "National Fraud Enforcement Division",
+            "National Institute of Corrections",
+            "National Security Division",
+            "Office of Information Policy",
+            "Office of Justice Programs",
+            "Office of Legal Policy",
+            "Office of Legislative Affairs",
+            "Office of Pardon Attorney",
+            "Office of Professional Responsibility",
+            "Office of Public Affairs",
+            "Office of Solicitor General",
+            "Office of the Associate Attorney General",
+            "Office of the Attorney General",
+            "Office of the Deputy Attorney General",
+            "Office of the Inspector General",
+            "Office of Tribal Justice",
+            "Office on Violence Against Women",
+            "Professional Responsibility Advisory Office",
+            "United States Marshals Service",
+            "United States Parole Commission"
+          ]
+        },
+        {
+          "name": "Department of Labor (DOL)",
+          "components": []
+        },
+        {
+          "name": "Department of State (USDS)",
+          "components": []
+        },
+        {
+          "name": "Department of Transportation (DOT)",
+          "components": [
+            "Bureau of Transportation Statistics (BTS)",
+            "Federal Highway Administration (FHWA)",
+            "Federal Aviation Administration (FAA)",
+            "Federal Motor Carrier Safety Administration (FMCSA)",
+            "Federal Railroad Administration (FRA)",
+            "Federal Transit Administration (FTA)",
+            "Maritime Administration (MARAD)",
+            "National Highway Traffic Safety Administration (NHTSA)",
+            "Office of Inspector General (OIG)",
+            "Pipeline and Hazardous Materials Safety Administration (PHMSA)",
+            "Volpe National Transportation Systems Center (VOLPE)"
+          ]
+        },
+        {
+          "name": "Department of the Treasury (USDT)",
+          "components": [
+            "Alcohol and Tobacco Tax and Trade Bureau (TTB)",
+            "Bureau of Engraving and Printing (BEP)",
+            "Bureau of the Fiscal Service (BFS)",
+            "Community Development Financial Institution (CDFI) Fund",
+            "Financial Crimes Enforcement Network (FINCEN)",
+            "Internal Revenue Service (IRS)",
+            "Office of the Inspector General",
+            "Office of the Comptroller of the Currency (OCC)",
+            "Treasury Inspector General for Tax Administration (TIGTA)",
+            "U.S. Mint"
+          ]
+        },
+        {
+          "name": "Department of Veterans Affairs (VA)",
+          "components": []
+        },
+        {
+          "name": "Environmental Protection Agency (EPA)",
+          "components": []
+        },
+        {
+          "name": "General Services Administration (GSA)",
+          "components": []
+        },
+        {
+          "name": "National Aeronautics and Space Administration (NASA)",
+          "components": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "National Science Foundation (NSF)",
+          "components": []
+        },
+        {
+          "name": "Nuclear Regulatory Commission (NRC)",
+          "components": []
+        },
+        {
+          "name": "Office of Personnel Management (OPM)",
+          "components": []
+        },
+        {
+          "name": "Small Business Administration (SBA)",
+          "components": []
+        },
+        {
+          "name": "Social Security Administration (SSA)",
+          "components": []
+        }
+      ]
+    },
+    {
+      "id": "independent",
+      "label": "Small and independent agencies",
+      "agencies": [
+        {
+          "name": "Administrative Conference of the United States (ACUS)",
+          "components": []
+        },
+        {
+          "name": "Advisory Council on Historic Preservation (ACHP)",
+          "components": []
+        },
+        {
+          "name": "American Battle Monuments Commission (ABMC)",
+          "components": []
+        },
+        {
+          "name": "Barry Goldwater Scholarship and Excellence in Education Foundation",
+          "components": []
+        },
+        {
+          "name": "Bonneville Power Administration (BPA)",
+          "components": []
+        },
+        {
+          "name": "Central Intelligence Agency (CIA)",
+          "components": []
+        },
+        {
+          "name": "Commission of Fine Arts (CFA)",
+          "components": []
+        },
+        {
+          "name": "Committee for Purchase from People Who Are Blind or Severely Disabled (CPPBSD)",
+          "components": []
+        },
+        {
+          "name": "Commodity Futures Trading Commission (CFTC)",
+          "components": []
+        },
+        {
+          "name": "Consumer Financial Protection Bureau (CFPB)",
+          "components": []
+        },
+        {
+          "name": "Consumer Product Safety Commission (CPSC)",
+          "components": []
+        },
+        {
+          "name": "Corporation for National & Community Service (CNS)",
+          "components": []
+        },
+        {
+          "name": "Court Services and Offender Supervision Agency for the District (CSOSA)",
+          "components": []
+        },
+        {
+          "name": "Defense Nuclear Facilities Safety Board (NDFSB)",
+          "components": []
+        },
+        {
+          "name": "Election Assistance Commission (EAC)",
+          "components": []
+        },
+        {
+          "name": "Equal Employment Opportunity Commission (EEOC)",
+          "components": []
+        },
+        {
+          "name": "Farm Credit Administration (FCA)",
+          "components": []
+        },
+        {
+          "name": "Farm Credit System Insurance Corporation (FCSIC)",
+          "components": []
+        },
+        {
+          "name": "Federal Communication Commission (FCC)",
+          "components": []
+        },
+        {
+          "name": "Federal Deposit Insurance Corporation (FDIC)",
+          "components": []
+        },
+        {
+          "name": "Federal Election Commission (FEC)",
+          "components": []
+        },
+        {
+          "name": "Federal Energy Regulatory Commission (FERC)",
+          "components": []
+        },
+        {
+          "name": "Federal Housing Finance Agency (FHFA)",
+          "components": []
+        },
+        {
+          "name": "Federal Labor Relations Authority (FLRA)",
+          "components": []
+        },
+        {
+          "name": "Federal Maritime Commission (FMC)",
+          "components": []
+        },
+        {
+          "name": "Federal Mediation and Conciliation Service (FMCS)",
+          "components": []
+        },
+        {
+          "name": "Federal Mine Safety & Health Review Commission (FMSHRC)",
+          "components": []
+        },
+        {
+          "name": "Federal Reserve Board of Governors (FRB)",
+          "components": []
+        },
+        {
+          "name": "Federal Retirement Thrift Investment Board (FRTIB)",
+          "components": []
+        },
+        {
+          "name": "Federal Trade Commission (FTC)",
+          "components": []
+        },
+        {
+          "name": "Gulf Coast Ecosystem Restoration Council (GCERC)",
+          "components": []
+        },
+        {
+          "name": "Institute of Museum and Library Services (IMLS)",
+          "components": []
+        },
+        {
+          "name": "Inter-American Foundation (IAF)",
+          "components": []
+        },
+        {
+          "name": "Merit Systems Protection Board (MSPB)",
+          "components": []
+        },
+        {
+          "name": "Morris K. Udall and Stewart L. Udall Foundation (MUSUF)",
+          "components": []
+        },
+        {
+          "name": "National Archives & Records Administration (NARA)",
+          "components": []
+        },
+        {
+          "name": "National Capital Planning Commission (NCPC)",
+          "components": []
+        },
+        {
+          "name": "National Credit Union Administration (NCUA)",
+          "components": []
+        },
+        {
+          "name": "National Endowment for the Arts (NEA)",
+          "components": []
+        },
+        {
+          "name": "National Endowment for the Humanities (NEH)",
+          "components": []
+        },
+        {
+          "name": "National Labor Relations Board (NLRB)",
+          "components": []
+        },
+        {
+          "name": "National Mediation Board (NMB)",
+          "components": []
+        },
+        {
+          "name": "National Security Agency (NSA)",
+          "components": []
+        },
+        {
+          "name": "Northern Border Regional Commission (NBRC)",
+          "components": []
+        },
+        {
+          "name": "Nuclear Waste Technical Review Board (NWTRB)",
+          "components": []
+        },
+        {
+          "name": "Occupational Safety and Health Review Commission (OSHRC)",
+          "components": []
+        },
+        {
+          "name": "Office of Government Ethics (OGE)",
+          "components": []
+        },
+        {
+          "name": "Office of Navajo and Hopi Indian Relocation (ONHIR)",
+          "components": []
+        },
+        {
+          "name": "Office of Special Counsel (OSC)",
+          "components": []
+        },
+        {
+          "name": "Peace Corps (PC)",
+          "components": []
+        },
+        {
+          "name": "Pension Benefit Guaranty Corporation (PBGC)",
+          "components": []
+        },
+        {
+          "name": "Postal Regulatory Commission (PRC)",
+          "components": []
+        },
+        {
+          "name": "Presidio Trust (PT)",
+          "components": []
+        },
+        {
+          "name": "Privacy and Civil Liberties Oversight Board (PCLOB)",
+          "components": []
+        },
+        {
+          "name": "Railroad Retirement Board (RRB)",
+          "components": []
+        },
+        {
+          "name": "Securities and Exchange Commission (SEC)",
+          "components": []
+        },
+        {
+          "name": "Selective Service System (SSS)",
+          "components": []
+        },
+        {
+          "name": "Social Security Advisory Board (SSAB)",
+          "components": []
+        },
+        {
+          "name": "Surface Transportation Board (STB)",
+          "components": []
+        },
+        {
+          "name": "Tennessee Valley Authority (TVA)",
+          "components": []
+        },
+        {
+          "name": "U.S. Access Board (USAB)",
+          "components": []
+        },
+        {
+          "name": "U.S. Agency for Global Media (USAGM)",
+          "components": []
+        },
+        {
+          "name": "U.S. Army Corps of Engineers (USACE)",
+          "components": []
+        },
+        {
+          "name": "U.S. Commission on Civil Rights (USCCR)",
+          "components": []
+        },
+        {
+          "name": "U.S. International Development Finance Corporation (DFC)",
+          "components": []
+        },
+        {
+          "name": "U.S. International Trade Commission (USITC)",
+          "components": []
+        },
+        {
+          "name": "U.S. Postal Service (USPS)",
+          "components": []
+        },
+        {
+          "name": "U.S. Trade and Development Agency (USTDA)",
+          "components": []
+        }
+      ]
+    }
+  ]
+}
