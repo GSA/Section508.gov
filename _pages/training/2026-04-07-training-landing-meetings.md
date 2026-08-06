@@ -56,7 +56,7 @@ updated:
 
 **Duration:** 50 minutes  
 **Difficulty Level:** Beginner  
-**Version:** 1.0 (July 2026)
+**Version:** 1.0.1 (Aug 2026)
 
 ## What Will I Learn in This Course?
 In recent years, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings and conference calls to virtual meetings where the audience participates remotely through voice and video from various work sites. Now, meetings are often virtual, or a hybrid of in-person and remote participants. For this reason, accessibility can and should be seamlessly integrated into your meeting.
@@ -161,7 +161,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release includes core lessons, practice quizzes, foundational learning, and certificate of completion.</div>
+        <div class="usa-icon-list__content"><strong>July 2026 - v1.0.1 | Release:</strong> Initial release includes core lessons, practice quizzes, foundational learning, and certificate of completion.</div>
       </li>
     </ul>
   </div>
