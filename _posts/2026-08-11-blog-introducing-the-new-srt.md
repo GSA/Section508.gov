@@ -47,7 +47,7 @@ featured: true
 Introducing the New and Improved Solicitation Review Tool
 =========================================================
 
-We're excited to announce the new and improved [Solicitation Review Tool (SRT)](https:/srt.app.cloud.gov), which  checks federal solicitations for required Section 508 accessibility language. Designed to support federal acquisition professionals, Section 508 Program Managers, accessibility specialists, and other stakeholders, SRT makes it faster and easier to add the relevant Section 508 requirements for the information and communication technology (ICT) solution being procured.
+We're excited to announce the new and improved [Solicitation Review Tool (SRT)](https://srt.app.cloud.gov), which  checks federal solicitations for required Section 508 accessibility language. Designed to support federal acquisition professionals, Section 508 Program Managers, accessibility specialists, and other stakeholders, SRT makes it faster and easier to add the relevant Section 508 requirements for the information and communication technology (ICT) solution being procured.
 
 SRT makes it easier than ever to evaluate both draft and published federal solicitations. 
 
@@ -102,4 +102,4 @@ With AI assistance, SRT helps agencies improve the quality and consistency of Se
 
 Whether you're preparing a new solicitation, reviewing an existing one, supporting Section 508 compliance, or evaluating accessibility requirements during the acquisition process, SRT provides a practical resource to help streamline solicitation reviews and improve accessibility outcomes.
 
-**Explore the [Solicitation Review Tool](https:/srt.app.cloud.gov) and start reviewing federal solicitations for Section 508 accessibility requirements. Make accessibility a seamless part of your acquisition process by helping ensure your agency procures accessible ICT that meets Section 508 requirements.**
+**Explore the [Solicitation Review Tool](https://srt.app.cloud.gov) and start reviewing federal solicitations for Section 508 accessibility requirements. Make accessibility a seamless part of your acquisition process by helping ensure your agency procures accessible ICT that meets Section 508 requirements.**
