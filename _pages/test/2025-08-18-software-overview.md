@@ -25,7 +25,7 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2025-08-18
-updated: 2026-4-15
+updated: 2026-8-11
 exclude-changelog:
 ---
 Federal agencies rely on software applications—desktop, mobile, or cloud-based—for task completion and service delivery. Section 508 of the Rehabilitation Act requires that all such software, whether developed, used, maintained, or procured, be accessible to individuals with disabilities. This ensures users can operate and interact with software effectively using assistive technologies.
@@ -90,6 +90,8 @@ EXCEPTION: Where Web applications do not have access to platform accessibility s
 * A File Explorer application used to find desktop and download items on a federal government furnished computer
 
 ## Related Resources:
-
-* [Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes]({{site.baseurl}}/develop/incorporating-accessibility-conformance/)  
-* [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
+<ul>
+<li><a href="https://www.dhs.gov/publication/dhs-section-508-compliance-test-processes" target="_blank" class="usa-link--external">DHS Mobile Application Test Process (iOS and Android Versions - last updated 2017)</a>a></li>
+<li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes</a></li>
+<li><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing Information and Communications Technology</a></li>
+</ul>
