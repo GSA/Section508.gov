@@ -91,7 +91,7 @@ EXCEPTION: Where Web applications do not have access to platform accessibility s
 
 ## Related Resources:
 <ul>
-<li><a href="https://www.dhs.gov/publication/dhs-section-508-compliance-test-processes" target="_blank" class="usa-link--external">DHS Mobile Application Test Process (iOS and Android Versions - last updated 2017)</a>a></li>
+<li><a href="https://www.dhs.gov/publication/dhs-section-508-compliance-test-processes" target="_blank" class="usa-link--external">DHS Mobile Application Test Process (iOS and Android Versions - last updated 2017)</a></li>
 <li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes</a></li>
 <li><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing Information and Communications Technology</a></li>
 </ul>
