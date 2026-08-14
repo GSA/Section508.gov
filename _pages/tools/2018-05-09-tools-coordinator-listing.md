@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-06-17
+updated: 2026-08-14
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -157,7 +157,8 @@ Michael Jennings (Deputy) - <michael.jennings1@uspto.gov>
 ## <span id ="usdow" ></span>Department of War (DOW)
 ### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
-Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>    
+Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>  
+Cammie Truesdell (Deputy) - <cammie.r.truesdell.ctr@mail.mil>      
 
 ### Air Force
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
@@ -258,6 +259,9 @@ Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### United States Special Operations Command (USSOCOM)  
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
+### United States Strategic Command (STRATCOM)  
+Kerri Marroquin - <kerri.l.marroquin.civ@mail.mil>  
+CIO Office Mailbox - <stratcom.offutt.j6.mbx.cio@mail.mil>  
 ### United States Transportation Command (USTRANSCOM)
 USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
 ### Warfighting Acquisition University (WarU)
@@ -291,7 +295,7 @@ Stacey Holden (Deputy) - <stacey.holden@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
 Heather Chafin - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
-Long Pham - <lpham@hrsa.gov>  
+Frances Nguyen - <tnguyen@hrsa.gov>  
 ### Indian Health Service (IHS)
 Kevin Fulbright - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
@@ -379,7 +383,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Daniel L. Williams - <daniel.r.williams@hud.gov>  
+GiaVonni Hester - <Giavonni.P.Hester@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
@@ -512,7 +516,7 @@ Eric W. Wright - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-David Conner (Acting) - <connerd2@state.gov>  
+Melanie McIntyre Pote - <McIntyrePoteMS@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
@@ -660,7 +664,7 @@ Edward Yang - <eyang@abilityone.gov>
 
 ---
 ### Commodity Futures Trading Commission (CFTC)
-John Nowlin - <jnowlin@cftc.gov>  
+Kate Cerveny - <kcerveny@cftc.gov>  
 
 ---
 ### Consumer Financial Protection Bureau (CFPB)
