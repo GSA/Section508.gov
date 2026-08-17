@@ -39,7 +39,7 @@ resource-type:
 - Blog
 - Tool
 format: HTML
-created: 2026-07-10
+created: 2026-08-17
 updated: 
 hide-date: true
 featured: true
@@ -72,7 +72,7 @@ Users can:
 
 -   Review all solicitations from your organization to view the rate of successful inclusion of Section 508 language.  
 
--   Receive recommendations for Section 508 solicitation language to include on your solicitation(s) based on the ICT products and services being procured.
+-   Receive recommendations for Section 508 solicitation language to include in your solicitation based on the ICT products and services being procured.
 
 -   Generate reports identifying percentage conformance across your organization's published solicitations
 
