@@ -1560,6 +1560,11 @@ div[role=rowheader] {
   background-color: #F7F9FD;
 }
 
+.force-max-width {
+  max-width: none !important;
+  width: 100% !important;
+}
+
 /* CALLOUT BOXES */
 .summary-box {
   border: 1px solid black; 
@@ -1583,6 +1588,91 @@ div[role=rowheader] {
   font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
   color: #fee685;
   font-size: 0.95rem;
+}
+
+/* Shared summary box w icons + headings styles */
+.summary-box--icon-requirement,
+.summary-box--icon-suggested,
+.summary-box--icon-code,
+.summary-box--icon-prompt {
+  border: 1px solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+  font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+  font-size: 0.95rem;
+  .icon-size {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  h2, h3, h4, h5, h6 {
+    padding-top: 0.5rem;
+    margin-bottom: 0.55rem;
+    font-weight: 700;
+  }
+  hr {
+    border: 0;
+    border-top: 1px solid;
+  }
+  .box-heading {
+    padding-top: 0.5rem;
+    text-transform: uppercase;
+  }
+  .box-text {
+    color: black;
+    max-width: 100%;
+    padding-bottom: 0.5rem;
+  }
+}
+/* Code box */
+.summary-box--icon-code {
+  border-color: #71767a;
+  background-color: #444444;
+  color: #fee685;
+  hr {
+    border-top-color: #fee685;
+  }
+  .box-heading,
+  .box-text {
+    color: #fee685;
+  }
+}
+/* AI prompt box */
+.summary-box--icon-prompt {
+  border-color: #4f97d1;
+  background-color: #eff6fb;
+  color: #0076d6;
+  hr {
+    border-top-color: #88acdc;
+  }
+  .box-heading {
+    color: #0076d6;
+  }
+}
+/* Requirement text */
+.summary-box--icon-requirement {
+  border-color: #5C6670;
+  background-color: #F1F3F5;
+  color: red;
+  hr {
+    border-top-color: #71767A;
+  }
+  .box-heading {
+    color: #3D4852;
+  }
+}
+/* Suggested Language */
+.summary-box--icon-suggested {
+  border-color: #538200;
+  //background-color: #e3f5e1;
+  background-color: color-mix(in srgb, #eaf4dd, white 75%);
+  color: #4c6424;
+  .box-heading {
+    color: #4c6424;
+  }
+  hr {
+    border-top-color: #70e17b;
+  }
 }
 /* Square summary boxes with a thick left or right border */
 .summary-box--left {

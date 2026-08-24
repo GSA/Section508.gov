@@ -125,6 +125,78 @@
         "description": "Insert a code sample summary box"
     },
 
+    "Summary Box w/Icon: Code Text": {
+        "prefix": "summary-box--icon-code",
+        "body": [
+        "<div class=\"grid-col-12 summary-box--icon-code\">",
+        "    <ul class=\"usa-icon-list padding-right-2 force-max-width\">",
+        "        <li class=\"usa-icon-list__item\">",
+        "            <div class=\"usa-icon-list__icon\"><svg class=\"usa-icon icon-size\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{site.baseurl}}/assets/img/sprite.svg#code\"></use></svg></div>",
+        "            <div class=\"usa-icon-list__content force-max-width\">",
+        "                <div class=\"box-heading\"><strong>${1|HTML,CSS,YAML,JSON|}</strong><hr></div>",
+        "                <div class=\"box-text\">${2:Enter code text here.}</div>",
+        "            </div>",
+        "        </li>",
+        "    </ul>",
+        "</div>"
+        ],
+        "description": "Insert an code box with AI icon"
+    }
+
+    "Summary Box: AI Prompt Text": {
+        "prefix": "summary-box--icon-prompt",
+        "body": [
+        "<div class=\"grid-col-12 summary-box--icon-prompt\">",
+        "    <ul class=\"usa-icon-list padding-right-2 force-max-width\">",
+        "        <li class=\"usa-icon-list__item\">",
+        "            <div class=\"usa-icon-list__icon\"><svg class=\"usa-icon icon-size\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{site.baseurl}}/assets/img/ai-generative.svg\"></use></svg></div>",
+        "            <div class=\"usa-icon-list__content force-max-width\">",
+        "                <div class=\"box-heading\"><strong>AI PROMPT</strong><hr></div>",
+        "                <div class=\"box-text\">${1:Enter prompt text here.}</div>",
+        "            </div>",
+        "        </li>",
+        "    </ul>",
+        "</div>"
+        ],
+        "description": "Insert an AI prompt box"
+    }
+    
+    "Summary Box w/Icon: Requirement Quote": {
+        "prefix": "summary-box--icon-requirement",
+        "body": [
+        "<div class=\"grid-col-12 summary-box--icon-requirement\">",
+        "    <ul class=\"usa-icon-list padding-right-2 force-max-width\">",
+        "        <li class=\"usa-icon-list__item\">",
+        "            <div class=\"usa-icon-list__icon\"><svg class=\"usa-icon icon-size\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{site.baseurl}}/assets/img/sprite.svg#format_quote\"></use></svg></div>",
+        "            <div class=\"usa-icon-list__content force-max-width\">",
+        "                <div class=\"box-heading\"><strong>Quoted Requirement</strong><hr></div>",
+        "                <div class=\"box-text\">${1:Enter quoted requirement text here.}</div>",
+        "            </div>",
+        "        </li>",
+        "    </ul>",
+        "</div>"
+        ],
+        "description": "Insert an AI prompt box"
+    }
+
+    "Summary Box w/Icon: Suggested Language": {
+        "prefix": "summary-box--icon-suggested",
+        "body": [
+        "<div class=\"grid-col-12 summary-box--icon-suggested\">",
+        "    <ul class=\"usa-icon-list padding-right-2 force-max-width\">",
+        "        <li class=\"usa-icon-list__item\">",
+        "            <div class=\"usa-icon-list__icon\"><svg class=\"usa-icon icon-size\" aria-hidden=\"true\" role=\"img\"><use xlink:href=\"{{site.baseurl}}/assets/img/sprite.svg#lightbulb_outline\"></use></svg></div>",
+        "            <div class=\"usa-icon-list__content force-max-width\">",
+        "                <div class=\"box-heading\"><strong>Suggested Language</strong><hr></div>",
+        "                <div class=\"box-text\">${1:Enter suggested language text here.}</div>",
+        "            </div>",
+        "        </li>",
+        "    </ul>",
+        "</div>"
+        ],
+        "description": "Insert an AI prompt box"
+    }
+
     "Summary Box: Left": {
         "scope": "markdown,html",
         "prefix": ["summary-box--left","callout-box--left"],
