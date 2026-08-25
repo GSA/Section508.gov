@@ -19,7 +19,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-07-29
+updated: 2026-08-25
 exclude-changelog: true
 ---
 <ul class="usa-card-group">
@@ -48,7 +48,8 @@ exclude-changelog: true
 * Government Purchase Card holders
 * Contracting Officers and Contracting Officer’s Representatives (COR)  
 * Requiring Officials  
-* Approving Officials
+* Approving Officials, and  
+* Anyone involved in the micro-purchase process
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
