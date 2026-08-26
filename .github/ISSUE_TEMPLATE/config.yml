@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Support
+    url: https://www.section508.gov/contact-us/
+    about: Email the Section508.gov team for general support questions.
+  - name: Contact Section508.gov
+    url: https://www.section508.gov/contact-us/
+    about: Use our contact form for other inquiries.
