@@ -14,7 +14,8 @@ topic: Buy
 sub-topic: Guidance
 resource-type: Process & How-To
 format: HTML
-created: 2018-05-29
+created: 2026-08-27
+exclude-changelog: true
 ---
 
 When purchasing software, hardware, electronic content, or support documentation and services (known as information and communication technology, or ICT), clearly state your accessibility requirements up-front, so potential vendors and contractors (offerors) can propose the best solution for your needs. All ICT procured, developed, maintained, or used by Federal agencies must conform to the [Revised 508 Standards][1].
@@ -24,7 +25,12 @@ The information you should request from offerors will differ depending on whethe
   * **Standard ICT** - Commercial or government off-the-shelf (COTS/GOTS)
   * **Customized ICT** - Customized or developed based on agency requirements
 
-## **Process Overview**
+<div class="grid-col-12 summary-box--left">
+  <h3 class="margin-y-0">What is a vendor?</h3>
+  In this guidance, a <em>vendor</em> is an organization from which an acquiring government agency or organization obtains ICT, whether the vendor is a commercial company, or another government agency or organization. When acquiring <a href="{{site.baseurl}}/tools/glossary/#government-off-the-shelf">GOTS</a> ICT, the acquiring organization should treat another government agency or organization providing the ICT as the vendor.
+</div>
+
+## Process Overview
 
 Follow this process to determine and document requirements and exceptions to the [Revised 508 Standards][1] for **EACH ICT item**:
 
