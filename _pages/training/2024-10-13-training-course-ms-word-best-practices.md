@@ -101,7 +101,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 
 <div class="usa-accordion usa-accordion--bordered margin-top-4">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
-  <div id="key-terms" class="usa-accordion__content usa-prose">
+  <div id="key-terms" class="usa-accordion__content">
     <ul>
       <li><a href="{{site.baseurl}}/create/alternative-text/">Authoring Meaningful Alternative Text</a></li>
       <li><a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf" target="_blank" class="usa-link--external">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a></li>

@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-07-29
+updated: 2026-07-28
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -50,7 +50,8 @@ exclude-changelog: true
 * Government Purchase Card holders
 * Contracting Officers and Contracting Officer’s Representatives (COR)  
 * Requiring Officials  
-* Approving Officials
+* Approving Officials, and  
+* Anyone involved in the micro-purchase process  
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
@@ -98,7 +99,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 
 <div class="usa-accordion usa-accordion--bordered margin-top-4">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
-  <div id="key-terms" class="usa-accordion__content usa-prose">
+  <div id="key-terms" class="usa-accordion__content">
     <ul>
       <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a></li>
       <li><a href="{{site.baseurl}}/create/documents/">Creating Accessible Documents</a></li>

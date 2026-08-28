@@ -90,7 +90,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 
 <div class="usa-accordion usa-accordion--bordered margin-top-4">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
-  <div id="key-terms" class="usa-accordion__content usa-prose">
+  <div id="key-terms" class="usa-accordion__content">
     <ul>
       <li><a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a></li>
       <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) and VPAT&reg;</a></li>
