@@ -22,7 +22,7 @@ resource-type:
 - Tool
 format: HTML
 created: 2020-02-27
-updated: 2026-07-30
+updated: 2026-08-27
 exclude-changelog: true
 ---
 
@@ -556,7 +556,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
     <tr>
     <th scope="row" id="government-off-the-shelf">Government off-the-shelf (GOTS)</th>
-    <td>Product that is developed with funding and specificity from a government agency.</td>
+    <td>Product that is developed with funding and specificity from another government agency. When acquiring GOTS ICT, the acquiring government agency or organization should treat another government agency or organization providing the ICT as the vendor.</td>
   </tr>
   <tr>
     <th scope="row" id="grc">Governance, risk, and compliance (GRC) tools</th>
@@ -940,10 +940,6 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="parenthetical-title">Parenthetical Title</th>
     <td>Term referring to the sub-specialty of a job series, as defined by OPM in position description development guidance.</td>
-  </tr>
-  <tr>
-    <th scope="row" id="pwd">People with Disabilities</th>
-    <td>People or <em>persons with disabilities</em> is a general term used to refer to individuals who have a physical, congnitive, or sensory impairment that, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others.</td>
   </tr>
   <tr>
     <th scope="row" id="performance-plans">Performance Plans</th>
@@ -1330,6 +1326,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="vms">Variable Message Signs (VMS)</th>
     <td>Non-interactive electronic signs with scrolling, streaming, or paging-down capability. An example of a VMS is an electronic message board at a transit station that displays gate and arrival time information.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="vendor">Vendor</th>
+    <td>A vendor is an organization from which an acquiring organization obtains ICT, whether the vendor is a commercial company, or another government agency or organization</td>
   </tr>
   <tr>
       <th scope="row" id="very-high">Very High</th>
