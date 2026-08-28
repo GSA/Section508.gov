@@ -27,7 +27,7 @@ resource-type:
 format: HTML
 custom-script:
 - accordion-management.js
-created: 2026-07-27
+created: 2026-08-27
 updated: 
 ---
 Accessibility workshops provide ready-to-use materials for delivering instructor-led training on common document accessibility topics. Each workshop includes the resources needed to lead structured learning sessions, build accessibility skills, and reinforce practices that align with Section 508 requirements.
