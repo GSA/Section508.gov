@@ -56,7 +56,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 Strong executive support for IT accessibility, and clear policies that drive action, will increase compliance and expand access to government services for citizens with disabilities.
 
-* <a href="{{site.baseurl}}/training/online-course/accessible-for-executives/">IT Accessibility: An Overview for Government Executives</a>
+* <a href="{{site.baseurl}}/training/courses/accessible-for-executives/">IT Accessibility: An Overview for Government Executives</a>
 
 ### Policy
 
@@ -109,7 +109,7 @@ Stand up an agency-wide IT Accessibility/508 Program, and resource appropriately
 Support efforts to train staff on their responsibilities under Section 508, to ensure your agency buys and builds accessible content and products.
 
 * Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
-* <a href="{{site.baseurl}}/training-home/">Government-wide IT Accessibility Training</a>
+* <a href="{{site.baseurl}}/training/courses/">Government-wide IT Accessibility Training</a>
 * <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
 
 ### OMB Reporting {#reporting}

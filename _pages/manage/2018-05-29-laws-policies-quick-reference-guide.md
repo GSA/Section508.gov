@@ -176,9 +176,9 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [18]: {{site.baseurl}}/buy/request-accessibility-information/
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria/
- [21]: {{site.baseurl}}/training/online-course/accessible-for-executives/
- [23]: {{site.baseurl}}/training/online-course/micro-purchases/
- [25]: {{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/
+ [21]: {{site.baseurl}}/training/courses/accessible-for-executives/
+ [23]: {{site.baseurl}}/training/courses/micro-purchases/
+ [25]: {{site.baseurl}}/training/courses/procuring-section-508-conformant-ict/
  [27]: {{site.baseurl}}/develop/software-websites/
  [28]: {{site.baseurl}}/test/documents/
- [29]: {{site.baseurl}}/training/online-course/section-508-what-is-it/
+ [29]: {{site.baseurl}}/training/courses/section-508-what-is-it/

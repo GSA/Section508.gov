@@ -89,6 +89,123 @@
     },
        
     // Summary Boxes ------------------------------------------------------------
+    "Alert: Information": {
+        "scope": "markdown,html",
+        "prefix": "alert-info",
+        "body": [
+            "<div class=\"usa-alert usa-alert--info\" style=\"border-left-color:#005ea2;\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <h${1|2,3,4,5,6|} class=\"usa-alert__heading\">${2:Information heading}</h${1}>",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Information Slim Icon": {
+        "scope": "markdown,html",
+        "prefix": "alert-info--slim-icon",
+        "body": [
+            "<div class=\"usa-alert usa-alert--info usa-alert--slim\" style=\"border-left-color:#005ea2;\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Information Slim No Icon": {
+        "scope": "markdown,html",
+        "prefix": "alert-info--slim-no-icon",
+        "body": [
+            "<div class=\"usa-alert usa-alert--info usa-alert--no-icon\" style=\"border-left-color:#005ea2;\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Warning": {
+        "scope": "markdown,html",
+        "prefix": "alert-warning",
+        "body": [
+            "<div class=\"usa-alert usa-alert--warning\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <h${1|2,3,4,5,6|} class=\"usa-alert__heading\">${2:Warning heading}</h${1}>",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Success": {
+        "scope": "markdown,html",
+        "prefix": "alert-success",
+        "body": [
+            "<div class=\"usa-alert usa-alert--success\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <h${1|2,3,4,5,6|} class=\"usa-alert__heading\">${2:Success heading}</h${1}>",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Error": {
+        "scope": "markdown,html",
+        "prefix": "alert-error",
+        "body": [
+            "<div class=\"usa-alert usa-alert--error\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <h${1|2,3,4,5,6|} class=\"usa-alert__heading\">${2:Error heading}</h${1}>",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
+    "Alert: Emergency": {
+        "scope": "markdown,html",
+        "prefix": "alert-emergency",
+        "body": [
+            "<div class=\"usa-alert usa-alert--emergency\">",
+            "  <div class=\"usa-alert__body\">",
+            "    <h${1|2,3,4,5,6|} class=\"usa-alert__heading\">${2:Emergency heading}</h${1}>",
+            "    <p class=\"usa-alert__text\">",
+            "      ${3:Your text here}",
+            "    </p>",
+            "  </div>",
+            "</div>",
+            "$0"
+        ],
+        "description": "Insert a default summary box"
+    },
+
     "Summary Box": {
         "scope": "markdown,html",
         "prefix": "summary-box",
