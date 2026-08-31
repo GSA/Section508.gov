@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-type: acquisition
+type: report2025
 title: Introduction and Background
 permalink: manage/section-508-assessment/2025/introduction/
 description: The FY 2025 Governmentwide Section 508 Assessment, prepared by the General Services Administration, provides background on federal ICT accessibility, assessment scope, methodology, and statutory reporting requirements.
@@ -20,7 +20,7 @@ resource-type:
 - White Paper
 format: HTML
 created: 2026-03-02
-updated: 2026-07-10
+updated: 2026-08-26
 exclude-changelog: true
 ---
 

@@ -25,9 +25,9 @@ subtopic:
 resource-type: 
 - Article
 format: HTML
-created: 2025-07-24
-updated: #Add/update date stamp for each review/update
-exclude-changelog: 
+created: 2026-08-27
+updated: 
+exclude-changelog: true
 ---
 Federal agencies are required to ensure that their information and communication technology (ICT) is accessible to individuals with disabilities, as mandated by <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)</a>. This applies to all ICT that an agency procures, develops, uses, or maintains. However, the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> allow certain ICT to be exempt from these requirements under specific conditions.
 
@@ -372,10 +372,10 @@ Because the Section 508 Standards do not specify how agencies must handle except
 </div>
 
 ## Policy and Process Considerations
-Whether an agency uses a centralized, federated, or integrated model for Section 508 exception processing, certain core policy elements should be in place to ensure legal compliance, audit readiness, and operational consistency. The following are common elements to consider including in your agency's exception process.
+Whether an agency uses a centralized, federated, or integrated model for Section 508 exception processing, certain core policy elements should be in place to ensure legal compliance, audit readiness, and operational consistency. The following are common elements to consider including in the agency's exception process.
 
 ### Process Workflow
-Agency procedures should explain how to create and submit a Section 508 exception request, as well as how requests are reviewed, approved, and tracked. The following example can help your agency establish procedures that align with your organization’s goals and workflow efficiency.
+Agency procedures should explain how to create and submit a Section 508 exception request, as well as how requests are reviewed, approved, and tracked. The following example can help the agency establish procedures that align with the organization’s goals and workflow efficiency.
 <ol class="usa-process-list">
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Initiate Request</h4>
@@ -564,7 +564,7 @@ Establish agencywide exception decision questions to help AOs systematically [de
       <td>
         If the answer to <em>all</em> questions is “yes”, then this exception applies:
         <ol>
-          <li>Did your agency deploy, maintain, or use the ICT on or before January 18, 2018?</li>
+          <li>Did the agency deploy, maintain, or use the ICT on or before January 18, 2018?</li>
           <li>Is the ICT known to have conformed to the <a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards" target="_blank" class="usa-link--external">Electronic and Information Technology Accessibility Standards as originally published</a>, prior to January 18, 2018?</li>
           <li>Since January 18, 2018, has the ICT remained unchanged regarding interoperability, the user interface, or access to information and data?</li>
         </ol>
@@ -573,7 +573,7 @@ Establish agencywide exception decision questions to help AOs systematically [de
     <tr>
       <td>National Security Systems (E202.3)</td>
       <td>
-        If <em>any</em> of the following apply, your ICT may qualify for this exception:
+        If <em>any</em> of the following apply, the ICT may qualify for this exception:
         <ol>
           <li>Involves intelligence activities</li>
           <li>Involves cryptologic activities related to national security</li>
@@ -599,40 +599,51 @@ Establish agencywide exception decision questions to help AOs systematically [de
       <td>
         If the answer to <em>all</em> questions is “yes”, then this exception applies:
         <ol>
-          <li>Does the ICT have status indicators or operable parts (i.e., physical controls)?</li>
           <li>Is the ICT located in spaces that are frequented only by service personnel for maintenance, repair, or occasional monitoring of equipment (i.e., on a rack mounted in a wiring closet)?</li>
+          <li>Does the ICT have status indicators or operable parts (i.e., physical controls)?</li>
         </ol>
       </td>
     </tr>
     <tr>
-      <td>Undue Burden/Fundamental Alteration (E202.6)</td>
+      <td>Undue Burden (E202.6)</td>
       <td>
-        If the answer to <em>all</em> questions is “yes”, your ICT may warrant this exception:
+        If the answer to <em>all</em> questions is “yes”, the ICT may warrant this exception:
         <ol>
-          <li>Have you determined that conformance for some or all features and functions of the ICT item would result in an undue burden on your agency or component?</li>
-          <li>Have you quantified the resources available to the program or component for which the ICT is to be procured, developed, maintained, or used?</li>
-          <li>Has the responsible agency official documented in writing how the difficulty or expense is significant, relative to the resources available? For example:
+          <li>Has the agency quantified the resources necessary to procure, maintain, use, or develop a fully conformant ICT? (The agency would be claiming the undue burden exception, so the agency budget is to be considered, not just the program or component resources).</li>
+          <li>Has the agency determined that conformance for some or all features and functions of the ICT item would result in an undue burden?</li>
+          <li>Has the responsible agency official documented in writing how the expense or difficulty is significant relative to the resources available? For example:
             <ol type="a">
               <li>What percentage of the total budget available would be spent on the expense?</li>
               <li>Explain exactly what is significantly difficult, and why.</li>
             </ol>
           </li>
-          <li>Does your documentation address whether the exception is being claimed for the entire ICT Item, or only specific features and functions?</li>
-          <li>Will the agency provide an alternative means for users with disabilities to access the features and functions for which you are claiming this exception?</li>
+          <li>Does the agency&#39;s exception documentation identify which Section 508 requirement will not be met due to Undue Burden and which feature or function of the ICT the exception will cover?</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>Fundamental Alteration (E202.6)</td>
+      <td>
+        If the answer to <em>all</em> questions is “yes”, the ICT may warrant this exception:
+        <ol>          
+          <li>Has the agency's determined that conformance to a Section 508 requirement would alter the purpose of the ICT's features or functions?</li>
+          <li>Has the responsible agency official documented in writing how conformance to a Section 508 requirement alters the purpose of the ICT's features or functions?</li>
+          <li>Does the exception documentation identify which Section 508 requirement will not be met due to Fundamental Alteration and which feature or function of the ICT the exception will cover?</li>
+          <li>Will the agency provide an alternative means of access that enables individuals with disabilities to access and use the information and data provided by the ICT function(s) covered by the exception?</li>
         </ol>
       </td>
     </tr>
     <tr>
       <td>Best Meets (E202.7)</td>
       <td>
-        If the answer to <em>all</em> questions is “yes”, your ICT item may warrant this exception:
+        If the answer to <em>all</em> questions is “yes”, the commercially available ICT item may warrant this exception:
         <ol>
-          <li>Have you completed market research addressing Section 508 compliance for the ICT Item?</li>
-          <li>Did you evaluate Accessibility Conformance Reports or test results to validate 508 conformance claims?</li>
-          <li>Did you document the market research performed to validate 508 conformance claims?</li>
-          <li>Of the ICT items which met business needs, were there no options that fully conformed to the 508 Standards?</li>
-          <li>Are you purchasing the ICT Item that best meets the 508 Standards?</li>
-          <li>Will the agency provide an alternative means for users with disabilities to access the features and functions that do not conform to the 508 Standards?</li>
+          <li>Is the agency purchasing commercially available ICT that does not fully conform with all applicable Section 508 Standards?</li>
+          <li>Has the agency completed market research addressing Section 508 compliance for the ICT Item?</li>
+          <li>Did the agency evaluate Accessibility Conformance Reports or test results to validate Section 508 conformance claims?</li>
+          <li>Of the ICT items which met business needs, were there no commercially available options that fully conformed to the Section 508 Standards?</li>
+          <li>Does the exception documentation include a description of the market research performed, which Section 508 requirements aren't met, and how the agency determined which ICT best meets the Section 508 Standards?</li>
+          <li>Will the agency provide an alternative means of access that enables individuals with disabilities to access and use the information and data provided by the ICT function(s) covered by the exception?</li>
         </ol>
       </td>
     </tr>
@@ -643,6 +654,7 @@ Establish agencywide exception decision questions to help AOs systematically [de
 Section 508 exceptions should be applied sparingly and only when Section 508 conformance cannot be achieved without causing undue burden, fundamental alteration, or when no fully conformant solution exists. To maintain accountability, exceptions must be time-bound and regularly reassessed.
 
 All approved exceptions should:
+
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
@@ -679,7 +691,8 @@ All approved exceptions should:
   <strong>Tip:</strong> A centralized portal or ticketing system may support revalidation reminders and track exception lifecycles to prevent indefinite approvals.
 </div>
 
-### Federal Contracts Exceptions
+
+### Federal Contracts Exceptions   
 Section 508 E202.4 Federal Contracts, provides an exception for compliance for "[information and communication technology (ICT)] acquired by a contractor incidental to a contract shall not be required to conform to the Revised 508 Standards.", where incidental to contract means all ICT that is exclusively owned and used by the contractor to fulfill the work statement does not require conformance with Section 508 Standards.
 
 As contractors are at liberty to acquire ICT incidental to a contract, federal agencies may consider authorizing Federal Contracts Exceptions for all ICT procurements by including the following Section 508 Standards language in all ICT contracts:
