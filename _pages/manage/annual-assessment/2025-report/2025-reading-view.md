@@ -1956,7 +1956,7 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
 
 <!-- CALLOUT -->
 <div class="radius-lg padding-3 margin-top-3 page-break-before" style="border: 1px solid #93348c; background-color: #fef2ff;">
-  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components. Possible FTEs shared between components and parent agencies were not deduplicated.* 
+  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components. Possible FTEs shared between components and parent agencies were not deduplicated.** 
   <!-- CALLOUT MOBILE -->
   <div class="display-block tablet:display-none grid-col-12 callout-box-top-left-violet padding-1" style="background-color: #fbdcff;">
      <div class="grid-row grid-gap">
@@ -1964,10 +1964,10 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
            <li class="usa-icon-list__item">
               <div class="usa-icon-list__icon text-green" style="color:#481441;"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
               <div class="usa-icon-list__content">
-                <h6 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary*:</h6>
+                <h6 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary:</h6>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs</strong></li>
-                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs**</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs**</strong></li>
                 </ul>
               </div>
            </li>
@@ -1983,8 +1983,8 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
               <div class="usa-icon-list__content">
                 <h4 id="governmentwide-staffing-summary-mobile" class="usa-icon-list__title">Governmentwide Staffing Summary:</h4>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 120 federal FTEs + 110 contractor FTEs = <strong>230 FTEs</strong></li>
-                    <li><strong>Components:</strong> 113 federal FTEs + 74 contractor FTEs = <strong>187 FTEs</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs**</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs**</strong></li>
                 </ul>
               </div>
            </li>
@@ -2021,7 +2021,7 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
   </div>
 </div>
 <!-- END CALLOUT -->
-<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0.</p>
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0. ** denotes a summary of numbers that includes all reported data without deduplication between components and parent agencies.</p>
 
 <h5 id="management-of-ict-accessibility-across-the-agency">Management of ICT Accessibility Across the Agency</h5>
 <p>A Section 508 or ICT accessibility policy provides the governance foundation agencies need to comply with federal accessibility requirements. It defines authorities, roles, responsibilities, expectations, and processes that ensure ICT accessibility is embedded across procurement, development, content creation, and IT operations. Most agencies have a Section 508 policy, but not all:</p>
