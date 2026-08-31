@@ -38,7 +38,7 @@ The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a s
     <ul class="usa-icon-list padding-right-2 force-max-width">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#code"></use></svg></div>
-            <div class="usa-icon-list__content force-max-width">
+           <div class="usa-icon-list__content force-max-width">
                 <div class="box-heading"><strong>Download</strong><hr></div>
                 <div class="box-text">Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement</a></div>
             </div>
