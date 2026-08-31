@@ -1964,10 +1964,10 @@ The FY 2025 assessment criteria included questions about agencies' Section 508 p
            <li class="usa-icon-list__item">
               <div class="usa-icon-list__icon text-green" style="color:#481441;"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
               <div class="usa-icon-list__content">
-                <h6 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary:</h6>
+                <h6 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary*:</h6>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs*</strong></li>
-                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs*</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs</strong></li>
                 </ul>
               </div>
            </li>
