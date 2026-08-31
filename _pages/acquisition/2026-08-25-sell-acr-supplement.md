@@ -38,9 +38,9 @@ The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a s
     <ul class="usa-icon-list padding-right-2 force-max-width">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#code"></use></svg></div>
-           <div class="usa-icon-list__content force-max-width">
-                <div class="box-heading"><strong>Download</strong><hr></div>
-                <div class="box-text">Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement</a></div>
+           <div class="grid-col-12 summary-box--alt">
+    <strong>Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement Workbook (XLSX)</a></strong>
+</div>
             </div>
         </li>
     </ul>
@@ -117,7 +117,7 @@ As a best practice, vendors can provide the ACR Issue Detail Supplement as an ad
   </li>
   <li><strong>What is the workaround?</strong> Describe any vendor-provided temporary alternative method, assistive technique, or substitute process that allows affected users to partially or fully complete the task despite the accessibility issue or defect. 
     <div class="grid-col-11 summary-box--left margin-left-5">
-        Users may access the same information through an accessible PDF. 
+        Example: Users may access the same information through an accessible PDF. 
     </div>
   </li>
 </ol>
@@ -148,7 +148,6 @@ To learn more, start with these core resources.
         * <a href="{{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a>
     * Tools
         * <a href="{{site.baseurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
-        * <a href="{{site.baseurl}}/tools/coordinator-listing">Find Your Section 508 Program Manager</a>
         * <a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a>
         * <a href="{{site.baseurl}}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a>
     * Resources
@@ -156,13 +155,11 @@ To learn more, start with these core resources.
         * <a href="{{site.baseurl}}/buy#market">Buy Accessible Products and Services, Conduct Market Research</a>
         * <a href="{{site.baseurl}}/buy/determine-508-standards-exceptions">Determine Section 508 Standards and Exceptions</a>
         * <a href="{{site.baseurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
-        * <a href="{{site.baseurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
+
 * **Other Resources**
     * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
-    * <a href="https://digital.gov/communities" target="_blank" class="usa-link--external">Communities of Practice</a>
     * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-    * <a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a>
-
+    
 
 ---
 
