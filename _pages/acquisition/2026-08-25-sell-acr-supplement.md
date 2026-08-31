@@ -4,7 +4,7 @@ sidenav: true
 type: acquisition
 title: Section 508 Government ACR Supplement
 title-alt: New Supplement to the ACR to help make procurement decisions
-permalink: sell/acr-supplement
+permalink: sell/acr-supplement/
 description: Learn about the Government Supplement to the Accessibility Conformance Report (ACR), including issue severity, user impact, scope, workarounds, and more.
 audience:
 - Buyers
