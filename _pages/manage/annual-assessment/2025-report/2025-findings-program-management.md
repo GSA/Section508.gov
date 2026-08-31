@@ -129,7 +129,7 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
 
 <!-- CALLOUT -->
 <div class="radius-lg padding-3 margin-top-3" style="border: 1px solid #93348c; background-color: #fef2ff;">
-  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components.
+  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components. FTEs were not deduplicated across components or agencies.*
   <!-- CALLOUT MOBILE -->
   <div class="display-block tablet:display-none grid-col-12 callout-box-top-left-violet padding-1" style="background-color: #fbdcff;">
      <div class="grid-row grid-gap">
@@ -139,8 +139,8 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
               <div class="usa-icon-list__content">
                 <h4 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary:</h4>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 120 federal FTEs + 110 contractor FTEs = <strong>230 FTEs</strong></li>
-                    <li><strong>Components:</strong> 113 federal FTEs + 74 contractor FTEs = <strong>187 FTEs</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs*</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs*</strong></li>
                 </ul>
               </div>
            </li>
