@@ -139,8 +139,8 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
               <div class="usa-icon-list__content">
                 <h4 id="governmentwide-staffing-summary" class="usa-icon-list__title">Governmentwide Staffing Summary*:</h4>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs</strong></li>
-                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs**</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs**</strong></li>
                 </ul>
               </div>
            </li>
@@ -156,8 +156,8 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
               <div class="usa-icon-list__content">
                 <h4 id="governmentwide-staffing-summary-mobile" class="usa-icon-list__title">Governmentwide Staffing Summary:</h4>
                 <ul style="padding:15px">
-                    <li><strong>Agencies:</strong> 120 federal FTEs + 110 contractor FTEs = <strong>230 FTEs</strong></li>
-                    <li><strong>Components:</strong> 113 federal FTEs + 74 contractor FTEs = <strong>187 FTEs</strong></li>
+                    <li><strong>Agencies:</strong> 169 federal FTEs + 111 contractor FTEs = <strong>280 FTEs**</strong></li>
+                    <li><strong>Components:</strong> 239 federal FTEs + 274 contractor FTEs = <strong>513 FTEs**</strong></li>
                 </ul>
               </div>
            </li>
@@ -194,7 +194,7 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
   </div>
 </div>
 <!-- END CALLOUT -->
-<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0.</p>
+<p>* denotes an updated total as of July 2026 due to a summing discrepancy. Incorrect data initially published was: Federal FTE counts ranging from 4 to 60 and contractor staffing ranging from 0. ** denotes a summary of numbers that includes all reported data without deduplication between components and parent agencies.</p>
 
 ### Management of ICT Accessibility Across the Agency
 A Section 508 or ICT accessibility policy provides the governance foundation agencies need to comply with federal accessibility requirements. It defines authorities, roles, responsibilities, expectations, and processes that ensure ICT accessibility is embedded across procurement, development, content creation, and IT operations. Most agencies have a Section 508 policy, but not all:
