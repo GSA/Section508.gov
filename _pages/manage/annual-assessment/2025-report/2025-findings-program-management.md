@@ -129,7 +129,7 @@ Taken together with conformance outcomes, Figure 15 shows that there is a slight
 
 <!-- CALLOUT -->
 <div class="radius-lg padding-3 margin-top-3" style="border: 1px solid #93348c; background-color: #fef2ff;">
-  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components. FTEs were not deduplicated across components or agencies.*
+  Agencies and components were asked to estimate the total number of federal and contractor full-time equivalents (FTEs) directly supporting their Section 508 programs. Staffing levels vary widely across agencies and components. Possible FTEs shared between components and parent agencies were not deduplicated.*
   <!-- CALLOUT MOBILE -->
   <div class="display-block tablet:display-none grid-col-12 callout-box-top-left-violet padding-1" style="background-color: #fbdcff;">
      <div class="grid-row grid-gap">
