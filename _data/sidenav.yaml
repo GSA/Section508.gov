@@ -636,7 +636,9 @@ acquisition:
         url: sell/
       - name: Accessibility Conformance Report (ACR)
         url: sell/acr/
-      - name: OpenACR Editor
+      - name: ACR Issue Detail Supplement
+        url: sell/acr-supplement/
+      - name: ACR Editor
         url: tools/openacr-editor/
       - name: How to Create an ACR with a VPAT&reg;
         url: sell/how-to-create-acr-with-vpat/

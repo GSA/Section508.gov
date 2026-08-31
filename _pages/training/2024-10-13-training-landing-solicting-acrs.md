@@ -104,7 +104,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li><a href="{{site.baseurl}}/buy/determine-ict-exceptions/">Determine ICT Exceptions</a></li>
       <li><a href="{{site.baseurl}}/sell/how-to-create-acr-with-vpat/">How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT®)</a></li>
       <li><a href="{{site.baseurl}}/create/documents/">How to Make an Accessible Document in Microsoft Word</a></li>
-      <li><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a></li>
+      <li><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">ACR Editor</a></li>
       <li><a href="{{site.baseurl}}/create/pdfs/">PDFs Authoring Guides</a></li>
       <li><a href="{{site.baseurl}}/buy/request-accessibility-information/">Request Accessibility Information from Vendors &amp; Contractors</a></li>
       <li>Vocabulary

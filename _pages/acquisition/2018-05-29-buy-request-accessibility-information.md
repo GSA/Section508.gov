@@ -86,7 +86,7 @@ For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
       * Information on core functions that can&rsquo;t be used by persons with disabilities;
       * Information on how to configure and install the ICT item to support accessibility; and
       * Information on how the ICT item enables the creation of accessible electronic content that conforms to the Revised 508 Standards, including the range of accessible user interface elements the tool can create. (only required for authoring tools that generate content (documents, reports, videos, multimedia, web content, etc.)
-
+  * **Issue Detail Supplement** - The [Issue Detail Supplement][10] to the Accessibility Conformance Report (ACR) is a standardized companion document developed by the GSA Government-wide IT Accessibility Program to provide information beyond a traditional ACR. While ACRs document how a product conforms to applicable accessibility standards, the ACR Issue Detail Supplement provides additional product details needed by government agencies to better understand the severity and user impact of identified accessibility issues.
 <h2 id="1">
   <strong><em>Recommended </em></strong><strong>for Standard ICT Items</strong>
 </h2>
@@ -170,3 +170,4 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
 [7]: {{site.baseurl}}/buy/
 [8]: {{site.baseurl}}/art/
 [9]: {{site.baseurl}}/buy/understand-claims/
+[10]:{{site.baseurl}}/sell/acr-supplement
