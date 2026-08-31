@@ -34,28 +34,31 @@ updated:
 ---
 The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a standardized companion document developed by the GSA Government-wide IT Accessibility Program to provide information beyond a traditional ACR. While ACRs document how a product conforms to applicable accessibility standards, the ACR Issue Detail Supplement provides additional product details needed by government agencies to better understand the severity and user impact of identified accessibility issues.
 
+<div class="grid-col-12 summary-box--icon-code">
+    <ul class="usa-icon-list padding-right-2 force-max-width">
+        <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#code"></use></svg></div>
+            <div class="usa-icon-list__content force-max-width">
+                <div class="box-heading"><strong>Download</strong><hr></div>
+                <div class="box-text">Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement</a></div>
+            </div>
+        </li>
+    </ul>
+</div>
+
 ## Instructions for use
 
 ### For Buyers
 
 Government acquisition professionals, project managers, and procurement policy officials can help improve the quality and usefulness of ACRs by including the ACR Issue Detail  Supplement in solicitations for ICT products and services. As a best practice, consider adding the ACR Issue Detail Supplement whenever a solicitation requires or requests an ACR or references a Voluntary Product Accessibility Template (VPAT). A link to this page should be provided in those requirements as reference. Consider adding the clause below, or some variation, when creating solicitations for ICT. As always, check against your agency deviation to ensure all required language is included.
 
-<div class="grid-col-12 summary-box--icon-prompt">
-   <ul class="usa-icon-list padding-right-2 force-max-width">
-       <li class="usa-icon-list__item">
-           <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/icon-clipboard.png"></use></svg></div>
-           <div class="usa-icon-list__content force-max-width">
-               <div class="box-heading"><strong>Recommended Clause</strong><hr></div>
-               <div class="box-text">
-                <p>Section 508 Accessibility Requirements for Information and Communication Technology (ICT)</p>
-                <p>The contractor shall test and validate Information and Communication Technology (ICT) for conformance to Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) in accordance with the required testing methods. The contractor must provide test results in the form of an Accessibility Conformance Report (ACR) that includes the information requested in the Issue Detail supplement defined and available at <https://www.section508.gov/sell/acr-supplement/>.</p>
-                <p>For ICT developed, modified, or configured under this solicitation, the contractor must provide an Accessibility Conformance Report (ACR) plus Issue Detail supplement before acceptance.</p>
-                <p>Before final acceptance of any ICT item, including updates and replacements, if the contracting officer determines that any furnished ICT item is not in compliance with the applicable Revised 508 Standards requirements, the contracting officer will promptly inform the submitting organization in writing of the noncompliance. The offeror must repair or replace the non-compliant products or services within the period specified by the contracting officer at no cost to the government.</p>
-                <p>ICT must remain accessible throughout the contract period of performance, even as products and software are updated or modified."</p>
-               </div>
-           </div>
-       </li>
-   </ul>
+<div class="callout-box-dual-violet margin-bottom-1">
+    <h4>Recommended Clause</h4>
+    <p>Section 508 Accessibility Requirements for Information and Communication Technology (ICT)</p>
+    <p>The contractor shall test and validate Information and Communication Technology (ICT) for conformance to Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) in accordance with the required testing methods. The contractor must provide test results in the form of an Accessibility Conformance Report (ACR) that includes the information requested in the Issue Detail supplement defined and available at <a href="{{site.baseurl}}/sell/acr-supplement/">https://www.section508.gov/sell/acr-supplement</a>.</p>
+    <p>For ICT developed, modified, or configured under this solicitation, the contractor must provide an Accessibility Conformance Report (ACR) plus Issue Detail supplement before acceptance.</p>
+    <p>Before final acceptance of any ICT item, including updates and replacements, if the contracting officer determines that any furnished ICT item is not in compliance with the applicable Revised 508 Standards requirements, the contracting officer will promptly inform the submitting organization in writing of the noncompliance. The offeror must repair or replace the non-compliant products or services within the period specified by the contracting officer at no cost to the government.</p>
+    <p>ICT must remain accessible throughout the contract period of performance, even as products and software are updated or modified."</p>
 </div>
 
 The information shared in the Issue Detail Supplement can be used by buyers to help determine what the "most accessible" product is in the evaluation of ICT prior to source selection. This information can also be used to help in the creation of a remediation plan prior to acceptance.
@@ -79,41 +82,41 @@ As a best practice, vendors can provide the ACR Issue Detail Supplement as an ad
   <li><strong>Indicate severity using one of the following:</strong>
     <ol id="vendor-1" start="a" type="a">
        <li>Critical Accessibility Barrier: A critical accessibility failure prevents people with disabilities from accessing or completing core functionality.
-        <div class="grid-col-12 summary-box--alt">
+        <div class="grid-col-12 summary-box--left">
           Example: A lack of keyboard access to interactive elements.
         </div>
        </li>
        <li>Major Accessibility Issue: A significant accessibility issue substantially impairs access to important functionality, but users may still complete tasks through a workaround or alternate method. 
-        <div class="grid-col-12 summary-box--alt">
+        <div class="grid-col-12 summary-box--left">
           Example: Link context cannot be programmatically determined. 
         </div>
       </li>
        <li>Minor Accessibility Issue: A minor accessibility issue causes usability challenges or partial barriers for some users but does not prevent completion of core tasks.
-        <div class="grid-col-12 summary-box--alt">
+        <div class="grid-col-12 summary-box--left">
             Example: Non-critical images are missing alternative text
         </div>
       </li>
     </ol>
   </li>
   <li><strong>What area of the product is impacted?</strong> Describe the affected page, screen, component, or workflow(s) impacted. How extensive is the issue?
-      <div class="grid-col-12 summary-box--alt margin-bottom-2 margin-left-5 margin-right-5">
+      <div class="grid-col-11 summary-box--left margin-bottom-2 margin-left-5">
           Example 1: Unable to use address form for entering mailing address in order to complete a purchase. 
       </div>
-      <div class="grid-col-12 summary-box--alt margin-left-5 margin-right-5">
+      <div class="grid-col-11 summary-box--left margin-left-5">
           Example 2: All form fields in the application are missing accessible labels.
       </div>
   </li>
   <li><strong>Impacted User Group (Dropdown)</strong>: Who does this impact? Identify the users, disability groups, or assistive technology users affected by the issue or defect. This should describe who experiences barriers, reduced usability, or loss of functionality as a result of the issue. 
-    <ol id="vendor-3" start="a" type="a">
-      <li>Options: People who are blind, People with low vision, People with no hearing, People with limited hearing, People with Mobility, Other 
-        <div class="grid-col-12 summary-box--alt">
-          Without Vision, With Limited Vision 
+      <ol id="vendor-3" start="a" type="a">
+      <li>Insert all that apply: people without vision, with limited vision, without perception of color, without hearing, with limited hearing, without speech, with limited manipulation, with limited reach and strength, with limited language, cognitive, and learning abilities. 
+        <div class="grid-col-12 summary-box--left">
+          Example:  Without Vision, With Limited Vision 
         </div>
       </li>
     </ol>
   </li>
   <li><strong>What is the workaround?</strong> Describe any vendor-provided temporary alternative method, assistive technique, or substitute process that allows affected users to partially or fully complete the task despite the accessibility issue or defect. 
-    <div class="grid-col-12 summary-box--alt">
+    <div class="grid-col-11 summary-box--left margin-left-5">
         Users may access the same information through an accessible PDF. 
     </div>
   </li>
@@ -147,6 +150,7 @@ To learn more, start with these core resources.
         * <a href="{{site.baseurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
         * <a href="{{site.baseurl}}/tools/coordinator-listing">Find Your Section 508 Program Manager</a>
         * <a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a>
+        * <a href="{{site.baseurl}}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a>
     * Resources
         * <a href="{{site.baseurl}}/buy">Buy Accessible Products and Services</a>
         * <a href="{{site.baseurl}}/buy#market">Buy Accessible Products and Services, Conduct Market Research</a>
