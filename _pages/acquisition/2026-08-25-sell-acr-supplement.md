@@ -34,16 +34,8 @@ updated:
 ---
 The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a standardized companion document developed by the GSA Government-wide IT Accessibility Program to provide information beyond a traditional ACR. While ACRs document how a product conforms to applicable accessibility standards, the ACR Issue Detail Supplement provides additional product details needed by government agencies to better understand the severity and user impact of identified accessibility issues.
 
-<div class="grid-col-12 summary-box--icon-code">
-    <ul class="usa-icon-list padding-right-2 force-max-width">
-        <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#code"></use></svg></div>
-           <div class="grid-col-12 summary-box--alt">
-    <strong>Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement Workbook (XLSX)</a></strong>
-</div>
-            </div>
-        </li>
-    </ul>
+<div class="grid-col-12 summary-box--alt">
+  <strong>Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement Workbook (XLSX)</a></strong>
 </div>
 
 ## Instructions for use
@@ -123,50 +115,10 @@ As a best practice, vendors can provide the ACR Issue Detail Supplement as an ad
 </ol>
 
 ## Additional Resources
-To learn more, start with these core resources.
 
-* **Section 508 Standards**
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-    * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-    * <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-    * <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
-* **Laws and Regulations**
-    * <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act of 1973, as amended</a>    
-    * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Information and Communication Technology (ICT) Standards and Guidelines</a>
-    * <a href="https://www.access-board.gov/ict/#appendixA" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A</a>
-    * <a href="https://www.access-board.gov/ict/#appendix-c" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices C</a>
-    * Federal Acquisition Regulation (FAR)
-        * <a href="https://www.acquisition.gov/far/part-1#FAR_1_602_2" target="_blank" class="usa-link--external">Subpart 1.602-2 - Responsibilities</a>
-        * <a href="https://www.acquisition.gov/far/part-1#FAR_1_603_3" target="_blank" class="usa-link--external">Subpart 1.603-3 Appointment</a>
-        * <a href="https://www.acquisition.gov/far/part-2#FAR_Subpart_2_2" target="_blank" class="usa-link--external">Subpart 2.2 - Definitions Clause</a>
-        * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">Part 10 - Market Research</a>
-        * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Part 13 - Simplified Acquisition Procedures</a>
-        * <a href="https://www.acquisition.gov/far/subpart-39.2" target="_blank" class="usa-link--external">Subpart 39.2 - Information and Communication Technology Information and Communication Technology</a>
-* **Section 508.gov Resources**
-    * Training Courses
-        * <a href="{{site.baseurl}}/training/online-course/micro-purchases/">Micro-Purchases and Section 508 Requirements</a>
-        * <a href="{{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a>
-    * Tools
-        * <a href="{{site.baseurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
-        * <a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a>
-        * <a href="{{site.baseurl}}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a>
-    * Resources
-        * <a href="{{site.baseurl}}/buy">Buy Accessible Products and Services</a>
-        * <a href="{{site.baseurl}}/buy#market">Buy Accessible Products and Services, Conduct Market Research</a>
-        * <a href="{{site.baseurl}}/buy/determine-508-standards-exceptions">Determine Section 508 Standards and Exceptions</a>
-        * <a href="{{site.baseurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
+To learn more, reference these resources.
 
-* **Other Resources**
-    * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
-    * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-    
-
----
-
-
-<div>
-  <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnote</h2>
-  <ol>
-    <li id="fn1">Excerpted from <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>, Brian McNeilly, University of Washington, USA, Sina Bahram, Prime Access Consulting, Inc., USA. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
-  </ol>
-</div>
+* <a href="{{site.baseurl}}/buy">Buy Accessible Products and Services</a>
+* <a href="{{site.baseurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors & Contractors</a>
+* <a href="{{site.baseurl}}/buy/understand-claims">Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance</a>
+* <a href="{{site.baseurl}}/sell/acr">Accessibility Conformance Report (ACR)</a>
