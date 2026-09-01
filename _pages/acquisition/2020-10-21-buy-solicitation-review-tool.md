@@ -16,7 +16,7 @@ sub-topic: Tools
 resource-type: Tool
 format: HTML
 created: 2020-10-21
-updated: 2025-04-21
+updated: 2026-09-01
 ---
 
 <div class="desktop:grid-col-4 radius-lg" style="float:right; padding-left:10px;">
@@ -45,13 +45,14 @@ The SRT scans the <a href="https://www.sam.gov" target="_blank" class="usa-link-
   * A portal for agency SMEs to perform manual reviews of flagged solicitations
   * Trending data of flagged solicitations by agency and government-wide
 
-## **Benefits of SRT**
+## Benefits of SRT
 
-As federal acquisition staff needs to ensure that ICT solicitation documents include Section 508 requirements. The SRT will make it easier to find those solicitations that have been identified as either compliant or non-compliant by:
+Federal acquisition staff needs to ensure that ICT solicitation documents include Section 508 requirements. The SRT will make it easier to find those solicitations that have been identified as either compliant or non-compliant by:
 
-  * Automating the review process
+  * Providing pre-publication support for ICT solicitation review via the upload tool
+  * Automating the review process of published solicitations
   * Ensuring accessibility requirements are properly defined in ICT solicitations
-  * Influencing training offerings
+  * Informing the need for Section 508 training offerings
   * Supporting IT Accessibility PMs
   * Improving GSA's ability to support agencies
   * Providing timely analytics
@@ -60,6 +61,8 @@ With SRT, agencies will have the information to inform decisions on which solici
 
 ## How to Access SRT
 
-The SRT is available to agency procurement officials and Section 508 Program Managers by **sending a request to <srt@gsa.gov>**. Once approved, you will receive instructions for accessing the tool using a Login.gov account associated with your government email address (e.g., .gov or .mil).
+The SRT is available to agency procurement officials and Section 508 Program Managers. It can also be used by local, county and state officials as well as those involved with procurement for educational institutions. A Login.gov account tied to your .gov, .mil, or .edu email address is required.  Request access to SRT by visiting <a href="https://srt.app.cloud.gov/auth" target="_blank" class="usa-link--external"><strong>Solicitation Review Tool</strong></a> and choosing "Sign in with Login.gov".  Access will be granted within 24 hours, excluding weekends and holidays.
+
+If you encounter issue, **send a request to <srt@gsa.gov>** for assistance. Once approved, you will receive an email confirming your account has been activated.
 
 If you have questions or suggestions for improving the tool, click the Contact Us link on the SRT homepage to message the system administrators.
