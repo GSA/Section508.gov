@@ -87,7 +87,18 @@ Workshop packages provide facilitators with the resources and guidance needed to
   </li>
 </ul>
 
-{%comment %}<!-- WORKSHOP ACCORDIONS -->{% endcomment %}
+<div class="grid-col-12 summary-box--icon-prompt margin-top-4">
+    <ul class="usa-icon-list padding-right-2 force-max-width">
+        <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#info_outline"></use></svg></div>
+            <div class="usa-icon-list__content force-max-width">
+                <div class="box-text">The workshops complement the document accessibility guidance and other training resources available on this website. Discover and use the Authoring Guides for <a href="{{site.baseurl}}/create/documents/">documents</a>, <a href="{{site.baseurl}}/create/pdfs/">PDFs</a>, <a href="{{site.baseurl}}/create/presentations/">presentations</a>, <a href="{{site.baseurl}}/create/spreadsheets/">spreadsheets</a> and <a href="{{site.baseurl}}/create/email-messages/">email messages</a>, and associated <a href="{{site.baseurl}}/training-home/#training-videos-library">training videos</a> to help create accessible electronic documents.</div>
+            </div>
+        </li>
+    </ul>
+</div>
+
+{%comment %} WORKSHOP ACCORDIONS {% endcomment %}
 
 ## Accessibility Training Workshops
 <div id="accordion-group-b" class="usa-accordion usa-accordion--bordered">
