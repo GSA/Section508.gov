@@ -1624,6 +1624,26 @@ div[role=rowheader] {
     padding-bottom: 0.5rem;
   }
 }
+/* large-border-y */
+.summary-box--icon-lg {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: #0076d6;
+  color: #0076d6;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  .icon-size {
+    width: 5rem;
+    height: 5rem;
+  }
+  hr {
+    border-top-color: #0076d6;;
+  }
+  .box-heading,
+  .box-text {
+    color: #000;
+  }
+}
 /* Code box */
 .summary-box--icon-code {
   border-color: #71767a;
@@ -2570,6 +2590,69 @@ details ul li a:hover {
   text-decoration: underline;
 }
 
+/* FY26 Assessment Styles */
+// colors
+.fy26-blue-bg { 
+  background-color: #022E5E;
+}
+.fy26-blue-border { 
+  border-color: #022E5E;
+}
+.fy26-blue-text { 
+  color: #022E5E;
+}
+.fy26-green-bg { 
+  background-color: #538200;
+}
+.fy26-green-border { 
+  border-color: #538200;
+}
+.fy26-green-text { 
+  color: #538200;
+}
+.fy26-purple-bg { 
+  background-color: #4B1340;
+}
+.fy26-purple-border { 
+  border-color: #4B1340;
+}
+.fy26-purple-text { 
+  color: #4B1340;
+}
+.fy26-red-bg { 
+  background-color: #c5171e;
+}
+.fy26-red-border { 
+  border-color: #c5171e;
+}
+.fy26-red-text { 
+  color: #c5171e;
+}
+.fy26-yellow-bg { 
+  background-color: #FFBE2E;
+}
+.fy26-yellow-border { 
+  border-color: #FFBE2E;
+}
+.fy26-yellow-text { 
+  color: #FFBE2E;
+}
+
+// Table striping for FY26 Assessment
+.striped-fy26-purple tbody tr:nth-child(odd) td, .striped-fy26-red tbody tr:nth-child(odd) th {
+    background-color: #d9e8f6;
+}
+
+
+.diagonal-stripes {
+  background: repeating-linear-gradient(
+    135deg,
+    #4B1340,
+    #4B1340 5px,
+    #fff 5px,
+    #fff 15px
+  );
+}
 
 
 /* PRINT STYLES - PRINT STYLES */
