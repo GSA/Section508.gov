@@ -1,0 +1,7 @@
+name: Section508 CodeQL configuration
+
+# These source files require Jekyll front matter and Liquid processing before
+# they are valid JavaScript. Exclude only these templates from source analysis.
+paths-ignore:
+  - assets/js/content-library.js
+  - assets/js/external-508-blocks.js
