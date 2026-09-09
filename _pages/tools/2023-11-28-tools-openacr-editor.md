@@ -2,9 +2,9 @@
 layout: page
 sidenav: false
 type: training
-title: 'OpenACR Editor'
+title: 'ACR Editor'
 permalink: tools/openacr-editor/
-description: "Learn more about OpenACR Editor on Section508.gov."
+description: "Learn more about ACR Editor on Section508.gov."
 redirect_from:
 - openacr-editor/
 redirect_to: 
