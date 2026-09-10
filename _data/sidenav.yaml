@@ -437,7 +437,7 @@ training:
         url: 'tools/program-manager-listing/'
       - name: 'Section508.gov Content Library'
         url: 'content-library/'
-      - name: Solicitation Review Tool (SRT)
+      - name: Solicitation Review Tool (SRT) Overview
         url: 'buy/solicitation-review-tool/'
       - name: Tools for Testing ICT
         url: 'tools/tools-for-testing-ict/'
@@ -618,7 +618,7 @@ acquisition:
         url: buy/understanding-ict-micro-purchases/
       - name: Understanding Vendor Claims in Accessibility Conformance Reports
         url: 'buy/understand-claims/'
-      - name: 'Solicitation Review Tool (SRT)'
+      - name: 'Solicitation Review Tool (SRT) Overview'
         url: 'buy/solicitation-review-tool/'
       - name: Authoring Tool Requirements
         url: 'buy/authoring-tools/'
