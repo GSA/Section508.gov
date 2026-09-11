@@ -22,4 +22,4 @@ gem "tzinfo-data", platforms: [:windows, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "html-proofer", "~> 5.1"
+gem "html-proofer", "~> 5.2"
