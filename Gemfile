@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby '>= 3.4.9'
 
 gem "jekyll", "~> 4.4.1"
-gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
+gem "execjs", "2.10.2" # https://github.com/rails/execjs/issues/99
 gem "autoprefixer-rails"
 gem "webrick"
 
@@ -22,4 +22,4 @@ gem "tzinfo-data", platforms: [:windows, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "html-proofer", "~> 5.1"
+gem "html-proofer", "~> 5.2"
