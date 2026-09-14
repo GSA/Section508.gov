@@ -5,6 +5,7 @@ type: training
 title: Training Video Library
 permalink: training/videos/
 description: pending
+disclaimer: true
 redirect_from:
 - training/video-library/
 audience:
