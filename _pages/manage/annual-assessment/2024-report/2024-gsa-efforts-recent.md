@@ -224,7 +224,7 @@ In the beginning of FY 2025, GSA created a list of key performance indicators (K
 
   * GSA continued to lead the development of the <a href="https://baselinealignment.section508.gov/" target="_blank" class="usa-link--external">ICT Baseline Alignment Framework</a>. Throughout FY 2024, GSA expanded test cases for the ICT Baseline for Web, further enhancing accessibility evaluation practices.
 
-* GSA continued OpenACR Repository development, which will facilitate easier integration of accessibility conformance considerations in federal ICT acquisitions through a centralized, publicly-facing, and searchable repository of ACRs. GSA began developing the OpenACR Editor, which included determining business and technical requirements, back-end and user interface development, and an application programming interface (API).
+* GSA continued OpenACR Repository development, which will facilitate easier integration of accessibility conformance considerations in federal ICT acquisitions through a centralized, publicly-facing, and searchable repository of ACRs. GSA began developing the ACR Editor, which included determining business and technical requirements, back-end and user interface development, and an application programming interface (API).
 
 <div id="prev-next-section" style="justify-content: space-around;" class="padding-bottom-2">
   <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2024/gsa-efforts-upcoming/"> Next > </a>

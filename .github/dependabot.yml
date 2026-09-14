@@ -1,0 +1,21 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      angular-security:
+        applies-to: security-updates
+        patterns:
+          - "@angular/*"
+          - "@angular-devkit/*"
+      angular-version:
+        applies-to: version-updates
+        patterns:
+          - "@angular/*"
+          - "@angular-devkit/*"

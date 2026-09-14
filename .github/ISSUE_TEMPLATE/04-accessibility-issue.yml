@@ -1,0 +1,50 @@
+name: Report an Accessibility Issue
+description: Report an accessibility barrier or difficulty using Section508.gov.
+title: "[Accessibility]: "
+labels: ["accessibility"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Section508.gov. Please search [existing issues](https://github.com/GSA/Section508.gov/issues) before submitting to avoid duplicates.
+
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The full URL of the page where you experienced the accessibility issue.
+      placeholder: https://www.section508.gov/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the accessibility issue
+      description: What barrier did you encounter?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: List the steps needed to encounter the issue.
+    validations:
+      required: false
+
+  - type: input
+    id: assistive-technology
+    attributes:
+      label: Browser, operating system, and assistive technology
+      placeholder: ex. Chrome 128 on macOS 14 with VoiceOver
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Screenshots or supporting files
+      description: Add any context, screenshots, or files that help explain the barrier.
+    validations:
+      required: false

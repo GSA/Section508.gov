@@ -15,6 +15,21 @@ Please keep interactions respectful, constructive, and focused on improving the 
 - For small fixes, such as typos, broken links, metadata corrections, and focused bug fixes, opening a pull request directly is usually fine.
 - Do not include sensitive information, non-public government information, credentials, analytics secrets, or private user data.
 
+## Issue Forms
+
+Issue forms are stored in `.github/ISSUE_TEMPLATE/`:
+
+- `01-report-issue.yml` reports bugs and applies the `bug` label.
+- `02-suggest-change.yml` captures proposed improvements and applies the `enhancement` label.
+- `03-content-issue.yml` reports inaccurate, unclear, outdated, or missing content and applies `content`.
+- `04-accessibility-issue.yml` reports accessibility barriers and applies `accessibility`.
+- `05-feedback.yml` collects general website feedback and applies `feedback`.
+- `config.yml` disables blank issues and provides links for general support and contact requests.
+
+Labels are fixed per form because GitHub does not dynamically apply labels from dropdown selections. The five labels must exist in the repository for automatic labeling to work. Forms are rendered from the default branch at `https://github.com/GSA/Section508.gov/issues/new/choose`.
+
+Maintainers should review new labels for consistent naming and descriptions, confirm the labels exist in repository settings, and update this section whenever forms, labels, contact links, or routing procedures change.
+
 ## Content Contributions
 
 Most website content lives in `_pages/`, `_posts/`, `_events/`, `_contributors/`, and `_data/`.
