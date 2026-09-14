@@ -239,7 +239,7 @@ training:
       - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
         url: 'training/courses/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
-        url: 'training-home#federal-acquisition-institute'
+        url: 'training/courses/#federal-acquisition-institute'
       - name: "Add GSA's Training to Your Agency LMS"
         url: 'training/courses/add-our-training-to-your-lms/'
   - name: Training Videos Library

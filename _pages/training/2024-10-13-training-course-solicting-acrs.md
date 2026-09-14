@@ -3,8 +3,10 @@ layout: page
 sidenav: true
 type: training
 title: Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement
-permalink: training/online-course/soliciting-and-evaluating-acrs/
+permalink: training/courses/soliciting-and-evaluating-acrs/
 description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
+redirect_from:
+- training/online-course/soliciting-and-evaluating-acrs/
 audience:
 - Content Creators
 - Developers
@@ -19,10 +21,10 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-08-25
+updated: 2026-09-14
 exclude-changelog: true
 ---
-<ul class="usa-card-group">
+<ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
       <div class="usa-card__header">
@@ -49,7 +51,7 @@ exclude-changelog: true
 * Contracting Officers and Contracting Officer’s Representatives (COR)  
 * Requiring Officials  
 * Approving Officials, and  
-* Anyone involved in the micro-purchase process
+* Anyone involved in the micro-purchase process  
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
@@ -97,7 +99,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 
 <div class="usa-accordion usa-accordion--bordered margin-top-4">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="key-terms">Key Terms and References</button></h2>
-  <div id="key-terms" class="usa-accordion__content usa-prose">
+  <div id="key-terms" class="usa-accordion__content">
     <ul>
       <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a></li>
       <li><a href="{{site.baseurl}}/create/documents/">Creating Accessible Documents</a></li>
@@ -121,11 +123,23 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
   </h2>
-  <div id="change-log" class="usa-accordion__content usa-prose">
-    <ul>
+  <div id="change-log" class="usa-accordion__content">
+    <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>May 2023 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <div id="add-to-lms" class="usa-accordion__content">
+    <ul class="usa-icon-list tablet:grid-col">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content">Visit <a href="{{site.baseurl}}/training/courses/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a> to learn how to give your workforce access to this and other free, self-paced Section 508 training courses through your agency’s Learning Management System.</div>
       </li>
     </ul>
   </div>
