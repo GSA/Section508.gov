@@ -82,4 +82,4 @@ Each course includes a five-question quiz. Learners who score at least 80 percen
   </li>
 </ul>
 
-**Visit [Section508.gov training courses]({{site.baseurl}}/training-home/) to find these and other self-paced accessibility training resources.**
+**Visit [Section508.gov training courses]({{site.baseurl}}/training/courses/) to find these and other self-paced accessibility training resources.**
