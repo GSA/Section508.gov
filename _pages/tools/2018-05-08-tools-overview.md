@@ -16,7 +16,7 @@ audience:
 resource-type: Tool
 format: HTML
 created: 2018-05-22
-updated: 2023-11-28
+updated: 2026-09-14
 hide-date: true #dates on landing pages are hidden
 ---
 Find testing tools, view playbooks, or find your agency’s Section 508 Program Manager.
@@ -58,7 +58,7 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="usa-card tablet:grid-col-6 widescreen:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header ">
-       <h2 class="usa-card__heading font-family-sans"><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a></h2>
+       <h2 class="usa-card__heading font-family-sans"><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">ACR Editor</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img bg-accent-warm-lighter">
@@ -66,14 +66,14 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The OpenACR Editor helps evaluators build an Accessibility Conformance Report in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>. It is designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
+        <p>The ACR Editor helps evaluators build an Accessibility Conformance Report in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>. It is designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
       </div>
     </div>
   </li>
   <li class="usa-card tablet:grid-col-6 widescreen:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-       <h2 class="usa-card__heading font-family-sans">OpenACR Repository</h2>
+       <h2 class="usa-card__heading font-family-sans">ACR Repository</h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
