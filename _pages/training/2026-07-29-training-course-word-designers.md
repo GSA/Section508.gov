@@ -23,8 +23,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-04
-updated: 2026-09-11
-exclude-changelog: true
+updated: 2026-09-14
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -55,7 +54,7 @@ exclude-changelog: true
 
 **Duration:** 80 minutes  
 **Difficulty Level:** Moderate to Advance   
-**Version:** 1.0 (Aug 2026)
+**Version:** 1.0 (Sep 2026)
 
 ## What Will I Learn in This Course?
 This training is the second of two courses that will enable you to create accessible text documents. In the first course, you learned how to use headings and lists to organize the structure of the document, how to test your document accessibility, and how to share your document in an accessible format.

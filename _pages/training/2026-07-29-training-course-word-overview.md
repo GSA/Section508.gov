@@ -23,7 +23,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 
+updated: 2026-09-14
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -54,7 +54,7 @@ updated:
 
 **Duration:** 85 minutes  
 **Difficulty Level:** Beginner  
-**Version:** 1.0 (May 2026)  
+**Version:** 1.0 (Sep 2026)  
 
 ## What Will I Learn in This Course?
 This training is the first of two courses that will enable you to create accessible text documents.
