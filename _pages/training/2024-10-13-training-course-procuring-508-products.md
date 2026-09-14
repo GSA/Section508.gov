@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2025-07-29
+updated: 2026-09-11
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -156,6 +156,18 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>March 2024 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <div id="add-to-lms" class="usa-accordion__content">
+    <ul class="usa-icon-list tablet:grid-col">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content">Visit <a href="{{site.baseurl}}/training/courses/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a> to learn how to give your workforce access to this and other free, self-paced Section 508 training courses through your agency’s Learning Management System.</div>
       </li>
     </ul>
   </div>

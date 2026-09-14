@@ -2,7 +2,23 @@
     // ==========================================================================
     // Front Matter
     // ==========================================================================
-
+    "Exclude Changelog: True": {
+        "scope": "markdown,html,yaml",
+        "prefix": "exclude-changelog--true",
+        "body": [
+            "exclude-changelog: true$0",
+        ],
+        "description": "Insert exclude-changelog: true in front matter"
+    },
+    "Disclaimer: True": {
+        "scope": "markdown,html,yaml",
+        "prefix": "disclaimer--true",
+        "body": [
+            "disclaimer: true$0",
+        ],
+        "description": "Insert disclaimer: true in front matter"
+    },
+    
     // ==========================================================================
     // Content Authoring
     // ==========================================================================
