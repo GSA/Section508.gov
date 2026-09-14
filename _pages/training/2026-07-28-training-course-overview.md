@@ -5,6 +5,7 @@ type: training
 title: Online Training Courses Overview
 permalink: training/courses/
 description: Access self-paced online courses to learn how to buy, build, use and maintain Section 508 conformant digital solutions..
+disclaimer: true
 redirect_from:
 - training/online-course/
 - training/online-training/
@@ -29,7 +30,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-07-28
-updated: 
+updated: 2026-09-14
 exclude-changelog: true
 ---
 The Section 508 Online Training Courses Library provides self-paced courses on digital accessibility, accessible ICT, Section 508 requirements, and accessibility best practices. Learn how to apply accessibility throughout the technology lifecycle, from acquisition and development to content creation and testing.
