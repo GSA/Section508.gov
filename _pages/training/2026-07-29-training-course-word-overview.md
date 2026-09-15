@@ -22,9 +22,24 @@ subtopic:
 resource-type:
 - Training
 format: HTML
+custom-script:
+- alert-redirect.js
 created: 2026-08-03
 updated: 2026-09-14
 ---
+<div
+  id="redirect-alert"
+  class="usa-alert usa-alert--warning margin-bottom-4"
+  role="alert"
+  hidden
+>
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      The Microsoft Word & Accessibility Best Practices course has been superseded by the Microsoft Word Accessibility Overview course.<br>Please update your bookmark or link to use the current course.
+    </p>
+  </div>
+</div>
+
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
