@@ -25,13 +25,11 @@ describe('LandingPageComponent', () => {
     expect(router.navigateByUrl).toHaveBeenCalledWith('/ict-listing-page');
   });
 
-  for (const index of [1, 2]) {
-    it(`loads a saved review from card ${index + 1}`, () => {
-      fixture.nativeElement.querySelectorAll('.review-card button')[index].click();
-      expect(service.getNextPage()).toBe(NextPage.uploadICT);
-      expect(router.navigateByUrl).toHaveBeenCalledWith('/ict-listing-page');
-    });
-  }
+  it('loads a saved review from the combined continue, view, or export card', () => {
+    fixture.nativeElement.querySelectorAll('.review-card button')[1].click();
+    expect(service.getNextPage()).toBe(NextPage.uploadICT);
+    expect(router.navigateByUrl).toHaveBeenCalledWith('/ict-listing-page');
+  });
 
   it('links to SRT and retains the training video', () => {
     expect(fixture.nativeElement.querySelector('.srt-footer .usa-button').href).toBe('https://srt.app.cloud.gov/');
