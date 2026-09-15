@@ -19,7 +19,7 @@
       <div class="tablet: grid-col">
         <!-- Header display -->
         <div class="margin-bottom-2">
-          @if (!isLandingPage && artContentDataService && artContentDataService.getHeader()) {
+          @if (artContentDataService && artContentDataService.getHeader()) {
             <art-generic-text>
               <div [innerHTML]="artContentDataService.getHeader()"></div>
             </art-generic-text>

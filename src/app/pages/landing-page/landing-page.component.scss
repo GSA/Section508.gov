@@ -1,6 +1,5 @@
 :host { display: block; color: #0b1f3e; font-family: 'Public Sans Web', Arial, sans-serif; }
 .landing { padding-top: 1.5rem; }
-.intro { font-size: 1.2rem; line-height: 1.5; margin: 0 0 2.5rem; color: #1b1b1b; }
 h2, h3 { font-size: 1.25rem; line-height: 1.3; }
 h2 { margin: 0 0 1rem; }
 .review-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.75rem; }
@@ -27,5 +26,5 @@ h3 { margin: .75rem 0 1rem; }
 .srt-footer { border-top: 1px solid #c9cdd3; padding-top: .25rem; }
 .srt-footer .usa-button { display: block; margin: .75rem 0 0; }
 .training { border-top: 1px solid #c9cdd3; margin-top: 1.75rem; padding-top: 1rem; color: #1b1b1b; line-height: 1.5; }
-@media (max-width: 60rem) { .review-options { grid-template-columns: repeat(2, minmax(0, 1fr)); } .desktop-break { display: none; } }
+@media (max-width: 60rem) { .review-options { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 40rem) { .review-options { grid-template-columns: 1fr; gap: 1rem; } .review-card { padding: 1.5rem; } }
