@@ -29,7 +29,7 @@ updated: 2026-09-14
 ---
 <div
   id="redirect-alert"
-  class="usa-alert usa-alert--warning margin-bottom-4"
+  class="usa-alert usa-alert--info margin-bottom-4"
   role="alert"
   hidden
 >
