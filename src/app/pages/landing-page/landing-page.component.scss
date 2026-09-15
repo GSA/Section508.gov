@@ -3,7 +3,7 @@
 h2, h3 { font-size: 1.25rem; line-height: 1.3; }
 h2 { margin: 0 0 1rem; }
 .review-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.75rem; }
-.review-card { border: 1px solid #c9cdd3; border-radius: .6rem; padding: 1.5rem 1.75rem; display: flex; flex-direction: column; }
+.review-card { border: 1px solid #005ea2; border-radius: .6rem; padding: 1.5rem 1.75rem; display: flex; flex-direction: column; }
 .review-icon { position: relative; align-self: center; font-size: 4.5rem; height: 6rem; margin-bottom: .75rem; }
 .review-icon span { position: absolute; right: -1rem; bottom: .4rem; width: 2.75rem; height: 2.75rem; border: 3px solid white; border-radius: 50%; background: #005ea2; color: white; font-size: 2.5rem; display: flex; align-items: center; justify-content: center; }
 .review-icon span i { font-size: 1.4rem; }
