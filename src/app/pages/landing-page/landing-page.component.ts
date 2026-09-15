@@ -1,3 +1,4 @@
+import { Router } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 import { IButtonInterface } from 'src/app/shared/models/IButtonInterface';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
@@ -18,7 +19,7 @@ export class LandingPageComponent implements OnInit {
    * @description Using the  ICT Item service and the landing page service
    * @params ictItemService, landingPageService
    */
-  constructor(private ictItemService:IctItemService, public landingPageService:LandingPageService ) { }
+  constructor(private ictItemService:IctItemService, public landingPageService:LandingPageService, private router: Router ) { }
 
   /**
    * @description data for the description above the button
@@ -63,6 +64,11 @@ export class LandingPageComponent implements OnInit {
    * @param nextPage 
    * @type string
    */
+  openReview(button: IButtonInterface): void {
+    button.action?.();
+    if (button.destination) this.router.navigateByUrl(button.destination);
+  }
+
   getNextPage(nextPage:NextPage):void{
       this.landingPageService.setNextPage(nextPage);
   }

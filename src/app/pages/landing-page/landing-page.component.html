@@ -1,36 +1,47 @@
-<section aria-label="Landing Banner">
-  <!-- Get started button container section-->
-  <div art-generic-text-layout="top-border">
-    @if (lpButtonHeader) {
-      <art-generic-text>
-        <div class="margin-2">
-          <div class="font-serif-lg margin-bottom-3">
-            <b>{{ lpButtonHeader }}</b>
-          </div>
-          <div class="art-flex">
-            <div>
-              <art-button
-                [btnTile]="true"
-                [buttonData]="getStartedBtn"
-              ></art-button>
-            </div>
-            <div class="art-btn">
-              <art-button
-                [btnTile]="true"
-                [buttonData]="getUploadICTBtn"
-              ></art-button>
-            </div>
-          </div>
-        </div>
-      </art-generic-text>
-    }
+<section aria-labelledby="landing-title" class="landing">
+  <h1 id="landing-title">Accessibility Requirements Tool (ART)</h1>
+  <p class="intro">The ART helps federal buyers identify and include Section 508 accessibility requirements in their<br class="desktop-break" /> ICT solicitations.</p>
+  <h2>How would you like to start your review?</h2>
+  <div class="review-options">
+    <article class="review-card">
+      <div class="review-icon" aria-hidden="true"><i class="fa-regular fa-file-lines"></i><span>+</span></div>
+      <h3>Create a New Review</h3>
+      <p>Start a new review by answering questions about your procurement. ART will help you identify the applicable Section 508 requirements to include.</p>
+      <button type="button" class="usa-button usa-button--outline" (click)="openReview(getStartedBtn)">Start New Review</button>
+    </article>
+    <article class="review-card">
+      <div class="review-icon" aria-hidden="true"><i class="fa-solid fa-list-ul"></i></div>
+      <h3>Continue Existing Review</h3>
+      <p>Access a review you’ve already started.</p>
+      <button type="button" class="usa-button usa-button--outline" (click)="openReview(getUploadICTBtn)">Continue Review</button>
+    </article>
+    <article class="review-card">
+      <div class="review-icon" aria-hidden="true"><i class="fa-regular fa-file-lines"></i><span><i class="fa-solid fa-arrow-down"></i></span></div>
+      <h3>View or Export Review</h3>
+      <p>View, download, or export a completed review.</p>
+      <button type="button" class="usa-button usa-button--outline" (click)="openReview(getUploadICTBtn)">View/Export Review</button>
+    </article>
+    <aside class="srt-card" aria-labelledby="srt-title">
+      <span class="new-badge">NEW!</span>
+      <div class="review-icon srt-icon" aria-hidden="true"><i class="fa-regular fa-file-lines"></i><span><i class="fa-solid fa-arrow-up"></i></span></div>
+      <h3 id="srt-title">Upload Your Solicitation<br /> to Scan with SRT</h3>
+      <p>Already have a SOW or other completed or near-completed solicitation document? Save time by letting the Solicitation Review Tool (SRT) scan your document for Section 508 accessibility requirements.</p>
+      <ul>
+        <li><strong>Upload</strong> your solicitation (PDF or Word)</li>
+        <li><strong>SRT scans</strong> for accessibility-related requirements</li>
+        <li><strong>Get a summary</strong> of findings</li>
+        <li><strong>Start your ART review</strong> with pre-selected requirements</li>
+      </ul>
+      <div class="srt-footer">
+        <p>Federal buyers and Section 508 PMs only.</p>
+        <a class="usa-link usa-link--external" href="https://www.section508.gov/buy/solicitation-review-tool/">Learn more about SRT</a>
+        <a class="usa-button" href="https://srt.app.cloud.gov/">Upload and Scan with SRT</a>
+      </div>
+    </aside>
   </div>
 </section>
-
 @if (videoFooterHtml) {
-  <div class="margin-top-5">
-    <div class="margin-top-2">
-      <div [innerHTML]="videoFooterHtml"></div>
-    </div>
-  </div>
+  <section class="training" aria-label="ART training video">
+    <div [innerHTML]="videoFooterHtml"></div>
+  </section>
 }

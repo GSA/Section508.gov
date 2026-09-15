@@ -3,9 +3,18 @@
   <art-section508-banner [url] = "url"></art-section508-banner>
   <div class="usa-overlay"></div>
 </section>
-<art-section508-header [url] = "url"></art-section508-header>
+@if (isLandingPage) {
+  <header class="art-home-header">
+    <a href="https://www.section508.gov/">
+      <img [src]="url + '/assets/images/gsa-logo.png'" alt="GSA" />
+      <span><strong>Section508.gov</strong><br />Buy. Build. Be Accessible.</span>
+    </a>
+  </header>
+} @else {
+  <art-section508-header [url] = "url"></art-section508-header>
+}
 
-@if (artContentDataService && artContentDataService.getBannerData()) {
+@if (!isLandingPage && artContentDataService && artContentDataService.getBannerData()) {
   <art-banner
     id="main-content"
     [title]="artContentDataService.getBannerData().title"
@@ -13,13 +22,13 @@
   </art-banner>
 }
 
-<section class="usa-graphic-list usa-section art-banner">
+<section class="usa-graphic-list usa-section art-banner" [class.art-home]="isLandingPage" [attr.id]="isLandingPage ? 'main-content' : null">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet: grid-col">
         <!-- Header display -->
         <div class="margin-bottom-2">
-          @if (artContentDataService && artContentDataService.getHeader()) {
+          @if (!isLandingPage && artContentDataService && artContentDataService.getHeader()) {
             <art-generic-text>
               <div [innerHTML]="artContentDataService.getHeader()"></div>
             </art-generic-text>
