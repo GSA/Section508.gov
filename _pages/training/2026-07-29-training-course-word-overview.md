@@ -6,6 +6,8 @@ title: Microsoft Word Accessibility Overview
 permalink: training/courses/microsoft-word-accessibility-overview/
 description: The first of a two-part series, this course introduces essential document accessibility practices, including creating effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.
 disclaimer: true
+redirect_from:
+- training/online-course/ms-word-best-practices/
 audience:
 - Communications Specialists
 - Content Creators
@@ -22,8 +24,6 @@ subtopic:
 resource-type:
 - Training
 format: HTML
-custom-script:
-- alert-redirect.js
 created: 2026-08-03
 updated: 2026-09-14
 ---
