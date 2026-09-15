@@ -89,8 +89,8 @@ Agencies should first identify which [testing methodologies]({{site.baseurl}}/te
   * [GSA's IT Accessibility Community Meeting]({{site.baseurl}}/training/presentations-workshops/)  
   * [Section 508 Community Listserv]({{site.baseurl}}/manage/join-the-508-community/)  
   * [Interagency Accessibility Forum (IAAF)]({{site.baseurl}}/iaaf/archives/): Annual forum featuring presentations, panel discussions and workshops led by accessibility experts across the federal government.  
-  * [Section508.gov Training, Tools, and Events]({{site.baseurl}}/training-home/#training-videos-library)  
-  * [Section508.gov Video Library]({{site.baseurl}}/training-home/#training-videos-library)  
+  * [Section508.gov Training, Tools, and Events]({{site.baseurl}}/training/)  
+  * [Section508.gov Video Library]({{site.baseurl}}/training/video-library)  
 * External certifications the agency may deem beneficial or essential such as platform, application or code expertise. 
 
 ### Set up a testing program

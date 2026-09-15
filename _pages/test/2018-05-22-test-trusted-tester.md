@@ -20,7 +20,7 @@ resource-type:
 - Article
 format: HTML
 created: 2018-05-22
-updated: 2026-07-09
+updated: 2026-07-28
 exclude-changelog: true
 ---
 
@@ -46,8 +46,5 @@ Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <acces
 
 ## Related Resources
 
-  * [Test for Accessibility][1]
-  * [About AED COP Testing Tools][2]
-
- [1]: {{site.baseurl}}/test
- [2]: {{site.baseurl}}/test/about-testing-tools
+  * [Test for Accessibility]({{site.baseurl}}/test)
+  * [Tools for Testing ICT]({{site.baseurl}}/test/about-testing-tools/)
