@@ -127,7 +127,7 @@ Ryan Schneider - <ryan.schneider@usda.gov>
 ### Agencywide
 Jennifer Jessup - <jjessup@doc.gov>  
 ### Bureau of Economic Analysis (BEA)
-Alexander Minor - <Alexander.Minor@bea.gov>  
+Alexander Minor - <alexander.minor@bea.gov>  
 ### Bureau of Industry and Security (BIS)
 Ida Mix - <ida.mix@bis.doc.gov>  
 ### Bureau of the Census (CENSUS)
@@ -195,8 +195,8 @@ A’Donna Hudson - <adonna.a.hudson.civ@mail.mil>
 Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 ### Defense Intelligence Agency (DIA)
-Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
-Chandra Smith (Deputy) – <Chandra.Smith3@dodiis.mil>    
+Darnyse Werts-Owens – <darnyse.werts-owens@dodiis.mil>  
+Chandra Smith (Deputy) – <chandra.smith3@dodiis.mil>    
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
@@ -275,8 +275,8 @@ Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
 Ilir Angjeli  
-Yohanna Freeman (Deputy)  
-<doesection508coordinator@hq.doe.gov>  
+Yohanna Freeman (Deputy)
+DOE Helpdesk - <doesection508coordinator@hq.doe.gov>  
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
@@ -386,7 +386,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-GiaVonni Hester - <Giavonni.P.Hester@hud.gov>  
+GiaVonni Hester - <giavonni.p.hester@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
@@ -431,7 +431,7 @@ Jennifer K. Cantilena - <jennifer.k.cantilena2@usdoj.gov>
 Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division 
 Randy Abramson - <randy.abramson@usdoj.gov>  
-Imran Lodi (Deputy) - <imran.Lodi@usdoj.gov>  
+Imran Lodi (Deputy) - <imran.lodi@usdoj.gov>  
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -445,7 +445,7 @@ Joseph Groves - <joseph.groves@usdoj.gov>
 Andrew Leftwich	- <andrew.leftwich@usdoj.gov>  
 David Fruehwald (Deputy) -	<david.fruehwald@usdoj.gov>  
 ### Executive Office for United States Attorneys
-Cristina Burbach	- <Cristina.Burbach@usdoj.gov>
+Cristina Burbach	- <cristina.burbach@usdoj.gov>
 ### Executive Office for United States Trustees
 Alisha Hurtado - <alisha.hurtado@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
@@ -519,7 +519,7 @@ Eric W. Wright - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Melanie McIntyre Pote - <McIntyrePoteMS@state.gov>  
+Melanie McIntyre Pote - <mcintyrepotems@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
@@ -577,7 +577,7 @@ Pamela	L.	Shavers	<pamela.l.shavers@irs.gov>
 Tracy George - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
 Rebekah Meservy - <rebekah.meservy@occ.treas.gov>    
-IT Accessibility (Section 508) Team - <508Program@occ.treas.gov>  
+IT Accessibility (Section 508) Team - <508program@occ.treas.gov>  
 ### Treasury Inspector General for Tax Administration (TIGTA)
 Jesus Cantu - <section508@tigta.treas.gov>  
 ### U.S. Mint
@@ -590,7 +590,7 @@ Chet Frith - <chet.frith@va.gov>
 
 ---
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
-Sarah Sorathia - <sorathia.Sarah@epa.gov>
+Sarah Sorathia - <sorathia.sarah@epa.gov>
 
 ---
 ## <span id="usgsa" ></span>General Services Administration (GSA)
@@ -761,7 +761,7 @@ Randal Duchesneau - <randall.duchesneau@frb.gov>
 
 ---
 ### Federal Retirement Thrift Investment Board (FRTIB)
-FRTIB Section 508 Team - <Section508@frtib.gov>  
+FRTIB Section 508 Team - <section508@frtib.gov>  
 
 ---
 ### Federal Trade Commission (FTC)
@@ -781,7 +781,7 @@ Jeremy Roseboom - <jeremy.roseboom@restorethegulf.gov>
 <span id="I" ></span>
 
 ### Institute of Museum and Library Services (IMLS)
-Tekquell Watson - <twatson@IMLS.gov>  
+Tekquell Watson - <twatson@imls.gov>  
 
 ---
 ### Inter-American Foundation (IAF)
