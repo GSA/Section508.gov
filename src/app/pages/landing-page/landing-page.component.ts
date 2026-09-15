@@ -51,11 +51,9 @@ export class LandingPageComponent implements OnInit {
     
     this.siteBaseUrl = document.baseURI.replace(/\/+$/, '');
 
-     console.log(this.siteBaseUrl ,"this.siteBaseUrl ")
 
     // Get video footer content and replace `{{site.baseurl}}`
     this.videoFooterHtml = this.landingPageService.getVideoFooter().data.replace(/{{site.baseurl}}/g, this.siteBaseUrl);
-    console.log(this.videoFooterHtml,"video footer html")
   }
 
 

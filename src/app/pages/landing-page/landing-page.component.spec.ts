@@ -7,8 +7,10 @@ describe('LandingPageComponent', () => {
   let fixture: ComponentFixture<LandingPageComponent>;
   let service: LandingPageService;
   let router: jasmine.SpyObj<Router>;
+  let consoleWarn: jasmine.Spy;
 
   beforeEach(async () => {
+    consoleWarn = spyOn(console, 'warn').and.callThrough();
     router = jasmine.createSpyObj('Router', ['navigateByUrl']);
     await TestBed.configureTestingModule({
       declarations: [LandingPageComponent],
@@ -29,6 +31,12 @@ describe('LandingPageComponent', () => {
     fixture.nativeElement.querySelectorAll('.review-card button')[1].click();
     expect(service.getNextPage()).toBe(NextPage.uploadICT);
     expect(router.navigateByUrl).toHaveBeenCalledWith('/ict-listing-page');
+  });
+
+  it('renders the video thumbnail without HTML sanitization warnings', () => {
+    expect(fixture.nativeElement.querySelector('.training img').classList).toContain('width-full');
+    const warnings = consoleWarn.calls.allArgs().flat().join(' ');
+    expect(warnings).not.toContain('sanitizing HTML stripped');
   });
 
   it('links to SRT and retains the training video', () => {
