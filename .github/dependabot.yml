@@ -4,18 +4,19 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    # Routine upgrades are planned maintenance; security PRs remain enabled
+    # when Dependabot security updates are enabled in repository settings.
+    open-pull-requests-limit: 0
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
+    # Coordinate routine upgrades (including USWDS) with build validation.
+    # This limit disables version PRs without blocking security PRs.
+    open-pull-requests-limit: 0
     groups:
       angular-security:
         applies-to: security-updates
-        patterns:
-          - "@angular/*"
-          - "@angular-devkit/*"
-      angular-version:
-        applies-to: version-updates
         patterns:
           - "@angular/*"
           - "@angular-devkit/*"
