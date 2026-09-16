@@ -1,0 +1,34 @@
+name: Share Feedback
+description: Share feedback about the Section508.gov website or your experience using it.
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Section508.gov. Please search [existing issues](https://github.com/GSA/Section508.gov/issues) before submitting to avoid duplicates.
+
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The full URL of the relevant page, if applicable.
+      placeholder: https://www.section508.gov/...
+    validations:
+      required: false
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: Tell us what worked well or what could be improved.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Supporting information, screenshots, or files
+      description: Add any other context that may help us understand your feedback.
+    validations:
+      required: false

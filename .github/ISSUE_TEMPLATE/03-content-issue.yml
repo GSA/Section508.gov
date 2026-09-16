@@ -1,0 +1,42 @@
+name: Report a Content Issue
+description: Report inaccurate, unclear, outdated, or missing website content.
+title: "[Content]: "
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Section508.gov. Please search [existing issues](https://github.com/GSA/Section508.gov/issues) before submitting to avoid duplicates.
+
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The full URL of the page with the content issue.
+      placeholder: https://www.section508.gov/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the content issue
+      description: What content is inaccurate, unclear, outdated, or missing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-change
+    attributes:
+      label: Suggested change
+      description: Describe the correction or content that should be added, if known.
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Supporting information, screenshots, or files
+      description: Add any context that will help us review the issue.
+    validations:
+      required: false

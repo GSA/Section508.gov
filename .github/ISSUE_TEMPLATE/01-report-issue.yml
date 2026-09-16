@@ -1,0 +1,83 @@
+name: Report a Bug
+description: Report broken functionality or other website behavior that is not working as expected.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Section508.gov. Please search [existing issues](https://github.com/GSA/Section508.gov/issues) before submitting to avoid duplicates.
+
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The full URL of the page where you found the issue.
+      placeholder: https://www.section508.gov/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the issue
+      description: What's wrong?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+      description: What actually happened?
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: If applicable, list the steps to see the issue.
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. See error
+    validations:
+      required: false
+
+  - type: input
+    id: browser-os
+    attributes:
+      label: Browser and operating system
+      placeholder: ex. Chrome 128 on macOS 14
+    validations:
+      required: false
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue type
+      description: What kind of issue is this?
+      options:
+        - Broken functionality
+        - Incorrect information
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Screenshots or supporting files
+      description: |
+        If applicable, add screenshots or files to help explain the issue. You can attach files by dragging them into this field.
+    validations:
+      required: false

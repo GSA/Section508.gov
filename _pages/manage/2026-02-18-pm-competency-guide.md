@@ -1206,7 +1206,7 @@ Additionally, this guide assists employees in planning and sequencing their care
           <ul>
             <li><a href="{{ site.baseurl }}/art/#/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a></li>
             <li>Accessibility in IT procurement</li>
-            <li><a href="{{ site.baseurl }}/training/online-course/procuring-section-508-conformant-ict/" target="_blank" class="usa-link--external">Procuring Section 508 Conformant ICT Products and Services</a></li>
+            <li><a href="{{ site.baseurl }}/training/courses/procuring-section-508-conformant-ict/" target="_blank" class="usa-link--external">Procuring Section 508 Conformant ICT Products and Services</a></li>
             <li><a href="https://srt.app.cloud.gov/auth" target="_blank" class="usa-link--external">Solicitation Review Tool (SRT)</a></li>
           </ul>
         </div>
