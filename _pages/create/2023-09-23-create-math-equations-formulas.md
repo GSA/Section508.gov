@@ -118,7 +118,7 @@ While turning an equation into an image with alt text is a reliable option for d
 1. Presentation MathML describes how the equation looks (its layout). This is the most common form and is generally sufficient for accessibility.  
 2. Content MathML describes what the equation means (its mathematical semantics). This is more verbose but can be useful for advanced applications.
 
-<h5><strong>A Simple Equation</strong></h5>
+##### A Simple Equation
 <p>The equation (2 + 6)² = 64 can be expressed in Presentation MathML as:</p>
 <div class="summary-box--code">
 <pre><code>
@@ -169,7 +169,7 @@ Notice what changes. There are no parentheses and no visual layout. Instead:
    <li>The grouping that parentheses provide visually is now expressed by the nesting of the tree itself so there is no ambiguity about what gets squared.</li>
 </ul>
 
-<h5>An Advanced Example: The Quadratic Formula</h5>
+##### An Advanced Example: The Quadratic Formula
 
 <p>The equation:  x = ( −b ± √(b² − 4ac) ) / 2a can be expressed in Presentation MathML as:</p>
 <div class="summary-box--code">
@@ -257,7 +257,7 @@ Notice what changes. There are no parentheses and no visual layout. Instead:
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
     <strong>One small practical note:</strong> In HTML5, the <code>&lt;math&gt;</code> element is parsed as MathML automatically, so the xmlns attribute is technically optional in an HTML document. However, it's still good practice to include it; it's required for standalone XML/XHTML contexts, and it makes the markup portable and unambiguous.</div>
 
-<h4>Styling MathML</h4>
+#### Styling MathML
 
 You can style MathML to match your page design while keeping it accessible. A few guidelines:
 <ul>
@@ -273,7 +273,7 @@ You can style MathML to match your page design while keeping it accessible. A fe
     <strong>Note:</strong> Because rendering can vary, it is good practice to provide a text alternative for environments where MathML is not supported. When using a library like MathJax, this is often handled automatically. If you author MathML directly, test across your supported browsers and assistive technologies, and be prepared to supply a linearized text equivalent as an alternative option.
   </div>
 
-<h4>When to Still Use an Image</h4>
+#### When to Still Use an Image
 
 MathML is the recommended approach for web content. Continue to use the image-with-alt-text approach (for example, via MathCast) when:
 <ul>
@@ -281,7 +281,7 @@ MathML is the recommended approach for web content. Continue to use the image-wi
 <li>Your publishing platform does not support MathML and you cannot use a rendering library, or</li>   
 <li>The equation is highly complex and reliable rendering cannot be confirmed through testing.</li></ul>
 
-<h2>Above the Basic Equation</h2>
+## Above the Basic Equation
 
 Equations must meet the same expectations as text when it comes to Section 508 requirements. This includes equations used as examples, formulas with variables, scientific scenarios, and especially equations that do not read correctly with assistive technologies. So how can this be accomplished?
 
@@ -289,7 +289,7 @@ You create an image of the equation. Turning the equation into an image is the b
 
 There are free resources that can help you create equation images, convert an equation image to text, and even work with handwritten equations and theories. Plus, they provide you with a critical piece you will need - a linearized text-based version of the equation (your alt text). For this resource, MathCast is used to demonstrate the graphic process for equations.
    
-<h3>MathCast</h3>
+### MathCast
 
 MathCast is an open source equation editor. You input your equation using the Rapid Mathline interface, which then renders a graphical representation of your equation. MathCast supports output image files (BMP, PNG, and EMF) that you can incorporate into documents, presentations and web pages. The user-friendly graphical interface is designed for simplicity while still providing powerful equation creation and editing (Figure 4). It supports the W3C MathML 2.0 and W3C XHTML 1.1.
 
@@ -316,7 +316,7 @@ You can save your image when you are finished. Your alternative (alt) text for t
 
 Some things to consider for this equation editor is that, if you don’t have much math background, you can rely on the help guide that provides great examples on how to write out equations. You cannot change the font that is used in the equation image. You have some control over the size and color of the equation. But, at the writing of this resource, this program is only available for the PC. Still, MathCast can be a great tool for creating equation images and provides you with the equation part of your alt text.
 
-<h2>Final Thoughts</h2>
+## Final Thoughts
 
 The three main points to take away from this resource are:
 
@@ -327,7 +327,7 @@ The three main points to take away from this resource are:
 
 Equations, formulas, and theories are not that difficult to make accessible. You need to use the right tools and the correct Unicode character to make these types of visuals read properly. There are other equation editors on the market you may be interested in; therefore, do the research to find one you like and are comfortable with when understanding how equations are created and read by assistive technologies.
 
-<h2>Resources</h2>
+## Resources
 
 The following resources were used in the creation of this resource:
 <ul>
