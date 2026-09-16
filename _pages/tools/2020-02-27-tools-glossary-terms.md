@@ -22,7 +22,7 @@ resource-type:
 - Tool
 format: HTML
 created: 2020-02-27
-updated: 2026-08-27
+updated: 2026-08-28
 exclude-changelog: true
 ---
 
@@ -940,6 +940,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="parenthetical-title">Parenthetical Title</th>
     <td>Term referring to the sub-specialty of a job series, as defined by OPM in position description development guidance.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="pwd">People with Disabilities</th>
+    <td>People or <em>persons with disabilities</em> is a general term used to refer to individuals who have a physical, congnitive, or sensory impairment that, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others.</td>
   </tr>
   <tr>
     <th scope="row" id="performance-plans">Performance Plans</th>
