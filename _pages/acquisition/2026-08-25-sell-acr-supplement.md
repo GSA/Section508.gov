@@ -68,7 +68,7 @@ Buyers should:
 
 #### What Vendors Should Include in the ACR Issue Detail Supplement 
 
-As a best practice, vendors can provide the ACR Issue Detail Supplement as an additional page in the same document as the full ACR (often created using a VPAT <span>&trade</span>) or add product, version, manufacturer, and point of contact information to the supplement if provided in a separate document.
+As a best practice, vendors can provide the ACR Issue Detail Supplement as an additional page in the same document as the full ACR (often created using a VPAT <span>&trade;</span>) or add product, version, manufacturer, and point of contact information to the supplement if provided in a separate document.
 
 <ol id="vendor-to-do" start="1">
   <li><strong>Indicate severity using one of the following:</strong>
