@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Micro-Purchases and Section 508 Requirements
 permalink: training/courses/micro-purchases/
-description: Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI.
+description: "Learn how Section 508's digital accessibility requirements apply to small information and communication technology (ICT) acquisitions and earn CLPs through FAI."
 redirect_from:
 - training/online-course/micro-purchases/
 audience:
@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-09-11
+updated: 2026-09-23
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -55,7 +55,7 @@ exclude-changelog: true
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** 3.0 (Mar 2025)  
+**Version:** 3.0.1 (Sep 2026)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -146,6 +146,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </h2>
   <div id="change-log" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Sep 2025 - v3.0.1 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
+      </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>Mar 2025 - v3.0 | Interface Design:</strong> We've updated the course to Articulate Rise with a modern user interface to match our other online courses. We've also made minor content updates and refreshed linked references.</div>

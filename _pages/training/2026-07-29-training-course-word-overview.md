@@ -25,7 +25,8 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 2026-09-14
+updated: 2026-09-23
+exclude-changelog: true
 ---
 <div
   id="redirect-alert"
@@ -69,7 +70,7 @@ updated: 2026-09-14
 
 **Duration:** 85 minutes  
 **Difficulty Level:** Beginner  
-**Version:** 1.0 (Sep 2026)  
+**Version:** 1.0.1 (Sep 2026)  
 
 ## What Will I Learn in This Course?
 This training is the first of two courses that will enable you to create accessible text documents.
@@ -164,7 +165,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>April 2026 - v1.0 | Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected typographical errors to improve the accuracy and clarity of the content.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0 | Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
