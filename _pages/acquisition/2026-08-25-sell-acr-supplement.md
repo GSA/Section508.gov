@@ -42,7 +42,7 @@ The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a s
 
 ### For Buyers
 
-Government acquisition professionals, project managers, and procurement policy officials can help improve the quality and usefulness of ACRs by including the ACR Issue Detail  Supplement in solicitations for ICT products and services. As a best practice, consider adding the ACR Issue Detail Supplement whenever a solicitation requires or requests an ACR or references a Voluntary Product Accessibility Template (VPAT). A link to this page should be provided in those requirements as reference. Consider adding the clause below, or some variation, when creating solicitations for ICT. As always, check against your agency deviation to ensure all required language is included.
+Government acquisition professionals, project managers, and procurement policy officials can help improve the quality and usefulness of ACRs by including the ACR Issue Detail  Supplement in solicitations for ICT products and services. As a best practice, consider adding the ACR Issue Detail Supplement whenever a solicitation requires or requests an ACR or references a Voluntary Product Accessibility Template (VPAT<span><sup>&trade;</sup></span>). A link to this page should be provided in those requirements as reference. Consider adding the clause below, or some variation, when creating solicitations for ICT. As always, check against your agency deviation to ensure all required language is included.
 
 <div class="callout-box-dual-violet margin-bottom-1">
     <h4>Recommended Clause</h4>
@@ -68,7 +68,7 @@ Buyers should:
 
 #### What Vendors Should Include in the ACR Issue Detail Supplement 
 
-As a best practice, vendors can provide the ACR Issue Detail Supplement as an additional page in the same document as the full ACR (often created using a VPAT <span>&trade</span>) or add product, version, manufacturer, and point of contact information to the supplement if provided in a separate document.
+As a best practice, vendors can provide the ACR Issue Detail Supplement as an additional page in the same document as the full ACR (often created using a VPAT<span><sup>&trade;</sup></span>) or add product, version, manufacturer, and point of contact information to the supplement if provided in a separate document.
 
 <ol id="vendor-to-do" start="1">
   <li><strong>Indicate severity using one of the following:</strong>
