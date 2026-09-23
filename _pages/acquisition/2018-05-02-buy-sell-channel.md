@@ -57,10 +57,10 @@ All information and communication technology (ICT) procured, developed, maintain
       <div class="usa-card__body">
         <p>To sell ICT to the Federal government, you must show that your products and services meet <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Section 508 Standards</a></p>
         <ul class="add-list-reset">
-          <li><a href="{{site.baseurl}}/sell/acr-vpat-faq/">ACR/VPAT&reg; FAQ</a></li>          
-          <li><a href="{{site.baseurl}}/sell/how-to-create-acr-with-vpat/">How to Create an ACR Using A VPAT&reg;</a></li>
+          <li><a href="{{site.baseurl}}/sell/acr-vpat-faq/">ACR/VPAT® FAQ</a></li>
+          <li><a href="{{site.baseurl}}/sell/how-to-create-acr-with-vpat/">How to Create an ACR Using A VPAT®</a></li>
           <li><a href="{{site.baseurl}}/tools/openacr-editor/">ACR Editor</a></li>
-          <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) / Voluntary Product Accessibility Template (VPAT&reg;)</a></li>
+          <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) / Voluntary Product Accessibility Template (VPAT®)</a></li>
           <li><a href="{{site.baseurl}}/sell/acr-supplement/">ACR Issue Detail Supplement</a></li>
         </ul>
       </div>

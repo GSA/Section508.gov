@@ -1,10 +1,10 @@
 ---
 layout: wide_events
-title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
+title: Reporting Accessibility with VPAT® 2 - A Guide for Vendors
 start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
 end-date: 2020-09-22 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/reporting-accessibility-vpat-2-guide-vendors/
-description: Learn how vendors can accurately report accessibility using VPAT 2.0. This guide covers key requirements, best practices, and common reporting pitfalls.
+description: Learn how vendors can accurately report accessibility using VPAT® 2.0. This guide covers key requirements, best practices, and common reporting pitfalls.
 topic: Events
 image:
 image-alt: 
@@ -12,7 +12,7 @@ overview:
 created: 2020-09-22
 ---
 
-The new VPAT&reg; 2 format offers multiple templates, allowing vendors to document conformance common with several common standards including the refreshed Section 508, WCAG 2.1, and EN 301 549 for vendors who sell into Europe or Australia. As the demand for accessible technology grows, so does the demand for product manufacturers and vendors to formally document their product's or service's conformance with accessibility standards. A VPAT&reg; is often a procurement requirement, but even when it's not, having a well written VPAT&reg; can be a compelling competitive differentiator for vendors who want to show potential buyers that they're actively evaluating and building accessibility into the products and services they deliver.
+The new VPAT® 2 format offers multiple templates, allowing vendors to document conformance common with several common standards including the refreshed Section 508, WCAG 2.1, and EN 301 549 for vendors who sell into Europe or Australia. As the demand for accessible technology grows, so does the demand for product manufacturers and vendors to formally document their product's or service's conformance with accessibility standards. A VPAT® is often a procurement requirement, but even when it's not, having a well written VPAT® can be a compelling competitive differentiator for vendors who want to show potential buyers that they're actively evaluating and building accessibility into the products and services they deliver.
 
 **Tuesday, Sep 22 2020**     
 **11:00 - 12:30**  

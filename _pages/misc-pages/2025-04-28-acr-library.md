@@ -27,7 +27,7 @@ topic:
 subtopic: 
 - Accessible Selling Info, Guidance, & Best Practices
 - Other Accessibility Training or Tools
-- VPAT/ACR Production & Eval
+- VPAT®/ACR Production & Eval
 resource-type: 
 - Article
 format: HTML
@@ -187,5 +187,5 @@ The General Services Administration (GSA) provides technical assistance to indiv
   * [Buy or Sell Accessible Products and Services]({{ site.baseurl }}/buy-sell/)
   * [Request Accessibility Information from Vendors & Contractors]({{ site.baseurl }}/buy/request-accessibility-information/)
   * [Understanding Vendor Claims in ACRs for Section 508 Conformance]({{ site.baseurl }}/buy/understand-claims/) 
-  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
+  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>
   * [Soliciting and Evaluating ACRs in Federal ICT Procurement]({{ site.baseurl }}/training/courses/soliciting-and-evaluating-acrs/)—Online Training

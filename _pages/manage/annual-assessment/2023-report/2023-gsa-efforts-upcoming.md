@@ -45,7 +45,7 @@ GSA plans to do the following before and during the FY 2024 Assessment to hone c
 
 * In coordination with the ACOP, GSA plans to post best practices on how to obtain and evaluate ACRs to facilitate Section 508-conformant ICT procurements in the federal marketplace.
 
-* Traditional ACRs have been the standard tool for documenting and verifying the accessibility of digital products, and most product vendors use the Voluntary Product Accessibility Template (VPAT)® to create an ACR. However, the static nature of these reports, often presented in Microsoft Word or PDF document formats, has posed challenges in real-time evaluation and comparison. GSA has led the development of <a href="{{site.baseurl}}/tools/openacr-editor/" target="_blank">OpenACR</a>, a machine-readable ACR that hosts a description of the format and data schema and provides user instructions. GSA intends to provide recommendations to OMB around further development and adoption of this vital acquisition tool and encourage OpenACR Adoption. GSA will begin a more comprehensive promotion of this new tool that:
+* Traditional ACRs have been the standard tool for documenting and verifying the accessibility of digital products, and most product vendors use the Voluntary Product Accessibility Template (VPAT®) to create an ACR. However, the static nature of these reports, often presented in Microsoft Word or PDF document formats, has posed challenges in real-time evaluation and comparison. GSA has led the development of <a href="{{site.baseurl}}/tools/openacr-editor/" target="_blank">OpenACR</a>, a machine-readable ACR that hosts a description of the format and data schema and provides user instructions. GSA intends to provide recommendations to OMB around further development and adoption of this vital acquisition tool and encourage OpenACR Adoption. GSA will begin a more comprehensive promotion of this new tool that:
 
   * Allows users to easily share acquisition and product information.
 
@@ -91,4 +91,3 @@ GSA plans to do the following before and during the FY 2024 Assessment to hone c
         <li id="fn36">The [Solicitations Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/) was created to help agencies evaluate and improve the overall solicitation compliance with respect to accessibility. The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. <a href="#fr36" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
-

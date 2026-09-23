@@ -66,7 +66,7 @@ const TITLE_ACRONYM_MAP = new Map([
   ["sme", "SME"],
   ["srt", "SRT"],
   ["usa", "USA"],
-  ["vpat", "VPAT"],
+  ["vpat", "VPAT®"],
   ["wcag", "WCAG"],
   ["xls", "XLS"],
   ["xlsx", "XLSX"],

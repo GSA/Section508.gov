@@ -50,7 +50,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr">Accessibility Conformance Report (ACR)</th>
-    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
+    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT®)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
@@ -1352,7 +1352,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A technology that provides real-time voice communications. VoIP requires a broadband connection and equipment compatible with internet protocol.</td>
   </tr>
   <tr>
-    <th scope="row" id="vpat">Voluntary Product Accessibility Template (VPAT&reg;)</th>
+    <th scope="row" id="vpat">Voluntary Product Accessibility Template (VPAT®)</th>
     <td>A document template established by the Information Technology Industry (ITI) Council to evaluate the accessibility of a product according to Section 508 Standards. Vendors use the VPAT® to create a self-disclosing document called an Accessibility Conformance Report (ACR), which details how the product meets each Section 508 requirement and identifies any potential deficiencies. The Voluntary Product Accessibility Template (VPAT®) serves as a standardized reporting format that helps buyers and sellers assess the accessibility features of information and communications technology (ICT) products and services.</td>
   </tr>
 </tbody>
