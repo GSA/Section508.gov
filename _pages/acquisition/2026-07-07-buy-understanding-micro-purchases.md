@@ -300,7 +300,7 @@ To learn more, start with these core resources.
 * **Other Resources**
     * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
     * <a href="https://digital.gov/communities" target="_blank" class="usa-link--external">Communities of Practice</a>
-    * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
+    * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>
     * <a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a>
 
 ---

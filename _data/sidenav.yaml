@@ -644,9 +644,9 @@ acquisition:
         url: sell/acr-supplement/
       - name: ACR Editor
         url: tools/openacr-editor/
-      - name: How to Create an ACR with a VPAT&reg;
+      - name: How to Create an ACR with a VPAT®
         url: sell/how-to-create-acr-with-vpat/
-      - name: ACR/VPAT FAQ
+      - name: ACR/VPAT® FAQ
         url: sell/acr-vpat-faq/
 create:
   - name: Content Creation

@@ -112,7 +112,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li>Vocabulary
         <ul>
           <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
-          <li><a href="{{site.baseurl}}/tools/glossary/#vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a></li>
+          <li><a href="{{site.baseurl}}/tools/glossary/#vpat">Voluntary Product Accessibility Template (VPAT®)</a></li>
         </ul>
       </li>
     </ul>

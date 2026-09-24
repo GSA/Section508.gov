@@ -102,7 +102,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   <div id="key-terms" class="usa-accordion__content">
     <ul>
       <li><a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a></li>
-      <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) and VPAT&reg;</a></li>
+      <li><a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) and VPAT®</a></li>
       <li><a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Assistive Technology (AT)</a></li>
       <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
       <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>

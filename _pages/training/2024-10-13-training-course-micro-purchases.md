@@ -133,7 +133,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
         <ul>
           <li><a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a></li>
           <li><a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a></li>
-          <li><a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a></li>
+          <li><a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance  Reports</a></li>
           <li><a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a></li>
         </ul>
       </li>
