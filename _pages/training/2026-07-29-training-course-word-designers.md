@@ -23,7 +23,8 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-04
-updated: 2026-09-14
+updated: 2026-09-23
+exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -54,7 +55,7 @@ updated: 2026-09-14
 
 **Duration:** 80 minutes  
 **Difficulty Level:** Moderate to Advance   
-**Version:** 1.0 (Sep 2026)
+**Version:** 1.0.1 (Sep 2026)
 
 ## What Will I Learn in This Course?
 This training is the second of two courses that will enable you to create accessible text documents. In the first course, you learned how to use headings and lists to organize the structure of the document, how to test your document accessibility, and how to share your document in an accessible format.
@@ -142,7 +143,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>April 2026 - v1.0 | Release:</strong> Initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected hyperlink destinations to ensure users are directed to the appropriate resources.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0 | Release:</strong> Initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>

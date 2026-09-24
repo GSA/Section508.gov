@@ -32,14 +32,12 @@ resource-type:
 - Article
 format: HTML
 created: 2025-04-28
-updated: 2026-03-19
+updated: 2026-09-23
 exclude-changelog: true
 ---
-
 The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov. Accessibility Conformance Reports (ACRs) are provided only for the tools and training made available by GSA through Section508.gov to support informed decision-making.
 
 ## How to Use This Page
-
 * **Find ACRs**: Access Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products offered by the GSA Government-wide IT Accessibility Program.
 * **View or Download ACR Reports**: Select the applicable link to download the latest ACR package file.
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="HTML globe symbol">
@@ -139,8 +137,16 @@ The General Services Administration (GSA) provides technical assistance to indiv
       </td>
     </tr>
     <tr>
-      <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/courses/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></th>
-      <td class="center">1.2</td>
+      <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Designers</a></th>
+      <td class="center">1.0.1</td>
+      <td class="center">Pending</td>
+      <td style="vertical-align: middle; text-align: center;">
+        -
+      </td>
+    </tr>
+    <tr>
+      <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a></th>
+      <td class="center">1.0.1</td>
       <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
         -
