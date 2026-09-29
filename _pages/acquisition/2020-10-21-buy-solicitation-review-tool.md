@@ -2,9 +2,11 @@
 layout: page
 sidenav: true
 type: acquisition
-title: Solicitation Review Tool (SRT)
+title: Solicitation Review Tool (SRT) Overview
 permalink: buy/solicitation-review-tool/
 description: Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov. Ensure accessibility compliance in IT solicitations quickly and effectively.
+redirect_from:
+- srt/
 audience:
 - Buyers
 - Contracting Officers (CO & COR)
@@ -19,7 +21,7 @@ resource-type:
 - Tool
 format: HTML
 created: 2020-10-21
-updated: 2026-09-01
+updated: 2026-09-10
 exclude-changelog: true
 ---
 <div class="desktop:grid-col-4 radius-lg" style="float:right; padding-left:10px;">
