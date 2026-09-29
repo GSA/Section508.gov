@@ -57,7 +57,7 @@ Downloads:
 #### December 9, 2025
 The Government-wide IT Accessibility Program hosts its December IT Accessibility Community Meeting featuring the Federal Deposit Insurance Corporation (FDIC) Section 508 Program Manager. The session provided a detailed look at how FDIC leverages the ServiceNow platform to manage and scale its digital accessibility operations.
 
-Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
+Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT®/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
 
 Downloads:
 * <a href="https://www.section508.gov/~assets/files/fdic-automated-business-workflow_itacm-dec-2025.pptx" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
@@ -186,4 +186,3 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [PDF Accessibility Checklist (Alternate Description) (PDF)](https://www.section508.gov/~assets/files/pdf-accessibility-checklist-alternate-description.pdf)
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://www.section508.gov/~assets/files/enhancing-accessibility-with-ai-and-machine-learning-itacm-feb-2022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://www.section508.gov/~assets/files/captioned-text-itacm-feb2022.docx)
-

@@ -34,7 +34,7 @@ When a product is marked as "does not support" Section 508, it means that the ve
 
 ## 4. Not Applicable
 
-Sometimes, a vendor may indicate that a specific standard within the VPAT is "not applicable." This means that the particular requirement in question does not apply to the product's functionality or design. It's essential for purchasers to review the ACR carefully to understand why a certain criterion is marked as "not applicable." Common reasons for this designation might include the product not having certain features or functionalities relevant to that criterion. "Not applicable" should not be confused with non-conformance; it simply signifies that a specific aspect of the accessibility standard is not relevant to the product in question.
+Sometimes, a vendor may indicate that a specific standard within the VPAT® is "not applicable." This means that the particular requirement in question does not apply to the product's functionality or design. It's essential for purchasers to review the ACR carefully to understand why a certain criterion is marked as "not applicable." Common reasons for this designation might include the product not having certain features or functionalities relevant to that criterion. "Not applicable" should not be confused with non-conformance; it simply signifies that a specific aspect of the accessibility standard is not relevant to the product in question.
 
 ## 5. Not Evaluated
 
@@ -51,4 +51,4 @@ Understanding vendor claims in ACRs regarding Section 508 conformance is essenti
   * [Request Accessibility Information from Vendors & Contractors]({{ site.baseurl }}/buy/request-accessibility-information/)
   * [Buy Accessible Products and Services]({{ site.baseurl }}/buy/)
   * [Accessibility Requirements Tool (ART)]({{ site.baseurl }}/art/)
-  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
+  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>

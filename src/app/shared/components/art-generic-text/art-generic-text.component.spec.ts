@@ -1,4 +1,4 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { waitForAsync, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ArtGenericTextComponent } from './art-generic-text.component';
 
@@ -6,7 +6,7 @@ describe('ArtGenericTextComponent', () => {
   let component: ArtGenericTextComponent;
   let fixture: ComponentFixture<ArtGenericTextComponent>;
 
-  beforeEach(async(() => {
+  beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       declarations: [ ArtGenericTextComponent ]
     })

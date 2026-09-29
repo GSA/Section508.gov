@@ -49,12 +49,12 @@ This process will be more in-depth, as it will require the Technical team to dev
 This will also require the team to determine the importance of this factor. Is it less important, equal to, or more important than price? Is the Government willing and able to pay a premium to a vendor whose product is more accessible? Keep in mind, this can only apply to the “Best Meets” criteria since that can vary. What will that look like? Is there a limit because of funding?
 
 ### Deliverable or Demonstration
-The Government may have vendors submit the **VPAT**® or similar ACR, an Accessibility statement, provide a demonstration, or a combination of all the options.
+The Government may have vendors submit the **VPAT®** or similar ACR, an Accessibility statement, provide a demonstration, or a combination of all the options.
 
 The Government also has the option to use a vendor’s “sandbox” or tool to test its product/service. This process should involve legal as it may involve “gifting” or purchasing trial versions that will involve more than what is described in this guide. The Acquisition team will develop guidelines for what will be used to evaluate the demo of the product, either by the Government or vendor, if this is required by the solicitation.
 
 ### Sample Language on Instructions for Accessibility 
-Complete each Voluntary Procurement Accessibility Template (**VPAT**®) or similar Accessibility Conformance Report (ACR) in accordance with the instructions provided in the appropriate template. Each ACR must address the applicable Section 508 requirements referenced in the Work Statement. Each ACR shall state exactly how the ICT meets the applicable standards in the remarks/explanations column, or through additional narrative. All "Not Applicable" (N/A) responses must be explained in the remarks/explanations column or through additional narrative. Address each standard individually and with specificity, and clarify whether conformance is achieved throughout the entire ICT Item (for example - user functionality, administrator functionality, and reporting), or only in limited areas of the ICT
+Complete each Voluntary Procurement Accessibility Template (**VPAT®**) or similar Accessibility Conformance Report (ACR) in accordance with the instructions provided in the appropriate template. Each ACR must address the applicable Section 508 requirements referenced in the Work Statement. Each ACR shall state exactly how the ICT meets the applicable standards in the remarks/explanations column, or through additional narrative. All "Not Applicable" (N/A) responses must be explained in the remarks/explanations column or through additional narrative. Address each standard individually and with specificity, and clarify whether conformance is achieved throughout the entire ICT Item (for example - user functionality, administrator functionality, and reporting), or only in limited areas of the ICT
 Item.
 
 <ol type="i">

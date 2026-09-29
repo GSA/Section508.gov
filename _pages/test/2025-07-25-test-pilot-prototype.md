@@ -452,7 +452,7 @@ Agencies should document how accessibility considerations were integrated and va
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Vendor Accessibility Conformance Reports (ACRs or VPATs):</strong> For COTS products, reviewed copies of vendor documentation, including notes on known limitations or gaps.
+      <strong>Vendor Accessibility Conformance Reports (ACRs or VPATs®):</strong> For COTS products, reviewed copies of vendor documentation, including notes on known limitations or gaps.
     </div>
   </li>
   <li class="usa-icon-list__item">

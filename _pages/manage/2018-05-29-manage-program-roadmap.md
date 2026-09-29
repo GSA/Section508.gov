@@ -565,9 +565,9 @@ exclude-changelog: true
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: {{site.baseurl}}/training/online-course/accessible-for-executives/
- [6]: {{site.baseurl}}/training/online-course/micro-purchases/
- [8]: {{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/
+ [4]: {{site.baseurl}}/training/courses/accessible-for-executives/
+ [6]: {{site.baseurl}}/training/courses/micro-purchases/
+ [8]: {{site.baseurl}}/training/courses/procuring-section-508-conformant-ict/
  [9]: #main-content
  [10]: https://standards.usa.gov/
  [11]: https://www.section508.gov/~assets/files/revised-508-standards-applicability-checklist.docx

@@ -231,7 +231,7 @@ At minimum, include Section 508 requirements in the following sections of a QASP
   </h3>
   <div id="a3" class="usa-accordion__content">
 <ul>
-  <li><strong>Performance Standard:</strong> Contractors must deliver hardware that conforms to Section 508 requirements and provides accessible features such as tactile controls, audio output, visual indicators, and compatibility with assistive technology. Contractors must submit Section 508 conformance documentation, such as a VPAT or Accessibility Conformance Report, for each device model.</li> 
+  <li><strong>Performance Standard:</strong> Contractors must deliver hardware that conforms to Section 508 requirements and provides accessible features such as tactile controls, audio output, visual indicators, and compatibility with assistive technology. Contractors must submit Section 508 conformance documentation, such as a VPAT® or Accessibility Conformance Report, for each device model.</li>
   <li><strong>Surveillance Method:</strong> The agency: 
   <ul> 
     <li>Reviews vendor-submitted conformance documentation.</li>  

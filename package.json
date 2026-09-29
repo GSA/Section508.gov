@@ -28,14 +28,14 @@
     "federalist": " bash ./angular-build.sh; "
   },
   "dependencies": {
-    "@angular/common": "^20.3.27",
-    "@angular/compiler": "^20.3.27",
-    "@angular/core": "^20.3.27",
-    "@angular/forms": "^20.3.27",
-    "@angular/platform-browser": "^20.3.27",
-    "@angular/router": "^20.3.27",
+    "@angular/common": "^20.3.28",
+    "@angular/compiler": "^20.3.28",
+    "@angular/core": "^20.3.28",
+    "@angular/forms": "^20.3.28",
+    "@angular/platform-browser": "^20.3.28",
+    "@angular/router": "^20.3.28",
     "@fortawesome/fontawesome-free": "~6.2.0",
-    "@uswds/uswds": "3.7.1",
+    "@uswds/uswds": "3.14.0",
     "clipboard-copy": "^4.0.1",
     "docx": "^8.5.0",
     "html-validate": "^10.13.1",
@@ -44,20 +44,20 @@
     "nanoid": "^5.1.16",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.15.1"
+    "zone.js": "~0.16.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^20.3.32",
     "@angular/cli": "~20.3.32",
-    "@angular/compiler-cli": "^20.3.27",
+    "@angular/compiler-cli": "^20.3.28",
     "@types/jasmine": "~4.0.0",
     "jasmine-core": "~4.3.0",
     "js-yaml": "^4.3.2",
     "karma": "~6.4.0",
-    "karma-chrome-launcher": "~3.1.0",
+    "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "~2.0.0",
+    "karma-jasmine-html-reporter": "~2.3.0",
     "rimraf": "^3.0.2",
     "typescript": "~5.8.3"
   },
@@ -85,7 +85,7 @@
     "qs": "6.16.0"
   },
   "engines": {
-    "node": "^22.16.0",
-    "npm": "^10.9.2"
+    "node": "^24.21.0",
+    "npm": "^11.19.0"
   }
 }

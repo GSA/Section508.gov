@@ -1,3 +1,4 @@
+import { Router } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 import { IButtonInterface } from 'src/app/shared/models/IButtonInterface';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
@@ -18,7 +19,7 @@ export class LandingPageComponent implements OnInit {
    * @description Using the  ICT Item service and the landing page service
    * @params ictItemService, landingPageService
    */
-  constructor(private ictItemService:IctItemService, public landingPageService:LandingPageService ) { }
+  constructor(private ictItemService:IctItemService, public landingPageService:LandingPageService, private router: Router ) { }
 
   /**
    * @description data for the description above the button
@@ -50,11 +51,9 @@ export class LandingPageComponent implements OnInit {
     
     this.siteBaseUrl = document.baseURI.replace(/\/+$/, '');
 
-     console.log(this.siteBaseUrl ,"this.siteBaseUrl ")
 
     // Get video footer content and replace `{{site.baseurl}}`
     this.videoFooterHtml = this.landingPageService.getVideoFooter().data.replace(/{{site.baseurl}}/g, this.siteBaseUrl);
-    console.log(this.videoFooterHtml,"video footer html")
   }
 
 
@@ -63,6 +62,11 @@ export class LandingPageComponent implements OnInit {
    * @param nextPage 
    * @type string
    */
+  openReview(button: IButtonInterface): void {
+    button.action?.();
+    if (button.destination) this.router.navigateByUrl(button.destination);
+  }
+
   getNextPage(nextPage:NextPage):void{
       this.landingPageService.setNextPage(nextPage);
   }

@@ -23,6 +23,10 @@ export class AppComponent implements OnInit{
     ngOnInit(): void {
       this.url = environment.urlPath;
     }
+  get isLandingPage(): boolean {
+    return this.router.url.split(/[?#]/)[0] === '/';
+  }
+
   title = 'Accessibility Requirements Tool (ART)';
 
   

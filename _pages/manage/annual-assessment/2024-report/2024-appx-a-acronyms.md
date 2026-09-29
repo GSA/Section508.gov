@@ -273,7 +273,7 @@ The following acronyms are used in this 2023 Assessment report to Congress. Defi
         <td>Department of Veterans Affairs</td>
     </tr>
     <tr>
-        <th scope="row" id="vpat">VPAT&reg;</th>
+        <th scope="row" id="vpat">VPAT®</th>
         <td>Voluntary Product Accessibility Template&reg;</td>
     </tr>
     <tr>
@@ -290,4 +290,3 @@ The following acronyms are used in this 2023 Assessment report to Congress. Defi
     </tr>
 </tbody>	
 </table>
-

@@ -1,36 +1,41 @@
-<section aria-label="Landing Banner">
-  <!-- Get started button container section-->
-  <div art-generic-text-layout="top-border">
-    @if (lpButtonHeader) {
-      <art-generic-text>
-        <div class="margin-2">
-          <div class="font-serif-lg margin-bottom-3">
-            <b>{{ lpButtonHeader }}</b>
-          </div>
-          <div class="art-flex">
-            <div>
-              <art-button
-                [btnTile]="true"
-                [buttonData]="getStartedBtn"
-              ></art-button>
-            </div>
-            <div class="art-btn">
-              <art-button
-                [btnTile]="true"
-                [buttonData]="getUploadICTBtn"
-              ></art-button>
-            </div>
-          </div>
-        </div>
-      </art-generic-text>
-    }
+<section aria-labelledby="review-options-title" class="landing">
+  <h2 id="review-options-title">How would you like to start your requirements generation and review?</h2>
+  <div class="review-options">
+    <article class="review-card">
+      <div class="review-icon" aria-hidden="true"><i class="fa-regular fa-file-lines"></i><span>+</span></div>
+      <h3>Create New Requirements</h3>
+      <p>Answer questions about your product or procurement, and ART will help you identify the applicable Section 508 requirements to include in your solicitation and/or technical requirements.</p>
+      <button type="button" class="usa-button usa-button--outline" (click)="openReview(getStartedBtn)">Start New Requirements</button>
+    </article>
+    <article class="review-card">
+      <div class="review-icon review-edit-export-icon" aria-hidden="true">
+        <i class="fa-regular fa-file-lines"></i>
+        <span class="review-pencil"><i class="fa-solid fa-pencil"></i></span>
+        <span><i class="fa-solid fa-arrow-down"></i></span>
+      </div>
+      <h3>Continue, View, or Export Requirements</h3>
+      <p>Continue generating requirements you’ve already started. View, download, or export previously generated requirements.</p>
+      <button type="button" class="usa-button usa-button--outline" (click)="openReview(getUploadICTBtn)">Continue, View/Export</button>
+    </article>
+    <aside class="srt-card" aria-labelledby="srt-title">
+      <span class="new-badge">NEW!</span>
+      <div class="review-icon srt-icon" aria-hidden="true"><i class="fa-regular fa-file-lines"></i><span><i class="fa-solid fa-arrow-up"></i></span></div>
+      <h3 id="srt-title">Upload Your Solicitation<br /> to Scan with SRT</h3>
+      <p>Already have a Statement of Work (SOW) or other completed or draft solicitation document? Save time by using the Solicitation Review Tool (SRT) to scan your document and recommend Section 508 accessibility requirements.</p>
+      <ul>
+        <li><strong>Upload</strong> your solicitation (PDF or Word)</li>
+        <li><strong>SRT uses ART logic</strong> to tailor and recommend requirements</li>
+      </ul>
+      <div class="srt-footer">
+        <p>Government and education (.gov or .edu) users only, via Login.gov authentication.</p>
+        <a class="usa-link" href="https://www.section508.gov/buy/solicitation-review-tool/">Learn more about SRT</a>
+        <a class="usa-button usa-link--external" href="https://srt.app.cloud.gov/" target="_blank">Upload and Scan with SRT</a>
+      </div>
+    </aside>
   </div>
 </section>
-
 @if (videoFooterHtml) {
-  <div class="margin-top-5">
-    <div class="margin-top-2">
-      <div [innerHTML]="videoFooterHtml"></div>
-    </div>
-  </div>
+  <section class="training" aria-label="ART training video">
+    <div [innerHTML]="videoFooterHtml"></div>
+  </section>
 }
