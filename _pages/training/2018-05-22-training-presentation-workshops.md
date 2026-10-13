@@ -31,7 +31,7 @@ The information on this page includes available resources and captioned text fil
 The U.S. Citizenship and Immigration Services (USCIS) accessibility team shares how designers can prevent costly accessibility issues by addressing Section 508 requirements early in the design phase. Through real-world audit findings and practical demonstrations, presenters show how collaboration with developers and accessibility testers can reduce remediation costs and improve compliance.
 
 Downloads:
-* <a href="https://www.section508.gov/~assets/accessible-by-design-itacm-oct-2026.pptx" download="Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 20206 (ITACM).pptx" class="usa-link--external">Accessible by Design: Bridging the Gap from Concept to Code - ITACM Oct 2026 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/accessible-by-design-itacm-oct-2026.pptx" download="Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 20206 (ITACM).pptx" class="usa-link--external">Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 2026 (PPTX)</a>
 
 #### August 18, 2026
 The United States Postal Service (USPS) accessibility team presented information and demonstrated their Section 508 automated testing tool, Modular Accessibility Node Test Automation (MANTA). Attendees learned how the team uses automation, intelligent agents, and structured prompts to help teams build accessible software at scale.
