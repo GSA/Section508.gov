@@ -5,7 +5,7 @@ type: training
 title: Accessibility Presentations and Workshop Materials
 permalink: training/presentations-workshops/
 description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
-description-alt: Published the USPS presentation from the August 18th IT Accessibility Community Meeting, which covered their Section 508 automated testing tool and included a demonstration.
+description-alt: Adds USCIS presentation for Oct 13th IT Accessibility Community Meeting.
 redirect_from:
 - csun2024/
 - training/presentations-workshops/2018-interagency-accessibility-forum/
@@ -21,17 +21,23 @@ resource-type:
 - Blog
 format: HTML
 created: 2018-05-22
-updated: 2026-08-19
+updated: 2026-10-13
 ---
 The information on this page includes available resources and captioned text files 
 
 ## 2026
 ### IT Accessibility Community Meetings
+#### October 13, 2026
+The U.S. Citizenship and Immigration Services (USCIS) accessibility team shares how designers can prevent costly accessibility issues by addressing Section 508 requirements early in the design phase. Through real-world audit findings and practical demonstrations, presenters show how collaboration with developers and accessibility testers can reduce remediation costs and improve compliance.
+
+Downloads:
+* <a href="https://www.section508.gov/~assets/accessible-by-design-itacm-oct-2026.pptx" download="Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 20206 (ITACM).pptx" class="usa-link--external">Accessible by Design: Bridging the Gap from Concept to Code - ITACM Oct 2026 (PPTX)</a>
+
 #### August 18, 2026
 The United States Postal Service (USPS) accessibility team presented information and demonstrated their Section 508 automated testing tool, Modular Accessibility Node Test Automation (MANTA). Attendees learned how the team uses automation, intelligent agents, and structured prompts to help teams build accessible software at scale.
 
 Downloads:
-* <a href="https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx" download="Scaling Accessible Development with Automation & AI - ITACM AUG 20206 (ITACM).pptx" class="usa-link--external">Scaling Accessible Development with Automation & AI - ITACM AUG 20206 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx" download="Scaling Accessible Development with Automation & AI - ITACM AUG 20206 (ITACM).pptx" class="usa-link--external">Scaling Accessible Development with Automation & AI - ITACM AUG 2026 (PPTX)</a>
 
 #### June 09, 2026
 The Government-wide IT Accessibility Program hosted its June IT Accessibility Community Meeting featuring two sessions—one each from the Centers for Medicare & Medicaid, and the GSA team.
