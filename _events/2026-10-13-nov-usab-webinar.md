@@ -5,7 +5,7 @@ permalink: /event/best-practices-webinar-nov2026/
 description: "Learn how FDIC uses ServiceNow to manage digital accessibility operations, including document remediation, Section 508 training, ICT testing, reasonable accommodations, and compliance reporting."
 start-date: #only fill in start date if the events spans multiple days
 end-date: 2026-11-17
-event-registration: [https://accessibilityonline.org/ADA-Audio/session?id=111223](https://accessibilityonline.org/ADA-Audio/session?id=111236)
+event-registration: https://accessibilityonline.org/ADA-Audio/session?id=111223
 audience: 
 - Federal Employees
 - Members of the Public
