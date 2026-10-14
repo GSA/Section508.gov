@@ -128,7 +128,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v2.0.0 - Sep 2024| Interface Design and Content Update:</strong> We've updated the course to use a modern user interface and made minor updates to align with recent updates to law and policies, and associated roles and responsibilities.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Sep 2024 | Interface Design and Content Update:</strong> We've updated the course to use a modern user interface and made minor updates to align with recent updates to law and policies, and associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
