@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Microsoft Word Accessibility for Document Designers
 permalink: training/courses/microsoft-word-accessibility-designers/
-description: The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements.
+description: The second of a two-part series, this course builds on foundational accessibility practices, and focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements.
 disclaimer: true
 audience:
 - Communications Specialists
@@ -38,7 +38,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</p>
+        <p>The second of a two-part series, this course builds on foundational accessibility practices, and focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-for-document-designers/index.html" target="_blank" class="usa-button">Open Course</a>
@@ -54,8 +54,8 @@ exclude-changelog: true
 * Section 508 Subject Matter Experts (SME)
 
 **Duration:** 80 minutes  
-**Difficulty Level:** Moderate to Advance   
-**Version:** 1.0.1 (Sep 2026)
+**Difficulty Level:** Moderate to Advanced   
+**Version:** 1.0.2 (Oct 2026)
 
 ## What Will I Learn in This Course?
 This training is the second of two courses that will enable you to create accessible text documents. In the first course, you learned how to use headings and lists to organize the structure of the document, how to test your document accessibility, and how to share your document in an accessible format.
@@ -77,7 +77,7 @@ After completing this training, you will be able to do the following:
 </ol>
  
 <div class="grid-col-12 summary-box margin-top-3">
-    <strong>In the first course in this series</strong>, <a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a>, you will learn how to use specific features accessibly. This will allow you to add images, tables, columns, and other features in a way that will allow all users to access and understand the information in the document.
+    <strong>In the first course in this series</strong>, <a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-overview/">Microsoft Word Accessibility Overview</a>, you will learn how to use specific features accessibly. This will allow you to create effective headings and lists, using color appropriately, identifying document language, applying descriptive file names, and testing documents before distribution.
 </div>
 
 ## Certificate and Continuing Learning Points (CLPs)
@@ -143,7 +143,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected hyperlink destinations to ensure users are directed to the appropriate resources.</div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.2 | Update:</strong> Corrected lesson numbering and aligned the course content with the side navigation.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected hyperlinks to direct users to the appropriate resources.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
@@ -154,7 +158,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </div>
 
 <div class="usa-accordion usa-accordion--bordered">
-  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this course to your LMS</button></h2>
   <div id="add-to-lms" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">

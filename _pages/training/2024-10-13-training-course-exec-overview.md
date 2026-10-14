@@ -139,7 +139,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </div>
 
 <div class="usa-accordion usa-accordion--bordered">
-  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this course to your LMS</button></h2>
   <div id="add-to-lms" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
