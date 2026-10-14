@@ -275,7 +275,7 @@ Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
 Ilir Angjeli  
-Yohanna Freeman (Deputy)
+Yohanna Freeman (Deputy)  
 DOE Helpdesk - <doesection508coordinator@hq.doe.gov>  
 
 ---
@@ -453,11 +453,9 @@ FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
+Pamela Harrion - <pamela.harrion@usdoj.gov>     
 ### Justice Management Division
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### National Fraud Enforcement Division
 William C. Warren, Jr - <william.c.warren.jr@usdoj.gov>  
 ### National Institute of Corrections
@@ -466,52 +464,40 @@ Donna Ledbetter - <donna.ledbetter@usdoj.gov>
 Nilesh  Bhut - <nilesh.bhut@usdoj.gov>    
 ### Office of Information Policy
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
 Bruce W. Whitlock - <bruce.w.whitlock@usdoj.gov>  
 ### Office of Legal Policy
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Legislative Affairs
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Pardon Attorney
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Professional Responsibility
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Public Affairs
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>    
+Pamela Harrion - <pamela.harrion@usdoj.gov>    
 ### Office of Solicitor General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Associate Attorney General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Attorney General
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Pamela Harrion - <pamela.harrion@usdoj.gov>    
 ### Office of the Deputy Attorney General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Inspector General
 Maurice A. Jones - <maurice.a.jones@usdoj.gov>
 ### Office of Tribal Justice
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office on Violence Against Women
 Tiyawna Duncan - <tiyawna.duncan@usdoj.gov>  
-Sybil 	Barksdale - <sybil.barksdale@usdoj.gov> 
+Sybil 	Barksdale - <sybil.barksdale@usdoj.gov>   
 ### Professional Responsibility Advisory Office
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 ### United States Marshals Service
 James L. Brown - <james.brown9@usdoj.gov>  
 Dene James - <dene.james@usdoj.gov>  
 ### United States Parole Commission
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 
 ---
 ## <span id="usdol" ></span>Department of Labor (DOL)
