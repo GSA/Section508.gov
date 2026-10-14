@@ -25,7 +25,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 2026-09-23
+updated: 2026-10-14
 exclude-changelog: true
 ---
 <div
@@ -165,15 +165,15 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.2 | Update:</strong> Corrected lesson numbering and aligned the course content with the side navigation.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.2 - Sep 2026 | Update:</strong> Corrected lesson numbering and aligned the course content with the side navigation.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected typos to improve content accuracy and clarity.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.1 - Sep 2026 | Update:</strong> Corrected typos to improve content accuracy and clarity.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0 | Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Sep 2026| Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
