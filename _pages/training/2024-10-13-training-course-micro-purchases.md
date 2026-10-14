@@ -148,7 +148,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2025 - v3.0.1 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.1 - Sep 2025 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
