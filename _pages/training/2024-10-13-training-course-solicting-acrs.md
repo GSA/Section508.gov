@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-09-14
+updated: 2026-10-14
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -127,7 +127,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>May 2023 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - May 2023 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
