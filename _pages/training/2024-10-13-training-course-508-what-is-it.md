@@ -114,11 +114,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>October 2024 - v4.1 | Bug Fix:</strong> Correct an issue preventing learners from navigating from Lesson 2 to Lesson 3 after answering the practice questions.</div>
+        <div class="usa-icon-list__content"><strong>v4.1.0 - Oct 2024 | Bug Fix:</strong> Correct an issue preventing learners from navigating from Lesson 2 to Lesson 3 after answering the practice questions.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>September 2024 - v4.0 | Add Completion Test:</strong> Learners now take a 10-question test to earn a certificate of completion.</div>
+        <div class="usa-icon-list__content"><strong>v4.0.0 - Sep 2024 | Add Completion Test:</strong> Learners now take a 10-question test to earn a certificate of completion.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
