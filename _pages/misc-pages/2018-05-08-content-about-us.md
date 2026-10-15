@@ -22,7 +22,7 @@ The U.S. General Services Administration (GSA) is tasked under [Section 508 of t
 
 ## About the Team
 
-GSA's Office of Government-wide Policy (OGP) created the Government-wide IT Accessibility Program to focus on providing support to federal agencies in the following primary areas:
+GSA created the Government-wide IT Accessibility Program to focus on providing support to federal agencies in the following primary areas:
 
 * Policy & Program Management 
 * Accessible Acquisition 
