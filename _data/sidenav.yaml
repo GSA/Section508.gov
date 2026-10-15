@@ -226,12 +226,12 @@ training:
         url: 'training/courses/accessible-for-executives/'
       - name: "Accessible Meetings for Hosts & Presenters"
         url: 'training/courses/accessible-meetings/'
+      - name: "Micro-Purchases and Section 508 Requirements"
+        url: 'training/courses/micro-purchases/'
       - name: "Microsoft Word Accessibility Overview"
         url: 'training/courses/microsoft-word-accessibility-overview/'
       - name: "Microsoft Word for Document Designers"
         url: 'training/courses/microsoft-word-accessibility-designers/'
-      - name: "Micro-Purchases and Section 508 Requirements"
-        url: 'training/courses/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
         url: 'training/courses/procuring-section-508-conformant-ict/'
       - name: "Section 508: What Is It and Why Is It Important?"
