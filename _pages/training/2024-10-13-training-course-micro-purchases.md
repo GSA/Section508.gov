@@ -156,7 +156,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v2.0.0 - Nov 2021| Update:</strong> Redesign and minor lesson refresh.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Nov 2021 | Update:</strong> Redesign and minor lesson refresh.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
