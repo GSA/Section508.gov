@@ -118,23 +118,23 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v4.0.0 - Sep 2024 | Add Completion Test:</strong> Learners now take a 10-question test to earn a certificate of completion.</div>
+        <div class="usa-icon-list__content"><strong>v4.0.0 - Sep 2024 | Update:</strong> Added a 10-question test to earn a certificate of completion.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v3.1.0 - Dec 2023 | Practice Quiz Update:</strong> Modify practice quiz to improve  response summary feedback.</div>
+        <div class="usa-icon-list__content"><strong>v3.1.0 - Dec 2023 | Update:</strong> Modify practice quiz to improve response summary feedback.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v3.0.0 - Dec 2023 | Bug Fix:</strong> Miscellaneous bug fixes.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.0 - Dec 2023 | Bug Fix:</strong> Miscellaneous corrections.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v2.0.0 - Dec 2023 | Bug Fix:</strong> Miscellaneous bug fixes.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Dec 2023 | Bug Fix:</strong> Miscellaneous corrections.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v1.0.0 - Oct 2023 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Oct 2023 | New Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
