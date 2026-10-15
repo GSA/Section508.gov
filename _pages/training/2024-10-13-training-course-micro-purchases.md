@@ -152,19 +152,19 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v3.0.0 - Mar 2025 | Interface Design:</strong> We've updated the course to Articulate Rise with a modern user interface to match our other online courses. We've also made minor content updates and refreshed linked references.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.0 - Mar 2025 | Major Update:</strong> Refreshed the course interface and updated content to reflect changes in law, policy, and associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v2.0.0 - Nov 2021| Release:</strong> Redesign and minor lesson refresh.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Nov 2021| Update:</strong> Redesign and minor lesson refresh.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v1.1.0 - Arp 2014 | Release:</strong>  Miscellaneous bug fixes.</div>
+        <div class="usa-icon-list__content"><strong>v1.1.0 - Arp 2014 | Bug Fix:</strong>  Miscellaneous corrections.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v1.0.0 - Jan 2013| Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Jan 2013| New Release:</strong> Initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
