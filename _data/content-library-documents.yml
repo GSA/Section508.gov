@@ -3625,6 +3625,20 @@
   resource-type: "Article"
   format: "Presentation (PPTX)"
 
+- filename: "acr-issue-detail-supplement-workbook.xlsx"
+  permalink: "https://www.section508.gov/~assets/files/acr-issue-detail-supplement-workbook.xlsx"
+  title: "ACR Issue Detail Supplement Workbook"
+  description: "The ACR Issue Detail Supplement workbook helps government buyers evaluate accessibility issues through vendor guidance, issue details, purchasing guidance, and data validation."
+  topic:
+    - "Buy"
+  sub-topic:
+    - "Acquisition Documentation"
+  audience:
+    - "Buyers"
+  resource-type:
+    - "Article"
+  format: "Spreadsheet (XLSX)"
+
 - filename: "scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx"
   permalink: "https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx"
   title: "Scaling Accessible Development with Automation & AI - ITACM OCT 2026 (PPTX)"
