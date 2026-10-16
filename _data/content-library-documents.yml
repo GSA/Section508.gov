@@ -3630,11 +3630,11 @@
   title: "ACR Issue Detail Supplement Workbook"
   description: "The ACR Issue Detail Supplement workbook helps government buyers evaluate accessibility issues through vendor guidance, issue details, purchasing guidance, and data validation."
   topic:
-    - "Buy"
+    - "Sell"
   sub-topic:
     - "Acquisition Documentation"
   audience:
-    - "Buyers"
+    - "Vendors"
   resource-type:
     - "Article"
   format: "Spreadsheet (XLSX)"
