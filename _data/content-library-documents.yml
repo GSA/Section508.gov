@@ -3625,6 +3625,17 @@
   resource-type: "Article"
   format: "Presentation (PPTX)"
 
+- filename: "scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx"
+  permalink: "https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx"
+  title: "Scaling Accessible Development with Automation & AI - ITACM OCT 2026 (PPTX)"
+  description: "Learn how the U.S. Postal Service (USPS) uses its Modular Accessibility Node Test Automation (MANTA) tool to support Section 508 compliance. Explore how automated testing, intelligent agents, and structured prompts help teams develop accessible software at scale."
+  topic: "Develop"
+  sub-topic: "Documents"
+  audience:
+   - "Developers"
+  resource-type: "Article"
+  format: "Presentation (PPTX)"
+  
   - filename: "accessible-by-design-itacm-oct-2026.pptx"
   permalink: "https://www.section508.gov/~assets/files/accessible-by-design-itacm-oct-2026.pptx"
   title: "Accessible by Design - ITACM OCT 20206 (PPTX)"
