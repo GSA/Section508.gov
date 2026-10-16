@@ -3624,3 +3624,14 @@
    - "Content Creators"
   resource-type: "Article"
   format: "Presentation (PPTX)"
+
+  - filename: "accessible-by-design-itacm-oct-2026.pptx"
+  permalink: "https://www.section508.gov/~assets/files/accessible-by-design-itacm-oct-2026.pptx"
+  title: "Accessible by Design - ITACM OCT 20206 (PPTX)"
+  description: "Learn how to address Section 508 accessibility requirements early in the design phase to prevent costly remediation. USCIS accessibility experts share real-world audit findings and practical strategies for improving collaboration, accessibility testing, and compliance."
+  topic: "Design"
+  sub-topic: "Documents"
+  audience:
+   - "Content Creators"
+  resource-type: "Article"
+  format: "Presentation (PPTX)"
