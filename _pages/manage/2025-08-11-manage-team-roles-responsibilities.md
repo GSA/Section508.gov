@@ -29,7 +29,7 @@ resource-type:
 - Article
 format: HTML
 created: 2025-08-11
-updated: 2026-03-02
+updated: 2026-10-19
 exclude-changelog: true
 ---
 
@@ -75,7 +75,9 @@ Whether you're working as a solo Section 508 PM, additional duties as assigned, 
 </ul>
 
 ## Section 508 Team Functions, Roles and Responsibilities
-The table below outlines the essential functions for implementing Section 508 accessibility program goals, including the roles and responsibilities of stakeholders with whom Section 508 PMs collaborate, as per OMB guidance <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">M-24-08</a>. Section 508 PMs should focus on promoting a sense of ownership and independence amongst the functional experts throughout their agency. By having experts serve as advisors or on an advisory group, the Section 508 program enables them to develop and refine their Section 508 skills and competencies within their domain.
+The table below outlines the essential functions for implementing Section 508 accessibility program goals, including the roles and responsibilities of stakeholders with whom Section 508 PMs collaborate, as per OMB guidance <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">M-24-08</a>. See the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/12/M-24-08-Strengthening-Digital-Accessibility-and-the-Management-of-Section-508-of-the-Rehabilitation-Act.pdf" target="_blank" class="usa-link--external">PDF version</a> for additional text that is missing from the web page version: "Agency CIOs should use Section 508 conformance as a performance measure when monitoring and evaluating information technology programs and resources. If the CIO determines Section 508 conformance to be a risk or performance issue for a given program, then the CIO should advise the agency head on options for modifying or terminating the program, as appropriate."
+
+Section 508 PMs should focus on promoting a sense of ownership and independence amongst the functional experts throughout their agency. By having experts serve as advisors or on an advisory group, the Section 508 program enables them to develop and refine their Section 508 skills and competencies within their domain.
 
 Some of these stakeholder may not exist in smaller agencies or subcomponents. In such cases, if a Section 508 PM is preparing a budget justification for additional staff, they can use the functional responsibilities listed below as a guide for drafting future position descriptions or identifying staffing needs and skill requirements for their Section 508 program.
 
