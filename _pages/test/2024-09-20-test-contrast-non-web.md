@@ -31,7 +31,7 @@ Color contrast refers to the difference in luminance or color between text or im
   <li>Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content.</li>
   <li>Text that is part of a logo or brand name.</li>
 </ul>
-Note that the maximum ratio on the color contrast scale occurs between black text and a white background (or vice versa) at 15:1.
+Note that the maximum ratio on the color contrast scale occurs between black text and a white background (or vice versa) at 21:1.
 
 When creating content, it is important to choose your background and foreground colors in alignment with accessibility requirements. Two best practices are:
 <ol>

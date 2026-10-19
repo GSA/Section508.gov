@@ -1,0 +1,28 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Routine upgrades are planned maintenance; security PRs remain enabled
+    # when Dependabot security updates are enabled in repository settings.
+    open-pull-requests-limit: 0
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Coordinate routine upgrades (including USWDS) with build validation.
+    # This limit disables version PRs without blocking security PRs.
+    open-pull-requests-limit: 0
+    ignore:
+      # Angular 22.2 requires TypeScript >=6.0 and <6.1.
+      # Revisit this ceiling when upgrading Angular.
+      - dependency-name: "typescript"
+        versions:
+          - ">=6.1.0"
+    groups:
+      angular-security:
+        applies-to: security-updates
+        patterns:
+          - "@angular/*"
+          - "@angular-devkit/*"

@@ -50,9 +50,9 @@ It is critical that one or more of the stakeholders be familiar with the VPAT® 
 the process, especially evaluating accessibility during pre- and post-award. For the Section 508 Program Managers currently supporting TTS and GSA, please visit [Find Your 508 Program Manager]({{ site.baseurl }}/tools/program-manager-listing/). 
 
 ### VPAT® <a href="https://www.itic.org/policy/accessibility/vpat" target="_blank" class="usa-link--external">Templates</a>
-* <a href="https://www.itic.org/dotAsset/353efda0-598d-4593-aa53-f4f1f0f61d82.doc" target="_blank" class="usa-link--external">[VPAT Revised Section 508 Edition (March 2022)(DOC)</a>
+* <a href="https://www.itic.org/dotAsset/353efda0-598d-4593-aa53-f4f1f0f61d82.doc" target="_blank" class="usa-link--external">[VPAT® Revised Section 508 Edition (March 2022)(DOC)</a>
 * <a href="https://www.w3.org/TR/WCAG21/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.1</a>
-* <a href="https://www.itic.org/dotAsset/7edcd54d-c6a6-4649-8375-4a0f0c68eff2.doc" target="_blank" class="usa-link--external">VPAT WCAG Edition (March 2022) (DOC)</a>
+* <a href="https://www.itic.org/dotAsset/7edcd54d-c6a6-4649-8375-4a0f0c68eff2.doc" target="_blank" class="usa-link--external">VPAT® WCAG Edition (March 2022) (DOC)</a>
 
 ## Alternatives
 What if a product or service does not meet all of the Accessibility requirements? <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">[Section E202.7 Best Meets</a> of the Revised 508 Standards states that if one cannot find an accessible commercial solution, an agency should procure the ICT solution that *best meets* the standards consistent with business needs. If no technically acceptable alternative fully conforms to the Revised 508 Standards, select the alternative that best meets the standards when making an award, and request a “best meets” exception. Where product features or components are not fully accessible, the agency is required to make available <a href="https://www.access-board.gov/ict/#E202.6.3" target="_blank" class="usa-link--external">alternate means</a> of accessing the information or functions supported by the ICT. 

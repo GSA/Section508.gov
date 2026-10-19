@@ -22,7 +22,7 @@ resource-type:
 - Tool
 format: HTML
 created: 2020-02-27
-updated: 2026-08-27
+updated: 2026-08-28
 exclude-changelog: true
 ---
 
@@ -50,7 +50,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr">Accessibility Conformance Report (ACR)</th>
-    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
+    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT®)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>
@@ -942,6 +942,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Term referring to the sub-specialty of a job series, as defined by OPM in position description development guidance.</td>
   </tr>
   <tr>
+    <th scope="row" id="pwd">People with Disabilities</th>
+    <td>People or <em>persons with disabilities</em> is a general term used to refer to individuals who have a physical, congnitive, or sensory impairment that, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others.</td>
+  </tr>
+  <tr>
     <th scope="row" id="performance-plans">Performance Plans</th>
     <td>Guidelines that set clear, measurable job performance expectations.</td>
   </tr>
@@ -1348,7 +1352,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A technology that provides real-time voice communications. VoIP requires a broadband connection and equipment compatible with internet protocol.</td>
   </tr>
   <tr>
-    <th scope="row" id="vpat">Voluntary Product Accessibility Template (VPAT&reg;)</th>
+    <th scope="row" id="vpat">Voluntary Product Accessibility Template (VPAT®)</th>
     <td>A document template established by the Information Technology Industry (ITI) Council to evaluate the accessibility of a product according to Section 508 Standards. Vendors use the VPAT® to create a self-disclosing document called an Accessibility Conformance Report (ACR), which details how the product meets each Section 508 requirement and identifies any potential deficiencies. The Voluntary Product Accessibility Template (VPAT®) serves as a standardized reporting format that helps buyers and sellers assess the accessibility features of information and communications technology (ICT) products and services.</td>
   </tr>
 </tbody>

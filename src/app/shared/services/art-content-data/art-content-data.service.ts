@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import  Banner  from '../../../../assets/data/banner.json';
 import  Header  from '../../../../assets/data/header.json';
+import HeaderNote from '../../../../assets/data/header-note.json';
 import  Footer  from '../../../../assets/data/footer.json';
 import  UpdateDate  from '../../../../assets/data/update-date.json';
 import { IButtonInterface } from '../../models/IButtonInterface';
@@ -26,6 +27,10 @@ export class ArtContentDataService {
    */
    getHeader(): string{
     return Header['data'];
+  }
+
+  getHeaderNote(): string {
+    return HeaderNote.data;
   }
 
   /**

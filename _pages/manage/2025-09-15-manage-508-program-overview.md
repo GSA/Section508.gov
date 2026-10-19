@@ -55,8 +55,8 @@ Section 508 Program Managers (PM) play a critical role in ensuring that their ag
 * Provide accessibility training for IT staff, procurement teams, developers, and content creators.
 * Develop a community of practice to share knowledge and lessons learned.
 * Encourage [certification or formal training programs]({{site.baseurl}}/test/trusted-tester/) for accessibility expertise.
-* Promote [awareness of ICT accessibility]({{site.baseurl}}/training/online-course/section-508-what-is-it/) requirements and benefits across the agency.
-* Develop or provide self-paced and instructor-led training courses on your agency’s Learning Management System (LMS). Consider [adding GSA’s Section 508 training courses to your LMS]({{site.baseurl}}/training/online-training/add-our-training-to-your-lms/).
+* Promote [awareness of ICT accessibility]({{site.baseurl}}/training/courses/section-508-what-is-it/) requirements and benefits across the agency.
+* Develop or provide self-paced and instructor-led training courses on your agency’s Learning Management System (LMS). Consider [adding GSA’s Section 508 training courses to your LMS]({{site.baseurl}}/training/courses/add-our-training-to-your-lms/).
 
 ## Monitoring, Metrics, and Continuous Improvement
 * Define [Key Performance Indicators (KPI)]({{site.baseurl}}/manage/accessibility-kpi/) to measure program effectiveness and ICT accessibility performance.

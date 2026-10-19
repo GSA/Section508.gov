@@ -1,10 +1,11 @@
-import {Component, EventEmitter, Input, Output} from '@angular/core';
+import {Component, EventEmitter, Input, Output, ChangeDetectionStrategy} from '@angular/core';
 import {ICTInterface} from "../../models/ict.interface";
 
 @Component({
     selector: 'art-ict-item',
     templateUrl: './art-ict-item.component.html',
     styleUrls: ['./art-ict-item.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ICTItemComponent {

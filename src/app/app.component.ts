@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { ICTInterface } from './shared/models/ict.interface';
 import { IButtonInterface } from './shared/models/IButtonInterface';
 import { ArtContentDataService } from './shared/services/art-content-data/art-content-data.service';
@@ -8,6 +8,7 @@ import { environment } from 'src/environments/environment';
     selector: 'app-root',
     templateUrl: './app.component.html',
     styleUrls: ['./app.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class AppComponent implements OnInit{
@@ -23,6 +24,10 @@ export class AppComponent implements OnInit{
     ngOnInit(): void {
       this.url = environment.urlPath;
     }
+  get isLandingPage(): boolean {
+    return this.router.url.split(/[?#]/)[0] === '/';
+  }
+
   title = 'Accessibility Requirements Tool (ART)';
 
   

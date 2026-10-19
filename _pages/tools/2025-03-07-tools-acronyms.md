@@ -394,7 +394,7 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Department of Veterans Affairs</td>
     </tr>
     <tr>
-        <th scope="row" id="vpat">VPAT&reg;</th>
+        <th scope="row" id="vpat">VPAT®</th>
         <td>Voluntary Product Accessibility Template&reg;</td>
     </tr>
     <tr>

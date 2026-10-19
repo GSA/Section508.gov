@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { FormTemplateInterface } from 'src/app/shared/models/form-template.interface';
 import { ArtTestService } from 'src/app/shared/services/art-test.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
@@ -7,6 +7,7 @@ import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.servic
     selector: 'app-test',
     templateUrl: './test.component.html',
     styleUrls: ['./test.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class TestComponent implements OnInit {

@@ -5,7 +5,7 @@ type: training
 title: Accessibility Presentations and Workshop Materials
 permalink: training/presentations-workshops/
 description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
-description-alt: Published the USPS presentation from the August 18th IT Accessibility Community Meeting, which covered their Section 508 automated testing tool and included a demonstration.
+description-alt: Adds USCIS presentation for Oct 13th IT Accessibility Community Meeting.
 redirect_from:
 - csun2024/
 - training/presentations-workshops/2018-interagency-accessibility-forum/
@@ -21,17 +21,24 @@ resource-type:
 - Blog
 format: HTML
 created: 2018-05-22
-updated: 2026-08-19
+updated: 2026-10-16
+exclude-changelog: true
 ---
 The information on this page includes available resources and captioned text files 
 
 ## 2026
 ### IT Accessibility Community Meetings
+#### October 13, 2026
+The U.S. Citizenship and Immigration Services (USCIS) accessibility team shares how designers can prevent costly accessibility issues by addressing Section 508 requirements early in the design phase. Through real-world audit findings and practical demonstrations, presenters show how collaboration with developers and accessibility testers can reduce remediation costs and improve compliance.
+
+Downloads:
+* <a href="https://www.section508.gov/~assets/files/accessible-by-design-itacm-oct-2026.pptx" download="Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 2026 (ITACM).pptx" class="usa-link--external">Accessible by Design: Bridging the Gap from Concept to Code - ITACM OCT 2026 (PPTX)</a>
+
 #### August 18, 2026
 The United States Postal Service (USPS) accessibility team presented information and demonstrated their Section 508 automated testing tool, Modular Accessibility Node Test Automation (MANTA). Attendees learned how the team uses automation, intelligent agents, and structured prompts to help teams build accessible software at scale.
 
 Downloads:
-* <a href="https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx" download="Scaling Accessible Development with Automation & AI - ITACM AUG 20206 (ITACM).pptx" class="usa-link--external">Scaling Accessible Development with Automation & AI - ITACM AUG 20206 (PPTX)</a>
+* <a href="https://www.section508.gov/~assets/files/scaling-accessible-development-with-automation-ai-itacm-aug-2026.pptx" download="Scaling Accessible Development with Automation & AI - ITACM AUG 2026 (ITACM).pptx" class="usa-link--external">Scaling Accessible Development with Automation & AI - ITACM AUG 2026 (PPTX)</a>
 
 #### June 09, 2026
 The Government-wide IT Accessibility Program hosted its June IT Accessibility Community Meeting featuring two sessions—one each from the Centers for Medicare & Medicaid, and the GSA team.
@@ -57,7 +64,7 @@ Downloads:
 #### December 9, 2025
 The Government-wide IT Accessibility Program hosts its December IT Accessibility Community Meeting featuring the Federal Deposit Insurance Corporation (FDIC) Section 508 Program Manager. The session provided a detailed look at how FDIC leverages the ServiceNow platform to manage and scale its digital accessibility operations.
 
-Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
+Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT®/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
 
 Downloads:
 * <a href="https://www.section508.gov/~assets/files/fdic-automated-business-workflow_itacm-dec-2025.pptx" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
@@ -186,4 +193,3 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [PDF Accessibility Checklist (Alternate Description) (PDF)](https://www.section508.gov/~assets/files/pdf-accessibility-checklist-alternate-description.pdf)
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://www.section508.gov/~assets/files/enhancing-accessibility-with-ai-and-machine-learning-itacm-feb-2022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://www.section508.gov/~assets/files/captioned-text-itacm-feb2022.docx)
-

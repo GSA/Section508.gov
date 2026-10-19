@@ -11,7 +11,7 @@ description: "The General Services Administration (GSA) Governmentwide IT Access
 contributors: 
 redirect_from:
 ---
-In January 2024, the General Services Administration (GSA) added the self-paced E-learning course, [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/online-course/section-508-what-is-it/), to the required annual training curriculum for all GSA employees. This course provides a basic overview of how Section 508 supports accessibility and informs employees from GSA and multiple other agencies how they can help make agency information accessible to all employees and members of the public.
+In January 2024, the General Services Administration (GSA) added the self-paced E-learning course, [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/courses/section-508-what-is-it/), to the required annual training curriculum for all GSA employees. This course provides a basic overview of how Section 508 supports accessibility and informs employees from GSA and multiple other agencies how they can help make agency information accessible to all employees and members of the public.
 
 However, while preparing the course for release, there were concerns raised about whether it was possible to make the course fully accessible.
 
