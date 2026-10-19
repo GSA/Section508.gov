@@ -1,6 +1,6 @@
 import { RadiobuttonGroupComponent } from './art-radiobutton-group.component'
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { BrowserModule } from '@angular/platform-browser'
+import { ReactiveFormsModule } from '@angular/forms';
 
 describe('RadiobuttonGroupComponent', () => {
   let component: RadiobuttonGroupComponent;
@@ -26,13 +26,12 @@ describe('RadiobuttonGroupComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [ RadiobuttonGroupComponent ],
-      imports:[BrowserModule]
+      imports: [ReactiveFormsModule]
     })
     .compileComponents();
 
     fixture = TestBed.createComponent(RadiobuttonGroupComponent);
     component = fixture.componentInstance;
-    fixture.detectChanges();
   });
 
   it('should create', () => {

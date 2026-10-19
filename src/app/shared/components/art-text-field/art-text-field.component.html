@@ -4,12 +4,12 @@
   [hidden]="hidden"
   >
   <div class="margin-bottom-0">
-    <h3 [id]="formData?.controlName">{{ formData?.title }}</h3>
+    <h3 [id]="$safeNavigationMigration(formData?.controlName)">{{ formData?.title }}</h3>
   </div>
   @if (formData?.label) {
     <label
       class="usa-label"
-      [for]="'input' + formData?.controlName"
+      [for]="'input' + $safeNavigationMigration(formData?.controlName)"
       >{{ formData?.label }}</label
       >
     }
@@ -29,19 +29,19 @@
         }
         <input
           [maxlength]="maxLength"
-          [name]="formData?.controlName"
+          [name]="$safeNavigationMigration(formData?.controlName)"
           class="usa-input"
           [ngClass]="{ 'usa-input--error': displayError() }"
           autocomplete="off"
-          [id]="'input' + formData?.controlName"
+          [id]="'input' + $safeNavigationMigration(formData?.controlName)"
     [attr.aria-label]="
       formData?.ariaLabel
         ? formData?.ariaLabel
         : formData?.title + ' ' + fromControl.value
     "
-          [placeholder]="formData?.placeholder"
+          [placeholder]="$safeNavigationMigration(formData?.placeholder)"
           name="input"
           [formControl]="fromControl"
-          (focusout)="onBlur($event, formData?.controlName, formData?.errorMessages)"
+          (focusout)="onBlur($event, $safeNavigationMigration(formData?.controlName), $safeNavigationMigration(formData?.errorMessages))"
           />
         </div>
