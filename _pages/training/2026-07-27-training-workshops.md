@@ -27,10 +27,10 @@ resource-type:
 format: HTML
 custom-script:
 - accordion-management.js
-created: 2026-08-27
+created: 2026-10-19
 updated: 
 ---
-Accessibility workshops provide ready-to-use materials for delivering instructor-led training on common document accessibility topics. Each workshop includes the resources needed to lead structured learning sessions, build accessibility skills, and reinforce practices that align with Section 508 requirements.
+The accessibility training workshops provide ready-to-use materials for delivering instructor-led training on common document accessibility topics. Each workshop includes the resources needed to lead structured learning sessions, build accessibility skills, and reinforce practices that align with Section 508 requirements.
 
 You do not need to create your own curriculum or training materials. Each workshop has been designed as turn-key training resources, allowing facilitators to deliver workshops using the included instructor guidance, activities, examples, and reference materials.
 
@@ -100,7 +100,15 @@ Workshop packages provide facilitators with the resources and guidance needed to
 
 {%comment %} WORKSHOP ACCORDIONS {% endcomment %}
 
-## Accessibility Training Workshops
+<div class="grid-col-12 summary-box">
+ <h2 id="accessibility-training-workshops">Accessibility Training Workshops</h2>
+ Use these ready-to-use materials to teach your team how to create accessible documents.
+ <li class="usa-icon-list__item">
+   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
+   <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Download All Workshop Materials (ZIP)</a></div>
+ </li>
+ 
+<h3 id="individual-workshops">Individual Workshops</h3>
 <div id="accordion-group-b" class="usa-accordion usa-accordion--bordered">
   
   <!-- ACCESSIBILITY CHECKER -->
@@ -428,7 +436,7 @@ Workshop packages provide facilitators with the resources and guidance needed to
     <ul class="usa-icon-list">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-        <div class="usa-icon-list__content">Create accessible images and graphics in Microsoft Word and similar progra</div>
+        <div class="usa-icon-list__content">Create accessible images and graphics in Microsoft Word and similar programs</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
@@ -609,5 +617,4 @@ Workshop packages provide facilitators with the resources and guidance needed to
       </ul>      
     </div>
   </div>
-  <!-- -->
 </div>
