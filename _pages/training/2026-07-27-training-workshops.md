@@ -100,13 +100,13 @@ Workshop packages provide facilitators with the resources and guidance needed to
 
 {%comment %} WORKSHOP ACCORDIONS {% endcomment %}
 
-<div class="grid-col-12 summary-box">
- <h2 id="accessibility-training-workshops">Accessibility Training Workshops</h2>
- Use these ready-to-use materials to teach your team how to create accessible documents.
- <li class="usa-icon-list__item">
-   <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
-   <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Download All Workshop Materials (ZIP)</a></div>
- </li>
+## Accessibility Training Workshops
+Use these ready-to-use materials to teach your team how to create accessible documents.
+
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
+  <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Download All Workshop Materials (ZIP)</a></div>
+</li>
  
 <h3 id="individual-workshops">Individual Workshops</h3>
 <div id="accordion-group-b" class="usa-accordion usa-accordion--bordered">
@@ -617,4 +617,3 @@ Workshop packages provide facilitators with the resources and guidance needed to
       </ul>      
     </div>
   </div>
-</div>
