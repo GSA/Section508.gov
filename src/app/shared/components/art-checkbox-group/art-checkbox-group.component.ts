@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, OnChanges, OnInit, Output} from '@angular/core';
+import { Component, EventEmitter, Input, OnChanges, OnInit, Output, ChangeDetectionStrategy } from '@angular/core';
 import {FormElement} from "../../models/form-element.interface";
 import {FormControl, FormGroup, Validators} from "@angular/forms";
 import { FormPageService } from '../../services/form-page/form-page.service';
@@ -7,6 +7,7 @@ import { FormPageService } from '../../services/form-page/form-page.service';
     selector: 'art-checkbox-group',
     templateUrl: './art-checkbox-group.component.html',
     styleUrls: ['./art-checkbox-group.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtCheckboxGroupComponent implements OnInit, OnChanges {

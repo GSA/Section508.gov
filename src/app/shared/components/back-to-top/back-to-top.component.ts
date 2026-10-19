@@ -1,9 +1,10 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnInit, ChangeDetectionStrategy} from '@angular/core';
 
 @Component({
     selector: 'back-to-top',
     templateUrl: './back-to-top.component.html',
     styleUrls: ['./back-to-top.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class BackToTopComponent implements OnInit {

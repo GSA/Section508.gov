@@ -14,7 +14,6 @@ describe('BannerComponent', () => {
 
     fixture = TestBed.createComponent(BannerComponent);
     component = fixture.componentInstance;
-    fixture.detectChanges();
   });
 
   it('should create', () => {

@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { SafeUrl } from '@angular/platform-browser';
 import { ICTInterface } from '../../models/ict.interface';
 import * as JSZip from 'jszip';
@@ -8,6 +8,7 @@ import * as JSZip from 'jszip';
     selector: 'art-save-zip',
     templateUrl: './art-save-zip.component.html',
     styleUrls: ['./art-save-zip.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtSaveZipComponent implements OnInit {

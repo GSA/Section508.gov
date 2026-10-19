@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { SafeUrl } from '@angular/platform-browser';
 import { ICTInterface } from '../../models/ict.interface';
 
@@ -6,6 +6,7 @@ import { ICTInterface } from '../../models/ict.interface';
     selector: 'art-save-json',
     templateUrl: './art-save-json.component.html',
     styleUrls: ['./art-save-json.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 
