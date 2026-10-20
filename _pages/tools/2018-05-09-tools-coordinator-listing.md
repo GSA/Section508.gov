@@ -281,7 +281,7 @@ DOE Helpdesk - <doesection508coordinator@hq.doe.gov>
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Agencywide
-Shannon Howard - <shannon.howard@hhs.gov>  
+Terry Bell - <terry.bell@hhs.gov>  
 HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
