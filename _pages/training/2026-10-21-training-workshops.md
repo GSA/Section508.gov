@@ -27,7 +27,7 @@ resource-type:
 format: HTML
 custom-script:
 - accordion-management.js
-created: 2026-10-19
+created: 2026-11-01
 updated: 
 ---
 The accessibility training workshops provide ready-to-use materials for delivering instructor-led training on common document accessibility topics. Each workshop includes the resources needed to lead structured learning sessions, build accessibility skills, and reinforce practices that align with Section 508 requirements.
@@ -167,7 +167,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Accessibility Checker workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Accessibility Checker workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -232,7 +232,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Color and Sensory Characteristics workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Color and Sensory Characteristics workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -290,7 +290,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Data Tables workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Data Tables workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -355,7 +355,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Filenames and Saving to PDF workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Filenames and Saving to PDF workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -420,7 +420,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Headings workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Headings workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -482,7 +482,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Images and Graphics workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Images and Graphics workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
@@ -546,16 +546,16 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Lists and Links workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Lists and Links workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
   </div> 
 
-  <!-- PITFALLS -->
+  <!-- LAYOUTS -->
   
   <h3 class="usa-accordion__heading">
-    <button id="pitfalls" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b7">Pitfalls: Headers and Footers/Text Boxes, Watermarks</button>
+    <button id="layouts" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b7">Layouts</button>
   </h3> 
   <div id="b7" class="usa-accordion__content">
     <h4>Workshop Lessons</h4>
@@ -593,26 +593,26 @@ Use these ready-to-use materials to teach your team how to create accessible doc
     <ul id="" class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
           <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Pitfalls Instructor Gudie (DOCX)</a></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Layouts Instructor Gudie (DOCX)</a></div>
       </li>
       <li class="usa-icon-list__item">
           <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Pitfalls Practice Document (DOCX)</a></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Layouts Practice Document (DOCX)</a></div>
       </li>
       <li class="usa-icon-list__item">
           <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Pitfalls Presentation (PPTX)</a></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Layouts Presentation (PPTX)</a></div>
       </li>
       <li class="usa-icon-list__item">
           <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Pitfalls Workshop Package (ZIP)</a></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Layouts Workshop Package (ZIP)</a></div>
       </li>
     </ul>
     <div role="heading" aria-level="4" aria-label="Wokshop Changelog" class="grid-col-12 summary-box margin-top-3">
       <ul id="" class="usa-icon-list tablet:grid-col">
         <li class="usa-icon-list__item">
             <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>July 2026 - v1.0 | Release:</strong> Initial release of the Pitfalls workshop with core lessons, practice quizzes, and foundational learning.</div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Layouts workshop with core lessons, practice quizzes, and foundational learning.</div>
         </li>
       </ul>      
     </div>
