@@ -18,7 +18,7 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2023-09-15
-updated: 2026-07-10
+updated: 2026-10-21
 exclude-changelog: true
 ---
 
@@ -137,7 +137,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <h2>Operate and Maintain:</h2>
 <ol>
   <li>Once deployed, any updates or changes should follow the steps above (<a href= "#Plan">Plan</a>, <a href= "#Gather">Gather Requirements</a>, <a href= "#Design">Design</a>, <a href= "#Develop">Develop</a>, <a href= "#Test">Test</a>) to ensure accessibility testing is built into the life cycle. </li>
-  <li>Stay abreast of updates to <a href="https://www.access-board.gov/ict/" class="usa-link--external" target="_blank">Section 508 standards</a>; consider incorporating the latest Web Content Accessibility Guidelines (WCAG) requirements for future proofing (as of September 2023, WCAG 2.2 is pending release). </li>
+  <li>Stay abreast of updates to <a href="https://www.access-board.gov/ict/" class="usa-link--external" target="_blank">Section 508 standards</a>; consider incorporating the latest Web Content Accessibility Guidelines (WCAG) requirements for future proofing (WCAG 2.2 was adopted as a formal W3C Recommendation December 12, 2024). </li>
   <li>Conduct periodic accessibility testing to identify new accessibility defects.
     <ul>
       <li>See <a href= "#Design">Design</a> and <a href= "#Test">Test</a> above.</li>
