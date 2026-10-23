@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: develop
 title: How People with Disabilities Use ICT
-permalink: develop/how-people-with-disabilities-use-ICT
+permalink: develop/how-people-with-disabilities-use-ICT/
 description: Discover how people with disabilities use information and communication technology (ICT) through the lens of Section 508 Functional Performance Criteria. Learn about real user needs, assistive technologies, and design practices that make ICT accessible, inclusive, and effective for everyone
 description-alt: Added How People with Disabilities Use ICT content
 audience:
@@ -24,9 +24,6 @@ format: HTML
 created: 2026-10-26
 updated: 
 ---
-**
-# How People with Disabilities Use ICT
-
 ## Introduction
 
 When we design information and communication technology (ICT), it’s easy to think about features, functions, and compliance checklists. But real accessibility comes down to people. Each person experiences ICT differently depending on their abilities and the tools they use. The [Functional Performance Criteria (FPC) in Section 508](https://www.access-board.gov/ict/#302-functional-performance-criteria) describe broad categories of functional limitations, but how people with disabilities experience technology is best understood through their own perspective. Functional performance criteria do not explicitly account for the combined impact of multiple disabilities occurring at the same time such as individuals who are both deaf and blind. As a result, conforming to the functional performance criteria alone may not fully ensure accessibility for users with intersecting or co-occurring disabilities.To better understand the functional performance criteria, it is important to understand how people with disabilities actually use ICT, the assistive technology (AT) they rely on, and what they need from accessible design.
