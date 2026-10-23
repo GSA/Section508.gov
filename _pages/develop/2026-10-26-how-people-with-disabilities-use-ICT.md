@@ -24,7 +24,6 @@ format: HTML
 created: 2026-10-26
 updated: 
 ---
-## Introduction
 
 When we design information and communication technology (ICT), it’s easy to think about features, functions, and compliance checklists. But real accessibility comes down to people. Each person experiences ICT differently depending on their abilities and the tools they use. The [Functional Performance Criteria (FPC) in Section 508](https://www.access-board.gov/ict/#302-functional-performance-criteria) describe broad categories of functional limitations, but how people with disabilities experience technology is best understood through their own perspective. Functional performance criteria do not explicitly account for the combined impact of multiple disabilities occurring at the same time such as individuals who are both deaf and blind. As a result, conforming to the functional performance criteria alone may not fully ensure accessibility for users with intersecting or co-occurring disabilities.To better understand the functional performance criteria, it is important to understand how people with disabilities actually use ICT, the assistive technology (AT) they rely on, and what they need from accessible design.
 
@@ -187,5 +186,3 @@ Accessibility is not just a checklist — it’s about making ICT usable for rea
 -   [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}test/usability-testing-with-people-with-disabilities/)
 
 -   [Sample User Stories for Accessible ICT]({{site.baseurl}}/develop/user-stories/)
-
-**
