@@ -5,7 +5,6 @@ type: develop
 title: How People with Disabilities Use ICT
 permalink: develop/how-people-with-disabilities-use-ict/
 description: Discover how people with disabilities use information and communication technology (ICT) through the lens of Section 508 Functional Performance Criteria. Learn about real user needs, assistive technologies, and design practices that make ICT accessible, inclusive, and effective for everyone
-description-alt:
 audience:
 - Designers
 - Developers
@@ -24,7 +23,7 @@ format: HTML
 created: 2026-10-23
 updated: 
 ---
-When we design information and communication technology (ICT), it’s easy to think about features, functions, and compliance checklists. But real accessibility comes down to people. Each person experiences ICT differently depending on their abilities and the tools they use. The [Functional Performance Criteria (FPC) in Section 508](https://www.access-board.gov/ict/#302-functional-performance-criteria) describe broad categories of functional limitations, but how people with disabilities experience technology is best understood through their own perspective. Functional performance criteria do not explicitly account for the combined impact of multiple disabilities occurring at the same time such as individuals who are both deaf and blind. As a result, conforming to the functional performance criteria alone may not fully ensure accessibility for users with intersecting or co-occurring disabilities.To better understand the functional performance criteria, it is important to understand how people with disabilities actually use ICT, the assistive technology (AT) they rely on, and what they need from accessible design.
+When we design information and communication technology (ICT), it’s easy to think about features, functions, and compliance checklists. But real accessibility comes down to people. Each person experiences ICT differently depending on their abilities and the tools they use. The <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" class="usa-link--external" target="_blank">Functional Performance Criteria (FPC) in Section 508</a> describe broad categories of functional limitations, but how people with disabilities experience technology is best understood through their own perspective. Functional performance criteria do not explicitly account for the combined impact of multiple disabilities occurring at the same time such as individuals who are both deaf and blind. As a result, conforming to the functional performance criteria alone may not fully ensure accessibility for users with intersecting or co-occurring disabilities. To better understand the functional performance criteria, it is important to understand how people with disabilities actually use ICT, the assistive technology (AT) they rely on, and what they need from accessible design.
 
 One useful way to understand accessibility needs is through user personas that represent people with disabilities and the ways they interact with technology. Section508.gov provides [Sample Personas for Users with Disabilities]({{site.baseurl}}/develop/sample-personas/) that illustrate real-world experiences, assistive technologies, barriers, and accessibility needs across a range of disability types. While the functional performance criteria describe broad functional categories, personas help translate those categories into practical design considerations by focusing on the people who use ICT. The examples in this document should be understood in a similar way: as representative user experiences that help connect the functional performance criteria to real-world use of technology.
 
@@ -179,6 +178,6 @@ Accessibility is not just a checklist — it’s about making ICT usable for rea
 ## Related Resources
 
 -   [Designing Digital Content For Users With Cognitive Disabilities]({{site.baseurl}}/design/digital-content-users-with-cognitive-disabilities/)
--   [Sample Personas for Users With Disabilities]({{site.baseurl}}develop/sample-personas/)
--   [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}test/usability-testing-with-people-with-disabilities/)
+-   [Sample Personas for Users With Disabilities]({{site.baseurl}}/develop/sample-personas/)
+-   [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/)
 -   [Sample User Stories for Accessible ICT]({{site.baseurl}}/develop/user-stories/)
