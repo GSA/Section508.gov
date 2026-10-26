@@ -25,7 +25,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-07-27
-updated: 2026-10-14
+updated: 2026-10-26
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -119,7 +119,6 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://www.section508.gov/create">Create Accessible Digital Products</a></li>
           <li><a href="https://www.section508.gov/create/universal-design">Universal Design and Accessibility</a></li>
           <li><a href="https://www.w3.org/WAI/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Used the Web</a></li>
-          <li><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf" target="_blank" class="usa-link--external">Making Meetings Accessible</a></li>
           <li><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf" target="_blank" class="usa-link--external">NYC Accessible Virtual Meetings Guide</a></li>
           <li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/" target="_blank" class="usa-link--external">How to Make Your Presentations and Meetings Accessible to All</a></li>
           <li><a href="https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings" target="_blank" class="usa-link--external">Accessibility of Remote Meetings</a></li>
@@ -136,11 +135,8 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://support.google.com/meet/answer/7313544?hl=en" target="_blank" class="usa-link--external">Google Meet Accessibility</a></li>
           <li><a href="https://support.goto.com/meeting/help/what-accessbility-features-are-available-in-gotomeeting" target="_blank" class="usa-link--external">GoToMeeting Accessibility Features</a></li>
           <li><a href="https://support.goto.com/meeting" target="_blank" class="usa-link--external">Use Keyboard Shortcuts from the Desktop App (Windows Only)</a></li>
-          <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Microsoft Teams Accessibility</a></li>
-          <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Accessibility overview of Microsoft Teams</a></li>
-          <li><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>
-          <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf" target="_blank" class="usa-link--external">Accessible and Inclusive Telework Practices Using Microsoft Teams</a></li>
-          <li><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf" target="_blank" class="usa-link--external">5 Tips on Holding Accessible Microsoft Team Meetings</a></li>
+          <li><a href="https://support.microsoft.com/en-us/accessibility/teams/accessibility-tools-for-microsoft-teams" target="_blank" class="usa-link--external">Accessibility tools for Microsoft Teams</a></li>
+          <li><a href="https://support.microsoft.com/en-us/accessibility/teams/keyboard-shortcuts-for-microsoft-teams" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>          
           <li><a href="https://zoom.us/accessibility" target="_blank" class="usa-link--external">Zoom Accessibility</a></li>
           <li><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" target="_blank" class="usa-link--external">Hot keys and keyboard shortcuts for Zoom</a></li>
           <li><a href="https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning" target="_blank" class="usa-link--external">Getting started with closed captioning in Zoom</a></li>

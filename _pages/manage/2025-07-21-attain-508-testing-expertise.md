@@ -15,7 +15,8 @@ resource-type: "Process & How-To"
 format: "HTML"
 disclaimer: true
 created: 2025-07-21
-updated: 2025-09-18
+updated: 2026-10-21
+exclude-changelog: true
 ---
 This guide assists federal agencies in developing, acquiring, and sustaining Section 508 testing expertise through development of internal competencies or a third party vendor. It is crucial for Section 508 programs, acquisition teams, and development and testing teams to have skilled personnel capable of accurately evaluating information and communication technology (ICT) against Section 508 Standards. This guide is for Section 508 program managers, IT leads, acquisition officials, developers, testers, and anyone else responsible for ensuring digital products and services are accessible.
 
@@ -83,7 +84,7 @@ Agencies should first identify which [testing methodologies]({{site.baseurl}}/te
   * Training on [document testing]({{site.baseurl}}/test/documents/) and [accessible content creation]({{site.baseurl}}/create/)
   * <a href="https://www.section508.gov/~assets/files/using-devtools-for-manual-accessibility-inspection-2024-aug-itacm.pdf" target="_blank" class="usa-link--external">Browser developer tools (PDF)</a>
 * Training on agency approved testing tools. Resources include:  
-  * <a href="https://www.ssa.gov/accessibility/andi/help/howtouse.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI) tutorial</a> and <a href="({{site.baseurl}}/training/web-software/andi-training-videos/">ANDI Overview</a>  
+  * <a href="https://www.ssa.gov/accessibility/andi/help/howtouse.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI) tutorial</a> and <a href="{{site.baseurl}}/training/web-software/andi-training-videos/">ANDI Overview</a>  
   * [How to Test Color Contrast using the Color Contrast Analyser]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/)  
 * Community participation. Resources include:  
   * [GSA's IT Accessibility Community Meeting]({{site.baseurl}}/training/presentations-workshops/)  

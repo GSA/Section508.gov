@@ -1,29 +1,30 @@
 ---
 layout: video
 sidenav: true
-type: ANDI training
-title: 'Module 14: Color Contrast Analyzer'
+type: article
+title: "Module 14: Color Contrast Analyzer"
 permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
+description: "In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the Color Contrast Analyzer's (CCA) built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot programmatically determined by ANDI."
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast-analyzer/
-description: In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the Color Contrast Analyzer's (CCA) built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot programmatically determined by ANDI.
-disclaimer: 
 audience:
-- Federal Employees
-- Section 508 Program Managers
-- Developers
 - Content Creators
+- Developers
+- Federal Employees
 - Members of the Public
-topic: Training
-subtopic: Design, Develop, Testing for Accessibility Training or Tools
-resource-type: Training
+- Section 508 Program Managers
+topic:
+- Training
+subtopic:
+- Training Videos Library
+resource-type:
+- Training
 format: Video
 created: 2020-10-05
-updated: 2026-04-14
+updated: 2026-10-22
 exclude-changelog: true
 ---
-
-<p>In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+<p>In Module 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://vispero.com/lp/color-contrast-checker/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="radius-lg border-0px"><source src="https://www.section508.gov/~assets/videos/training-video-andi-14-oc.mp4" type="video/mp4"></video>
 

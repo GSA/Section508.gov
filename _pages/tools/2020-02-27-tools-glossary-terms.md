@@ -4,28 +4,27 @@ sidenav: true
 type: training
 title: Glossary of Section 508 Terms
 permalink: tools/glossary/
-description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
-redirect_from: 
+description: Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT).
+redirect_from:
 - glossary/
 - content/glossary/
 - manage/section-508-assessment/definition-of-terms/
 - manage/section-508-assessment/2023/appendix-a-terms/
 - manage/section-508-assessment/2024/appendix-a-terms/
-audience: 
+audience:
 - Federal Employees
 - Members of the Public
-topic: 
+topic:
 - Tools
-subtopic: 
+subtopic:
 - Other
-resource-type: 
+resource-type:
 - Tool
 format: HTML
 created: 2020-02-27
-updated: 2026-08-28
+updated: 2026-10-22
 exclude-changelog: true
 ---
-
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
 <div class="glossary">
@@ -246,7 +245,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Acronym for “Completely Automated Public Turing Test to tell Computers and Humans Apart." A Turing test, originally called the "imitation game" by English mathematician and cryptanalyst Alan Turing, is any system of tests designed to differentiate a human from a computer.</td>
   </tr>
   <tr>
-    <th scope="row" id="">Captions</th>
+    <th scope="row" id="captions">Captions</th>
     <td>See <a href="#closed-captions">Closed Captions</a>.</td>
   </tr>
   <tr>
@@ -630,7 +629,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="ict-testing-baseline">ICT Testing Baseline</th>
-    <td>The <a href="https://section508coordinators.github.io/ICTTestingBaseline/" target="_blank" class="usa-link--external">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.</td>
+    <td>The <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.</td>
   </tr>
   <tr>
     <th scope="row" id="iframe">iFrame (Inline Frame)</th>
@@ -1173,7 +1172,7 @@ These terms appear throughout our website, communications, and reports, includin
       <td>SRT stands for <a href="{{site.baseurl}}/buy/solicitation-review-tool/" target="_blank" class="usa-link--external">Solicitation Review Tool</a>, which is a GSA-developed tool built using open source technology, artificial intelligence (AI), natural language processing, text mining, and machine learning algorithms to automatically identify whether new solicitations posted to “Contracting Opportunities” (beta. SAM.gov) are solicitations for ICT.</td>
   </tr>
   <tr>
-    <th scope="row" id="">Sometimes</th>
+    <th scope="row" id="sometimes">Sometimes</th>
     <td>Within the Assessment, used to describe activities that are performed approximately 11% to 50% of the time.</td>
   </tr>
   <tr>
@@ -1261,7 +1260,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="trusted-tester">Trusted Tester</th>
-    <td>The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html" target="_blank" class="usa-link--external">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.</td>
+    <td>The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.</td>
   </tr>
   <tr>
     <th scope="row" id="tty">TTY</th>
@@ -1379,7 +1378,7 @@ These terms appear throughout our website, communications, and reports, includin
     <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, a document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one page.</p></td>
   </tr>
   <tr>
-    <th scope="row" id="">Website (web site)</th>
+    <th scope="row" id="website">Website (web site)</th>
     <td>A website, and web-based application, consists of many web pages linked together under a common domain name such as “[agency-name].gov.”</td>
   </tr>
 </tbody>

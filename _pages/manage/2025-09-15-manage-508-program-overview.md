@@ -2,22 +2,24 @@
 layout: page
 sidenav: true
 type: manage
-title: 'Manage a Section 508 Program Overview'
-description: Explore comprehensive guidance on managing a Section 508 program, including policy development, governance, training, and compliance strategies for federal agencies.
+title: Manage a Section 508 Program Overview
 permalink: manage/section-508-program/
-topic: "Manage"
-sub-topic: "Manage a Section 508 Program"
+description: Explore comprehensive guidance on managing a Section 508 program, including policy development, governance, training, and compliance strategies for federal agencies.
 audience:
-- "Section 508 Program Managers"
-- "Chief Information Officers (CIO)"
-- "IT Program & Project Managers"
-- "Agency Heads"
-- "Policy and Law Makers"
-resource-type: "Process & How-To"
-format: "HTML"
+- Agency Heads
+- Chief Information Officers (CIO)
+- IT Program & Project Managers
+- Policy and Law Makers
+- Section 508 Program Managers
+topic:
+- Manage
+subtopic:
+- Manage a Section 508 Program
+resource-type:
+- Process & How-To
+format: HTML
 created: 2025-09-15
 updated: 
-exclude-changelog:
 ---
 Section 508 Program Managers (PM) play a critical role in ensuring that their agency’s information and communication technology (ICT) is accessible to all users, including people with disabilities. This page provides guidance, best practices, and resources to help PMs lead an effective Section 508 program and ensure compliance with the Rehabilitation Act.
 
@@ -29,7 +31,7 @@ Section 508 Program Managers (PM) play a critical role in ensuring that their ag
 * Understand your [duties as a Section 508 Program Manager]({{site.baseurl}}/manage/program-manager-responsibilities/) within the agency.
 * Identify the stakeholders, teams, and offices you collaborate with on accessibility efforts.
 * Clarify decision-making authority for ICT accessibility [procurement]({{site.baseurl}}/buy/), [testing]({{site.baseurl}}/test/), and remediation.
-* Ensure your responsibilities align with agency [policies]({{site.baseurl}}/manage/laws-and-policies/maintaining-agency-accessibility-policy/), [governance structures]({{site.baseurl}}/manage/governance/enterprise-architecture-and-change-control/), and compliance requirements.
+* Ensure your responsibilities align with agency [policies]({{site.baseurl}}/manage/laws-and-policies/update-maintain-agency-accessibility-policy/), [governance structures]({{site.baseurl}}/manage/governance/enterprise-architecture-and-change-control/), and compliance requirements.
 * Stay informed about updates to <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 standards</a> and best practices, available on this website, to maintain effective oversight.
 
 ## Program Governance and Leadership

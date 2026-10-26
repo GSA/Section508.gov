@@ -278,6 +278,6 @@ At minimum, include Section 508 requirements in the following sections of a QASP
 <li><a href="{{ site.baseurl }}/buy/">Buy Accessible Products and Services</a></li>     
 <li><a href="{{ site.baseurl }}/manage/governance/ict-accessibility-and-risk-management/">ICT Accessibility and Risk Management</a></li>    
 <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/">Technology Accessibility Playbook - Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes</a></li>    
-<li><a href="https://www.dau.edu/acquipedia-article/quality-assurance-surveillance-plan-qasp" target="_blank" class="usa-link--external">Quality Assurance Surveillance Plan (WARU.edu)</a></li>    
+<li><a href="https://www.waru.edu/acquipedia-article/quality-assurance-surveillance-plan-qasp" target="_blank" class="usa-link--external">Quality Assurance Surveillance Plan (WARU.edu)</a></li>    
 <li><a href="https://www.faa.gov/headquartersoffices/ang/se20202025-quality-assurance-surveillance-plan-qasp-template" target="_blank" class="usa-link--external">Quality Assurance Surveillance Plan (FAA)</a></li>  
 </ul>

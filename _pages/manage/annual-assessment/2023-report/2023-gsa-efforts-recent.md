@@ -1,21 +1,25 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/gsa-efforts-recent/
 type: report2023
 title: "Recent and Upcoming GSA Efforts to Improve Section 508 Compliance: Recent GSA Efforts to Support Section 508 Compliance"
+permalink: manage/section-508-assessment/2023/gsa-efforts-recent/
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, details recent GSA actions and support efforts to improve Section 508 compliance.
-topic: Law
-sub-topic: Annual Assessment
 audience:
-- Section 508 Program Managers
 - Agency Heads
+- Federal Employees
 - Members of the Public
 - Policy and Law Makers
-- Federal Employees
-resource-type: White Paper
+- Section 508 Program Managers
+topic:
+- Law
+subtopic:
+- Annual Assessment
+resource-type:
+- White Paper
 format: HTML
 created: 2023-03-28
+updated: 2026-10-22
 ---
 ## Recent GSA Efforts to Support Section 508 Compliance
 To meet the requirements of the Consolidated Appropriations Act, 2023, the following describes GSA’s efforts to help entities collect and submit their Assessment data and other related efforts to improve federal Section 508 compliance from December 29, 2022 up to date of publication.
@@ -71,7 +75,7 @@ A refresh in this guidance, issued 10 years ago, will incorporate the present ac
 
 #### Technical Assistance, Tools, and Training
 
-* Development and release of the [IT Accessibility Policy Framework]({site.baseurl}}/manage/policy-framework/introduction/) to harmonize how federal agencies assess their internal policies against Section 508 requirements and update these policies with IT accessibility language. Recommended policies were central to this effort as agencies can insert verbatim language into their internal policies, advancing digital accessibility and equity across the federal government. The framework will help agencies provide broader awareness of how and where to include accessibility in their programs, which will result in digital accessibility becoming a more integral part of agency-wide business functions and decision-making. [April 2023]
+* Development and release of the [IT Accessibility Policy Framework]({{site.baseurl}}/manage/policy-framework/introduction/) to harmonize how federal agencies assess their internal policies against Section 508 requirements and update these policies with IT accessibility language. Recommended policies were central to this effort as agencies can insert verbatim language into their internal policies, advancing digital accessibility and equity across the federal government. The framework will help agencies provide broader awareness of how and where to include accessibility in their programs, which will result in digital accessibility becoming a more integral part of agency-wide business functions and decision-making. [April 2023]
 
 * Ongoing <a href="https://ictbaseline.access-board.gov/" target="_blank">ICT Testing Baseline for Web</a> development – including new test cases that align to the baseline – to standardize web accessibility testing in the federal government. By the end of FY 2023, GSA, in collaboration with the Access Board, Department of Homeland Security (DHS), and Social Security Administration (SSA), completed 160 test cases. Baseline implementation will allow agencies to better and more consistently test their websites for accessibility conformance. In the future, GSA intends to develop additional baselines for documents, hardware and software.
 
@@ -115,7 +119,6 @@ A refresh in this guidance, issued 10 years ago, will incorporate the present ac
     <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="32">
         <li id="fn32"><a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" target="_blank">Updated guidance to the 21st Century IDEA was released on September 22, 2023</a>. <a href="#fr32" aria-label="Back to content">↩</a></li>
-        <li id="fn33">Source: <a href="https://m-enabling.com/" target="_blank">https://m-enabling.com/</a>, Oct 18, 2023. <a href="#fr33" aria-label="Back to content">↩</a></li>
+        <li id="fn33">Source: <a href="https://www.m-enabling.com/" target="_blank">m-enabling.com</a>, Oct 18, 2023. <a href="#fr33" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
-

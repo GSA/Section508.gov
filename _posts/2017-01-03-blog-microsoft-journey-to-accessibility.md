@@ -1,23 +1,31 @@
 ---
 layout: post
-permalink: blog/microsoft-journey-to-accessibility/
+sidenav: true
 type: article
-title: 'Microsoft’s Journey to Accessibility'
-tags: Design-and-Develop
-created: 1483454666
+title: Microsoft’s Journey to Accessibility
+permalink: blog/microsoft-journey-to-accessibility/
 description: On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products.
-topic: "Testing"
-sub-topic: "Other"
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+disclaimer: true
 audience:
-- "Section 508 Program Managers"
-- "Developers"
-- "Content Creators"
-- "Members of the Public"
-- "Chief Information Officers (CIO)"
-resource-type: "Blog"
-format: "HTML"
+- Chief Information Officers (CIO)
+- Content Creators
+- Developers
+- Members of the Public
+- Section 508 Program Managers
+topic:
+- Testing
+subtopic:
+- Other
+resource-type:
+- Blog
+format: HTML
+created: 2017-01-03
+updated: 2026-10-26
+exclude-changelog: true
 ---
-
 January 3, 2017 - On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products. Acknowledging that accessibility impacts everyone, Microsoft shared their journey of &ldquo;embracing accessibility by design.&rdquo;
 
 Hosted by General Services Administration&rsquo;s (GSA) Office of Government-wide Policy (OGP), the event included speakers from many different Microsoft divisions. Dean Halstead, Director of Collaboration, Cloud & Accessibility, opened the event by quoting Microsoft CEO Satya Nadella, saying &ldquo;We will focus on designing and building products that our customers love, and that are accessible to everyone, and built for each of us.&rdquo; Microsoft&rsquo;s strategy is to think about accessibility as a part of design, not an afterthought.
@@ -38,7 +46,7 @@ The goal of Microsoft Engineering teams is to make Microsoft assistive technolog
 
 <div>
   <p>
-    Section 508 Program Managers from Microsoft&rsquo;s Engineering team shared recent accessibility improvements in Office 365 and Windows 10. The team gave demonstrations of products designed to test accessibility of computer hardware product, software, and website. Called Voluntary Product Accessibility Templates (VPATs®), Microsoft&rsquo;s guiding principle for modern VPATs® is to be transparent and accurate, and they&rsquo;ve <a href="https://www.microsoft.com/508vpats"><u>published over 100 new modern VPATs®</u></a>. January 3, 2017 - They demonstrated several other features using Job Access With Speech (JAWS), Narrator, Internet Explorer (IE) and Edge. The Microsoft team also gave participants a preview of upcoming products that can be used to innovate across the Federal government and make technology more accessible to everyone.
+    Section 508 Program Managers from Microsoft&rsquo;s Engineering team shared recent accessibility improvements in Office 365 and Windows 10. The team gave demonstrations of products designed to test accessibility of computer hardware product, software, and website. Called Voluntary Product Accessibility Templates (VPATs®), Microsoft&rsquo;s guiding principle for modern VPATs® is to be transparent and accurate, and they&rsquo;ve <a href="https://www.microsoft.com/en-us/accessibility/conformance-reports"><u>published over 100 new modern VPATs®</u></a>. January 3, 2017 - They demonstrated several other features using Job Access With Speech (JAWS), Narrator, Internet Explorer (IE) and Edge. The Microsoft team also gave participants a preview of upcoming products that can be used to innovate across the Federal government and make technology more accessible to everyone.
   </p>
   
   <div>
@@ -53,7 +61,7 @@ The goal of Microsoft Engineering teams is to make Microsoft assistive technolog
       </li>      
       <li>
         <div>
-          <a href="https://www.microsoft.com/en-us/design/inclusive"><u>Microsoft&rsquo;s vision of inclusive design</u></a>
+          <a href="https://microsoft.design/"><u>Microsoft&rsquo;s vision of inclusive design</u></a>
         </div>
       </li>      
       <li>

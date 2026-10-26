@@ -1,21 +1,26 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2023/introduction/
 type: report2023
-title: "Introduction"
+title: Introduction
+permalink: manage/section-508-assessment/2023/introduction/
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, introduces the assessment scope, purpose, and reporting requirements.
-topic: "Law"
-sub-topic: "Annual Assessment"
 audience:
-- "Section 508 Program Managers"
-- "Agency Heads"
-- "Members of the Public"
-- "Policy and Law Makers"
-- "Federal Employees"
-resource-type: "White Paper"
-format: "HTML"
+- Agency Heads
+- Federal Employees
+- Members of the Public
+- Policy and Law Makers
+- Section 508 Program Managers
+topic:
+- Law
+subtopic:
+- Annual Assessment
+resource-type:
+- White Paper
+format: HTML
 created: 2023-03-28
+updated: 2026-10-26
+exclude-changelog: true
 ---
 ## Purpose
 The purpose of the Assessment is twofold:
@@ -25,7 +30,7 @@ The purpose of the Assessment is twofold:
 </ol>
 
 ### Addressing the Government-wide Need for Accessible ICT
-In the United States, <a href="http://dx.doi.org/10.15585/mmwr.mm6732a3" target="_blank">one in four adults live with disabilities</a>. That translates to approximately 61 million Americans who have disabilities regarding mobility, cognition, hearing, and vision that impact major activities in their lives. As the federal government modernizes important public services, equitable digital access can and does play a critical role in the livelihoods and well-being of PWD. The COVID-19 pandemic, which saw the federal government unlocking the “virtual front door” to many of its services, further escalated the importance of equitable digital access for PWD. Although <a href="https://webaim.org/projects/million/#conclusion" target="_blank">government web content is generally more accessible</a> than web content from other sectors, <a href="https://itif.org/publications/2021/06/03/improving-accessibility-federal-government-websites/" target="_blank">48%</a> of popular federal government websites do not fully conform to Section 508 standards. Additionally, according to self-reported data from the Office of Personnel Management (OPM) <a href="https://www.opm.gov/fevs/reports/governmentwide-reports/governmentwide-reports/governmentwide-management-report/2022/2022-governmentwide-management-report.pdf" target="_blank">2022 Federal Employee Viewpoint Survey (FEVS)</a>, PWD represent 17% of the federal workforce. A recent study by the <a href="https://www.eeoc.gov/federal-sector/reports/eeo-status-workers-disabilities-federal-sector" target="_blank">Equal Employment Opportunity Commission (EEOC)</a> also found that, while federal agencies are improving ICT accessibility for federal employees, employees with disabilities remain underrepresented within federal leadership and are more likely than persons without disabilities to leave federal employment. Thus, digital access to federal government services and federal employment continues to present challenges for PWD.
+In the United States, <a href="https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a3.htm?s_cid=mm6732a3_w" target="_blank">one in four adults live with disabilities</a>. That translates to approximately 61 million Americans who have disabilities regarding mobility, cognition, hearing, and vision that impact major activities in their lives. As the federal government modernizes important public services, equitable digital access can and does play a critical role in the livelihoods and well-being of PWD. The COVID-19 pandemic, which saw the federal government unlocking the “virtual front door” to many of its services, further escalated the importance of equitable digital access for PWD. Although <a href="https://webaim.org/projects/million/#conclusion" target="_blank">government web content is generally more accessible</a> than web content from other sectors, <a href="https://itif.org/publications/2021/06/03/improving-accessibility-federal-government-websites/" target="_blank">48%</a> of popular federal government websites do not fully conform to Section 508 standards. Additionally, according to self-reported data from the Office of Personnel Management (OPM) <a href="https://www.opm.gov/fevs/reports/governmentwide-reports/governmentwide-reports/governmentwide-management-report/2022/2022-governmentwide-management-report.pdf" target="_blank">2022 Federal Employee Viewpoint Survey (FEVS)</a>, PWD represent 17% of the federal workforce. A recent study by the <a href="https://www.eeoc.gov/federal-sector/reports/eeo-status-workers-disabilities-federal-sector" target="_blank">Equal Employment Opportunity Commission (EEOC)</a> also found that, while federal agencies are improving ICT accessibility for federal employees, employees with disabilities remain underrepresented within federal leadership and are more likely than persons without disabilities to leave federal employment. Thus, digital access to federal government services and federal employment continues to present challenges for PWD.
 
 To better understand and address the need for accessible ICT within the federal government, the Assessment aims to establish a new baseline for determining Section 508 compliance, with a broader scope than the [Program Maturity Report (PMR)]({{site.baseurl}}/manage/pmr/) and greater depth and frequency than the <a href="https://www.justice.gov/crt/page/file/1569331/download" target="_blank">Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology</a>. The ever-changing landscape of ICT demands a broader, deeper, and more frequent approach to assessing Section 508 compliance and helping agencies meet the statutory requirements established by <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act of 1973</a>, as amended, and the regulatory requirements of the <a href="https://www.access-board.gov/ict/" target="_blank">ICT Standards and Guidelines</a>.
 
