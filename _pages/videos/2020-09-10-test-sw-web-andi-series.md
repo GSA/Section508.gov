@@ -1,25 +1,32 @@
 ---
-layout:  page
+layout: page
 sidenav: true
 type: training
-title: 'Accessible Name & Description Inspector (ANDI) Tool Overview'
+title: Accessible Name & Description Inspector (ANDI) Tool Overview
 permalink: training/web-software/andi-training-videos/
+description: Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Systems and Technology][1] (OAST), the Interagency Trusted Tester Program has created the following video series to explain and demonstrate how to use the Accessible Name & Description Inspector (ANDI) [testing tool][2] to inspect web pages for conformance with the Revised Section 508 Standards. The following video series is broken up into 18 parts, each aligned to a specific ANDI module.
+disclaimer: true
 redirect_from:
 - test/web-software/andi-training-videos/
-description: Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Systems and Technology][1] (OAST), the Interagency Trusted Tester Program has created the following video series to explain and demonstrate how to use the Accessible Name & Description Inspector (ANDI) [testing tool][2] to inspect web pages for conformance with the Revised Section 508 Standards. The following video series is broken up into 18 parts, each aligned to a specific ANDI module.
+audience:
+- Developers
+- Section 508 Testers
 topic:
 - Develop
 - Testing
-- Testing
 - Tools
 - Training
-sub-topic:
+subtopic:
 - Best Practices
 - Testing (Manual)
 - Tools
 - Websites
+resource-type:
+- Article
+format: HTML
 created: 2020-10-05
-updated: 2025-01-07
+updated: 2026-10-22
+exclude-changelog: true
 ---
 Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Systems and Technology][1] (OAST), the Interagency Trusted Tester Program has created the following video series to explain and demonstrate how to use the Accessible Name & Description Inspector (ANDI) [testing tool][2] to inspect web pages for conformance with the Revised Section 508 Standards. The following video series is broken up into 18 parts, each aligned to a specific ANDI module.
 
@@ -220,7 +227,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></p>
                <p></p>
-               <p>Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="ext">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
+               <p>Learn how to use <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="ext">Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
                <p></p>
                <p>0h 2:33m</p>
             </div>

@@ -7,23 +7,22 @@ permalink: create/email-messages/
 description: Learn how to create accessible email messages that are clear, readable, and usable for people with disabilities, including those who use assistive technology.
 description-alt: Added the MS Outlook 365 Authoring and Testing Guide (PDF).
 contributors: frith-chet, va
-audience: 
+audience:
 - Content Creators
 - Federal Employees
 - Members of the Public
 - Section 508 Testers
-topic: 
+topic:
 - Create
-subtopic: 
+subtopic:
 - Documents
-resource-type: 
+resource-type:
 - Process & How-To
 format: HTML
 created: 2024-08-28
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
-
 Learn how to create accessible email messages&mdash;including Microsoft Outlook documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
 ## Authoring Guides 
@@ -48,7 +47,7 @@ It’s important to note that modern email software increasingly offers users th
 Some email messages use plain text format and do not allow for images or other design features, therefore the tips outlined in this guidance may not apply in all circumstances. 
 
 ### Step 1: Write your email
-The subject and body of email messages should clearly and concisely state the purpose of the message. The author should use <a href="https://www.plainlanguage.gov/" target="_blank" class="usa-link--external">plain language</a> appropriate for the intended audience.
+The subject and body of email messages should clearly and concisely state the purpose of the message. The author should use <a href="https://digital.gov/guides/plain-language" target="_blank" class="usa-link--external">plain language</a> appropriate for the intended audience.
 
 #### Know Your Audience
 One of the most popular plain language myths is that you have to “dumb down” your content so everyone can read it. That’s not true. The first rule of plain language is to write for your audience. Use language your audience knows and easily understands. Take your audience’s current level of knowledge into account. Don’t write for an eighth-grade class if your audience is composed of doctoral candidates, small business owners, working parents, or immigrants. Only write for eighth graders if your audience is, in fact, an eighth grade class.
@@ -56,20 +55,20 @@ One of the most popular plain language myths is that you have to “dumb down”
 However, because you may be communicating with agency staff members or members of the public, do not assume they know what you are talking about or are familiar with jargon you may use daily. 
 
 #### Writing Styles
-Plain language improves accessibility and works with whatever style you follow. Below is a summary of the <a href="https://digital.gov/style-guide/" target="_blank" class="usa-link--external">Digital.gov Style Guide</a> and <a href="https://guides.18f.gov/content-guide/our-style/" target="_blank" class="usa-link--external">18F Style Guide</a> used at the General Services Administration (GSA); they are similar to many of the <a href="https://www.plainlanguage.gov/resources/guides/" target="_blank" class="usa-link--external">federal government style guides</a> and other writing guidelines available on <a href="http://www.plainlanguage.gov" target="_blank" class="usa-link--external">plainlanguage.gov</a>. These guidelines show employees how to write electronic content such as email messages, documents, and web pages.
+Plain language improves accessibility and works with whatever style you follow. Below is a summary of the <a href="https://digital.gov/guides/plain-language" target="_blank" class="usa-link--external">Digital.gov plain language guides</a> and other<a href="https://digital.gov/resources" target="_blank" class="usa-link--external">digital resources</a> used at the General Services Administration (GSA); they are similar to many of the <a href="https://digital.gov/guides/plain-language" target="_blank" class="usa-link--external">federal government style guides</a> and other writing guidelines available online. These guidelines show employees how to write electronic content such as email messages, documents, and web pages.
 
-- <a href="https://guides.18f.gov/content-guide/our-style/abbreviations-and-acronyms/" target="_blank" class="usa-link--external">Abbreviations and acronyms</a> - Acronyms often confuse readers. Avoid them whenever possible. If an acronym is necessary for future reference, spell the full word and follow with the acronym in parentheses on the first reference. For example, the General Services Administration (GSA).
-- <a href="https://guides.18f.gov/content-guide/our-style/active-voice/" target="_blank" class="usa-link--external">Active voice</a> - Our writing should be concise and direct. We prefer the active voice because it supports brevity and makes written content more engaging.
-- <a href="https://guides.18f.gov/content-guide/our-style/capitalization/" target="_blank" class="usa-link--external">Capitalization</a> - Follow a consistent capitalization scheme. Inconsistent spellings and capitalizations undermine your narrative authority.
-- <a href="https://guides.18f.gov/content-guide/our-style/inclusive-language/" target="_blank" class="usa-link--external">Inclusive language</a> - The words we use make the difference between forging positive connections and creating distance in our personal and professional lives.
-- <a href="https://guides.18f.gov/content-guide/our-style/names/" target="_blank" class="usa-link--external">Names</a> - Use full names on first reference. On second reference, use first names when writing about our teams or our work, and otherwise follow AP style (which is to mostly use last names on second reference).
-- <a href="https://guides.18f.gov/content-guide/our-style/numbers-and-percentages/" target="_blank" class="usa-link--external">Numbers, percentages, and dates</a> - In body copy, spell out numbers one through nine and use numerals for numbers 10 and greater. 
-- <a href="https://guides.18f.gov/content-guide/our-style/punctuation/" target="_blank" class="usa-link--external">Punctuation</a> - Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence.
-- <a href="https://guides.18f.gov/content-guide/our-style/specific-words-and-phrases/" target="_blank" class="usa-link--external">Specific words and phrases</a> - As with other style rules, we use rules for the accepted forms of common words and phrases for capitalization, hyphenation, and punctuation.
-- <a href="https://guides.18f.gov/content-guide/our-style/technical-and-interface-writing/" target="_blank" class="usa-link--external">Technical writing</a> - In most cases, it’s safe to say the reader is learning something new or troubleshooting, therefore you need to write clear, concise instructions for the best possible experience.
-- <a href="https://guides.18f.gov/content-guide/our-style/trademarks-and-brands/" target="_blank" class="usa-link--external">Trademarks and brands</a> - Avoid using a trademark unless you’re referring to a specific product.
-- <a href="https://webaim.org/techniques/hypertext/#link_to_link" target="_blank" class="usa-link--external">URLs and filenames</a> - It’s important to remember users of screen readers will often <a href="https://webaim.org/techniques/hypertext/#link_to_link" target="_blank" class="usa-link--external">skip from one link to another</a>, skipping the text in between, as a way of skimming for the content they need. For filenames, use hyphens to separate words, just as with URLs. Lowercase filenames are better because it’s easier to type and to remember.
-- <a href="https://guides.18f.gov/content-guide/our-style/voice-and-tone/" target="_blank" class="usa-link--external">Voice and tone</a> - Our voice is our unique personality. You should think of your written voice as analogous to your actual tone of voice. Tone is more like attitude—the emotional context of a piece. 
+- **Abbreviations and acronyms** - Acronyms often confuse readers. Avoid them whenever possible. If an acronym is necessary for future reference, spell the full word and follow with the acronym in parentheses on the first reference. For example, the General Services Administration (GSA).
+- **Active voice** - Our writing should be concise and direct. We prefer the active voice because it supports brevity and makes written content more engaging.
+- **Capitalization** - Follow a consistent capitalization scheme. Inconsistent spellings and capitalizations undermine your narrative authority.
+- **Inclusive language** - The words we use make the difference between forging positive connections and creating distance in our personal and professional lives.
+- **Names** - Use full names on first reference. On second reference, use first names when writing about our teams or our work, and otherwise follow AP style (which is to mostly use last names on second reference).
+- **Numbers, percentages, and dates** - In body copy, spell out numbers one through nine and use numerals for numbers 10 and greater. 
+- **Punctuation** - Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence.
+- **Specific words and phrases** - As with other style rules, we use rules for the accepted forms of common words and phrases for capitalization, hyphenation, and punctuation.
+- **Technical writing** - In most cases, it’s safe to say the reader is learning something new or troubleshooting, therefore you need to write clear, concise instructions for the best possible experience.
+- **Trademarks and brands** - Avoid using a trademark unless you’re referring to a specific product.
+- **URLs and filenames** - It’s important to remember users of screen readers will often <a href="https://webaim.org/techniques/hypertext/#link_to_link" target="_blank" class="usa-link--external">skip from one link to another</a>, skipping the text in between, as a way of skimming for the content they need. For filenames, use hyphens to separate words, just as with URLs. Lowercase filenames are better because it’s easier to type and to remember.
+- Voice and tone - Our voice is our unique personality. You should think of your written voice as analogous to your actual tone of voice. Tone is more like attitude—the emotional context of a piece. 
 
 #### Things to Avoid
 * Generic or nondescriptive message subject that is not searchable 
@@ -86,7 +85,7 @@ Plain language improves accessibility and works with whatever style you follow. 
 ### Step 2: Use the Accessibility Checker
 Microsoft Office authoring tools, including Outlook, have a built-in Accessibility Checker under the “Review” tab in the navigation ribbon. Enable this tool at the outset of creating your email and frequently check for and resolve errors.
 
-The Accessibility Checker helps create accessible emails by identifying potential issues for people with disabilities in reading content or using the document. Regardless of the recipient, all failures must be remediated before sending the email. If you generate a great deal of email, you may want to add the “Check Accessibility” button to the <a href="" target="_blank" class="usa-link--external">main authoring ribbon</a> or <a href="https://support.office.com/en-us/article/customize-the-ribbon-in-office-00f24ca7-6021-48d3-9514-a31a460ecb31" target="_blank" class="usa-link--external">quick tools</a> section.
+The Accessibility Checker helps create accessible emails by identifying potential issues for people with disabilities in reading content or using the document. Regardless of the recipient, all failures must be remediated before sending the email. If you generate a great deal of email, you may want to add the “Check Accessibility” button to the <a href="https://support.microsoft.com/en-us/office/foundations-experiences/customize-the-ribbon-in-office" target="_blank" class="usa-link--external">main authoring ribbon</a>.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
     <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-email-figure-1.jpg" alt="Outlook application message interface with arrows highlighting instructions 1 and 2 described below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
@@ -123,7 +122,6 @@ Never use color as the only method of meaning or emphasis. If your audience has 
 * <a href="https://designsystem.digital.gov/design-tokens/color/overview/" target="_blank" class="usa-link--external">Using Color | U.S. Web Design System (USWDS)</a>
 * <a href="http://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM: Color Contrast Tool | WebAIM</a>
 * <a href="https://toolness.github.io/accessible-color-matrix/" target="_blank" class="usa-link--external">Accessible Palette Builder | Toolness.github.io</a>
-* <a href="http://contrast-grid.eightshapes.com/?background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact" target="_blank" class="usa-link--external">Contrast Grid | Eightshapes.com</a>
 
 ### Step 4: Add Alternative (alt) Text to Images
 Images are a wonderful way to draw attention, build on a story, and provide visual reinforcement to a concept you are trying to explain. However, if your audience has a vision impairment that prevents them from seeing the image clearly or at all, you need to provide a text description of that image.
@@ -147,7 +145,7 @@ To minimize the frustration and increase understanding, images intended to conve
 * Manually check that all alt text is entered correctly. Microsoft auto-generates alt text for images, but it should not be used unless it has been verified to be correct.
 
 #### Other Resources
-* [Authoring Meaningful Alternative Text]({{site.baseurl}}//create/alternative-text/)
+* [Authoring Meaningful Alternative Text]({{site.baseurl}}/create/alternative-text/)
 * <a href="https://w3c.github.io/alt-techniques/" target="_blank" class="usa-link--external">World Wide Web Consortium (W3C) Alt Techniques</a>
 * <a href="http://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM Alternative Text</a>
 
@@ -196,7 +194,7 @@ A signature block that does not contain images or hyperlinks are more accessible
 
 Federal agencies typically have a policy regarding staff email signature blocks. Locate and follow this policy. If your agency does not have such a policy, your email should include your name, the name of your agency, your government telephone number, and government email address, and be used for all new and response messages.
 
-If you place an image in your signature block, such as the <a href="https://www.oit.va.gov/design-guide/resources/logos/" target="_blank" class="usa-link--external">OIT signature logo</a>, use alt text to convey the meaning of the image. For example, enter ”Department of Veterans Affairs Office of Information and Technology” for the alt text to describe the OIT signature logo.
+If you place an image in your signature block, such as the <a href="https://digital.va.gov/oit-brand-system/signature-logos/" target="_blank" class="usa-link--external">OIT signature logo</a>, use alt text to convey the meaning of the image. For example, enter ”Department of Veterans Affairs Office of Information and Technology” for the alt text to describe the OIT signature logo.
 
 Images with hyperlinks are acceptable as long as the alt text associated with the image describes the meaning or intent of the image so the reader knows what to expect if the link is activated. For example, the alt text for the Facebook logo linked to the Department of Veterans Affairs’s Facebook page is ”Visit the VA Facebook page.”
 
@@ -233,6 +231,5 @@ Urgency and lack of planning are not sufficient reasons for sending or distribut
 
 ## Additional Resources 
 * [Checklist for Accessible Email]({{site.baseurl}}/test/checklist/email-messages/)
-* <a href="https://www.plainlanguage.gov/guidelines/words/minimize-abbreviations/" target="_blank" class="usa-link--external">Minimize Abbreviations | plainlanguage.gov</a>  
-* <a href="https://www.plainlanguage.gov/resources/articles/keep-it-jargon-free/" target="_blank" class="usa-link--external">Keep It Jargon-free | plainlanguage.gov</a>
+* <a href="https://digital.gov/guides/plain-language/principles/avoid-jargon#content-start" target="_blank" class="usa-link--external">Keep It Jargon-free | Digital.gov</a>
 * <a href="https://www.microsoft.com/en-us/accessibility/" target="_blank" class="usa-link--external">Microsoft Accessibility</a>

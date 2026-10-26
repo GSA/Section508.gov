@@ -20,7 +20,7 @@ resource-type:
 - Blog
 format: HTML
 created: 2017-11-10
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
 
@@ -51,7 +51,7 @@ The Rehabilitation Act gives the Federal Acquisition Regulatory Council (FAR Cou
 
 **Supporting Organizations**
 
-The U.S. Access Board is an independent federal agency that promotes equality for people with disabilities through accessible design and development of guidelines and standards. [GSA’s Office of Government-wide Policy (OGP)][6] also helps federal agencies implement information and communication technology policies and programs. Working together, the Access Board and GSA provide technical assistance to federal agencies concerning the original and Revised 508 Standards.
+The U.S. Access Board is an independent federal agency that promotes equality for people with disabilities through accessible design and development of guidelines and standards. [GSA’s Government-wide IT Accessibility Program)][6] also helps federal agencies implement information and communication technology policies and programs. Working together, the Access Board and GSA provide technical assistance to federal agencies concerning the original and Revised 508 Standards.
 
 **Helpful Links**
 
@@ -78,6 +78,6 @@ Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with que
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973
  [4]: {{site.baseurl}}/manage/laws-and-policies
  [5]: http://www.w3.org/TR/WCAG20/
- [6]: https://www.gsa.gov/about-gsa/contact-us/request-a-speaker/office-of-governmentwide-policy
+ [6]: https://www.gsa.gov/about-gsa/contact-us/request-a-speaker/
  [7]: {{site.baseurl}}/tools/program-manager-listing/
  [8]: https://www.access-board.gov/ict/wcag2ict.html

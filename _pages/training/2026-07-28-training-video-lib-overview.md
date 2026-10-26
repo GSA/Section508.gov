@@ -25,7 +25,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-07-28
-updated: 2026-09-14
+updated: 2026-10-26
 exclude-changelog: true
 ---
 The Section 508 Training Video Library provides instructional videos on creating, testing, and maintaining accessible information and communication technology (ICT). Learn how to apply accessibility best practices to documents, presentations, spreadsheets, websites, and digital content using common tools and techniques.
@@ -85,10 +85,10 @@ The Section 508 Training Video Library provides instructional videos on creating
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/tranining/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates/"><img alt="Creating PowerPoint Templates"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
-    <h3><a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a></h3>
+    <h3><a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates/">Creating PowerPoint Templates</a></h3>
     <p>Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.</p>
     <p>Duration: 8m 18s | 1-Part Video Tutorial</p>
   </div>
@@ -128,7 +128,7 @@ The Section 508 Training Video Library provides instructional videos on creating
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/create/making-color-usage-accessible/color-contrast-analyzer/">How to Use the Color Contrast Analyzer (CCA)</a></h3>
-    <p>In this video, we’ll show you how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
+    <p>In this video, we’ll show you how to use the <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
     <p>Duration 6m 07s | 1-Part Video Tutorial</p>
   </div>
 </div>
@@ -154,7 +154,7 @@ The Section 508 Training Video Library provides instructional videos on creating
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/">How to Test Color Contrast using the Color Contrast Analyser (CCA)</a></h3>
-    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://vispero.com/lp/color-contrast-checker/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
     <p>Duration 2m 33s | 1-Part Video Tutorial</p>
   </div>
 </div>

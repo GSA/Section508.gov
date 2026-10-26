@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-10-14
+updated: 2026-10-22
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -101,7 +101,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
         <ul>
           <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a></li>
           <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
-          <li><a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a></li>
+          <li><a href="https://www.access-board.gov/#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a></li>
           <li><a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u></li>
         </ul>
       </li>
@@ -134,7 +134,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a></li>
           <li><a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a></li>
           <li><a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance  Reports</a></li>
-          <li><a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a></li>
+          <li><a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a></li>
         </ul>
       </li>
     </ul>

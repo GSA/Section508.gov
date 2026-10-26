@@ -6,27 +6,26 @@ title: Tools for Testing Information and Communications Technology
 permalink: tools/tools-for-testing-ict/
 description: Find out more about testing tools, software, and guidance for running tests.
 disclaimer: true
-redirect_from: 
-- test/web-software/ 
+redirect_from:
+- test/web-software/
 - test/about-testing-tools/
-audience: 
+audience:
 - Content Creators
 - Designers
 - Developers
 - Section 508 Program Managers
 - Web Content Managers
-topic: 
+topic:
 - Testing
-subtopic: 
+subtopic:
 - Websites
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2025-08-12
-updated: 2026-07-10
+updated: 2026-10-22
 exclude-changelog: true
 ---
-
 Web designers, developers, and content managers play a key role in ensuring websites and digital services are accessible, and conform to the <A href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
 
 ## Testing Tools
@@ -60,7 +59,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
     <div class="usa-icon-list__content">
       <strong>Color Contrast Analyzer (CCA)</strong> is a free open-source tool that displays the contrast ratio for two selected colors. It is especially useful when contrast cannot be programmatically identified by ANDI.  
       <div>
-        <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Download CCA for Windows or macOS</a>
+        <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Download CCA for Windows or macOS</a>
       </div>
     </div>
   </li>
@@ -111,7 +110,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/create/making-color-usage-accessible/color-contrast-analyzer/">How to Use the Color Contrast Analyzer (CCA)</a></h3>
-    <p>In this video, we’ll show you how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
+    <p>In this video, we’ll show you how to use the <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
     <p>Duration 6m 07s | 1-Part Video Tutorial</p>
   </div>
 </div>
@@ -137,7 +136,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/">How to Test Color Contrast using the Color Contrast Analyser (CCA)</a></h3>
-    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
     <p>Duration 2m 33s | 1-Part Video Tutorial</p>
   </div>
 </div>
@@ -152,4 +151,4 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   * [Test ICT for Accessibility]({{site.baseurl}}/test/)
   * [Trusted Tester Program]({{site.baseurl}}/test/trusted-tester/) 
   * [Universal Design]({{site.baseurl}}/develop/universal-design/)
-  * <a href="https://www.w3.org/WAI/Tools/" target="_blank" class="usa-link--external">WAI - tools Project</a>
+  * <a href="https://www.w3.org/WAI/about/projects/wai-tools/" target="_blank" class="usa-link--external">WAI - tools Project</a>

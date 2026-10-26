@@ -43,7 +43,7 @@ The <a href="https://srt.app.cloud.gov/" target="_blank" class="usa-link--extern
 
 The SRT is built with open-source technology and uses artificial intelligence (AI), natural language processing, text mining, and machine learning to automatically detect whether new solicitations posted on federal acquisition platforms are for information and communication technology (ICT). If a solicitation is identified as ICT-related, the SRT then checks whether it includes adequate Section 508 compliance requirements to support accessibility in federal IT.
 
-The SRT scans the <a href="https://www.sam.gov" target="_blank" class="usa-link--external"><strong>SAM.gov</strong></a> and <a href="https://www.ebuy.gov" target="_blank" class="usa-link--external"><strong>eBuy.gov</strong></a> every 24 hours, across all solicitations and delivers:
+The SRT scans the <a href="https://www.sam.gov" target="_blank" class="usa-link--external"><strong>SAM.gov</strong></a> and <a href="https://ebuy.gsa.gov" target="_blank" class="usa-link--external"><strong>eBuy.gov</strong></a> every 24 hours, across all solicitations and delivers:
 
   * A report on all the new ICT solicitations for the previous day
   * A report of ICT solicitations flagged for manual review

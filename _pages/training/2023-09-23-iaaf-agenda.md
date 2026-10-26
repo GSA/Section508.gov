@@ -206,20 +206,6 @@ exclude-changelog: true
   <li><strong><a href="https://www.storm-interface.com/" target="_blank">Storm Interface</a></strong> | Storm’s Assistive Technology Products are ADA compliant, designed to offer system navigation by means of audible content description. They allow users with impaired vision, reading difficulties or impaired fine motor skills to navigate through information typically presented visually on a touch screen. Designed for use as the tactile/audio interface for any accessible self-service application such as kiosks, ticketing machines etc. For more information, contact: <a href="mailto:nickys@storm-keypads.com">Nicky Shaw</a>.</li>
   <li><strong><a href="https://www.tcsaccess.com" target="_blank">TCS Access</a></strong> | At TCS Access (TCSA), our mission is to create inclusive workplaces by empowering organizations with tailored assistive technology solutions, personalized training, and accessibility testing to unlock the potential of their diverse workforce. For more information, contact: <a href="mailto:matt.belcher@tcsteams.com">Matt Belcher</a>.</li>
   <li><strong><a href="https://vispero.com/" target="_blank">Vispero - TPGi</a></strong> | For more information, contact: <a href="mailto:jmarindin@vispero.com">Jerry Marindin</a>.</li>
-  <li><strong><a href="https://wordwizardsinc.com/" target="_blank">Word Wizards</a></strong> | For more information, contact: <a href="mailto:ben@wordwizardsinc.com">Benjamin Gordon</a>.</li>
+  <li><strong>Word Wizards</strong> | For more information, contact: <a href="mailto:ben@wordwizardsinc.com">Benjamin Gordon</a>.</li>
   <!-- <li><strong><a href=""></a></strong> | For more information, contact: <a href="mailto:"></a>.</li> -->
 </ul>
-
-{% comment %}
-Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
-{% endcomment %}
-<div class="margin-y-105">   
-{% unless page.hide-date == true %}
-    {% if page.updated %}
-        {% assign input_date = page.updated %}
-    {% else %}
-        {% assign input_date = page.created %}
-    {% endif %} 
-<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
-{% endunless %}
-</div>
