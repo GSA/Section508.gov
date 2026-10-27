@@ -22,7 +22,7 @@ resource-type:
 - Article
 format: HTML
 created: 2019-03-05
-updated: 2026-10-26
+updated: 2026-10-27
 exclude-changelog: true
 ---
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
@@ -465,7 +465,7 @@ All non-text content that is presented to the user should have a text alternativ
       &lt;img src="decorative_1.gif" alt=""&gt;
     * **role="none"**  
       &lt;img src="border.png" role="none"&gt;
-    * **role="presentation"** (not as widely supported)  
+    * **role="presentation"**  
       &lt;img src="border.png" role="presentation"&gt;  
     * **aria-hidden="true"**  
       &lt;img src="border.png" aria-hidden="true"&gt;  
