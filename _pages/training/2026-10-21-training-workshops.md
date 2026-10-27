@@ -30,85 +30,36 @@ custom-script:
 created: 2026-11-01
 updated: 
 ---
-The accessibility training workshops provide ready-to-use materials for delivering instructor-led training on common document accessibility topics. Each workshop includes the resources needed to lead structured learning sessions, build accessibility skills, and reinforce practices that align with Section 508 requirements.
+These ready-to-use materials help teams build document accessibility skills through instructor-led workshops aligned with Section 508 Standards.
 
-You do not need to create your own curriculum or training materials. Each workshop has been designed as turn-key training resources, allowing facilitators to deliver workshops using the included instructor guidance, activities, examples, and reference materials.
+Each workshop includes resources to help facilitators prepare for and lead the session, such as:
 
-Each workshop may include:
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content"><strong>Instructor guidance</strong></div>
+    <div class="usa-icon-list__content">Instructor guidance and presentation slides</div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content"><strong>Presentation slides</strong></div>
+    <div class="usa-icon-list__content">Demonstration examples and practice activities</div>
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content"><strong>Demonstration examples</strong></div>
-  </li>
-  <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content"><strong>Practice activities</strong></div>
-  </li>
-  <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
-    <div class="usa-icon-list__content"><strong>Reference materials</strong></div>
+    <div class="usa-icon-list__content">Reference materials and learner resources</div>
   </li>
 </ul>
 
-The workshops are designed for teams that create federal government documents and must meet Section 508 Standards for digital accessibility. They can also support organizations that want to improve document accessibility or meet other accessibility requirements.
+**Anyone can facilitate a workshop.** You do not need to be an accessibility expert or professional trainer. The instructor guidance explains how to prepare for and deliver the session.
 
-## Lead an Accessibility Training Workshop
-Anyone can facilitate a workshop using these materials. You do not need to be an accessibility expert, professional trainer, or supervisor. The instructor guide provides the steps, talking points, examples, and resources needed to successfully lead the session and help your team integrate accessibility practices into everyday document creation workflows.
+These workshops support teams that create federal government documents and others seeking to improve document accessibility.
 
-Workshop packages provide facilitators with the resources and guidance needed to successfully plan, prepare for, and deliver an accessibility workshop:
-<ul id="workshop-package" class="usa-icon-list tablet:grid-col">
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">List of required materials, resources, presentation equipment, and learner tools you will use to support the training activities.</div>
-  </li>
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">Pre-training tasks from reviewing the training content, scheduling the session, inviting participants and providing accessible materials.</div>
-  </li>
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">Accessibility considerations a facilitator uses to ensure they host an accessible workshop experience and learning environment.</div>
-  </li>
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">Resources to prepare for the session, including the presentation, accessible outline, and practice document that support instruction and learner activities.</div>
-  </li>
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">Tips that encourage a successful workshop by communicating clearly, fostering collaboration, supporting questions, promoting accessibility, and keeping the session focused on the learning objectives.</div>
-  </li>
-</ul>
-
-<div class="grid-col-12 summary-box--icon-prompt margin-top-4">
-    <ul class="usa-icon-list padding-right-2 force-max-width">
-        <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#info_outline"></use></svg></div>
-            <div class="usa-icon-list__content force-max-width">
-                <div class="box-text">The workshops complement the document accessibility guidance and other training resources available on this website. Discover and use the Authoring Guides for <a href="{{site.baseurl}}/create/documents/">documents</a>, <a href="{{site.baseurl}}/create/pdfs/">PDFs</a>, <a href="{{site.baseurl}}/create/presentations/">presentations</a>, <a href="{{site.baseurl}}/create/spreadsheets/">spreadsheets</a> and <a href="{{site.baseurl}}/create/email-messages/">email messages</a>, and associated <a href="{{site.baseurl}}/training-home/#training-videos-library">training videos</a> to help create accessible electronic documents.</div>
-            </div>
-        </li>
-    </ul>
+<div class="grid-col-12 summary-box--left">
+  For additional guidance, explore the Authoring Guides for <a href="{{site.baseurl}}/create/documents/">documents</a>, <a href="{{site.baseurl}}/create/pdfs/">PDFs</a>, <a href="{{site.baseurl}}/create/presentations/">presentations</a>, <a href="{{site.baseurl}}/create/spreadsheets/">spreadsheets</a> and <a href="{{site.baseurl}}/create/email-messages/">email messages</a>, along with the <a href="{{site.baseurl}}/training-home/#training-videos-library">training video library</a>.
 </div>
 
-{%comment %} WORKSHOP ACCORDIONS {% endcomment %}
+## Select a Workshop
+Choose a workshop below to view the description and access the materials.
 
-## Accessibility Training Workshops
-Use these ready-to-use materials to teach your team how to create accessible documents.
-
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
-  <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Download All Workshop Materials (ZIP)</a></div>
-</li>
- 
-<h3 id="individual-workshops">Individual Workshops</h3>
 <div id="accordion-group-b" class="usa-accordion usa-accordion--bordered">
   
   <!-- ACCESSIBILITY CHECKER -->
@@ -488,71 +439,7 @@ Use these ready-to-use materials to teach your team how to create accessible doc
     </div>
   </div>
 
-  <!-- LINKS -->
-  
-  <h3 class="usa-accordion__heading"><button id="links-list" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b1">Lists and Links</button></h3>
-  <div id="b1" class="usa-accordion__content">
-    <h4>Workshop Lessons</h4>
-    <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-        <div class="usa-icon-list__content">Create accessible lists in Microsoft Word and similar programs</div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-        <div class="usa-icon-list__content">Create accessible hyperlinks</div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
-        <div class="usa-icon-list__content">Implement best practices for making lists and links accessible</div>
-      </li>
-    </ul>
-    <h4>Workshop Details</h4>
-    <ul class="usa-icon-list">
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Preparation Time: 60–90 minutes</div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Workshop Time: 45 minutes</div>
-      </li>
-      <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Prerequisites: None</div>
-      </li>
-    </ul>
-    <h4>Workshop Downloads</h4>
-    <p>This workshop uses Microsoft Office tools, but the accessibility principles covered apply across other electronic document authoring tools and can be customized to support the tools your team uses.</p>
-    <ul id="" class="usa-icon-list tablet:grid-col">
-      <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Instructor Guide (DOCX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Practice Document (DOCX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Presentation (PPTX)</a></div>
-      </li>
-      <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
-          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Workshop Package (ZIP)</a></div>
-      </li>
-    </ul>
-    <div role="heading" aria-level="4" aria-label="Wokshop Changelog" class="grid-col-12 summary-box margin-top-3">
-      <ul id="" class="usa-icon-list tablet:grid-col">
-        <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Lists and Links workshop with core lessons, practice quizzes, and foundational learning.</div>
-        </li>
-      </ul>      
-    </div>
-  </div> 
-
-  <!-- LAYOUTS -->
+   <!-- LAYOUTS -->
   
   <h3 class="usa-accordion__heading">
     <button id="layouts" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b7">Layouts</button>
@@ -617,3 +504,109 @@ Use these ready-to-use materials to teach your team how to create accessible doc
       </ul>      
     </div>
   </div>
+
+  <!-- LINKS -->
+  
+  <h3 class="usa-accordion__heading"><button id="links-list" type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="b1">Lists and Links</button></h3>
+  <div id="b1" class="usa-accordion__content">
+    <h4>Workshop Lessons</h4>
+    <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+        <div class="usa-icon-list__content">Create accessible lists in Microsoft Word and similar programs</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+        <div class="usa-icon-list__content">Create accessible hyperlinks</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg></div>
+        <div class="usa-icon-list__content">Implement best practices for making lists and links accessible</div>
+      </li>
+    </ul>
+    <h4>Workshop Details</h4>
+    <ul class="usa-icon-list">
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Preparation Time: 60–90 minutes</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Workshop Time: 45 minutes</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false"><use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Prerequisites: None</div>
+      </li>
+    </ul>
+    <h4>Workshop Downloads</h4>
+    <p>This workshop uses Microsoft Office tools, but the accessibility principles covered apply across other electronic document authoring tools and can be customized to support the tools your team uses.</p>
+    <ul id="" class="usa-icon-list tablet:grid-col">
+      <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Instructor Guide (DOCX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Practice Document (DOCX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#file_download"></use></svg></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Presentation (PPTX)</a></div>
+      </li>
+      <li class="usa-icon-list__item">
+          <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#save_alt"></use></svg></div>
+          <div class="usa-icon-list__content"><a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Lists and Links Workshop Package (ZIP)</a></div>
+      </li>
+    </ul>
+    <div role="heading" aria-level="4" aria-label="Wokshop Changelog" class="grid-col-12 summary-box margin-top-3">
+      <ul id="" class="usa-icon-list tablet:grid-col">
+        <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+            <div class="usa-icon-list__content"><strong>v1.0 - Nov 2026 | Release:</strong> Initial release of the Lists and Links workshop with core lessons, practice quizzes, and foundational learning.</div>
+        </li>
+      </ul>      
+    </div>
+  </div> 
+
+  <div class="grid-col-12 summary-box--icon-suggested margin-top-4">
+      <ul class="usa-icon-list padding-right-2 force-max-width">
+          <li class="usa-icon-list__item">
+              <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#save_alt"></use></svg></div>
+              <div class="usa-icon-list__content force-max-width">
+                  <div class="box-heading"><strong>Download all workshop materials</strong><hr></div>
+                  <div class="box-text">
+                    <p>Get a ZIP file with all either wokshops including slides, exercises, and facilitator resources. <a href="" target="_blank" class="usa-link--external" download="custom-file-name.pdf">Download the complete Accessibility Training Workshop Toolkit (ZIP)</a>.</p>
+                  </div>
+              </div>
+          </li>
+      </ul>
+  </div>
+</div>
+
+## Lead an Accessibility Training Workshop
+Anyone can facilitate a workshop using these materials. You do not need to be an accessibility expert, professional trainer, or supervisor. The instructor guide provides the steps, talking points, examples, and resources needed to successfully lead the session and help your team integrate accessibility practices into everyday document creation workflows.
+
+Workshop packages provide facilitators with the resources and guidance needed to successfully plan, prepare for, and deliver an accessibility workshop:
+<ul id="workshop-package" class="usa-icon-list tablet:grid-col">
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
+      <div class="usa-icon-list__content">List of required materials, resources, presentation equipment, and learner tools you will use to support the training activities.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
+      <div class="usa-icon-list__content">Pre-training tasks from reviewing the training content, scheduling the session, inviting participants and providing accessible materials.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
+      <div class="usa-icon-list__content">Accessibility considerations a facilitator uses to ensure they host an accessible workshop experience and learning environment.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
+      <div class="usa-icon-list__content">Resources to prepare for the session, including the presentation, accessible outline, and practice document that support instruction and learner activities.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
+      <div class="usa-icon-list__content">Tips that encourage a successful workshop by communicating clearly, fostering collaboration, supporting questions, promoting accessibility, and keeping the session focused on the learning objectives.</div>
+  </li>
+</ul>
