@@ -22,7 +22,7 @@ resource-type:
 - Blog
 format: HTML
 created: 2017-12-14
-updated: 2026-07-10
+updated: 2026-10-21
 exclude-changelog: true
 ---
 
@@ -66,7 +66,7 @@ To learn more about Universal Design and how executives and agencies can benefit
  [2]: https://www.w3.org/TR/WCAG10/
  [3]: https://www.w3.org/TR/WCAG20/
  [4]: https://disabilitycompendium.org/sites/default/files/user-uploads/2016_AnnualReport.pdf
- [5]: http://universaldesign.ie/What-is-Universal-Design/
+ [5]: https://universaldesign.ie/about-universal-design
  [6]: https://universaldesign.ie/about-universal-design/the-7-principles
  [7]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-1-equitable-use
  [8]: https://universaldesign.ie/about-universal-design/the-7-principles#principle-2-flexibility-in-use

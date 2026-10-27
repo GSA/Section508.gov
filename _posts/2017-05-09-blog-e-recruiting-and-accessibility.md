@@ -1,21 +1,30 @@
 ---
 layout: post
-permalink: blog/e-recruiting-and-accessibility/
+sidenav: true
 type: article
-title: 'e-Recruiting and Accessibility'
-created: 1494338501
+title: e-Recruiting and Accessibility
+permalink: blog/e-recruiting-and-accessibility/
+description: In today’s competitive job market, it’s important to recruit from a large and strong candidate pool.
 tags: Policy-and-Management
-description: In today’s competitive job market, it’s important to recruit from a large and strong candidate pool. 
-topic: "Manage"
-sub-topic: "Guidance"
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
+redirect_to:
+- blog/
 audience:
-- "Chief Human Capital Officers (CHCO)"
-- "Section 508 Program Managers"
-- "Manager & Supervisor"
-resource-type: "Blog"
-format: "HTML"
+- Chief Human Capital Officers (CHCO)
+- Manager & Supervisor
+- Section 508 Program Managers
+topic:
+- Manage
+subtopic:
+- Guidance
+resource-type:
+- Blog
+format: HTML
+created: 2017-05-09
+updated: 2026-10-26
+exclude-changelog: true
 ---
-
 May 9, 2017 - In today’s competitive job market, it’s important to recruit from a large and strong candidate pool. The GSA Government-wide IT Accessibility Program would like to call to your attention the work of the [Partnership on Employment & Accessible Technology][1] (PEAT). PEAT helps employers find and recruit the best talent by using accessible e-Recruiting. PEAT, a part of the United States Department of Labor’s Office of Disability Employment Policy, promotes the employment, retention and career advancement of people with disabilities. They do this through the development, adoption and promotion of accessible technology. According to PEAT, building a talent pool of top-notch candidates begins with providing online applications that are accessible to everyone.
 
 To learn more about the benefits of accessible e-Recruiting and the compelling business case for it, take a look at some of the resources below from PEAT:

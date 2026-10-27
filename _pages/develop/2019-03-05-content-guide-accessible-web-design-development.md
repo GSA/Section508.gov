@@ -6,26 +6,25 @@ title: Guide to Accessible Web Design & Development
 permalink: develop/guide-accessible-web-design-development/
 description: Guide to Accessible Web Design & Development
 contributors: usab
-redirect_from: 
+redirect_from:
 - content/guide-accessible-web-design-development/
-audience: 
+audience:
 - Content Creators
 - Designers
 - Developers
 - IT Program & Project Managers
 - Section 508 Program Managers
-topic: 
+topic:
 - Develop
-subtopic: 
+subtopic:
 - Guidance
-resource-type: 
+resource-type:
 - Article
 format: HTML
 created: 2019-03-05
-updated: 2026-07-09
+updated: 2026-10-27
 exclude-changelog: true
 ---
-
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
 
 The profound impact of disability on user experience cannot be underestimated, shaping not only accessibility but also the very essence of inclusivity in design. A study by the [World Bank shows that](https://www.linkedin.com/pulse/why-website-accessibility-matters-oliver-broadhurst/) accessibility technology can make website navigation possible or easier for 57% of all computer users. 
@@ -462,10 +461,15 @@ All non-text content that is presented to the user should have a text alternativ
 **Development Considerations**
 
   * Tag decorative images with a blank alt tag. 
-      * [alt][19]=""  
-        &lt;img src="decorative_1.gif" alt=""&gt;
-      * [role][21] ="presentation" (not as widely supported)  
-        &lt;img src="border.png" role="presentation"&gt;
+    * **[alt][19]**=""  
+      &lt;img src="decorative_1.gif" alt=""&gt;
+    * **role="none"**  
+      &lt;img src="border.png" role="none"&gt;
+    * **role="presentation"**  
+      &lt;img src="border.png" role="presentation"&gt;  
+    * **aria-hidden="true"**  
+      &lt;img src="border.png" aria-hidden="true"&gt;  
+  * Insert image via CSS (i.e., a background image).
 
 ### 1.4.5 Images of Text
 
@@ -1115,7 +1119,6 @@ This information is presented in categories that align to the Baseline Tests for
  [18]: https://www.w3.org/TR/html-aam-1.0/#img-element
  [19]: https://www.ssa.gov/accessibility/andi/help/developerguide.html#alt
  [20]: https://www.ssa.gov/accessibility/andi/help/developerguide.html#title
- [21]: https://www.ssa.gov/accessibility/andi/help/developerguide.html#Add-OnProperties
  [22]: https://www.w3.org/TR/using-aria/
  [24]: https://gist.github.com/JamieMason/3748498
  [25]: https://www.w3.org/TR/2008/REC-WCAG20-20081211/#correct-reading-sequencedef

@@ -12,7 +12,7 @@ permalink: /:collection/:name:output_ext
 ---
 GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, and IT to government organizations and the military. GSA also promotes management best practices and efficient government operations through the development of governmentwide policies. 
 
-Source: [https://www.gsa.gov/about-us](https://www.gsa.gov/about-us)
+Source: [https://www.gsa.gov/about-gsa](https://www.gsa.gov/about-gsa)
 
 <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
     <div class="usa-summary-box__body">

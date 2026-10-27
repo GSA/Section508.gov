@@ -177,17 +177,3 @@ social_img_alt: "IAAF: Interagency Accessibility Forum"
     {% endfor %}
   </div>
 {% endfor %}
-
-{% comment %}
-Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
-{% endcomment %}
-<div class="margin-y-105">   
-{% unless page.hide-date == true %}
-    {% if page.updated %}
-        {% assign input_date = page.updated %}
-    {% else %}
-        {% assign input_date = page.created %}
-    {% endif %} 
-<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
-{% endunless %}
-</div>

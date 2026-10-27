@@ -21,7 +21,7 @@ resource-type:
 - Playbook
 format: HTML
 created: 2018-08-15
-updated: 2026-07-10
+updated: 2026-10-21
 exclude-changelog: true
 ---
 
@@ -39,7 +39,7 @@ exclude-changelog: true
 * <a href="#legal-considerations">Legal Considerations</a>
 * <a href="#conclusion">Conclusion</a>
   
-The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="https://archive.cdc.gov/#/details?url=https://www.cdc.gov/media/releases/2018/p0816-disability.html" target="_blank" class="usa-link--external">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
+The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="https://archive.cdc.gov/#/details?url=https%3A%2F%2Fwww.cdc.gov%2Fmedia%2Freleases%2F2018%2Fp0816-disability.html" target="_blank" class="usa-link--external">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
 
 Aside from the legal requirements, accessibility is good for business. Creating products and information that everyone can use drives innovation, provides a better customer experience, and improves employee engagement. Accessibility helps you reach more stakeholders and, ultimately, achieve your agency&rsquo;s mission.
 
@@ -116,7 +116,7 @@ Support efforts to train staff on their responsibilities under Section 508, to e
 
 Oversee submission of required to submit a Section 508 Assessment to OMB and Congress annually. These reports are required for all agencies subject to Section 508 of the Rehabilitation Act, as amended.
 
-* <a href="{{site.baseurl}}[/manage/agency-508-reporting-requirements/)">Monitor and report progress to OMB and Congress</a>
+* <a href="{{site.baseurl}}/manage/agency-508-reporting-requirements/">Monitor and report progress to OMB and Congress</a>
 * <a href="{{site.baseurl}}/section-508-assessment/">Guideline for assessing program maturity</a>
 
 ### Collaboration

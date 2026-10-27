@@ -1,26 +1,33 @@
 ---
 layout: post
-permalink: blog/section-508-website-refresh/
+sidenav: true
 type: article
-title: 'Section508.gov Is Moving to Federalist'
-created: September 09, 2021
+title: Section508.gov Is Moving to Federalist
+permalink: blog/section-508-website-refresh/
+description: "August 30, 2021 - The GSA Government-wide IT Accessibility Program team is excited to announce that we are preparing a new look for Section508.gov and the Accessibility Requirements Tool (ART) as we move to <a href=\"https://cloud.gov/pages/\">Cloud.gov Pages</a> - a publishing platform for modern <a href=\"https://digital.gov/resources/delivering-digital-first-public-experience\">21st Century IDEA</a> websites."
 tags: Events
-description: August 30, 2021 - The GSA Government-wide IT Accessibility Program team is excited to announce that we are preparing a new look for Section508.gov and the Accessibility Requirements Tool (ART) as we move to <a href="https://federalist.18f.gov">Federalist</a> - a publishing platform for modern <a href="https://digital.gov/resources/21st-century-integrated-digital-experience-act/">21st Century IDEA</a> websites.
-topic: About
-sub-topic: Best Practices
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
 audience:
+- Federal Employees
+- IT Program & Project Managers
 - Members of the Public
 - Section 508 Program Managers
-- IT Program & Project Managers
 - Web Content Managers
-- Federal Employees
-resource-type: Blog
+topic:
+- About
+subtopic:
+- Best Practices
+resource-type:
+- Blog
 format: HTML
+created: 2021-09-09
+updated: 2026-10-22
+exclude-changelog: true
 ---
-
 <h2>Updates to <span style="color:#304bc5">Section</span><span style="color:#098850">508</span><span style="color:#304bc5">.gov</span></h2>
 
-<div><img alt="Small, abstract view of the new Section508.gov homepage with a promotion for the Annual Interagency Accessibility Forum." src="{{ site.baseurl }}/assets/images/508-federalist.png" style="float:right; width:50%" /></div>
+<div><img alt="Small, abstract view of the new Section508.gov homepage with a promotion for the Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/508-federalist.png" style="float:right; width:50%" /></div>
 
 Section508.gov, the one-stop source of information, guidance, training and support for federal agencies seeking to successfully create and manage fully accessible information and communications technology (ICT), is getting a new look!
 

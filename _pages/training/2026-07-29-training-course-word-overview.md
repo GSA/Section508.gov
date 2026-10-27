@@ -8,6 +8,7 @@ description: The first of a two-part series, this course introduces essential do
 disclaimer: true
 redirect_from:
 - training/online-course/ms-word-best-practices/
+- training/courses/ms-word-best-practices/
 audience:
 - Communications Specialists
 - Content Creators
@@ -25,7 +26,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 2026-10-14
+updated: 2026-10-26
 exclude-changelog: true
 ---
 <div
@@ -119,7 +120,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li>In-Course Resources
         <ul>
           <li><a href="{{site.baseurl}}/create/documents/">Create Accessible Documents</a></li>
-          <li><a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link usa-link--external">Colour Contrast Analyser</a> Available for Windows and macOS</li>
+          <li><a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link usa-link--external">Colour Contrast Analyser (CCA)</a> Available for Windows and macOS</li>
           <li><a href="{{site.baseurl}}/create/pdfs/">Create Accessible PDFs</a></li>
           <li><a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a></li>
           <li>Downloads
@@ -139,10 +140,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://www.section508.gov/create/making-color-usage-accessible/">Making Color Usage Accessible</a></li>     
           <li>Microsoft Support
             <ul>
-              <li><a href="https://support.microsoft.com/en-us/office/change-bullet-indents-in-word-5ed8b9a0-d44c-4e9a-81b3-47c234e980d3" target="_blank" class="usa-link usa-link--external">Change bullet indents in Word</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/change-the-numbering-in-a-numbered-list-a9731137-8a85-47ce-a7e4-8b1c6c8c77a3" target="_blank" class="usa-link usa-link--external">Change the numbering in a numbered list</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563" target="_blank" class="usa-link usa-link--external">Customize or create new styles</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/define-new-bullets-numbers-and-multilevel-lists-6c06ef65-27ad-4893-80c9-0b944cb81f5f" target="_blank" class="usa-link usa-link--external">Define new bullets, numbers, and multilevel lists</a></li>              
+              <li><a href="https://support.microsoft.com/en-us/word/change-bullet-indents-in-word" target="_blank" class="usa-link usa-link--external">Change bullet indents in Word</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/change-the-numbering-in-a-numbered-list" target="_blank" class="usa-link usa-link--external">Change the numbering in a numbered list</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/customize-or-create-new-styles" target="_blank" class="usa-link usa-link--external">Customize or create new styles</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/define-new-bullets-numbers-and-multilevel-lists" target="_blank" class="usa-link usa-link--external">Define new bullets, numbers, and multilevel lists</a></li>              
             </ul>
           </li>
           <li><a href="https://www.access-board.gov/ict/">Section 508 Standards</a></li>

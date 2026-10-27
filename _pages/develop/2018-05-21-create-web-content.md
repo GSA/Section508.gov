@@ -5,23 +5,23 @@ type: develop
 title: Developing Accessible Web Content
 permalink: develop/web-content/
 description: Explore Section 508 web content accessibility guidance, best practices, and tools to help developers create and maintain accessible, standards-compliant digital content.
-redirect_from: 
+disclaimer: true
+redirect_from:
 - create/web-content/
-audience: 
+audience:
 - Content Creators
 - Developers
-topic: 
+topic:
 - Develop
-subtopic: 
+subtopic:
 - Training
-resource-type: 
+resource-type:
 - Process & How-To
 format: HTML
 created: 2018-05-21
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
-
 <p>Learn how to build digital tools that conform to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. Review the W3C’s Sufficient Techniques for examples of how to meet Success Criteria using specific technologies (relevant to HTML, CSS, server-side scripting, Flash, ARIA, etc.).</p>
 <ul>
     <li><a href="https://www.w3.org/WAI/WCAG20/quickref/" class="ext">How to Meet WCAG 2.0</a> - quick reference guide 
@@ -37,7 +37,7 @@ exclude-changelog: true
 </ul>
 <h2>Content Authoring Guidelines</h2>
 <ul>
-    <li><a href="http://www.washington.edu/accessibility/checklist/" class="ext">IT Accessibility Checklist</a> - University of Washington</li>
+    <li><a href="https://www.washington.edu/accesstech/guide/" class="ext">IT Accessibility Checklist</a> - University of Washington</li>
     <li><a href="http://journal.code4lib.org/articles/12697" class="ext">The Code4Lib Journal</a> – A Practical Guide on Developing Accessible Websites</li>
     <li><a href="http://webaim.org/" class="ext">Web Accessibility In Mind (WebAIM)</a></li>
 </ul>
@@ -51,7 +51,6 @@ exclude-changelog: true
 <h2>JavaScript Frameworks</h2>
 <p>Contributors to these JavaScript frameworks actively consider accessibility in development:</p>
 <ul>
-    <li><a href="https://www.nomensa.com/blog/2010/accessible-forms-using-the-jquery-validation-plug-in/" class="ext">JQuery</a> - the “grandfather” of JavaScript frameworks; this article specifically addresses how to create accessible forms</li>
     <li><a href="https://legacy.reactjs.org/docs/accessibility.html" class="ext">React.js</a> - web application development framework from Facebook</li>
     <li><a href="https://docs.angularjs.org/guide/accessibility" class="ext">Angular.js</a> - web development framework from Google</li>
     <li><a href="https://paypal.github.io/bootstrap-accessibility-plugin/demo.html" class="ext">Bootstrap.js</a> - JavaScript development framework from Twitter</li>
@@ -69,11 +68,11 @@ exclude-changelog: true
     <li><a href="https://developer.apple.com/library/content/documentation/Accessibility/Conceptual/AccessibilityMacOSX/index.html" class="ext">Apple Accessibility programming Guide for OSX</a></li>
     <li><a href="https://www.youtube.com/watch?v=6b0K2883rXA" class="ext">Introduction to Microsoft UI Automation</a></li>
     <li><a href="https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview" class="ext">Microsoft UI Automation Overview</a></li>
-    <li><a href="http://www.oracle.com/us/corporate/accessibility/products/index.html" class="ext">Oracle Product Accessibility Guidance</a></li>
+    <li><a href="https://www.oracle.com/corporate/accessibility/" class="ext">Oracle Product Accessibility Guidance</a></li>
 </ul>
 <h2>Development Environments</h2>
 <ul>
-    <li><a href="https://msdn.microsoft.com/en-us/library/bkxh4340.aspx" class="ext">Microsoft Visual Studio Accessibility Information</a></li>
+    <li><a href="https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/ide/reference/accessibility-tips-and-tricks?view=vs-2015&redirectedfrom=MSDN" class="ext">Microsoft Visual Studio Accessibility Information</a></li>
     <li><a href="https://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Fconcepts%2Faccessibility%2Faccessmain.htm" class="ext">Eclipse.org Eclipse Accessibility Information</a></li>
 </ul>
 <h2>Testing Tools</h2>
@@ -82,7 +81,7 @@ exclude-changelog: true
 </ul>
 <h2>Captioning Tools and Resources</h2>
 <ul>
-    <li><a href="https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Adobe_Captivate_9_Accessibility.pdf" class="ext">Adobe Captivate 9 Accessibility Authoring Guidance</a></li>
+    <li><a href="https://helpx.adobe.com/captivate/classic/creating-accessible-projects.html" class="ext">Adobe Captivate 9 Accessibility Authoring Guidance</a></li>
 </ul>
 <h2>W3C WCAG 2.0 References</h2>
 <p>The W3C is an internationally recognized web standards body that identifies its approved technical specification standards as “W3C Recommendations” (such as HTML, CSS, etc.). The consortium has several Accessibility specifications that have achieved W3C Recommendation status, including WCAG, ATAG, and WAI-ARIA. Other accessibility-related W3C recommendations, such as the User Agent Accessibility Guidelines, are also relevant.</p>
@@ -90,7 +89,7 @@ exclude-changelog: true
     <li><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html" class="ext">An Introduction to Understanding WCAG 2.0</a> (Mar. 17, 2016)</li>
     <li><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html" class="ext">Understanding WCAG 2.0</a></li>
     <li><a href="https://www.w3.org/WAI/WCAG20/quickref/" class="ext">WCAG Quick Reference</a></li>
-    <li><a href="http://w3c.github.io/aria-practices/" class="ext">WAI-ARIA Authoring Best Practices</a></li>
+    <li><a href="https://www.w3.org/WAI/ARIA/apg/practices/" class="ext">WAI-ARIA ARIA Authoring Practices Guide (APG)</a></li>
     <li><a href="http://www.w3.org/TR/ATAG20/" class="ext">W3C Authoring Tool Accessibility Guidelines</a></li>
     <li><a href="http://www.w3.org/TR/UAAG20/" class="ext">W3C User Agent Accessibility Guidelines</a></li>
     <li><a href="http://www.w3.org/TR/svg-aam-1.0/" class="ext">SVG Accessibility Mappings</a></li>

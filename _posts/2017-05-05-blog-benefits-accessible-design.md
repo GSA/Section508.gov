@@ -4,27 +4,26 @@ sidenav: true
 type: article
 title: Benefits of Accessible Design
 permalink: blog/benefits-accessible-design/
-description: 'According to the World Bank, <a href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <b>world''s largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities.'
+description: "According to the World Bank, <a href=\"http://www.worldbank.org/en/topic/disability/overview\">approximately one billion people worldwide live with a disability</a>, making up the <b>world's largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities."
 tags: Design-and-Develop
 social_img: "assets/images/social-media-og-image-bytes.jpg"
 social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
-audience: 
+audience:
 - Designers
 - Developers
 - Members of the Public
 - Section 508 Program Managers
-topic: 
+topic:
 - Design
-subtopic: 
+subtopic:
 - Best Practices
-resource-type: 
+resource-type:
 - Blog
 format: HTML
 created: 2017-05-05
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
-
 According to the World Bank, [approximately one billion people worldwide live with a disability][1], making up the **world's largest minority.** Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
 
 <div>
@@ -38,7 +37,7 @@ According to the World Bank, [approximately one billion people worldwide live wi
   
   <div>
     <p>
-      Accessible technology could make website navigation possible and/or easier for 57% of computer users. A <a href="https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/">study in the United Kingdom (UK)</a> found that<strong> 71% of web users with a disability will simply leave a website that is not accessible</strong>. With over 6.1 million people with disabilities in the UK, that represents a significant loss of traffic, customers, and audience. It also represents an opportunity for businesses and consumers to reach this untapped market online. Organizations in Europe indicated that implementation of accessible web design minimizes the rate at which users abandon a site and increases revenue.
+      Accessible technology could make website navigation possible and/or easier for 57% of computer users. A study in the United Kingdom (UK) found that<strong> 71% of web users with a disability will simply leave a website that is not accessible</strong>. With over 6.1 million people with disabilities in the UK, that represents a significant loss of traffic, customers, and audience. It also represents an opportunity for businesses and consumers to reach this untapped market online. Organizations in Europe indicated that implementation of accessible web design minimizes the rate at which users abandon a site and increases revenue.
     </p>    
     <div>
       <p>
@@ -161,22 +160,13 @@ According to the World Bank, [approximately one billion people worldwide live wi
         <a href="https://www.disabilitystatistics.org/report/2014/US">https://www.disabilitystatistics.org/report/2014/US</a>
       </li>
       <li>
-        <a href="http://www.interactiveaccessibility.com/benefits-accessibility">http://www.interactiveaccessibility.com/benefits-accessibility</a>
-      </li>
-      <li>
         <a href="https://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff16.html">https://www.census.gov/newsroom/releases/archives/facts_for_features_special_editions/cb12-ff16.html</a>
       </li>
       <li>
         <a href="http://www.worldbank.org/en/topic/disability/overview">http://www.worldbank.org/en/topic/disability/overview</a>
       </li>
       <li>
-        <a href="http://ininet.org/accessible-technology-in-computing--examining-awareness-use-an.html?page=3">http://ininet.org/accessible-technology-in-computing--examining-awareness-use-an.html?page=3</a>
-      </li>
-      <li>
         <a href="https://www2.census.gov/library/publications/2012/demo/p70-131.pdf">https://www2.census.gov/library/publications/2012/demo/p70-131.pdf</a>
-      </li>
-      <li>
-        <a href="https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/">https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/</a>
       </li>
       <li>
         <a href="{{site.baseurl}}/">https://section508.gov/</a>

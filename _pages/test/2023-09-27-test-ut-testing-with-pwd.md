@@ -1,23 +1,27 @@
 ---
 layout: page
 sidenav: true
-permalink: test/usability-testing-with-people-with-disabilities/
-description: "Learn how to include people with disabilities in usability testing to improve accessibility, inclusive design, and user experience."
 type: test
-title: 'Tips for Usability Testing with People with Disabilities'
+title: Tips for Usability Testing with People with Disabilities
+permalink: test/usability-testing-with-people-with-disabilities/
+description: Learn how to include people with disabilities in usability testing to improve accessibility, inclusive design, and user experience.
 contributors: martin-beth, opm
-created: 2023-09-27
-updated:
-topic: Testing
-sub-topic: Best Practices
 audience:
-- Section 508 Program Managers
-- Web Content Managers
-- IT Program & Project Managers
 - Content Creators
 - Developers
-resource-type: Article
+- IT Program & Project Managers
+- Section 508 Program Managers
+- Web Content Managers
+topic:
+- Testing
+subtopic:
+- Best Practices
+resource-type:
+- Article
 format: HTML
+created: 2023-09-27
+updated: 2026-10-22
+exclude-changelog: true
 ---
 ## What is Usability Testing?
 Usability testing (UT), a type of user experience (UX) research method, helps you gather quantitative and qualitative data from representative users. You can leverage UT to improve UX through iterative design based on the observations of real users. Once you identify interaction and design problems of a product or service, you can then test ways to solve those problems.
@@ -57,7 +61,7 @@ It is up to the facilitator to determine the method of capture and analysis of f
 * Plan to schedule additional time (roughly plan for 25% more time) for extra setup, and logistics.
 * If participants are using a screen reader, be sure not to talk over the screen reader during the UT session.
 * If the UT session is in person and a participant has a service animal, do not treat it as a pet. You may also need to allow time for the service animal to have water and building entry and exit for relief breaks.
-* <a href="https://uxpajournal.org/moderate-usability-tests/" target="_blank" class="usa-link--external">Protect the test participants’ rights and respect them as experts.</a> Let them verbalize their experience and track that data. Facilitators should not worry about using the word “see” as in “did you see that on the web site?” You should, however, aim to be considerate by being responsive to individual needs and preferences and simply asking individuals if you aren’t sure.
+* Protect the test participants’ rights and respect them as experts. Let them verbalize their experience and track that data. Facilitators should not worry about using the word “see” as in “did you see that on the web site?” You should, however, aim to be considerate by being responsive to individual needs and preferences and simply asking individuals if you aren’t sure.
 
 ## Final Thoughts
 * When you incorporate accessibility standards throughout the development lifecycle of any product or service, you not only improve compliance to legal requirements but also improve accessibility for all users.
