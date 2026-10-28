@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Accessibility Training Workshops
 permalink: training/accessibility-training-workshops/
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: Accessibility training workshops provide ready-to-use instructor guides, slides, and practice activities to help teams create accessible documents and meet Section 508 Standards.
 disclaimer: true
 redirect_from:
 - training/workshops/
