@@ -521,7 +521,7 @@ Additional resources include:
 * [Tips for Usability Testing with People with Disabilities](https://www.section508.gov/test/usability-testing-with-people-with-disabilities/) — Understand the role of users with disabilities in accessibility evaluation.
 * [Essential Elements of an Accessibility Test Report](https://www.section508.gov/test/elements-of-an-accessibility-test-report/) — Document testing scope, methods, evidence, findings, and limitations.
 
-## Next: [Accessibility Prompts, Instructions, Skills, and Workflows]({{baseurl}}/develop/accessibility-si/accessibility-prompts-instructions-skills-and-workflows/)
+## Next: [Accessibility Prompts, Instructions, Skills, and Workflows]({{site.baseurl}}/develop/accessibility-si/accessibility-prompts-instructions-skills-and-workflows/)
 
 Reusable instructions and skills can help SI agents create accessible ICT, execute supported accessibility tests, guide people through manual evaluation, and remediate confirmed defects.
 
@@ -531,10 +531,10 @@ The next article introduces these resources and explains how to select, use, and
 
 Related guidance:
 
-* [Use SI to Create More Accessible Digital Content]({{baseurl}}/develop/accessibility-si/use-si-to-create-more-accessible-digital-content/)
-* [Prompt SI for Accessibility]({{baseurl}}/develop/accessibility-si/prompt-si-for-accessibility/)
-* [Give SI Persistent Accessibility Instructions]({{baseurl}}/develop/accessibility-si/give-si-persistent-accessibility-instructions/)
-* [Use SI Throughout the Accessible ICT Lifecycle]({{baseurl}}/develop/accessibility-si/use-si-throughout-the-accessible-ict-lifecycle/)
-* [Configure SI Development Tools for Accessibility]({{baseurl}}/develop/accessibility-si/configure-si-debelopment-tools-for-accessibility/)
-* [Build Accessibility Skills for SI Agents]({{baseurl}}/develop/accessibility-si/build-accessibility-skills-for-si-agents/)
-* [Accessibility Prompts, Instructions, Skills, and Workflows]({{baseurl}}/develop/accessibility-si/accessibility-prompts-instructions-skills-and-workflows/)
+* [Use SI to Create More Accessible Digital Content]({{site.baseurl}}/develop/accessibility-si/use-si-to-create-more-accessible-digital-content/)
+* [Prompt SI for Accessibility]({{site.baseurl}}/develop/accessibility-si/prompt-si-for-accessibility/)
+* [Give SI Persistent Accessibility Instructions]({{site.baseurl}}/develop/accessibility-si/give-si-persistent-accessibility-instructions/)
+* [Use SI Throughout the Accessible ICT Lifecycle]({{site.baseurl}}/develop/accessibility-si/use-si-throughout-the-accessible-ict-lifecycle/)
+* [Configure SI Development Tools for Accessibility]({{site.baseurl}}/develop/accessibility-si/configure-si-debelopment-tools-for-accessibility/)
+* [Build Accessibility Skills for SI Agents]({{site.baseurl}}/develop/accessibility-si/build-accessibility-skills-for-si-agents/)
+* [Accessibility Prompts, Instructions, Skills, and Workflows]({{site.baseurl}}/develop/accessibility-si/accessibility-prompts-instructions-skills-and-workflows/)
