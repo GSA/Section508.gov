@@ -230,7 +230,7 @@ For each role, you will find:
 <div class="grid-col-12 summary-box--icon-prompt">
   <ul class="usa-icon-list padding-right-2 force-max-width">
       <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#_assessment"></use></svg></div>
+          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#assessment"></use></svg></div>
           <div class="usa-icon-list__content force-max-width">
               <div class="box-heading"><h3 style="margin-top:0; margin-bottom:0.5rem;">Sample Performance Metrics</h3><hr></div>
               <div class="box-text">
