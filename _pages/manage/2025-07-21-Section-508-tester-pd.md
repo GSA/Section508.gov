@@ -103,7 +103,7 @@ For each role, you will find:
 <div class="grid-col-12 summary-box--icon-requirement">
   <ul class="usa-icon-list padding-right-2 force-max-width">
       <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#_star"></use></svg></div>
+          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#star"></use></svg></div>
           <div class="usa-icon-list__content force-max-width">
               <div class="box-heading"><h4 style="margin-top:0; margin-bottom:0.5rem;">Best Practices</h4><hr></div>
               <div class="box-text">
@@ -146,7 +146,7 @@ For each role, you will find:
 <div class="border-base radius-lg border-1px padding-1" style="margin-top: 1.0em;">
 <ul class="usa-icon-list padding-right-2 force-max-width">
       <li class="usa-icon-list__item">
-          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#format_reduce_capacity"></use></svg></div>
+          <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#reduce_capacity"></use></svg></div>
           <div class="usa-icon-list__content force-max-width">
               <div class="box-text"><h3 style="margin-top:0; margin-bottom:0.5rem;">Strategies For Engagement & Alliance Building</h3><hr></div>
               <div class="box-text">
