@@ -1037,6 +1037,10 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+ <th scope="row" id="RACI">RACI matrix</th>
+ <td>A RACI matrix identifies who is Responsible, Accountable, Consulted, and Informed for each activity in a process. For Section 508-related work, a RACI matrix helps clarify ownership of accessibility requirements, testing, remediation, documentation, procurement, and ongoing compliance responsibilities.</td>
+ </tr>
+  <tr>
     <th scope="row" id="rarely">Rarely</th>
     <td>Within the Assessment, used to describe activities that are performed approximately 1% to 10% of the time.</td>
   </tr>
