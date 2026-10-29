@@ -1565,6 +1565,49 @@ div[role=rowheader] {
   width: 100% !important;
 }
 
+/* Chatbot - static example conversations in articles. */
+.chat-example {
+  margin-block: 1.5rem;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  border: 1px solid #dfe1e2;
+  border-radius: 0.5rem;
+  background-color: #f5f6f7;
+  color: #1b1b1b;
+
+  .chat-example__message {
+    margin-block: 0 1.5rem;
+    overflow-wrap: anywhere;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    p {
+      max-width: none;
+      margin-block: 0 0.75rem;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .chat-example__message--user {
+    margin-left: 20%;
+    padding: 1rem 1.25rem;
+    border: 1px solid #c9d6e2;
+    border-radius: 1rem 1rem 0.25rem 1rem;
+    background-color: #e7eff6;
+  }
+
+  @media (max-width: 30rem) {
+    .chat-example__message--user {
+      margin-left: 8%;
+      padding: 0.75rem 1rem;
+    }
+  }
+}
+
 /* CALLOUT BOXES */
 .summary-box {
   border: 1px solid black; 
@@ -1641,12 +1684,12 @@ div[role=rowheader] {
 .summary-box--icon-prompt {
   border-color: #4f97d1;
   background-color: #eff6fb;
-  color: #0076d6;
+  color: #0070d0;
   hr {
     border-top-color: #88acdc;
   }
   .box-heading {
-    color: #0076d6;
+    color: #0070d0;
   }
 }
 /* Requirement text */
