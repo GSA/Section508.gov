@@ -137,7 +137,7 @@ manage:
             url: manage/roles/
           - name: How to Attain Section 508 Testing Expertise
             url: manage/roles/attain-section-508-testing-expertise/
-          - name: Section 508 Position Descriptions
+          - name: Position Descriptions for Section 508 Roles and Responsibilities
             url: manage/roles/section-508-position-descriptions/
           - name: Section 508 PM Competency Guide
             url: manage/roles/section-508-pm-compentency-guide/
