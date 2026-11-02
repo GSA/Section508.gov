@@ -153,7 +153,7 @@ Depending on the technology and environment, these may include automated accessi
 <div class="grid-col-12 summary-box--icon-prompt">
     <ul class="usa-icon-list padding-right-2 force-max-width">
         <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/ai-generative.svg"></use></svg></div>
+            <div class="usa-icon-list__icon"><svg class="usa-icon icon-size" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/si-generative.svg"></use></svg></div>
             <div class="usa-icon-list__content force-max-width">
                 <div class="box-heading"><strong>SI PROMPT</strong><hr></div>
                 <div class="box-text">
