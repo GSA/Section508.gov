@@ -189,8 +189,6 @@ Jillian Langley - <jillian.langley.ctr@dc3.mil>
 Bryan Conway - <bryan.w.conway.civ@mail.mil>    
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
-### Defense Human Resources Agency (DHRA)
-A’Donna Hudson - <adonna.a.hudson.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
@@ -251,6 +249,8 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
 ### Pentagon Force Protection Agency (PFPA)
 Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
+### Personnel Readiness Management Agency (PRMA)
+Donna Cowan - <donna.d.cowan2.civ@mail.mil>  
 ### United States Northern Command (USNORTHCOM)
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
 ### United States Southern Command (SOUTHCOM)
@@ -265,7 +265,9 @@ CIO Office Mailbox - <stratcom.offutt.j6.mbx.cio@mail.mil>
 ### United States Transportation Command (USTRANSCOM)
 USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
 ### Warfighting Acquisition University (WarU)
-Consuala Spencer - <consuala.spencer@waru.edu>
+Consuala Spencer - <consuala.spencer@waru.edu>  
+### War Media Activity (WMA)
+Taiysha Bowie - <taiysha.h.bowie.civ@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -380,7 +382,6 @@ Elliot Hoang (Deputy) - <elliott.hoang@tsa.dhs.gov>
 Kenneth S. Moser - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - <eleanor.e.thompson@uscg.mil>  
-Terry A. Bell - <terry.a.bell@uscg.mil>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
@@ -635,7 +636,7 @@ Shellby Padgett - <goldwaterao@goldwaterscholarship.gov>
 
 ---
 ### Bonneville Power Administration	(BPA)	
-Jenna	A. Ramos	- <jaramos@bpa.gov>  
+Jeanna	A. Ramos	- <jaramos@bpa.gov>  
 
 ---
 <span id="C" ></span>
@@ -743,7 +744,7 @@ Theodosia Villatoro-Sorto - <tvillatoro-sorto@fmshrc.gov>
 ---
 ### Federal Reserve Board of Governors (FRB)
 Melissa Lasbury - <melissa.p.lasbury@frb.gov>  
-Randal Duchesneau - <randall.duchesneau@frb.gov>  
+Randall Duchesneau - <randall.duchesneau@frb.gov>  
 
 ---
 ### Federal Retirement Thrift Investment Board (FRTIB)
