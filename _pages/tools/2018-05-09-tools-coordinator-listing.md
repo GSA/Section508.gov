@@ -151,7 +151,6 @@ Todd McKeever - <tmckeever@ntis.gov>
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - <mark.reumann@uspto.gov>  
 Yuting Sun (Deputy) - <yuting.sun@uspto.gov>  
-Michael Jennings (Deputy) - <michael.jennings1@uspto.gov>  
 
 ---
 ## <span id ="usdow" ></span>Department of War (DOW)
@@ -186,7 +185,8 @@ Horace Russell Jr. (Deputy) - <horace.russell12.civ@mail.mil>
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
-Bryan Conway - <bryan.w.conway.civ@mail.mil>    
+Bryan Conway - <bryan.w.conway.civ@mail.mil>   
+Erich Cardosi (Deputy) - <erich.t.cardosi.civ@mail.mil>  
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Information Systems Agency (DISA)
@@ -276,8 +276,7 @@ Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>
 
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
-Ilir Angjeli  
-Yohanna Freeman (Deputy)  
+Ilir Angjeli   
 DOE Helpdesk - <doesection508coordinator@hq.doe.gov>  
 
 ---
