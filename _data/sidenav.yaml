@@ -525,7 +525,7 @@ develop:
       - name: RACI Matrix for Section 508 Accessibility Integration in the Software Development Lifecycle 
         url: develop/raci-matrix-for-section-508-in-sdlc/
 test:
-  - name: Testing
+  - name: Testing & Remediation
     url: 'test/'
   - name: Testing Lifecycle
     url: '#'
