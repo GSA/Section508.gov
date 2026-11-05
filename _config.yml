@@ -84,7 +84,7 @@ primary_navigation:
     url: /create/
   - name: Design & Develop
     url: /develop/
-  - name: Testing
+  - name: Testing & Remediation
     url: /test/
   - name: Training, Tools & Events
     url: /training/
