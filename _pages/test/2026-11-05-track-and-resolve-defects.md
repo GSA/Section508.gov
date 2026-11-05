@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-type: manage
+type: test
 title: Track, Escalate, and Resolve Section 508 Defects
 permalink: test/track-escalate-resolve-section-508-defects/
 description: Learn how federal agencies can track, escalate, and resolve Section 508 defects with step-by-step guidance, templates, and sample contract language.
