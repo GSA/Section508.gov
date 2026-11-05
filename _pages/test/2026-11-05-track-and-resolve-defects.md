@@ -312,7 +312,7 @@ Reference the <a href="{{site.baseurl}}/sell/acr-supplement/">Section 508 Govern
         <tr>
           <th scope="row"><strong>Minor</strong></th>
           <td>As needed</td>
-          <td>Routine sprint planning or maintenance cycle or within 60–90 business days</td>
+          <td>Routine sprint  or maintenance cycle or within 60–90 business days</td>
         </tr>
       </tbody>
     </table>
@@ -369,7 +369,7 @@ Reference the <a href="{{site.baseurl}}/sell/acr-supplement/">Section 508 Govern
   <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Request a Remediation Plan</h3>
 
-    <p>For Critical and Major defects, and any defect affecting a pending deliverable or deployment, require the responsible team to submit a written <a href="{{site.baseurl}}/manage/remediation-alternative-means-planning/">remediation plan</a>. This creates accountability and gives the agency visibility into the approach that will be taken to remediate the defect.</p>
+    <p>For Critical and Major defects, and any defect affecting a pending deliverable or deployment, require the responsible team to submit a written <a href="{{site.baseurl}}/manage/remediation-alternative-means-/">remediation plan</a>. This creates accountability and gives the agency visibility into the approach that will be taken to remediate the defect.</p>
 
     <p>The remediation plan should include:</p>
 
@@ -660,7 +660,7 @@ Reference the <a href="{{site.baseurl}}/sell/acr-supplement/">Section 508 Govern
 
     <p><strong>Do not use deferral to avoid Section 508 requirements.</strong> Agencies should track, report, and resolve deferred defects.</p>
 
-    <div class="grid-col-12 summary-box--alt"><p>When a Section 508 defect prevents a user with a disability from accessing ICT, the agency has an obligation to provide an alternate means of access while the defect is being remediated. Alternate means are a temporary measure — they are not a substitute for conformance. Section 508 permits the use of alternate means of access when ICT cannot be made fully conformant, but agencies should ensure that the alternate means provides equivalent access. An inconvenient, delayed, or inaccessible workaround does not satisfy this obligation. See <a href="{{site.baseurl}}/manage/remediation-alternative-means-planning/">Remediation and Accommodation Planning</a></p></div>
+    <div class="grid-col-12 summary-box--alt"><p>When a Section 508 defect prevents a user with a disability from accessing ICT, the agency has an obligation to provide an alternate means of access while the defect is being remediated. Alternate means are a temporary measure — they are not a substitute for conformance. Section 508 permits the use of alternate means of access when ICT cannot be made fully conformant, but agencies should ensure that the alternate means provides equivalent access. An inconvenient, delayed, or inaccessible workaround does not satisfy this obligation. See <a href="{{site.baseurl}}/manage/remediation-alternative-means-planning/">Remediation and Accommodation Planning.</a></p></div>
     <br>
 
     <div class="grid-col-12 summary-box">
