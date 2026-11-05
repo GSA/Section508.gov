@@ -38,10 +38,9 @@ updated:
 
 <p>This article provides Section 508 program managers, IT project managers, and contracting officers with a recommended eight-step process for managing Section 508 defects from discovery through closure. It also includes escalation guidance, sample templates, and suggested contract language. The guidance applies whether the work is performed by internal teams or external contractors.</p>
 
-<div class="grid-col-12 summary-box">
+<div class="grid-col-12 summary-box margin-bottom-3">
   <p><strong>Tip:</strong> Tailor all sample language to your agency's policies, contracts, and legal requirements.</p>
 </div>
-<br>
 
 <div class="grid-col-12 summary-box--icon-suggested">
   <ul class="usa-icon-list padding-right-2 force-max-width">
@@ -124,7 +123,7 @@ updated:
 <p>A Section 508 defect that is identified but not tracked is a defect that may never get fixed. Agencies that test regularly, document findings consistently, and follow a clear remediation process are better equipped to close defects, reduce recurrence, and demonstrate better Section 508 conformance over time. The following eight steps provide a recommended procedure for managing Section 508 defects from initial discovery through closure. Apply these steps consistently across ICT products and development efforts.</p>
 
 <div class="grid-col-12 summary-box">
-  <p><strong>Callout:</strong> Unresolved Section 508 defects have real consequences and risk associated with them. When a user with a disability cannot access ICT and the agency has not provided an equivalent alternate means of access, that user can report the issue through the agency's <a href="{{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/">public feedback mechanism</a> or file a <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-complaints-best-practices/">formal Section 508-related complaint</a>. Treat every incoming report as a defect. Log it, triage it, assign it a severity, and resolve it using the process described in this article. Documenting these actions helps manage risk, reduce user harm, and demonstrate accountability until the defect is fully remediated.</p>
+  <p>Unresolved Section 508 defects have real consequences and risk associated with them. When a user with a disability cannot access ICT and the agency has not provided an equivalent alternate means of access, that user can report the issue through the agency's <a href="{{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/">public feedback mechanism</a> or file a <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-complaints-best-practices/">formal Section 508-related complaint</a>. Treat every incoming report as a defect. Log it, triage it, assign it a severity, and resolve it using the process described in this article. Documenting these actions helps manage risk, reduce user harm, and demonstrate accountability until the defect is fully remediated.</p>
 </div>
 
 <ol id="section-508-defect-management-process" class="usa-process-list itad-process-list--wide">
