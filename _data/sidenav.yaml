@@ -538,10 +538,6 @@ test:
         url: 'test/elements-of-an-accessibility-test-report/'
       - name: ICT Accessibility Testing in the Development Process
         url:  test/ict-testing-activities-by-lifecycle-phase/
-      - name: Track, Escalate, and Resolve Section 508 Defects
-        url:  test/track-escalate-resolve-section-508-defects/
-      - name: Remediation and Accommodation Planning
-        url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
     url: '#'
     children:
@@ -562,6 +558,8 @@ test:
         url: 'create/making-color-usage-accessible/#color-accessibility-checklist'
       - name: Email Messages
         url: 'test/checklist/email-messages/'
+      - name: Testing Dynamic Forms
+        url: test/dynamic-forms/#quick-reference-checklist-dynamic-forms-title
   - name: Testing Dynamic Forms
     url: test/dynamic-forms/
   - name: Electronic Documents
@@ -586,6 +584,13 @@ test:
     children:
       - name: Web Content Overview
         url: test/websites/
+  - name: Remediating Defects
+    url: '#'
+    children:
+      - name: Track, Escalate, and Resolve Section 508 Defects
+        url:  test/track-escalate-resolve-section-508-defects/
+      - name: Remediation and Accommodation Planning
+        url: manage/remediation-alternative-means-planning/
   - name: Tools for Testing ICT
     url: tools/tools-for-testing-ict/
 
