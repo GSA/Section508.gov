@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-type: acquisition
+type: report2024
 title: Introduction
 permalink: manage/section-508-assessment/2024/introduction/
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, introduces the assessment scope, purpose, and reporting requirements.
