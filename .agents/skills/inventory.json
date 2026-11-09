@@ -1,0 +1,56 @@
+{
+  "collection_version": "0.2.0",
+  "source_revision": "8c2862483964612ac49707eee0161c95e1d55e49",
+  "distribution": "standalone-skills",
+  "files": [
+    {
+      "path": "accessible-web-development/LICENSE.md",
+      "sha256": "832ba2061e56721ec56f349dac4fa2bc27683c1e937a768088050f302cd73ca4"
+    },
+    {
+      "path": "accessible-web-development/SKILL.md",
+      "sha256": "e33821ca7cb1170e0438857edcab777dacb4da3b0378dad24834e1843c03134f"
+    },
+    {
+      "path": "accessible-web-development/references/scope.md",
+      "sha256": "6929a2aee96e1737bdf2ed74b793b8e00b2570ffd188b60685b970338aeb2e40"
+    },
+    {
+      "path": "accessible-web-development/references/source-notices.md",
+      "sha256": "dc740900c31efe208f44a70c76885a44a212f5473cff9e18adf746e49a120d45"
+    },
+    {
+      "path": "accessible-web-development/references/wcag-a-aa.md",
+      "sha256": "5e25362b0373732c944928a33e716a3db389fae25c0e3a0fde763ff66037f107"
+    },
+    {
+      "path": "accessible-web-development/references/web-baseline.md",
+      "sha256": "5617497ba9ff4e64c08fb33d049eed9e82bab3905c65bec4aede488bf20ff1bf"
+    },
+    {
+      "path": "web-accessibility-testing/LICENSE.md",
+      "sha256": "832ba2061e56721ec56f349dac4fa2bc27683c1e937a768088050f302cd73ca4"
+    },
+    {
+      "path": "web-accessibility-testing/SKILL.md",
+      "sha256": "11eb10580ec4b71c63d01e07f948088925674a80a0fabb5571c050cae96ef2bb"
+    },
+    {
+      "path": "web-accessibility-testing/references/scope.md",
+      "sha256": "6929a2aee96e1737bdf2ed74b793b8e00b2570ffd188b60685b970338aeb2e40"
+    },
+    {
+      "path": "web-accessibility-testing/references/source-notices.md",
+      "sha256": "dc740900c31efe208f44a70c76885a44a212f5473cff9e18adf746e49a120d45"
+    },
+    {
+      "path": "web-accessibility-testing/references/wcag-a-aa.md",
+      "sha256": "5e25362b0373732c944928a33e716a3db389fae25c0e3a0fde763ff66037f107"
+    },
+    {
+      "path": "web-accessibility-testing/references/web-baseline.md",
+      "sha256": "5617497ba9ff4e64c08fb33d049eed9e82bab3905c65bec4aede488bf20ff1bf"
+    }
+  ],
+  "local_adaptations": "Section508.gov integration: clarify web-only resources and unavailable upstream provenance and case evidence. source_revision identifies the original distribution; file hashes describe the adapted local files."
+}
