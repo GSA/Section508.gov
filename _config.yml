@@ -184,6 +184,9 @@ pagination:
     after: 2
 
 exclude:
+  - AGENTS.md
+  - .agents
+  - .github
   - package.json
   - package-lock.json
   - README.md
