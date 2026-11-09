@@ -137,7 +137,7 @@ manage:
             url: manage/roles/
           - name: How to Attain Section 508 Testing Expertise
             url: manage/roles/attain-section-508-testing-expertise/
-          - name: Section 508 Position Descriptions
+          - name: Position Descriptions for Section 508 Roles and Responsibilities
             url: manage/roles/section-508-position-descriptions/
           - name: Section 508 PM Competency Guide
             url: manage/roles/section-508-pm-compentency-guide/
@@ -150,7 +150,7 @@ manage:
       - name: How Section 508 Standards Benefit People With Disabilities
         url: manage/how-508-standards-benefit-pwd/
       - name: Understanding Relationship Between Sections 501, 504, and 508
-        url: /manage/relationship-between-sections-508-504-and-501/
+        url: manage/relationship-between-sections-508-504-and-501/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -226,12 +226,12 @@ training:
         url: 'training/courses/accessible-for-executives/'
       - name: "Accessible Meetings for Hosts & Presenters"
         url: 'training/courses/accessible-meetings/'
+      - name: "Micro-Purchases and Section 508 Requirements"
+        url: 'training/courses/micro-purchases/'
       - name: "Microsoft Word Accessibility Overview"
         url: 'training/courses/microsoft-word-accessibility-overview/'
       - name: "Microsoft Word for Document Designers"
         url: 'training/courses/microsoft-word-accessibility-designers/'
-      - name: "Micro-Purchases and Section 508 Requirements"
-        url: 'training/courses/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
         url: 'training/courses/procuring-section-508-conformant-ict/'
       - name: "Section 508: What Is It and Why Is It Important?"
@@ -525,7 +525,7 @@ develop:
       - name: RACI Matrix for Section 508 Accessibility Integration in the Software Development Lifecycle 
         url: develop/raci-matrix-for-section-508-in-sdlc/
 test:
-  - name: Testing
+  - name: Testing & Remediation
     url: 'test/'
   - name: Testing Lifecycle
     url: '#'
@@ -538,8 +538,6 @@ test:
         url: 'test/elements-of-an-accessibility-test-report/'
       - name: ICT Accessibility Testing in the Development Process
         url:  test/ict-testing-activities-by-lifecycle-phase/
-      - name: Remediation and Accommodation Planning
-        url: 'manage/remediation-alternative-means-planning/'
   - name: Testing Methods
     url: '#'
     children:
@@ -560,6 +558,10 @@ test:
         url: 'create/making-color-usage-accessible/#color-accessibility-checklist'
       - name: Email Messages
         url: 'test/checklist/email-messages/'
+      - name: Testing Dynamic Forms
+        url: test/dynamic-forms/#quick-reference-checklist-dynamic-forms-title
+  - name: Testing Dynamic Forms
+    url: test/dynamic-forms/
   - name: Electronic Documents
     url: '#'
     children:
@@ -582,6 +584,13 @@ test:
     children:
       - name: Web Content Overview
         url: test/websites/
+  - name: Remediating Defects
+    url: '#'
+    children:
+      - name: Track, Escalate, and Resolve Section 508 Defects
+        url:  test/track-escalate-resolve-section-508-defects/
+      - name: Remediation and Accommodation Planning
+        url: manage/remediation-alternative-means-planning/
   - name: Tools for Testing ICT
     url: tools/tools-for-testing-ict/
 

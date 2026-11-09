@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import {Art508LangService} from '../../shared/services/art-508-lang/art-508-lang.service';
 import {IctItemService} from "../../shared/services/ict-item/ict-item.service";
@@ -11,6 +11,7 @@ import { ArtIctLpService } from 'src/app/shared/services/art-ict-lp/art-ict-lp.s
     selector: 'app-summary-page',
     templateUrl: './summary-page.component.html',
     styleUrls: ['./summary-page.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class SummaryPageComponent implements OnInit {
@@ -153,8 +154,7 @@ export class SummaryPageComponent implements OnInit {
         const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
 
         console.log(tempLanguageGenerated);
-        const copy = require('clipboard-copy');
-        copy(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
+        navigator.clipboard.writeText(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){

@@ -25,7 +25,8 @@ resource-type:
 - Article
 format: HTML
 created: 2026-07-10
-updated: 
+updated: 2026-10-21
+exclude-changelog: true
 ---
 Federal agencies develop policies and directives to guide operations, governance, and compliance with laws. Failure to integrate Section 508 accessibility considerations into the policy review lifecycle increases risk for agencies. Specifically, it can unintentionally mandate inaccessible tools, systems, or practices through internal requirements, ultimately leading to higher remediation costs, greater legal exposure, and increased barriers for users.
 
@@ -33,7 +34,7 @@ To ensure agencies consistently and proactively address accessibility, integrate
 
 ## Benefits of Integrating Section 508 Into Policy Review
 
-<a href="https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology)" target="_blank" class="usa-link--external" rel="noopener">Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)</a> requires federal information and communication technology (ICT) to be accessible to people with disabilities. The law applies to ICT that agencies develop, use, maintain, and procure. Policies that fail to consider Section 508 requirements may:
+<a href="https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology" target="_blank" class="usa-link--external" rel="noopener">Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)</a> requires federal information and communication technology (ICT) to be accessible to people with disabilities. The law applies to ICT that agencies develop, use, maintain, and procure. Policies that fail to consider Section 508 requirements may:
 
 <ul class="usa-icon-list">
     <li class="usa-icon-list__item">

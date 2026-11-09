@@ -1,4 +1,4 @@
-import { ChangeDetectorRef, AfterViewChecked, Component, HostListener, OnInit } from '@angular/core';
+import { ChangeDetectorRef, AfterViewChecked, Component, HostListener, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { FormTemplateInterface } from 'src/app/shared/models/form-template.interface';
 import { FormPageService } from 'src/app/shared/services/form-page/form-page.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
@@ -14,6 +14,7 @@ import { ArtMessageService } from '../../shared/services/art-message/art-message
     selector: 'app-form-page',
     templateUrl: './form-page.component.html',
     styleUrls: ['./form-page.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {

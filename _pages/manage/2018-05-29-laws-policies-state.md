@@ -2,23 +2,25 @@
 layout: page
 sidenav: true
 type: manage
-title: 'State-level Accessibility Law and Policy'
+title: State-level Accessibility Law and Policy
 permalink: manage/laws-and-policies/state/
-description: "Discover state-specific accessibility laws and policies on Section508.gov. Learn how states implement digital accessibility standards to ensure equal access for all users, including individuals with disabilities."
-disclaimer:
-hide-date:
-created: 2018-05-29
-updated: 2025-02-25 
+description: Discover state-specific accessibility laws and policies on Section508.gov. Learn how states implement digital accessibility standards to ensure equal access for all users, including individuals with disabilities.
 audience:
-- Policy and Law Makers
-- Section 508 Program Managers
 - Federal Employees
 - IT Program & Project Managers
 - Manager & Supervisor
-topic: Law
-sub-topic: Statute & Regulation
-resource-type: Article
+- Policy and Law Makers
+- Section 508 Program Managers
+topic:
+- Law
+subtopic:
+- Statute & Regulation
+resource-type:
+- Article
 format: HTML
+created: 2018-05-29
+updated: 2026-10-26
+exclude-changelog: true
 ---
 <p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring information and communication technology (ICT) accessibility in addition to <a href="https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people" target="_blank" class="usa-link--external">rules introduced in 2024 by the Department of Justice under Title II of the Americans with Disabilities Act (ADA)</a> to strengthen web and mobile app access for people with disabilities. 
@@ -34,7 +36,7 @@ If your state is not listed, please [contact us][27] using your government email
 <p id="A" name="A"> </p> 
 
 ## Alabama
-<a href="http://www.al.gov/terms-of-use" target="_blank" class="usa-link--external">Alabama.gov Accessibility Policy</a> In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
+<a href="https://www.alabama.gov/terms-of-use" target="_blank" class="usa-link--external">Alabama.gov Accessibility Policy</a> In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
 
 ## Arizona
 <a href="https://az.gov/policy/accessibility" target="_blank" class="usa-link--external">AZ.gov Accessibility Policy</a> To provide an accessibility model in which web content authors, format designers, and software developers within State agencies understand their roles in providing persons with disabilities, access to existing and developing State web sites. The following web page designs and features for completing the accessibility model are to be addressed for all State web sites.
@@ -50,12 +52,12 @@ Government Code Section 11135 prohibits discrimination on the basis of sex, race
 <a href="https://leg.colorado.gov/bills/hb21-1110" target="_blank" class="usa-link--external">Colorado Laws For Persons With Disabilities</a> The act (HB21-1110) adds language to strengthen current Colorado law related to protections against discrimination on the basis of disability for persons with disabilities, specifically as those laws relate to accessibility to government information technology. 
 
 ## Connecticut
-<a href="http://www.access.state.ct.us/policies/accesspolicy40.html" target="_blank" class="usa-link--external">State of Connecticut Universal Web Site Accessibility Policy for State Web Sites</a> This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues.
+<a href="https://portal.ct.gov/-/media/sitecore-center/accessibility/it-accessibility-policy-final-for-release-07142025.pdf" target="_blank" class="usa-link--external">State of Connecticut Universal Web Site Accessibility Policy for State Web Sites</a> This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues.
 
 <p id="I" name="I"></p>
 
 ## Illinois
-The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" class="usa-link--external">Illinois Information Technology Accessibility Act (IITAA)</a> requires Illinois agencies and universities to ensure that their web sites, systems, and other information technologies are accessible to people with disabilities. While the Americans with Disabilities Act and Section 504 of the Rehabilitation Act require the State to address accessibility in general, the IITAA requires the State to establish and follow specific, functional accessibility standards and to address accessibility proactively.
+The <a href="https://doit.illinois.gov/initiatives/accessibility/iitaa.html" target="_blank" class="usa-link--external">Illinois Information Technology Accessibility Act (IITAA)</a> requires Illinois agencies and universities to ensure that their web sites, systems, and other information technologies are accessible to people with disabilities. While the Americans with Disabilities Act and Section 504 of the Rehabilitation Act require the State to address accessibility in general, the IITAA requires the State to establish and follow specific, functional accessibility standards and to address accessibility proactively.
 
 ## Indiana
 <a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-link--external">IN.gov Accessibility Policy</a> Indiana is committed to universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.

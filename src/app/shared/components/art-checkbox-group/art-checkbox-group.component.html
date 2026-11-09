@@ -3,7 +3,7 @@
     <h3 id="{{ formData?.controlName }}">{{ formData?.title }}</h3>
   </div>
   <fieldset class="usa-fieldset">
-    <p class="usa-legend margin-y-0" [innerHTML]="formData?.label"></p>
+    <p class="usa-legend margin-y-0" [innerHTML]="$safeNavigationMigration(formData?.label)"></p>
     @for (formItem of formData?.options; track formItem) {
       <div
         class="usa-checkbox"

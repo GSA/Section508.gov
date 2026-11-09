@@ -1,3 +1,4 @@
+import { NO_ERRORS_SCHEMA } from '@angular/core';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { FormPageComponent } from './form-page.component';
@@ -8,7 +9,8 @@ describe('FormPageComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ FormPageComponent ]
+      declarations: [ FormPageComponent ],
+      schemas: [NO_ERRORS_SCHEMA]
     })
     .compileComponents();
 

@@ -30,12 +30,13 @@ resource-type:
 - Template
 format: HTML
 created: 2026-08-25
-updated:
+updated: 2026-10-16
+exclude-changelog: true
 ---
 The Issue Detail Supplement to the Accessibility Conformance Report (ACR) is a standardized companion document developed by the GSA Government-wide IT Accessibility Program to provide information beyond a traditional ACR. While ACRs document how a product conforms to applicable accessibility standards, the ACR Issue Detail Supplement provides additional product details needed by government agencies to better understand the severity and user impact of identified accessibility issues.
 
 <div class="grid-col-12 summary-box--alt">
-  <strong>Download the <a href="https://www.section508.gov/~assets/files/issue-detail-acr-supplement-1.xlsx">ACR Issue Detail Supplement Workbook (XLSX)</a></strong>
+  <strong>Download the <a href="https://www.section508.gov/~assets/files/acr-issue-detail-supplement-workbook.xlsx" download="ACR Issue Detail Supplement Workbook.xlsx" class="usa-link--external">ACR Issue Detail Supplement Workbook (XLSX)</a></strong>
 </div>
 
 ## Instructions for use

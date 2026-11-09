@@ -5,25 +5,24 @@ type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 permalink: iaaf/archives/agenda-2022/
 description: View the agenda for the 2022 Interagency Accessibility Forum, including session schedules, speakers, keynotes, panels, and breakout presentations.
-audience: 
+disclaimer: true
+audience:
 - Content Creators
 - Developers
 - Federal Employees
 - Members of the Public
 - Section 508 Program Managers
-topic: 
+topic:
 - Events
-subtopic: 
+subtopic:
 - Guidance
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2020-09-24
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
-
-
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
@@ -176,7 +175,7 @@ exclude-changelog: true
 <p>Virtual Vendor participation was performed through an open registration and selected on a first-come, first-serve basis. The Federal CIO Council, GSA, partner agencies and other contributing agencies do not endorse the products, services, and claims of participating vendors.</p>
 <p>Explore products and services designed to support and enhance the lives of people with disabilities.</p>
 <ul>
-<li><strong><a href='https://www.5Moes.com'>5 Guys Named Moe, Inc.</a></strong>: We provide full Audio Description services (producing, writing, casting, recording, mixing and deliverables) for all media formats. For more information, contact: <a href='mailto:sethkrugliak@5moes.com'>Seth Krugliak </a>.</li>
+<li><strong>5 Guys Named Moe, Inc.</strong>: We provide full Audio Description services (producing, writing, casting, recording, mixing and deliverables) for all media formats.</li>
 <li><strong><a href='https://www.Access2Online.com'>Access2online Inc.</a></strong> (Find in GSA Contract # 47QTCA21D004D): We audit websites, remediate documents like PDFs, caption videos, and provide extended audio descriptions. We have 15 Trusted Testers certified by the federal Office of Accessible Systems and Technology. For more information, contact: <a href='mailto:pshikli@access2online.com'>Peter Shikli</a>.</li>
 <li><strong><a href='https://www.accessibilityoz.com/products/ozart/'>AccessibilityOz</a></strong>: AccessibilityOz ART is an innovative accessibility reporting tool that makes it easy to comprehensively report on and maximize your site or app's accessibility. For more information, contact: <a href='mailto:gian@accessibilityoz.com'>Gian Wild </a>.</li>
 <li><strong><a href='https://www.Allyant.com'>Allyant (CommonLook)</a></strong> (Find in GSA Schedule GS-35F-0161V): We offer many accessibility services and software solutions, spanning print and digital document remediation services, document remediation software, and digital accessibility auditing. For more information, contact: <a href='mailto:dsullivan@allyant.com'>Daniel Sullivan </a>.</li>
@@ -193,19 +192,5 @@ exclude-changelog: true
 <li><strong><a href='https://iaccessible.com/'>Optimal Solutions Group</a></strong> (Find in GSA MAS; GSA Schedule 70; GSA OASIS SB Pool 1): iAccessible is SaaS that provides on-demand automated accessibility testing of websites, software applications, and documents combined with manual testing performed by DHS Trusted Testers. For more information, contact: <a href='mailto:info@iaccessible.com'>Mark Turner</a>.</li>
 <li><strong><a href='http://rioglobal.io'>Rio Global</a></strong> (Find in GSA Schedule, NASA SEWP): AccessBot is a dedicated accessibility testing software with inbuilt support for the revised section 508 standards and the W3C Web Content Accessibility Guidelines (WCAG). It is a web-based tool. For more information, contact: <a href='mailto:chandra@rioglobal.io'>Chandra Sabbavarpu</a>.</li>
 <li><strong><a href='https://youtube.com/channel/UCrbfJznG_DvUZojfyMAgB5Q'>Talking Eye Productions</a></strong>: Turnkey Audio description writing, recording, and post-production for videos for accessibility for the visually impaired. For more information, contact: <a href='mailto:PattiWong12@gmail.com'>Patti Wong</a>.</li>
-<li><strong><a href='https://www.tpgi.com'>TPG Interactive</a></strong> (Find in GSA, SEWP, ITES): TPGi is a full-spectrum accessibility solutions provider. We offer a variety of software products and services intended to support enterprise organizations with their accessibility needs or programs. For more information, contact: <a href='mailto:tbrown@tpgi.com'>Travis Brown</a>.</li>
+<li><strong>TPG Interactive, now <a href="https://vispero.com/">Vispero</a></strong> (Find in GSA, SEWP, ITES): A full-spectrum accessibility solutions provider. We offer a variety of software products and services intended to support enterprise organizations with their accessibility needs or programs. For more information, contact: <a href='mailto:tbrown@tpgi.com'>Travis Brown</a>.</li>
 </ul>
-
-{% comment %}
-Automatically adds the "updated:" date to the page footer's "reviewed/updated:" date to all pages. Disable by adding frontmatter flag, "hide-date: true".
-{% endcomment %}
-<div class="margin-y-105">   
-{% unless page.hide-date == true %}
-    {% if page.updated %}
-        {% assign input_date = page.updated %}
-    {% else %}
-        {% assign input_date = page.created %}
-    {% endif %} 
-<strong>Reviewed/Updated: </strong> {{ input_date | date: "%B %Y" }}
-{% endunless %}
-</div>

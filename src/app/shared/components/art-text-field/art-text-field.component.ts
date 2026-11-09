@@ -1,5 +1,4 @@
-import { ThisReceiver } from '@angular/compiler';
-import { Component, Input, OnInit ,Output,EventEmitter} from '@angular/core';
+import { Component, Input, OnInit, Output, EventEmitter, ChangeDetectionStrategy } from '@angular/core';
 import { AbstractControl, FormControl, ValidationErrors } from '@angular/forms';
 import { FormElement, ElementType } from '../../models/form-element.interface';
 
@@ -7,6 +6,7 @@ import { FormElement, ElementType } from '../../models/form-element.interface';
     selector: 'art-text-field',
     templateUrl: './art-text-field.component.html',
     styleUrls: ['./art-text-field.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtTextFieldComponent implements OnInit {

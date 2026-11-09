@@ -16,7 +16,7 @@ audience:
 resource-type: Article
 format: HTML
 created: 2025-05-28
-updated: 2026-03-02
+updated: 2026-10-19
 exclude-changelog: true
 ---
 Agencies need clear governance and strong leadership to guide Section 508 programs, which establishes the importance of accessibility, improves compliance, and minimizes legal exposure. An agency’s IT Accessibility/508 program’s success also depends on the involvement of many other key players.
@@ -30,7 +30,7 @@ The tables below list the roles and responsibilities for agency officials, conte
 - [References and Resources](#references-and-resources)
 
 ## Agency Roles and Responsibilities Related to Section 508
-<div>The following roles and responsibilities are defined in OMB memorandum, <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>.</div>
+<div>The following roles and responsibilities are defined in OMB memorandum, <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>. See the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/12/M-24-08-Strengthening-Digital-Accessibility-and-the-Management-of-Section-508-of-the-Rehabilitation-Act.pdf" target="_blank" class="usa-link--external">PDF version</a> for additional text that is missing from the web page version: "Agency CIOs should use Section 508 conformance as a performance measure when monitoring and evaluating information technology programs and resources. If the CIO determines Section 508 conformance to be a risk or performance issue for a given program, then the CIO should advise the agency head on options for modifying or terminating the program, as appropriate."</div>
 
 <table id="table-1" class="usa-table usa-table--borderless usa-table--striped striped margin-bottom-8">
 <thead>

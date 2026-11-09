@@ -1,9 +1,10 @@
-import {Component, Input, OnInit, Output, EventEmitter, SimpleChanges} from "@angular/core";
+import {Component, Input, OnInit, Output, EventEmitter, SimpleChanges, ChangeDetectionStrategy} from "@angular/core";
 import { IStepIndicator } from "../../models/step-indicator.interface";
 @Component({
     selector: 'atr-step-indicator',
     templateUrl: './step-indicator.component.html',
     styleUrls: ['./step-indicator.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 

@@ -20,30 +20,23 @@ describe('FileUploadService', () => {
     expect(service).toBeTruthy();
   });
 
-  it('should return zero error message', ()=>{
+  it('should return zero error message', async ()=>{
     
     var validFiles = [];
     validFiles.push(file1);
     validFiles.push(file2);
-    var dataFromFile:IFileData;
-    service.upload(validFiles).then((value)=>{
-      dataFromFile=value;
-      expect(dataFromFile.errors.length).toBe(0);
-    });
-    
+    const dataFromFile:IFileData = await service.upload(validFiles);
+    expect(dataFromFile.errors.length).toBe(0);
   })
 
-  it('should be no json data on error', ()=>{
+  it('should be no json data on error', async ()=>{
     
     var invalidFiles = [];
     invalidFiles.push(file1);
     invalidFiles.push(file3);
-    var dataFromFile:IFileData;
-    service.upload(invalidFiles).then((value)=>{
-      dataFromFile=value;
-      expect(dataFromFile.errors.length).toBe(1);
-      expect(dataFromFile.jsonData.length).toBe(0);
-    });
+    const dataFromFile:IFileData = await service.upload(invalidFiles);
+    expect(dataFromFile.errors.length).toBe(1);
+    expect(dataFromFile.jsonData.length).toBe(0);
   })
 
   it('should truncate the value', ()=>{

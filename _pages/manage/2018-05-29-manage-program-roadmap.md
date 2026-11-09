@@ -6,27 +6,26 @@ title: Revised 508 Standards Roadmap
 permalink: manage/program-roadmap/
 description: Follow the Revised 508 Standards to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities.
 disclaimer: true
-redirect_from: 
+redirect_from:
 - Refresh-Toolkit/
 - refresh-toolkit/
-audience: 
+audience:
 - Federal Employees
 - IT Program & Project Managers
 - Manager & Supervisor
 - Policy and Law Makers
 - Section 508 Program Managers
-topic: 
+topic:
 - Manage
-subtopic: 
+subtopic:
 - Manage a Section 508 Program
-resource-type: 
+resource-type:
 - Process & How-To
 format: HTML
 created: 2018-05-29
-updated: 2026-07-27
+updated: 2026-10-22
 exclude-changelog: true
 ---
-
 <p dir="ltr">
   Follow the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> to ensure your information and communication technology (ICT) is accessible and usable by individuals with disabilities. This Roadmap, developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup and GSA, shows how to integrate the standards into an existing 508 Program.
 </p>
@@ -117,7 +116,7 @@ exclude-changelog: true
 </li>
 
 <li dir="ltr">
-  Use <a href="https://plainlanguage.gov/">plain language</a> when describing policies and procedures, so employees understand requirements and expectations.
+  Use <a href="https://digital.gov/guides/plain-language/">plain language</a> when describing policies and procedures, so employees understand requirements and expectations.
 </li>
 </ul>
 
@@ -569,7 +568,7 @@ exclude-changelog: true
  [6]: {{site.baseurl}}/training/courses/micro-purchases/
  [8]: {{site.baseurl}}/training/courses/procuring-section-508-conformant-ict/
  [9]: #main-content
- [10]: https://standards.usa.gov/
+ [10]: https://designsystem.digital.gov/
  [11]: https://www.section508.gov/~assets/files/revised-508-standards-applicability-checklist.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [13]: https://www.section508.gov/~assets/files/standards-exceptions-chart.docx

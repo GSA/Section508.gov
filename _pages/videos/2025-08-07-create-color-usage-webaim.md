@@ -2,17 +2,27 @@
 layout: page
 sidenav: true
 type: training
-title: 'How to Use the WebAIM Contrast Checker'
+title: How to Use the WebAIM Contrast Checker
 permalink: training/create/making-color-usage-accessible/webaim-contrast-checker/
-description: Learn how to use WebAIM’s Contrast Checker to test color contrast in documents. This video from Making Color Usage Accessible explains how to ensure readable text when automated tools like ANDI can't detect contrast issues.
+description: "Learn how to use WebAIM’s Contrast Checker to test color contrast in documents. This video from Making Color Usage Accessible explains how to ensure readable text when automated tools like ANDI can't detect contrast issues."
 disclaimer: true
 audience:
-topic: "Training"
-sub-topic: 
-resource-type: "Training"
-format: "Video"
+- Content Creators
+- Designers
+- Developers
+- Section 508 Testers
+topic:
+- Design
+- Develop
+- Training
+subtopic:
+- Best Practices
+- Color & Contrast
+resource-type:
+- Training
+format: Video
 created: 2025-08-07
-updated: 2026-03-03 
+updated: 2026-10-22
 exclude-changelog: true
 ---
 In this video from [Making Color Usage Accessible]({{site.baseurl}}/create/making-color-usage-accessible/), you’ll learn how to use <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM’s Contrast Checker</a> to evaluate the contrast between text—or images of text—and background colors in documents. This tool is especially helpful when contrast issues can’t be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> or when those tools aren’t available.
@@ -69,9 +79,9 @@ In this video from [Making Color Usage Accessible]({{site.baseurl}}/create/makin
 
 ## Related Color Contrast Training Videos
 * [Accessible Name & Description Inspector (ANDI) Color Contrast]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/)
-* [How to Use the Color Contrast Analyzer (CCA)]({{site.baseurl}}/training/making-color-usage-accessible/color-contrast-analyzer/)
+* [How to Use the Color Contrast Analyzer (CCA)]({{site.baseurl}}/training/create/making-color-usage-accessible/color-contrast-analyzer/)
 * [How to Test Color Contrast using the Color Contrast Analyser (CCA)]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/)
 
 ## Additional Resources
-* <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
+* <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>

@@ -1,4 +1,4 @@
-import { Component,EventEmitter,Input,OnInit, Output } from "@angular/core";
+import { Component, EventEmitter, Input, OnInit, Output, ChangeDetectionStrategy } from "@angular/core";
 import { FileUploadService } from "src/app/shared/services/file-upload.service";
 import { IFileData } from "../../models/file-data.interface";
 import { ICTInterface } from "../../models/ict.interface";
@@ -6,6 +6,7 @@ import { ICTInterface } from "../../models/ict.interface";
     selector: 'art-file-upload',
     templateUrl: './file-upload.component.html',
     styleUrls: ['./file-upload.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 

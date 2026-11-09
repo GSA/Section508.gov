@@ -15,7 +15,6 @@ describe('ArtSaveJsonComponent', () => {
     .compileComponents();
     fixture = TestBed.createComponent(ArtSaveJsonComponent);
     component = fixture.componentInstance;
-    fixture.detectChanges();
   });
 
   it('should create', () => {

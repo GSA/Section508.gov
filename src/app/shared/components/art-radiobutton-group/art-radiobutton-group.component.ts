@@ -1,4 +1,4 @@
-import { Component, OnInit, Input, Output, EventEmitter } from "@angular/core";
+import { Component, OnInit, Input, Output, EventEmitter, ChangeDetectionStrategy } from "@angular/core";
 import { FormControl, FormGroup, Validators } from "@angular/forms";
 import { FormElement } from "../../models/form-element.interface";
 import { FormPageService } from "../../services/form-page/form-page.service";
@@ -7,6 +7,7 @@ import { FormPageService } from "../../services/form-page/form-page.service";
     selector: 'art-radiobutton-group',
     templateUrl: './art-radiobutton-group.component.html',
     styleUrls: ['./art-radiobutton-group.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 

@@ -2,22 +2,26 @@
 layout: page
 sidenav: true
 type: manage
-title: 'Implementing a Public Feedback Mechanism'
+title: Implementing a Public Feedback Mechanism
 permalink: manage/laws-and-policies/implementing-public-feedback-mechanism/
-description: "Learn how to implement a public feedback mechanism that helps your agency collect, track, and resolve digital accessibility issues on websites and digital services."
-topic: "Manage"
-sub-topic: "Manage a Section 508 Program"
+description: Learn how to implement a public feedback mechanism that helps your agency collect, track, and resolve digital accessibility issues on websites and digital services.
 audience:
-- "Section 508 Program Managers"
-- "Web Content Managers"
-- "Policy and Law Makers"
-- "Chief Information Officers (CIO)"
-- "Agency Heads"
-resource-type: "Process & How-To"
-format: "HTML"
+- Agency Heads
+- Chief Information Officers (CIO)
+- Policy and Law Makers
+- Section 508 Program Managers
+- Web Content Managers
+topic:
+- Manage
+subtopic:
+- Manage a Section 508 Program
+resource-type:
+- Process & How-To
+format: HTML
 created: 2024-02-11
+updated: 2026-10-22
+exclude-changelog: true
 ---
-
 Use the best practices below to successfully implement a feedback mechanism to collect, track, and resolve digital accessibility issues.
 
 ## Initial Considerations
@@ -77,7 +81,7 @@ The email address provided may be a generic inbox that is monitored by the Secti
 
 Several examples of email address implementation and supplemental instructions: 
 
--   <a href="https://www.ssa.gov/accessibility/508_overview.html" target="_blank">Social Security Administration</a>
+-   <a href="https://www.ssa.gov/accessibility/index.html" target="_blank">Social Security Administration</a>
 -   <a href="https://www.va.gov/accessibility-at-va/#what-to-do-if-you-find-an-acce" target="_blank">Department of Veterans Affairs</a>
 -   <a href="https://www.eeoc.gov/accessibility" target="_blank">The Equal Employment Opportunity Commission</a>
 -   <a href="https://www.dhs.gov/accessibility" target="_blank">Department of Homeland Security</a>

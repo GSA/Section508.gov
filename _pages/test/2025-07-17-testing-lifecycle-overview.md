@@ -71,6 +71,8 @@ Below is a simple overview of the Section 508 testing lifecycle:
 <li>Work with designers, developers, and content creators to remediate issues.</li>   
 <li>Continue to update the defect tracking mechanism to monitor remediation and outstanding defects.</li>
 </ul>
+
+See <a href="{{site.baseurl}}/test/track-escalate-resolve-section-508-defects/">Track, Escalate, and Resolve Section 508 Defects</a>. 
 </li>
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Retest for Verification of Remediation</h2>

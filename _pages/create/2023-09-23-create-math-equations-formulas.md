@@ -332,6 +332,6 @@ Equations, formulas, and theories are not that difficult to make accessible. You
 The following resources were used in the creation of this resource:
 <ul>
     <li><a href="https://mathcast.sourceforge.net/home.html" target="_blank" class="usa-link--external">MathCast</a></li>
-    <li><a href="https://unicode.org/charts/#symbols" target="_blank" class="usa-link--external">Unicode lists</a></li>
+    <li><a href="https://unicode.org/Public/18.0.0/charts/" target="_blank" class="usa-link--external">Unicode lists</a></li>
     <li><a href="https://www.nvaccess.org/download/" target="_blank" class="usa-link--external">NVDA (free screen reader software similar to JAWS)</a></li>
 </ul>

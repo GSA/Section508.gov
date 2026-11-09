@@ -1,25 +1,28 @@
 ---
 layout: page
 sidenav: true
-permalink: test/ict-testing-baseline-portfolio/
 type: test
-title: 'ICT Testing Baseline Portfolio'
+title: ICT Testing Baseline Portfolio
+permalink: test/ict-testing-baseline-portfolio/
 description: The ICT Testing Baselines provide a standardized set of components for evaluating Section 508 conformance. Incorporating the Baseline tests into a test process ensures that necessary elements are tested, reducing the risk of overlooking important requirements.
 contributors: usab
-topic: Testing
-sub-topic: Websites
 audience:
-- Section 508 Program Managers
-- Developers
-- IT Program & Project Managers
-- Federal Employees
 - Chief Information Officers (CIO)
-resource-type: Article
+- Developers
+- Federal Employees
+- IT Program & Project Managers
+- Section 508 Program Managers
+topic:
+- Testing
+subtopic:
+- Websites
+resource-type:
+- Article
 format: HTML
 created: 2025-07-16
-updated: 2025-07-16
+updated: 2025-10-22
+exclude-changelog: true
 ---
-
 ## What is the ICT Testing Baseline Portfolio?
 
 The <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baselines</a> (aka, the Baselines) provide a standardized set of test procedure components for evaluating Section 508 conformance. Incorporating the Baseline tests into a testing process ensures that necessary elements of information and communications technology (ICT) are tested, reducing the risk of overlooking important requirements and ensuring comprehensive ICT accessibility test results. The Baselines provide clear guidance on what needs to be tested, helping organizations assess the accuracy of their testing methodology and tools.
@@ -67,4 +70,4 @@ The ICT Testing Baseline Working Group needs help refining <a href="https://ictb
 
 The ICT Baseline Alignment for Web Working Group also needs help developing and evaluating web test cases. You can submit web test cases to help validate test processes and tools as <a href="https://github.com/Section508Coordinators/baselinealignment/pulls" target="_blank" class="usa-link--external">pull requests</a> in the <a href="https://github.com/atbcb/ICTTestingBaseline" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio GitHub repository</a>. Current web test cases can be viewed at <a href="https://baselinealignment.section508.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline Alignment Framework</a> along with more information on contributing. 
 
-The resources on this page were created through interagency collaborative efforts sponsored under the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Accessibility Community of Practice (ACoP)</a>, a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the Section 508 Standards.
+These resources were developed through interagency collaboration to support consistent and reliable testing for conformance with the Revised Section 508 Standards. They are available for use across the U.S. Government to help agencies evaluate whether their accessibility testing methods align with the ICT Testing Baseline.

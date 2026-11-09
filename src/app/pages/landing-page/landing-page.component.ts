@@ -1,5 +1,5 @@
 import { Router } from '@angular/router';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { IButtonInterface } from 'src/app/shared/models/IButtonInterface';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { IStepIndicator } from 'src/app/shared/models/step-indicator.interface';
@@ -11,6 +11,7 @@ import { environment } from 'src/environments/environment'
     selector: 'art-landing-page',
     templateUrl: './landing-page.component.html',
     styleUrls: ['./landing-page.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class LandingPageComponent implements OnInit {

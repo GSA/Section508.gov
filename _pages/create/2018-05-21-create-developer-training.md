@@ -5,22 +5,22 @@ type: create
 title: Accessibility Training for Developers
 permalink: create/developer-training/
 description: Find Section 508 developer training resources, courses, certifications, and tools to improve accessibility skills and build digital tools compliant with accessibility standards.
-audience: 
+disclaimer: true
+audience:
 - Content Creators
 - Developers
 - Section 508 Program Managers
-topic: 
+topic:
 - Training
-subtopic: 
+subtopic:
 - Training
-resource-type: 
+resource-type:
 - Training
 format: HTML
 created: 2018-05-21
 updated: 2026-07-10
 exclude-changelog: true
 ---
-
 From general training to certification programs, there are many training options to help you improve your accessibility skills. Learn how to build digital tools that conform to the  [Revised 508 Standards][1].
 
 ## General Training
@@ -62,20 +62,20 @@ More modern resources include:
   * Google’s [Udacity course on Web Accessibility][14] introduces tools and techniques for web developers to easily ensure that websites are more accessible
   * [Web Accessibility Udacity][15] offers hands-on experience to make web applications accessible
   * [The Code4Lib Journal][16] – A Practical Guide on Developing Accessible Websites
-  * [Making Microsoft Office Documents Accessible][17]
+  * [Make your Word documents accessible to people with disabilities][17]
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: {{site.baseurl}}/training/508-training
 [3]: http://www.accessibilityassociation.org/
 [4]: https://www.accessibilityassociation.org/cpacc
-[5]: http://www.accessibilityassociation.org/wascertification
+[5]: https://www.accessibilityassociation.org/was-exam
 [6]: https://www.accessibilityassociation.org/s/certification-prepare
 [9]: https://www.accessibilityassociation.org/approved-training-preparation
-[10]: http://teachaccess.org/
-[11]: http://teachaccess.org/initiatives/tutorial/
+[10]: http://www.teachaccess.org/
+[11]: http://www.teachaccess.org/initiatives/tutorial/
 [12]: https://www.dhs.gov/publication/trusted-tester-resources
 [13]: https://www.youtube.com/watch?v=A5XzoDT37iM
 [14]: https://www.udacity.com/course/web-accessibility--ud891
 [15]: https://www.udacity.com/course/web-accessibility--ud891
 [16]: http://journal.code4lib.org/articles/12697
-[17]: https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d
+[17]: https://support.microsoft.com/en-us/accessibility/word/make-your-word-documents-accessible-to-people-with-disabilities

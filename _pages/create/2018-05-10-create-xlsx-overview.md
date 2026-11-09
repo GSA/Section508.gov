@@ -2,24 +2,28 @@
 layout: page
 sidenav: true
 type: create
-title: 'Accessible Spreadsheets'
+title: Accessible Spreadsheets
 permalink: create/spreadsheets/
-redirect_from:
-- create/spreadsheets/authoring-guides/
 description: Learn how to create accessible Microsoft Excel spreadsheet that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 description-alt: Added the MS Excel 365 Authoring and Testing Guide (PDF).
-topic: "Create"
-sub-topic: "Spreadsheets"
+disclaimer: true
+redirect_from:
+- create/spreadsheets/authoring-guides/
 audience:
-- "Federal Employees"
-- "Members of the Public"
-- "Designers"
-resource-type: "Process & How-To"
-format: "HTML"
-custom-script: 
+- Designers
+- Federal Employees
+- Members of the Public
+topic:
+- Create
+subtopic:
+- Spreadsheets
+resource-type:
+- Process & How-To
+format: HTML
+custom-script:
 - accordion-management.js
 created: 2018-05-10
-updated: 2026-07-10
+updated: 2026-10-22
 exclude-changelog: true
 ---
 Learn how to create accessible spreadsheets&mdash;including as Microsoft Excel documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
@@ -92,7 +96,7 @@ The resources in this section were developed by Federal agencies, and shared her
 ## Related Resources
 
   * [Create Accessible Digital Products][9]
-  * [Web Accessibility Tutorials and Presentations][10] - Guidance from the World Wide Web Consortium (W3C)
+  * [Teach and Advocate Overview][10] - Guidance from the World Wide Web Consortium (W3C)
   * [Microsoft Accessibility][11]
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
@@ -103,5 +107,5 @@ The resources in this section were developed by Federal agencies, and shared her
  [6]: https://www.section508.gov/~assets/files/ms-excel-2010-baseline-tests-aed-cop.docx
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [9]: {{site.baseurl}}/create
- [10]: https://www.w3.org/WAI/train
+ [10]: https://www.w3.org/WAI/teach-advocate/
  [11]: https://www.microsoft.com/en-us/accessibility/

@@ -1,28 +1,33 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2024/findings/accessibility-program/
 type: report2024
 title: "Governmentwide Findings: Section 508 Program"
+permalink: manage/section-508-assessment/2024/findings/accessibility-program/
 description: The FY 2024 Governmentwide Section 508 Assessment, prepared by the General Services Administration, examines Section 508 program implementation, governance, and policy integration across agencies.
-topic: "Law"
-sub-topic: "Annual Assessment"
 audience:
-- "Section 508 Program Managers"
-- "Agency Heads"
-- "Members of the Public"
-- "Policy and Law Makers"
-- "Federal Employees"
-resource-type: "White Paper"
-format: "HTML"
+- Agency Heads
+- Federal Employees
+- Members of the Public
+- Policy and Law Makers
+- Section 508 Program Managers
+topic:
+- Law
+subtopic:
+- Annual Assessment
+resource-type:
+- White Paper
+format: HTML
 created: 2024-12-20
+updated: 2026-10-21
+exclude-changelog: true
 ---
 ## Section 508 Program
 <hr class="breaker-bar-green">
 Please note the terms “reporting entity” and “respondent” are not synonymous with “agencies” as used in M-24-08. Components are not required to implement M-24-08 independently from their parent agency, so they may not have their own Section 508 program.
 <hr class="breaker-bar-green">
 
-The Assessment shows improvements in reporting entities’ Section 508 programs, specifically in the status, influence, and resourcing. Respondents reported a 135% increase in Section 508 programs that are widely known, relied upon, and have decision making authority. 40 entities selected this option in FY 2024 compared to only 17 in FY 2023. Furthermore, the YOY difference indicates an improvement in the available Section 508 resources such as training, tools, staff support, etc. In FY 2023, half of the reporting entities noted that while they did identify resource needs, the ones provided or available were insufficient to support the needs of the Section 508 program’s or equivalent. This improved in FY 2024 by a moderate, meaningful increase (WRST: extremely statistically significant), with half of the reporting entities (from 1% to 59%) indicating some resource needs are met. At the same time, we observed a 20% YOY improvement in the number of entities who stated they have no formal Section 508 program or that the program was in development, with 39% of entities selecting these options in FY 2024 compared to 48% in FY 2023. 
+The Assessment shows improvements in reporting entities’ Section 508 programs, specifically in the status, influence, and resourcing. Respondents reported a 135% increase in Section 508 programs that are widely known, relied upon, and have decision making authority. 40 entities selected this option in FY 2024 compared to only 17 in FY 2023.<sup><a href="#fn26" id="fr26">26</a></sup> Furthermore, the YOY difference indicates an improvement in the available Section 508 resources such as training, tools, staff support, etc. In FY 2023, half of the reporting entities noted that while they did identify resource needs, the ones provided or available were insufficient to support the needs of the Section 508 program’s or equivalent. This improved in FY 2024 by a moderate, meaningful increase (WRST: extremely statistically significant), with half of the reporting entities (from 1% to 59%) indicating some resource needs are met. At the same time, we observed a 20% YOY improvement in the number of entities who stated they have no formal Section 508 program or that the program was in development, with 39% of entities selecting these options in FY 2024 compared to 48% in FY 2023. 
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-14.jpg" alt="Bar chart showing YOY comparison of response count for status of Section 508 program or equivalent (Q29). In FY 2024, 50 entities selected they have no formal program down from 60 in FY23, 45 entities in FY24 selected their program is in development down from 59 in FY23, 58 entities in FY24 selected their program is established with organizational ownership up from 46 in FY23, 51 entities in FY24 selected their program is established and relied upon for decision making, down from 67 in FY23, and 40 entities in FY24 noted their program is well-known with performance metrics and decision making authority, up from 17 in FY 2023." aria-describedby="figure-14" class="border-2px border-base-light shadow-2 padding-1">
@@ -41,7 +46,7 @@ The same number of entities (39) reported YOY that their Section 508 or ICT acce
   
 * 39 entities noting the Section 508 policy was published and includes all relevant M-24-08 and Section 508 statutory requirements.
   
-* 41 entities noting the Section 508 policy is published, includes all relevant M-24-08 and Section 508 statutory requirements, and is referenced in other relevant policies.
+* 41 entities noting the Section 508 policy is published, includes all relevant M-24-08 and Section 508 statutory requirements, and is referenced in other relevant policies.<sup><a href="#fn27" id="fr27">27</a></sup>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-15.jpg" alt="Bar chart of FY24 response count for status of Section 508 or ICT accessibility policy (Q34) showing 39 entities do not have a policy, 74 entities have a draft policy, 45 entities have a published policy without relevant statutory requirements, 39 entities have a published policy with relevant statutory requirements, 41 entities have a published policy with relevant statutory requirements and referenced in other policies, and 7 entities do not know the status of their policy." aria-describedby="figure-15" class="border-2px border-base-light shadow-2 padding-1">
@@ -89,6 +94,5 @@ As the findings above indicate, there is opportunity to advance the maturity of 
     <ol start="26">
         <li id="fn26">One entity did not answer this question; for FY 2024 we have 244 responses. <a href="#fr26" aria-label="Back to content">↩</a></li>
         <li id="fn27">Response options underwent editing and one response option was added in FY 2024, which does not allow for a direct comparison YOY. <a href="#fr27" aria-label="Back to content">↩</a></li>
-        <li id="fn28">Response options underwent editing and one response option was added in FY 2024, which does not allow for a direct comparison YOY. <a href="#fr28" aria-label="Back to content">↩</a></li>
     </ol>
 </div>

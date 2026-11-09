@@ -1,23 +1,30 @@
 ---
 layout: post
-permalink: blog/universal-design-whats-in-it-for-me/
+sidenav: true
 type: article
 title: "Universal Design: What's in it for Me?"
-created: 1513821339
-tags: Design-and-Develop
+permalink: blog/universal-design-whats-in-it-for-me/
 description: Part two of a two-part series about Universal Design
-topic: Design
-sub-topic: Guidance
+tags: Design-and-Develop
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
 audience:
-- Section 508 Program Managers
+- Content Creators
 - Developers
 - Federal Employees
 - IT Program & Project Managers
-- Content Creators
-resource-type: Blog
+- Section 508 Program Managers
+topic:
+- Design
+subtopic:
+- Guidance
+resource-type:
+- Blog
 format: HTML
+created: 2017-12-21
+updated: 2026-10-26
+exclude-changelog: true
 ---
-
 _Part two of a two-part series about Universal Design_
 
 Universal Design is an approach being adopted by the tech world to ensure that products and services are accessible by all. If you&rsquo;re an agency executive, developer, or 508 Coordinator, Universal Design principles can modernize your agency&rsquo;s digital accessibility strategy and development processes, and enable you to deliver products and services more accessible to all.
@@ -32,7 +39,7 @@ In private and public spaces, the role of the CIO is morphing in line with chang
 
 Communicating the business case for buying and implementing accessible workplace technology starts with procurement. Commit to buying technology that&rsquo;s built with Universal Design principles, allowing CAOs to better serve your agency&rsquo;s mission.
 
-For the CAO, Universal Design is a best practice that reaches the maximum number of users or citizens who use a particular tool. Start with Universal Design up-front to avoid legal vulnerabilities, and save the time and money required to make inaccessible products accessible on the back-end. Buying products designed using Universal Design principles is easy and should be standard operating procedure for all federal procurement. [PEAT][2] has a one-stop-shop, [Buy IT!,][3] which outlines eight steps to develop a procurement process that prioritizes accessibility and usability.
+For the CAO, Universal Design is a best practice that reaches the maximum number of users or citizens who use a particular tool. Start with Universal Design up-front to avoid legal vulnerabilities, and save the time and money required to make inaccessible products accessible on the back-end. Buying products designed using Universal Design principles is easy and should be standard operating procedure for all federal procurement. <!--[PEAT][2] has a one-stop-shop, [Buy IT!,][3] which outlines eight steps to develop a procurement process that prioritizes accessibility and usability.-->
 
 ## Chief Human Capital Officers
 
@@ -58,7 +65,7 @@ To learn more about Universal Design, check out part one of the series: **[Unive
 
 &nbsp;
 
- [1]: https://www.nascio.org/resource-center/resources/2017-state-cio-survey/
+ [1]: https://www.nascio.org/resource/2017-state-cio-survey/
  [2]: https://www.peatworks.org/
  [3]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/
  [4]: {{site.baseurl}}/blog/Universal-Design-What-is-it

@@ -1,6 +1,6 @@
 import {ComponentFixture, TestBed} from '@angular/core/testing';
 import {ArtSideNavigationComponent} from './art-side-navigation.component';
-import {RouterTestingModule} from "@angular/router/testing";
+import {provideRouter} from '@angular/router';
 import {LandingPageComponent} from "../../../pages/landing-page/landing-page.component";
 import {ArtSideMenuInterface} from "../../models/art-side-menu.interface";
 
@@ -12,13 +12,12 @@ describe('ArtSideNavigationComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [ArtSideNavigationComponent],
-      imports: [RouterTestingModule.withRoutes([{path: '', component: LandingPageComponent}])]
+      providers: [provideRouter([{path: '', component: LandingPageComponent}])]
     })
       .compileComponents();
 
     fixture = TestBed.createComponent(ArtSideNavigationComponent);
     component = fixture.componentInstance;
-    fixture.detectChanges();
     testMenu = {
       sideNavItems: [
         {

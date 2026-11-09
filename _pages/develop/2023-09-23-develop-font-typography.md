@@ -2,22 +2,24 @@
 layout: page
 sidenav: true
 type: develop
-title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
-description: Learn how fonts and typography impact accessibility. Explore Section 508 guidance on legibility, font size, contrast, and design best practices.
+title: Understanding Accessible Fonts and Typography for Section 508 Compliance
 permalink: develop/fonts-typography/
+description: Learn how fonts and typography impact accessibility. Explore Section 508 guidance on legibility, font size, contrast, and design best practices.
 contributors: usab
-topic: Design
-sub-topic: Guidance
 audience:
-- Designers
-- Section 508 Program Managers
-- Developers
 - Content Creators
+- Designers
 - Developers
-resource-type: Article
+- Section 508 Program Managers
+topic:
+- Design
+subtopic:
+- Guidance
+resource-type:
+- Article
 format: HTML
 created: 2023-09-23
-updated: 2026-03-04
+updated: 2026-10-22
 exclude-changelog: true
 ---
 In the realm of digital content creation, people often ask, “What does it mean for an accessible font to be accessible?”
@@ -76,7 +78,7 @@ Federal websites are required by the 21st Century Integrated Digital Experience 
 ## Additional Reading
 Typography is a wide and deep topic.  For more information about accessible fonts and typography, we share these .gov resources:
 <ul>
-    <li><a href="https://accessibility.digital.gov/visual-design/typography/" target="_blank" class="usa-link--external text-top">Typography</a> | Digital.gov</li>
+    <li><a href="https://digital.gov/guides/accessibility-for-teams/visual-design" target="_blank" class="usa-link--external text-top">Typography</a> | Digital.gov</li>
     <li><a href="https://github.com/uswds/public-sans#design-principles" target="_blank" class="usa-link--external text-top">Public Sans Design Principles</a> | Digital.gov</li>
 </ul>
 

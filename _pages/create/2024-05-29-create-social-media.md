@@ -7,24 +7,23 @@ permalink: create/social-media/
 description: Learn best practices for creating accessible social media content. Ensure posts, images, and videos meet Section 508 standards.
 contributors: usab
 disclaimer: true
-redirect_from: 
+redirect_from:
 - social-media/
-audience: 
+audience:
 - Designers
 - Federal Employees
 - Members of the Public
-topic: 
+topic:
 - Create
-subtopic: 
+subtopic:
 - Social Media
-resource-type: 
+resource-type:
 - Process & How-To
 format: HTML
 created: 2024-05-29
-updated: 2026-07-10
+updated: 2026-10-22
 exclude-changelog: true
 ---
-
 Accessible social media content is crucial for fostering inclusivity and ensuring equal participation for all individuals, regardless of ability. By implementing accessibility features such as alt text for images and closed captions for videos, creators can make their content more accessible to people with disabilities.
 
 For federal communicators specifically, [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) requires any information and communication technology (ICT) created by the federal government be accessible to people with disabilities. This includes content federal agencies and departments upload or post to social media.
@@ -33,7 +32,7 @@ Below are a few digital accessibility terms that are important to know when crea
 
 * **Alt text** (short for [alternative text]({{site.baseurl}}/create/alternative-text/)) is text that is embedded into images or GIFs that conveys the meaning of the image. Alt text is designed to make visual content accessible to people who are using screen readers. In general, alt text should be concise, communicate relevant content provided by the image, and not repeat any information provided in the text of the post.
 
-* **[Audio description (AD)]({{site.baseurl}}/create/synchronized-media/#audio-description)** is the addition of verbal descriptions to videos to help viewers who are blind or have low vision understand what is being shown. AD should be provided for visual elements that are not already described by the video narration or soundtrack. For example, AD is included in <a href="https://youtu.be/c-W5iunuL18?si=QAWgbfQCpA9q63r2" target="_blank" class="usa-link--external">Welcome to the U.S. Access Board</a>.
+* **[Audio description (AD)]({{site.baseurl}}/create/synchronized-media/#audio-description)** is the addition of verbal descriptions to videos to help viewers who are blind or have low vision understand what is being shown. AD should be provided for visual elements that are not already described by the video narration or soundtrack. For example, AD is included in <a href="https://www.youtube.com/watch?v=c-W5iunuL18" target="_blank" class="usa-link--external">Welcome to the U.S. Access Board</a>.
 
 * **Closed captions (CC)** are [captions]({{site.baseurl}}/create/captions-transcripts/) that can be toggled on or off by the user watching a video. On several social media platforms, creators have the option to upload a SubRip Subtitle (SRT) file containing captions along with the video. Viewers will then have the option to turn CC on or off based on their preference. Many platforms will only accept SRT files and not Web Video Text Track (VTT) or TXT files.
 
@@ -47,7 +46,7 @@ Below are a few digital accessibility terms that are important to know when crea
 
 * **Open captions (OC)** are [captions]({{site.baseurl}}/create/captions-transcripts/) that are always enabled or present in a video. Some platforms allow users to upload captions and have them be permanently enabled for all viewers. If this isn't an option but you want your video to have OC, insert the captions as subtitles into the video during the editing process.
 
-* <strong><a href="https://www.plainlanguage.gov/about/definitions/" target="_blank" class="usa-link--external">Plain language</a></strong> is writing designed to be understood as quickly and clearly as possible. It is best to use plain language when creating public-facing content for social media. Some tenants of plain language include the use of active voice, short sentences, step-by-step instructions, and the avoidance of complicated terminology or jargon.
+* <strong><a href="https://digital.gov/guides/plain-language" target="_blank" class="usa-link--external">Plain language</a></strong> is writing designed to be understood as quickly and clearly as possible. It is best to use plain language when creating public-facing content for social media. Some tenants of plain language include the use of active voice, short sentences, step-by-step instructions, and the avoidance of complicated terminology or jargon.
 
 * **Screen readers** are programs for computers, phones, and other devices that read out loud the text displayed on a screen. These programs are commonly used by people who are blind or have low vision. It is important to have screen readers in mind when writing content for social media.
 
@@ -144,10 +143,10 @@ Below is the social media policy for other platforms not currently used by the U
 
 * <a href="https://about.instagram.com/blog/tips-and-tricks/advancing-accessibility-on-instagram" target="_blank" class="usa-link--external">Instagram</a>
 * <a href="https://help.snapchat.com/hc/en-us/sections/14203449466900-Accessibility" target="_blank" class="usa-link--external">Snapchat</a>
-* <a href="https://help.tumblr.com/accessibility/" target="_blank" class="usa-link--external">Tumblr</a>
+* <a href="https://help.tumblr.com/knowledge-base/accessibility/" target="_blank" class="usa-link--external">Tumblr</a>
 * <a href="https://blog.flickr.net/en/2016/09/29/improving-accessibility-on-flickr/" target="_blank" class="usa-link--external">Flickr</a>
 
 ## Other Resources
-* <a href="https://www.plainlanguage.gov/" target="_blank" class="usa-link--external">PlainLanguage.gov</a> contains many guides, examples, and trainings on plain language composition.
+* <a href="https://digital.gov/guides/plain-language" target="_blank" class="usa-link--external">digital.gov/guides/plain-language</a> contains many guides, examples, and trainings on plain language composition.
 * <a href="https://digital.gov/topics/accessibility/" target="_blank" class="usa-link--external">Digital.gov</a> houses various resources, articles, and blog posts on digital accessibility topics.
 * <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).

@@ -8,6 +8,7 @@ description: The first of a two-part series, this course introduces essential do
 disclaimer: true
 redirect_from:
 - training/online-course/ms-word-best-practices/
+- training/courses/ms-word-best-practices/
 audience:
 - Communications Specialists
 - Content Creators
@@ -25,7 +26,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 2026-09-23
+updated: 2026-10-26
 exclude-changelog: true
 ---
 <div
@@ -70,7 +71,7 @@ exclude-changelog: true
 
 **Duration:** 85 minutes  
 **Difficulty Level:** Beginner  
-**Version:** 1.0.1 (Sep 2026)  
+**Version:** 1.0.2 (Oct 2026)  
 
 ## What Will I Learn in This Course?
 This training is the first of two courses that will enable you to create accessible text documents.
@@ -119,7 +120,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li>In-Course Resources
         <ul>
           <li><a href="{{site.baseurl}}/create/documents/">Create Accessible Documents</a></li>
-          <li><a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link usa-link--external">Colour Contrast Analyser</a> Available for Windows and macOS</li>
+          <li><a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link usa-link--external">Colour Contrast Analyser (CCA)</a> Available for Windows and macOS</li>
           <li><a href="{{site.baseurl}}/create/pdfs/">Create Accessible PDFs</a></li>
           <li><a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a></li>
           <li>Downloads
@@ -139,10 +140,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://www.section508.gov/create/making-color-usage-accessible/">Making Color Usage Accessible</a></li>     
           <li>Microsoft Support
             <ul>
-              <li><a href="https://support.microsoft.com/en-us/office/change-bullet-indents-in-word-5ed8b9a0-d44c-4e9a-81b3-47c234e980d3" target="_blank" class="usa-link usa-link--external">Change bullet indents in Word</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/change-the-numbering-in-a-numbered-list-a9731137-8a85-47ce-a7e4-8b1c6c8c77a3" target="_blank" class="usa-link usa-link--external">Change the numbering in a numbered list</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563" target="_blank" class="usa-link usa-link--external">Customize or create new styles</a></li>
-              <li><a href="https://support.microsoft.com/en-us/office/define-new-bullets-numbers-and-multilevel-lists-6c06ef65-27ad-4893-80c9-0b944cb81f5f" target="_blank" class="usa-link usa-link--external">Define new bullets, numbers, and multilevel lists</a></li>              
+              <li><a href="https://support.microsoft.com/en-us/word/change-bullet-indents-in-word" target="_blank" class="usa-link usa-link--external">Change bullet indents in Word</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/change-the-numbering-in-a-numbered-list" target="_blank" class="usa-link usa-link--external">Change the numbering in a numbered list</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/customize-or-create-new-styles" target="_blank" class="usa-link usa-link--external">Customize or create new styles</a></li>
+              <li><a href="https://support.microsoft.com/en-us/word/define-new-bullets-numbers-and-multilevel-lists" target="_blank" class="usa-link usa-link--external">Define new bullets, numbers, and multilevel lists</a></li>              
             </ul>
           </li>
           <li><a href="https://www.access-board.gov/ict/">Section 508 Standards</a></li>
@@ -165,18 +166,22 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0.1 | Update:</strong> Corrected typographical errors to improve the accuracy and clarity of the content.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.2 - Sep 2026 | Bug Fix:</strong> Corrected lesson numbering and aligned the course content with the side navigation.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2026 - v1.0 | Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.1 - Sep 2026 | Bug Fix:</strong> Corrected typos to improve content accuracy and clarity.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Sep 2026| New Release:</strong> Initial release of course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
 </div>
 
 <div class="usa-accordion usa-accordion--bordered">
-  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this course to your LMS</button></h2>
   <div id="add-to-lms" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">

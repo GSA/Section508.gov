@@ -1,4 +1,4 @@
-import { Component, OnDestroy, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { IButtonInterface } from 'src/app/shared/models/IButtonInterface';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 import { FormTemplateInterface } from 'src/app/shared/models/form-template.interface';
@@ -12,6 +12,7 @@ import { FormGroup } from '@angular/forms';
     selector: 'app-ict-listing-page',
     templateUrl: './ict-listing-page.component.html',
     styleUrls: ['./ict-listing-page.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class IctListingPageComponent implements OnInit, OnDestroy {
@@ -107,8 +108,10 @@ export class IctListingPageComponent implements OnInit, OnDestroy {
     }
 
     const controlName = this.nameFormConfig[0].formElements[0].controlName;
-    const valueOjt = (this.formList[0].value);
-    this.artIctLpService.setUserName(valueOjt[controlName]);
+    const valueOjt = this.formList[0]?.value;
+    if (valueOjt) {
+      this.artIctLpService.setUserName(valueOjt[controlName]);
+    }
   } 
 
   /**

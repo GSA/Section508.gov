@@ -151,7 +151,6 @@ Todd McKeever - <tmckeever@ntis.gov>
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - <mark.reumann@uspto.gov>  
 Yuting Sun (Deputy) - <yuting.sun@uspto.gov>  
-Michael Jennings (Deputy) - <michael.jennings1@uspto.gov>  
 
 ---
 ## <span id ="usdow" ></span>Department of War (DOW)
@@ -186,11 +185,10 @@ Horace Russell Jr. (Deputy) - <horace.russell12.civ@mail.mil>
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
-Bryan Conway - <bryan.w.conway.civ@mail.mil>    
+Bryan Conway - <bryan.w.conway.civ@mail.mil>   
+Erich Cardosi (Deputy) - <erich.t.cardosi.civ@mail.mil>  
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
-### Defense Human Resources Agency (DHRA)
-A’Donna Hudson - <adonna.a.hudson.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
 Corey Soesbee (Deputy) - <disa.meade.io.mbx.digital-accessibility--section-508@mail.mil>  
@@ -251,6 +249,8 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
 ### Pentagon Force Protection Agency (PFPA)
 Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
+### Personnel Readiness Management Agency (PRMA)
+Donna Cowan - <donna.d.cowan2.civ@mail.mil>  
 ### United States Northern Command (USNORTHCOM)
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
 ### United States Southern Command (SOUTHCOM)
@@ -265,7 +265,9 @@ CIO Office Mailbox - <stratcom.offutt.j6.mbx.cio@mail.mil>
 ### United States Transportation Command (USTRANSCOM)
 USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
 ### Warfighting Acquisition University (WarU)
-Consuala Spencer - <consuala.spencer@waru.edu>
+Consuala Spencer - <consuala.spencer@waru.edu>  
+### War Media Activity (WMA)
+Taiysha Bowie - <taiysha.h.bowie.civ@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -274,14 +276,13 @@ Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>
 
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
-Ilir Angjeli  
-Yohanna Freeman (Deputy)
+Ilir Angjeli   
 DOE Helpdesk - <doesection508coordinator@hq.doe.gov>  
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Agencywide
-Shannon Howard - <shannon.howard@hhs.gov>  
+Terry Bell - <terry.bell@hhs.gov>  
 HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
@@ -380,7 +381,6 @@ Elliot Hoang (Deputy) - <elliott.hoang@tsa.dhs.gov>
 Kenneth S. Moser - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - <eleanor.e.thompson@uscg.mil>  
-Terry A. Bell - <terry.a.bell@uscg.mil>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
@@ -453,11 +453,9 @@ FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Riyaz Refai - <rrefai@bop.gov>
 ### Foreign Claims Settlement Commission
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
+Pamela Harrion - <pamela.harrion@usdoj.gov>     
 ### Justice Management Division
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### National Fraud Enforcement Division
 William C. Warren, Jr - <william.c.warren.jr@usdoj.gov>  
 ### National Institute of Corrections
@@ -466,52 +464,40 @@ Donna Ledbetter - <donna.ledbetter@usdoj.gov>
 Nilesh  Bhut - <nilesh.bhut@usdoj.gov>    
 ### Office of Information Policy
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
 Bruce W. Whitlock - <bruce.w.whitlock@usdoj.gov>  
 ### Office of Legal Policy
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Legislative Affairs
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Pardon Attorney
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Professional Responsibility
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Public Affairs
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>    
+Pamela Harrion - <pamela.harrion@usdoj.gov>    
 ### Office of Solicitor General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Associate Attorney General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Attorney General
-Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Pamela Harrion - <pamela.harrion@usdoj.gov>    
 ### Office of the Deputy Attorney General
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Inspector General
 Maurice A. Jones - <maurice.a.jones@usdoj.gov>
 ### Office of Tribal Justice
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 ### Office on Violence Against Women
 Tiyawna Duncan - <tiyawna.duncan@usdoj.gov>  
-Sybil 	Barksdale - <sybil.barksdale@usdoj.gov> 
+Sybil 	Barksdale - <sybil.barksdale@usdoj.gov>   
 ### Professional Responsibility Advisory Office
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Pamela Harrion - <pamela.harrion@usdoj.gov>  
 ### United States Marshals Service
 James L. Brown - <james.brown9@usdoj.gov>  
 Dene James - <dene.james@usdoj.gov>  
 ### United States Parole Commission
 Pamela Harrion - <pamela.harrion@usdoj.gov>  
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 
 ---
 ## <span id="usdol" ></span>Department of Labor (DOL)
@@ -649,7 +635,7 @@ Shellby Padgett - <goldwaterao@goldwaterscholarship.gov>
 
 ---
 ### Bonneville Power Administration	(BPA)	
-Jenna	A. Ramos	- <jaramos@bpa.gov>  
+Jeanna	A. Ramos	- <jaramos@bpa.gov>  
 
 ---
 <span id="C" ></span>
@@ -757,7 +743,7 @@ Theodosia Villatoro-Sorto - <tvillatoro-sorto@fmshrc.gov>
 ---
 ### Federal Reserve Board of Governors (FRB)
 Melissa Lasbury - <melissa.p.lasbury@frb.gov>  
-Randal Duchesneau - <randall.duchesneau@frb.gov>  
+Randall Duchesneau - <randall.duchesneau@frb.gov>  
 
 ---
 ### Federal Retirement Thrift Investment Board (FRTIB)

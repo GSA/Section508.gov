@@ -1,4 +1,4 @@
-import {Component, Input, OnInit, Renderer2} from '@angular/core';
+import {Component, Input, OnInit, Renderer2, ChangeDetectionStrategy} from '@angular/core';
 import * as docx from 'docx';
 import {AlignmentType, HeadingLevel, LevelFormat, Paragraph, TextRun, WidthType, Table, TableRow, TableCell, BorderStyle, ExternalHyperlink} from 'docx';
 
@@ -6,6 +6,7 @@ import {AlignmentType, HeadingLevel, LevelFormat, Paragraph, TextRun, WidthType,
     selector: 'art-docx-download',
     templateUrl: './art-docx-download.component.html',
     styleUrls: ['./art-docx-download.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtDocxDownloadComponent implements OnInit {

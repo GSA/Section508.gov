@@ -5,7 +5,11 @@ type: create
 title: Making Color Usage Accessible
 permalink: create/making-color-usage-accessible/
 description: Learn how to make digital content accessible by using color effectively. This guide explains color contrast requirements, common accessibility barriers, and tools like ANDI, WebAIM, and CCA to help ensure your ICT meets Section 508 and WCAG standards.
-audience: 
+disclaimer: true
+redirect_from:
+- training/making-color-usage-accessible/
+- /training/create/making-color-usage-accessible/
+audience:
 - Content Creators
 - Designers
 - Developers
@@ -13,23 +17,19 @@ audience:
 - Requirements & Business Analysts
 - Vendors
 - Web Content Managers
-topic: 
+topic:
 - Create
 - Develop
-subtopic: 
+subtopic:
 - Documents
-- General Info and Best Practices
 - PDFs
 - Presentations
 - Software
-resource-type: 
+resource-type:
 - Article
-redirect_from:
-- training/making-color-usage-accessible/
-- /training/create/making-color-usage-accessible/
 format: HTML
 created: 2025-08-07
-updated: 2026-07-10
+updated: 2026-10-22
 exclude-changelog: true
 ---
 In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.
@@ -220,7 +220,7 @@ In this revised example, the answer key indicates the correct answer both by mar
 Color must not be the only way you convey that a piece of text functions as a link. The commonly accepted best practice is to format your link with an underline and a different text color.
 
 * **Inaccessible example:** <a href="https://www.section508.gov" style="text-decoration:none;">Section 508 website</a>
-* **Accessible example:** <a href="https://www.sectsion508.gov">Section 508 website</a>
+* **Accessible example:** <a href="https://www.section508.gov">Section 508 website</a>
 
 ### Using Color: Forms, Buttons, and Interactive Elements
 All forms, buttons, and interactive elements must not require the user to be able to perceive or distinguish between colors.
@@ -321,7 +321,7 @@ Watch the following videos to learn more about how to use each of these commonly
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/)"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-13-thumb.jpg" alt="Accessible Name & Description Inspector (ANDI) Tool Overview" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-13-thumb.jpg" alt="Accessible Name & Description Inspector (ANDI) Tool Overview" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <h4><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">Accessible Name & Description Inspector (ANDI) Color Contrast</a></h4>
@@ -338,7 +338,7 @@ Watch the following videos to learn more about how to use each of these commonly
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/create/making-color-usage-accessible/color-contrast-analyzer/">How to Use the Color Contrast Analyzer (CCA)</a></h3>
-    <p>In this video, we’ll show you how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
+    <p>In this video, we’ll show you how to use the <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially useful when automated tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> can’t <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> contrast issues, or when a standalone application is preferred.</p>
     <p>Duration 6m 07s | 1-Part Video Tutorial</p>
   </div>
 </div>
@@ -364,7 +364,7 @@ Watch the following videos to learn more about how to use each of these commonly
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/">How to Test Color Contrast using the Color Contrast Analyser (CCA)</a></h3>
-    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://vispero.com/lp/color-contrast-checker/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
     <p>Duration 2m 33s | 1-Part Video Tutorial</p>
   </div>
 </div>
@@ -588,6 +588,6 @@ Use the following table as you check your ICT for color accessibility.
 ## Additional Resources
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Section 508 Standards</a>
 * <a href="https://www.w3.org/WAI/WCAG22/quickref" target="_blank" class="usa-link--external">WCAG Standards</a>
-* <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
+* <a href="https://vispero.com/lp/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
 

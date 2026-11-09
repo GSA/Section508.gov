@@ -2,27 +2,26 @@
 layout: wide_events
 title: GSA and the U.S. Access Board to Present at the CSUN Assistive Technology Conference
 permalink: /event/csun-presentations-2024/
-description: Join GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board in Anaheim, California at the CSUN Assistive Technology Conference, March 19-22. Members of the GSA and Access Board will present five sessions during the four-day conference. We hope to see you there!
+description: "Join GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board in Anaheim, California at the CSUN Assistive Technology Conference, March 19-22. Members of the GSA and Access Board will present five sessions during the four-day conference. We hope to see you there!"
 start-date: 2024-03-19#only fill in start date if the events spans multiple days
 end-date: 2024-03-21
 event-registration: 
-audience: 
+audience:
 - Federal Employees
 - Members of the Public
 - Section 508 Program Managers
 - Specialists & SMEs
-topic: 
+topic:
 - About
-subtopic: 
+subtopic:
 - Presentations
-resource-type: 
+resource-type:
 - Article
 format: HTML
 created: 2024-02-08
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
-
 The CSUN Assistive Technology Conference, also known as the CSUN Conference, is the ultimate community experience and the premier forum on technology for all persons with disabilities. For over 38 years, California State University, Northridge's Center on Disabilities has sponsored the conference, providing a platform for researchers, practitioners, educators, exhibitors and more from around the world, to engage with each other and share knowledge, innovations and best practices to promote access for all.
 
 GSA's Government-wide IT Accessibility Program and members of the U.S. Access Board will once again team up to present at the [CSUN Assistive Technology Conference](https://www.csun.edu/cod/conference/) in the following sessions:
@@ -38,4 +37,4 @@ We hope to see you there!
 
 ## Event Details
 **March 19-22, 2024**  
-**Conference and Registration Information**: <a href="https://www.csun.edu/cod/conference/sessions/" target="_blank">CSUN Assistive Technology Conference</a>.
+**Conference and Registration Information**: <a href="https://www.csun.edu/cod/conference/" target="_blank">CSUN Assistive Technology Conference</a>.

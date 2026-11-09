@@ -44,6 +44,7 @@ interface ErrorMessage {
     selector: "art-form-template",
     templateUrl: "./art-form-template.component.html",
     styleUrls: ["./art-form-template.component.scss"],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {

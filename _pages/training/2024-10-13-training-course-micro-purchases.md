@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-09-23
+updated: 2026-10-22
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -101,7 +101,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
         <ul>
           <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a></li>
           <li><a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a></li>
-          <li><a href="https://www.access-board.gov//#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a></li>
+          <li><a href="https://www.access-board.gov/#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a></li>
           <li><a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u></li>
         </ul>
       </li>
@@ -134,7 +134,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
           <li><a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a></li>
           <li><a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a></li>
           <li><a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance  Reports</a></li>
-          <li><a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a></li>
+          <li><a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a></li>
         </ul>
       </li>
     </ul>
@@ -148,30 +148,30 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Sep 2025 - v3.0.1 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.1 - Sep 2025 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Mar 2025 - v3.0 | Interface Design:</strong> We've updated the course to Articulate Rise with a modern user interface to match our other online courses. We've also made minor content updates and refreshed linked references.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.0 - Mar 2025 | Major Update:</strong> Refreshed the course interface and updated content to reflect changes in law, policy, and associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Nov 2021 - v2.0 | Release:</strong> Redesign and minor lesson refresh.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Nov 2021 | Update:</strong> Redesign and minor lesson refresh.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Arp 2014 - v1.1 | Release:</strong>  Miscellaneous bug fixes.</div>
+        <div class="usa-icon-list__content"><strong>v1.1.0 - Arp 2014 | Bug Fix:</strong>  Miscellaneous corrections.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>Jan 2013 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Jan 2013| New Release:</strong> Initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
 </div>
 
 <div class="usa-accordion usa-accordion--bordered">
-  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this course to your LMS</button></h2>
   <div id="add-to-lms" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">

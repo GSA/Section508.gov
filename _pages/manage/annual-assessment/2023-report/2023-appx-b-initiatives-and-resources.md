@@ -5,17 +5,22 @@ type: report2023
 title: "Appendix B: Federal Initiatives and Resources on ICT Accessibility"
 permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
 description: The FY 2023 Governmentwide Section 508 Assessment, prepared by the General Services Administration, summarizes federal initiatives, guidance, tools, and resources that support ICT accessibility and Section 508 compliance.
-topic: "Law"
-sub-topic: "Annual Assessment"
 audience:
-- "Section 508 Program Managers"
-- "Agency Heads"
-- "Members of the Public"
-- "Policy and Law Makers"
-- "Federal Employees"
-resource-type: "White Paper"
-format: "HTML"
+- Agency Heads
+- Federal Employees
+- Members of the Public
+- Policy and Law Makers
+- Section 508 Program Managers
+topic:
+- Law
+subtopic:
+- Annual Assessment
+resource-type:
+- White Paper
+format: HTML
 created: 2023-03-28
+updated: 2026-10-21
+exclude-changelog: true
 ---
 Important governmentwide initiatives and resources have developed out of the legislative and executive branches’ efforts to advance ICT accessibility in the federal government.<sup><a href="#fn37" id="fr37">37</a></sup> While OMB, GSA, Access Board, and DHS have led many of these efforts, the governmentwide relevance of ICT accessibility has drawn in many agencies to further the cause. These efforts are detailed below:
 
@@ -44,7 +49,7 @@ Important governmentwide initiatives and resources have developed out of the leg
 <div>
     <h2 id="footnotes" class="footnotes-title">Footnotes</h2>
     <ol start="37">
-        <li id="fn37">As noted in <a href="{{site.baseurl}}manage/section-508-assessment/2023/background/#federal-law-and-policy-on-ict-accessibility">Federal Law and Policy on ICT Accessibility</a>. <a href="#fr37" aria-label="Back to content">↩</a></li>
+        <li id="fn37">As noted in <a href="{{site.baseurl}}/manage/section-508-assessment/2023/background/#federal-law-and-policy-on-ict-accessibility">Federal Law and Policy on ICT Accessibility</a>. <a href="#fr37" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 

@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { IButtonInterface } from '../../models/IButtonInterface';
 import { Router } from '@angular/router';
 
@@ -7,6 +7,7 @@ import { Router } from '@angular/router';
     selector: 'art-button',
     templateUrl: './art-button.component.html',
     styleUrls: ['./art-button.component.scss'],
+    changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class ArtButtonComponent implements OnInit {

@@ -20,7 +20,7 @@ resource-type:
 - Process & How-To
 format: HTML
 created: 2020-08-01
-updated: 2026-07-10
+updated: 2026-10-26
 exclude-changelog: true
 ---
 
@@ -447,26 +447,26 @@ By making your meetings accessible, you are contributing to the ongoing effort t
       <ul>
         <li><a href="https://helpx.adobe.com/adobe-connect/using/accessibility-features.html" target="_blank" class="usa-link--external">Adobe Connect Accessibility Features</a>
           <ul>
-            <li><a href="https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html" target="_blank" class="usa-link--external">Keyboard shortcuts for Adobe Connect Classic</a></li>
+            <li><a href="https://helpx.adobe.com/adobe-connect/using/connect-keyboard-shortcut.html" target="_blank" class="usa-link--external">Keyboard shortcuts for Adobe Connect Classic</a></li>
             <li><a href="https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" target="_blank" class="usa-link--external">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting</a></li>
           </ul>
         </li>
         <li><a href="https://www.webex.com/accessibility.html" target="_blank" class="usa-link--external">Cisco WebEx Accessibility</a>
           <ul>
             <li><a href="https://help.webex.com/en-us/84har3/Webex-Meetings-and-Webex-Events-Accessibility-Features" target="_blank" class="usa-link--external">Webex Meetings and Webex Events Accessibility Features</a></li>
-        <li><a href="https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions" target="_blank" class="usa-link--external">How Do I Enable Closed Captions in Webex?</a></li>
+        <li><a href="https://help.webex.com/en-us/article/lzi8h2/Show-or-hide-closed-captions-during-a-Webex-meeting-or-webinar" target="_blank" class="usa-link--external">How Do I Enable Closed Captions in Webex?</a></li>
           </ul>
         </li>
         <li><a href="https://support.google.com/meet/answer/7313544?hl=en" target="_blank" class="usa-link--external">Google Meet Accessibility</a></li>
-        <li><a href="https://support.goto.com/meeting/help/what-accessbility-features-are-available-in-gotomeeting" target="_blank" class="usa-link--external">GoToMeeting Accessibility Features</a>
+        <li><a href="https://support.goto.com/meeting/help#__browse-tree-title-explore-features--accessibility" target="_blank" class="usa-link--external">GoToMeeting Accessibility Features</a>
           <ul>
-            <li><a href="https://support.goto.com/meeting" target="_blank" class="usa-link--external">Use Keyboard Shortcuts from the Desktop App (Windows Only)</a></li>
+            <li><a href="https://support.goto.com/meeting/help/use-closed-captions" target="_blank" class="usa-link--external">Use live captions</a></li>
+            <li><a href="https://support.goto.com/meeting/help/does-gotowebinar-support-keyboard-shortcuts" target="_blank" class="usa-link--external">Use Keyboard Shortcuts from the Desktop App (Windows Only)</a></li>
           </ul>
         </li>
-        <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Microsoft Teams Accessibility</a>
+        <li><a href="https://support.microsoft.com/en-us/accessibility/teams/accessibility-tools-for-microsoft-teams" target="_blank" class="usa-link--external">Accessibility tools for Microsoft Teams</a>
           <ul>
-            <li><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank" class="usa-link--external">Accessibility overview of Microsoft Teams</a></li>
-            <li><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>
+            <li><A href="https://support.microsoft.com/en-us/accessibility/teams/keyboard-shortcuts-for-microsoft-teams" target="_blank" class="usa-link--external">Keyboard shortcuts for Microsoft Teams</a></li>
           </ul>
         </li>
         <li><a href="https://zoom.us/accessibility" target="_blank" class="usa-link--external">Zoom Accessibility</a>
@@ -479,4 +479,3 @@ By making your meetings accessible, you are contributing to the ongoing effort t
       </ul>
     </li>
 </ul>
-

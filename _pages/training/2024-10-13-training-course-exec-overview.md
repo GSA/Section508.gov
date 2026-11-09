@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-09-11
+updated: 2026-10-14
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -78,7 +78,7 @@ After completing this course, you will be able to do the following:
     </li>
 </ol>
 
-For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/courses/section-508-what-is-it-and-why-its-important/)
+For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/courses/section-508-what-is-it/)
 
 ## Certificate and Continuing Learning Points (CLPs)
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There is only one type of certificate offered for this course.
@@ -103,7 +103,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your Section 508 Program Manager</a></li>
       <li><a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a></li>
       <li><a href="{{site.baseurl}}/tools/glossary/#ict">Information and Communication Technology (ICT)</a></li>
-      <li><a href="{{site.baseurl}}/training/courses/section-508-what-is-it-and-why-its-important/">Section 508: What Is It and Why Is It Important?</a></li>
+      <li><a href="{{site.baseurl}}/training/courses/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></li>
       <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act, as amended</a></li>
       <li><a href="{{site.baseurl}}/manage/roles/">Section 508 Roles and Responsibilities</a></li>
       <li><a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a></li>
@@ -120,26 +120,26 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>July 2026 - v2.0.2 | Bugfix:</strong> Update broken links.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.2 - Jul 2026 | Bug Fix:</strong> Update broken links.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>February 2025 - v2.0.1 | Content Update:</strong> Minor update to associated roles and responsibilities.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.1 - Feb 2025 | Update:</strong> Content update to associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>September 2024 - v2.0 | Interface Design and Content Update:</strong> We've updated the course to use a modern user interface and made minor updates to align with recent updates to law and policies, and associated roles and responsibilities.</div>
+        <div class="usa-icon-list__content"><strong>v2.0.0 - Sep 2024 | Major Update:</strong> Refreshed the course interface and updated content to reflect changes in law, policy, and associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>October 2023 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>v1.0.0 - Oct 2023 | New Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>
 </div>
 
 <div class="usa-accordion usa-accordion--bordered">
-  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this courses to your LMS</button></h2>
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="add-to-lms">Add this course to your LMS</button></h2>
   <div id="add-to-lms" class="usa-accordion__content">
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">

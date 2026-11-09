@@ -1,22 +1,29 @@
 ---
 layout: post
-permalink: blog/Building-Accessibility-into-your-Procurement-Process/
+sidenav: true
 type: article
-title: 'Building Accessibility into Your Procurement Process'
-created: 1524275406
+title: Building Accessibility into Your Procurement Process
+permalink: blog/Building-Accessibility-into-your-Procurement-Process/
+description: "What comes to mind when you hear the word “accessibility”? If it's “compliance,” then you're not alone. While compliance is important, and a legal requirement, consider thinking about accessible IT from a universal design standpoint first."
 tags: Acquisition Design-and-Develop
-description: What comes to mind when you hear the word “accessibility”? If it's “compliance,” then you're not alone. While compliance is important, and a legal requirement, consider thinking about accessible IT from a universal design standpoint first.
-topic: "Buy"
-sub-topic: "Guidance"
+social_img: "assets/images/social-media-og-image-bytes.jpg"
+social_img_alt: "Accessibility Bytes. GSA logo with Section508.gov. Buy. Build. Be Accessible."
 audience:
-- "Buyers"
-- "Chief Acquisition Officers (CAO)"
-- "Executive Leadership (CXO)"
-- "Contracting Officers (CO & COR)"
-resource-type: "Process & How-To"
-format: "HTML"
+- Buyers
+- Chief Acquisition Officers (CAO)
+- Contracting Officers (CO & COR)
+- Executive Leadership (CXO)
+topic:
+- Buy
+subtopic:
+- Guidance
+resource-type:
+- Process & How-To
+format: HTML
+created: 2018-04-21
+updated: 2026-10-22
+exclude-changelog: true
 ---
-
 What comes to mind when you hear the word &ldquo;accessibility&rdquo;? If it's &ldquo;compliance,&rdquo; then you're not alone. While compliance is important, and a legal requirement, consider thinking about accessible IT from a universal design standpoint first. Shifting your mindset to buy solutions that are accessible for all starts with the procurement process. Chief Information Officers (CIOs) and Chief Acquisition Officers (CAOs) are responsible for defining and communicating accessibility and usability needs to vendors. This post explores why it's important for CIOs and CAOs to ensure vendors provide the most accessible solutions, by approaching procurement from a &ldquo;universal design&rdquo; perspective.
 
 ## Why Keep Universal Design in Mind For Procurement?
@@ -45,7 +52,7 @@ When writing solicitations and procurement documents, clearly define your access
   * [Revised 508 Standards Applicability Checklist][7]&nbsp;(MS-Word, April&nbsp;2018) - Use this checklist to document your accessibility requirements for ICT items
   * [Applicable 508 Standards and Exceptions Chart][8], a sample template for reporting standards and exceptions in solicitations.
 
-Additionally, the [Partnership on Employment and Accessible Technology][9] (PEAT) hosts a one-stop shop to help employers and purchasing teams build accessibility and usability into their IT procurement processes. [BuyIT!][10] details eight steps in the planning, solicitation and post-award phases to ensure that employers have clear requirements. Communicate these requirements to vendors to ensure your organization buys the solution that&rsquo;s most accessible for all.
+{% comment %}Additionally, the [Partnership on Employment and Accessible Technology][9] (PEAT) hosts a one-stop shop to help employers and purchasing teams build accessibility and usability into their IT procurement processes. [BuyIT!][10] details eight steps in the planning, solicitation and post-award phases to ensure that employers have clear requirements. Communicate these requirements to vendors to ensure your organization buys the solution that&rsquo;s most accessible for all.
 
   * Planning
       * [Step 1: Setting Procurement Priorities][11] 
@@ -60,7 +67,7 @@ Additionally, the [Partnership on Employment and Accessible Technology][9] (PEAT
       * [Step 7: Managing Performance & Relationships][17]
       * [Step 8: Reviewing & Learning][18]
 
-PEAT also provides some useful tips on [how to communicate with vendors][19] about accessible technology, to help solidify your commitment to accessibility and build collaborative relationships with vendors.
+PEAT also provides some useful tips on [how to communicate with vendors][19] about accessible technology, to help solidify your commitment to accessibility and build collaborative relationships with vendors.{% endcomment %}
 
 ## Accessible IT is More than Compliance
 

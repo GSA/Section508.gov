@@ -14,4 +14,4 @@ OPM’s history begins with the Civil Service Act, signed in 1883, ending the sp
 
 In 1978, the Civil Service Commission was reorganized into three new organizations: the Office of Personnel Management, the Merit Systems Protection Board, and the Federal Labor Relations Authority. Each of these new organizations took over a portion of the Civil Service Commission’s responsibilities, with OPM responsible for personnel management of the civil service of the Government. 
 
-Source: [https://www.opm.gov/about-us/our-mission-role-history/](https://www.opm.gov/about-us/our-mission-role-history/)
+Source: [https://www.opm.gov/about-us/mission-history/](https://www.opm.gov/about-us/mission-history/)

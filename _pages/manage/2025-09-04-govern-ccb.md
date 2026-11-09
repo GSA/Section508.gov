@@ -46,7 +46,7 @@ ICT accessibility considerations throughout each stage of the change control pro
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Approval and Prioritization</h2> 
 <strong>Process</strong>: CCB reviews the change request and impact analysis, makes a determination to approve, reject, or defer the change or request additional information, and changes are prioritized. <br> <br>
-<strong>Section 508 consideration</strong>: Include a Section 508 SME on the CCB to ensure ICT accessibility is considered in the approval process. The Section 508 SME provides authoritative input to the CCB; if unresolved issues are identified, the CCB should require remediation or <a href="{{site.baseurl}}/blog/Accessibility-risk-management-and-model/">document risks</a> in the approval record.</li> 
+<strong>Section 508 consideration</strong>: Include a Section 508 SME on the CCB to ensure ICT accessibility is considered in the approval process. The Section 508 SME provides authoritative input to the CCB; if unresolved issues are identified, the CCB should require remediation or <a href="{{site.baseurl}}/blog/accessibility-risk-management-and-model/">document risks</a> in the approval record.</li> 
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__headinsg">Planning and Scheduling</h2>  
 <strong>Process</strong>: Design technical implementation of the change, create a comprehensive test and implementation plan, and allocate resources. <br>
