@@ -26,7 +26,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-03
-updated: 2026-10-26
+updated: 2026-11-11
 exclude-changelog: true
 ---
 <div
@@ -37,7 +37,7 @@ exclude-changelog: true
 >
   <div class="usa-alert__body">
     <p class="usa-alert__text">
-      The Microsoft Word & Accessibility Best Practices course has been superseded by the Microsoft Word Accessibility Overview course.<br>Please update your bookmark or link to use the current course.
+      The Microsoft Word Accessibility Overview is the first of a two-part series, introducing essential practices for creating accessible Word documents. Topics include using effective headings and lists, applying color appropriately, setting document language, choosing descriptive file names, and testing documents before sharing.
     </p>
   </div>
 </div>
