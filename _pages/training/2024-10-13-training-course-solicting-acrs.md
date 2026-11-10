@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-10-14
+updated: 2026-11-11
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -36,7 +36,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>This training covers how to identify when you need to create or request an Accessibility Conformance Report (ACR) for an information and communication technology (ICT) product or service. It also covers the steps to take to write an ACR, and how to evaluate an ACR for a product. This training is intended both for those in the federal government who procure ICT and for vendors who provide ICT for federal government contracts.</p>
+        <p>The Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement course explains when to create or request an Accessibility Conformance Report (ACR) for an information and communication technology (ICT) product or service. It covers how to develop an ACR and evaluate one when assessing a product’s accessibility. This training is intended for federal employees who procure ICT and vendors who provide ICT products and services for federal government contracts.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/soliciting-and-evaluating-acrs-in-federal-procurement/index.html" target="_blank" class="usa-button">Open Course</a>
