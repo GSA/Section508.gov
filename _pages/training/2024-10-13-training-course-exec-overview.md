@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: "Accessibility of ICT: An Overview for Government Executives"
 permalink: training/courses/accessible-for-executives/
-description: Discover executive responsibilities under Section 508. This free course explains leadership’s role in advancing accessible ICT across federal agencies.
+description: "The Accessibility of ICT for Government Executives Overview course introduces Section 508 and the responsibilities of federal agencies for ensuring that information and communication technology (ICT) products and services are accessible to people with disabilities. Topics include understanding Section 508 requirements and recognizing agency responsibilities for ICT accessibility."
 redirect_from:
 - training/online-course/accessible-for-executives/
 audience:
@@ -36,7 +36,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your information and communication technology (ICT) products and services are accessible to people with disabilities.</p>
+        <p>The Accessibility of ICT for Government Executives Overview course introduces Section 508 and the responsibilities of federal agencies for ensuring that information and communication technology (ICT) products and services are accessible to people with disabilities. Topics include understanding Section 508 requirements and recognizing agency responsibilities for ICT accessibility.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>
