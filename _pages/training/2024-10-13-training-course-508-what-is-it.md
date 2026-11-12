@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: "Section 508: What Is It and Why Is It Important?"
 permalink: training/courses/section-508-what-is-it/
-description: New to Section 508 accessibility? Learn what it is, why it matters, and how it ensures accessible information and communication technology (ICT) for federal employees and the public.
+description: "The Section 508: What Is It and Why Is It Important? course provides an Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities."
 redirect_from:
 - training/online-course/section-508-what-is-it/
 audience:
@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-10-14
+updated: 2026-11-11
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -36,7 +36,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course ID: FAC 049)</p>
+        <p>The Section 508: What Is It and Why Is It Important? course provides an Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course ID: FAC 049)</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/section-508-what-is-it-and-why-its-important/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 049</a>

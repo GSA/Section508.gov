@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Accessible Meetings for Hosts & Presenters
 permalink: training/courses/accessible-meetings/
-description: "Learn how to plan and facilitate accessible virtual, hybrid, and in-person meetings that meet Section 508 requirements."
+description: "The Accessible Meetings for Hosts & Presenters course introduces essential practices for planning, preparing, and hosting accessible in-person, virtual, and hybrid meetings. Topics include meeting accessibility requirements, supporting the participation of people with disabilities, and creating an inclusive meeting experience for all attendees."
 redirect_from:
 - training/online-course/accessible-meetings/
 audience:
@@ -40,7 +40,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Learn how to plan, prepare, and host accessible meetings that comply with Section 508 requirements and support full participation for everyone. This self-paced certificate course provides practical guidance for making in-person, virtual, and hybrid meetings accessible to people with disabilities while improving the meeting experience for all attendees.</p>
+        <p>The Accessible Meetings for Hosts & Presenters course introduces essential practices for planning, preparing, and hosting accessible in-person, virtual, and hybrid meetings. Topics include meeting accessibility requirements, supporting the participation of people with disabilities, and creating an inclusive meeting experience for all attendees.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/accessible-meetings/index.html" target="_blank" class="usa-button">Open Course</a>

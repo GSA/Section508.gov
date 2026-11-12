@@ -4,7 +4,7 @@ sidenav: true
 type: training
 title: Microsoft Word Accessibility for Document Designers
 permalink: training/courses/microsoft-word-accessibility-designers/
-description: The second of a two-part series, this course builds on foundational accessibility practices, and focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements.
+description: The Microsoft Word Accessibility for Document Designers is the second of a two-part series, building on foundational accessibility practices and focusing on applying accessibility techniques to specific document features. Topics include creating accessible images, tables, columns, and other document elements, and ensuring all users can access and understand the information documents contain.
 disclaimer: true
 audience:
 - Communications Specialists
@@ -23,7 +23,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-08-04
-updated: 2026-10-14
+updated: 2026-11-11
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -38,7 +38,7 @@ exclude-changelog: true
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The second of a two-part series, this course builds on foundational accessibility practices, and focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</p>
+        <p>The Microsoft Word Accessibility for Document Designers is the second of a two-part series, building on foundational accessibility practices and focusing on applying accessibility techniques to specific document features. Topics include creating accessible images, tables, columns, and other document elements, and ensuring all users can access and understand the information documents contain.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/ms-word-accessibility-for-document-designers/index.html" target="_blank" class="usa-button">Open Course</a>
