@@ -30,7 +30,7 @@ resource-type:
 - Training
 format: HTML
 created: 2026-07-28
-updated: 2026-09-14
+updated: 2026-11-12
 exclude-changelog: true
 ---
 The Section 508 Online Training Courses Library provides self-paced courses on digital accessibility, accessible ICT, Section 508 requirements, and accessibility best practices. Learn how to apply accessibility throughout the technology lifecycle, from acquisition and development to content creation and testing.
@@ -63,7 +63,7 @@ The Section 508 Online Training Courses Library provides self-paced courses on d
   </li>
   <li class="usa-icon-list__item" id="ms-word-designers">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Desingners</a></h3> The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</div>
+      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/courses/microsoft-word-accessibility-designers/">Microsoft Word Accessibility for Document Designers</a></h3> The second of a two-part series, this course builds on foundational accessibility practices, this course focuses on applying accessibility techniques to specific document features, including images, tables, columns, and other elements. You will learn how to create documents that enable all users to access and understand the information they contain.</div>
   </li>  
   <li class="usa-icon-list__item" id="buying-ict">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
