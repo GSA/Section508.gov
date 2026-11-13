@@ -16,7 +16,7 @@ The repository uses one shared skill directory for Codex and supported Copilot c
 
 Codex and Copilot both document `.agents/skills` as a project skill location. No duplicate `.github/skills` tree, symlink, or Codex `agents/openai.yaml` is required for these instruction-only skills. The latter can provide optional Codex UI metadata.
 
-Keep the two skill folders self-contained for procedural guidance. Both currently carry identical shared references so each can be used independently; update both copies and refresh the inventory hashes after changes. The inventory preserves the original distribution's `source_revision` and labels local adaptations; it does not pin the revisions of linked external standards.
+Keep the two skill folders self-contained for procedural guidance. Both currently carry identical shared references so each can be used independently; update both copies and refresh the inventory hashes after changes. The inventory records the incorporated upstream `source_revision` and labels local adaptations; it does not pin the revisions of linked external standards.
 
 The files under `instructions/` are deliberately shared resources. Copilot's automatic path-specific instructions instead use `.github/instructions/**/*.instructions.md` with `applyTo` front matter. That separate mechanism is unnecessary here because both repository entrypoints explicitly route to the shared files.
 
@@ -43,6 +43,14 @@ Open the repository in a supported agent client. For Codex, start from the repos
 These checks verify client behavior that static validation cannot guarantee. Skills are selected based on task relevance; their availability does not mean they load for every prompt. Copilot support varies by product and mode; use the documented supported clients rather than assuming every chat or completion surface loads skills.
 
 ## Configuration review evidence
+
+Updated November 13, 2026 from [Baseline Alignment Framework commit 277830e](https://github.com/GSA/baselinealignment/commit/277830ebd8b837c56f738dc0782daabe9f67cd61) on `Add_SI_skills`:
+
+- Compared against the previously recorded revision `8c2862483964612ac49707eee0161c95e1d55e49`. Incorporated all changes affecting the two installed web skills, their scope references and shared instructions. Document-only skills and the unrelated upstream `.gitignore` change remain outside this web-only integration.
+- Added guidance for selective reference retrieval with complete coverage inventories, contextual image alternatives, regression comparison, evidence-based finding review, testing integrity, human-review disagreements, authorized scope and sensitive evidence handling.
+- Upstream workflows were unchanged. Updated the local workflows to carry the new guidance while preserving assessment-only behavior, initial-findings reporting, local pa11y-ci requirements and resource-scope limits. Repository entrypoints continue to route to these shared files.
+- Both skills passed `quick_validate.py`. Local links/anchors, shared-reference consistency, criterion-to-procedure mappings and all 12 inventory hashes were checked. The two skill entrypoints match the pinned upstream files exactly.
+- No rendered-page accessibility tests or client discovery/selection smoke checks were performed for this instruction-only update. Those checks still require the environments and human observations described above; this review establishes configuration consistency only.
 
 Reviewed November 9, 2026:
 
