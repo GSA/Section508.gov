@@ -21,7 +21,7 @@ resource-type:
 - Training
 format: HTML
 created: 2024-10-15
-updated: 2026-10-22
+updated: 2026-11-17
 exclude-changelog: true
 ---
 <ul class="usa-card-group margin-bottom-neg-3">
@@ -55,7 +55,7 @@ exclude-changelog: true
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** 3.0.1 (Sep 2026)  
+**Version:** 3.0.2 (Nov 2026)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -148,7 +148,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul class="usa-icon-list tablet:grid-col">
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>v3.0.1 - Sep 2025 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
+        <div class="usa-icon-list__content"><strong>v3.0.2 - Nov 2026 | Bugfix:</strong> Update numbering of Lesson 5 navigation to conclusion.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>v3.0.1 - Sep 2026 | Update:</strong> Update the micro-purchase threshold to reflect that, effective October 1, 2025, the FAR micro-purchase threshold (MPT) increased from $10,000 to $15,000.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
