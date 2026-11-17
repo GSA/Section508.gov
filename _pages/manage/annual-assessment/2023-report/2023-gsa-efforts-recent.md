@@ -20,6 +20,7 @@ resource-type:
 format: HTML
 created: 2023-03-28
 updated: 2026-10-22
+exclude-changelog: true
 ---
 ## Recent GSA Efforts to Support Section 508 Compliance
 To meet the requirements of the Consolidated Appropriations Act, 2023, the following describes GSA’s efforts to help entities collect and submit their Assessment data and other related efforts to improve federal Section 508 compliance from December 29, 2022 up to date of publication.
