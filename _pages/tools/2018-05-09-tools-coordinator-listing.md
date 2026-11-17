@@ -412,7 +412,7 @@ Matt Williams - <mwilliams@btfa.gov>
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor (OSL)
+### Office of the Solicitor (SOL)
 Jason “Jay” Creek - <jason.creek@sol.doi.gov>  
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
