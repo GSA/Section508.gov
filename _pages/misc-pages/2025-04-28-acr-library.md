@@ -32,7 +32,7 @@ resource-type:
 - Article
 format: HTML
 created: 2025-04-28
-updated: 2026-10-26
+updated: 2026-11-17
 exclude-changelog: true
 ---
 The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov. Accessibility Conformance Reports (ACRs) are provided only for the tools and training made available by GSA through Section508.gov to support informed decision-making.
@@ -138,12 +138,12 @@ The General Services Administration (GSA) provides technical assistance to indiv
     </tr>      
     <tr>
       <th id="micro-purchase" scope="row"><a href="{{ site.baseurl }}/training/courses/micro-purchases/">Micro-Purchases and Section 508 Requirements</a></th>
-      <td class="center">3.0.1</td>
-      <td class="center">2026-10-26</td>
+      <td class="center">3.0.2</td>
+      <td class="center">2026-11-10</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-1-report-4.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
-        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-1-report-4.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
-        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-1-report-4.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Micro-Purchases and Section 508 Requirements"></a>
+        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-2-report-4.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
+        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-2-report-4.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
+        <a href="https://www.section508.gov/~assets/files/acr/micro-purchases-and-section-508-requirements-v3-0-2-report-4.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Micro-Purchases and Section 508 Requirements"></a>
       </td>
     </tr>
     <tr>
