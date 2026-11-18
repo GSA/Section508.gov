@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML"
 created: 2018-05-08
-updated: 2026-08-14
+updated: 2026-11-17
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:section.508@gsa.gov?subject=Section 508 PM Update">section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -237,9 +237,9 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval History and Heritage Command (NHHC)** <br>Janee Price - <janee.r.price.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
-  * **Naval Supply Systems Command (NAVSUP)**<br>Ryan Celesnik - <ryan.s.celesnik.civ@us.navy.mil>  
-  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>
-  * **Office of Naval Research (HQ)** <br>Curtis Pelzer - <curtis.pelzer.civ@us.navy.mil>
+  * **Naval Supply Systems Command (NAVSUP)**<br>Matt Myers - <matthew.d.myers1.civ@us.navy.mil>  
+  * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
+  * **Office of Naval Research (HQ)** <br>Curtis Pelzer - <curtis.pelzer.civ@us.navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>   
   * **U.S. Pacific Fleet** <br>Sean Gano - <sean.k.gano2.civ@us.navy.mil>    
 
@@ -392,28 +392,32 @@ GiaVonni Hester - <giavonni.p.hester@hud.gov>
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
 ### Agencywide
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
+### Office of the Assistant Secretary for Indian Affairs (AS-IA)
+Christopher Allen - <christopherj.allen@bia.gov>  
 ### Bureau of Indian Affairs (BIA)
-George Morris - <george.morris@bia.gov>  
+Christopher Allen - <christopherj.allen@bia.gov>    
+### Bureau of Indian Education (BIE)
+Christopher Allen - <christopherj.allen@bia.gov>    
 ### Bureau of Land Management (BLM)
-Brianna Huerta - <bhuerta@blm.gov>  
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Bureau of Ocean Energy Management (BOEM)
-Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>  
-### Bureau of Reclamation (BR)
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
+### Bureau of Reclamation (BOR)
 Lori Pelech - <lpelech@usbr.gov>  
 ### Bureau of Safety and Environmental Enforcement (BSEE)
-Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Bureau of Trust Funds Administration (BTFA)
-Neal Herbert - <neal_herbert@btfa.gov>  
+Matt Williams - <mwilliams@btfa.gov>  
 ### National Park Service (NPS)
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor (OS)
-Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
+### Office of the Solicitor (SOL)
+Jason “Jay” Creek - <jason.creek@sol.doi.gov>  
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
-Keon Sheffield - <keon_sheffield@fws.gov>  
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### U.S. Geological Survey (USGS)
 Tracy Jolivette - <tjolivette@usgs.gov>  
 
