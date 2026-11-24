@@ -1,6 +1,6 @@
 {
   "collection_version": "0.2.0",
-  "source_revision": "8c2862483964612ac49707eee0161c95e1d55e49",
+  "source_revision": "277830ebd8b837c56f738dc0782daabe9f67cd61",
   "distribution": "standalone-skills",
   "files": [
     {
@@ -9,11 +9,11 @@
     },
     {
       "path": "accessible-web-development/SKILL.md",
-      "sha256": "e33821ca7cb1170e0438857edcab777dacb4da3b0378dad24834e1843c03134f"
+      "sha256": "da095f287c6a43d76a048c29c3929c10a62a68d952823ef628cbca2a2f23fab7"
     },
     {
       "path": "accessible-web-development/references/scope.md",
-      "sha256": "6929a2aee96e1737bdf2ed74b793b8e00b2570ffd188b60685b970338aeb2e40"
+      "sha256": "1fa60bc6274f828c80fb27d1e49d0a5ac9f3cc6e1c32628842261c7114fff5a7"
     },
     {
       "path": "accessible-web-development/references/source-notices.md",
@@ -33,11 +33,11 @@
     },
     {
       "path": "web-accessibility-testing/SKILL.md",
-      "sha256": "11eb10580ec4b71c63d01e07f948088925674a80a0fabb5571c050cae96ef2bb"
+      "sha256": "b5afe728f90736125dfeafb5d49ac70b75b5af35dd168a033373777f856c284b"
     },
     {
       "path": "web-accessibility-testing/references/scope.md",
-      "sha256": "6929a2aee96e1737bdf2ed74b793b8e00b2570ffd188b60685b970338aeb2e40"
+      "sha256": "1fa60bc6274f828c80fb27d1e49d0a5ac9f3cc6e1c32628842261c7114fff5a7"
     },
     {
       "path": "web-accessibility-testing/references/source-notices.md",
@@ -52,5 +52,5 @@
       "sha256": "5617497ba9ff4e64c08fb33d049eed9e82bab3905c65bec4aede488bf20ff1bf"
     }
   ],
-  "local_adaptations": "Section508.gov integration: clarify web-only resources and unavailable upstream provenance and case evidence. source_revision identifies the original distribution; file hashes describe the adapted local files."
+  "local_adaptations": "Section508.gov web-only integration: preserve local pa11y-ci guidance, resource-scope limits and reference provenance notes; adapt shared instructions and workflows to the upstream accessibility guidance. source_revision identifies the incorporated upstream revision; file hashes describe the adapted local files."
 }

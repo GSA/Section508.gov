@@ -21,6 +21,7 @@ resource-type:
 format: HTML
 created: 2017-05-18
 updated: 2026-10-26
+exclude-changelog: true
 ---
 May 18, 2017 - The Government-wide Section 508 Program at GSA is pleased to recognize [Global Accessibility Awareness Day (GAAD)][1] today, May 18th. For many of us in the accessibility community, we celebrate the mission of making technology accessible and usable by persons with disabilities in both our lives and work.
 
